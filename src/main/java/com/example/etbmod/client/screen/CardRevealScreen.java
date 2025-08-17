@@ -99,9 +99,10 @@ public class CardRevealScreen extends Screen {
         // Draw current card
         Card currentCard = cards.get(currentCardIndex);
         
-        // Card dimensions (128x256 for smaller file size)
-        int cardWidth = 128;
-        int cardHeight = 256;
+        // Card dimensions - proper Pokemon TCG aspect ratio (approximately 5:7)
+        // Texture is 256x256 (power of 2), but we only use 180x252 of it (maintains 5:7 ratio)
+        int cardWidth = 180;
+        int cardHeight = 252;
         int x = (this.width - cardWidth) / 2;
         int y = (this.height - cardHeight) / 2 - 30;
         
@@ -139,12 +140,15 @@ public class CardRevealScreen extends Screen {
                     this.minecraft.getTextureManager().bind(texture);
                     
                     // Texture is ready to render
+                    // Card textures are stored in 256x256 power-of-2 textures
+                    // But actual card image only uses 180x252 (5:7 ratio) of that space
+                    // This ensures proper aspect ratio while maintaining power-of-2 texture size
                     
-                    // Use proper texture dimensions (128x256)
-                    blit(matrixStack, x, y, 0, 0, cardWidth, cardHeight, cardWidth, cardHeight);
+                    // Render the card portion of the texture (180x252 out of 256x256)
+                    blit(matrixStack, x, y, 0, 0, cardWidth, cardHeight, 256, 256);
                 } catch (Exception e) {
                     // If texture loading fails, use placeholder
-                    System.err.println("[ETBMod] Failed to render texture: " + e.getMessage());
+                    // Debug: Failed to render texture
                     texture = null;
                 }
             }

@@ -27,7 +27,7 @@ public class CardTextureManager {
             InputStream stream = CardTextureManager.class.getClassLoader().getResourceAsStream(resourcePath);
             
             if (stream == null) {
-                System.err.println("[ETBMod] Card texture not found: " + resourcePath);
+                // Debug: Card texture not found
                 // Send debug message
                 if (Minecraft.getInstance().player != null) {
                     Minecraft.getInstance().player.displayClientMessage(
@@ -37,11 +37,49 @@ public class CardTextureManager {
             }
             
             // Load as NativeImage
-            NativeImage image = NativeImage.read(stream);
+            NativeImage originalImage = NativeImage.read(stream);
             stream.close();
             
-            // Create DynamicTexture
-            DynamicTexture dynamicTexture = new DynamicTexture(image);
+            // Create a 256x256 canvas and center the card image WITHOUT stretching
+            NativeImage canvasImage = new NativeImage(256, 256, true);
+            
+            // Fill with transparent
+            for (int x = 0; x < 256; x++) {
+                for (int y = 0; y < 256; y++) {
+                    canvasImage.setPixelRGBA(x, y, 0);
+                }
+            }
+            
+            // Get original card dimensions
+            int cardWidth = originalImage.getWidth();
+            int cardHeight = originalImage.getHeight();
+            
+            // DO NOT SCALE - just center the original image in the canvas
+            // Calculate position to center the card
+            int xOffset = (256 - cardWidth) / 2;
+            int yOffset = (256 - cardHeight) / 2;
+            
+            // Ensure we don't go out of bounds
+            xOffset = Math.max(0, xOffset);
+            yOffset = Math.max(0, yOffset);
+            
+            // Copy pixels from original to canvas WITHOUT scaling
+            int copyWidth = Math.min(cardWidth, 256);
+            int copyHeight = Math.min(cardHeight, 256);
+            
+            for (int x = 0; x < copyWidth; x++) {
+                for (int y = 0; y < copyHeight; y++) {
+                    int pixel = originalImage.getPixelRGBA(x, y);
+                    if (xOffset + x < 256 && yOffset + y < 256) {
+                        canvasImage.setPixelRGBA(xOffset + x, yOffset + y, pixel);
+                    }
+                }
+            }
+            
+            originalImage.close();
+            
+            // Create DynamicTexture from the canvas
+            DynamicTexture dynamicTexture = new DynamicTexture(canvasImage);
             
             // Register with texture manager
             String textureName = "etbmod_card_" + cardPath.replace("/", "_").replace(".png", "");
@@ -57,11 +95,11 @@ public class CardTextureManager {
                     new net.minecraft.util.text.StringTextComponent("§a[ETB] Texture loaded: " + textureName), true);
             }
             
-            System.out.println("[ETBMod] Successfully loaded card texture: " + cardPath);
+            // Debug: Successfully loaded card texture
             return textureLocation;
             
         } catch (IOException e) {
-            System.err.println("[ETBMod] Failed to load card texture: " + cardPath);
+            // Debug: Failed to load card texture
             e.printStackTrace();
             if (Minecraft.getInstance().player != null) {
                 Minecraft.getInstance().player.displayClientMessage(
@@ -69,7 +107,7 @@ public class CardTextureManager {
             }
             return null;
         } catch (Exception e) {
-            System.err.println("[ETBMod] Unexpected error loading texture: " + cardPath);
+            // Debug: Unexpected error loading texture
             e.printStackTrace();
             if (Minecraft.getInstance().player != null) {
                 Minecraft.getInstance().player.displayClientMessage(

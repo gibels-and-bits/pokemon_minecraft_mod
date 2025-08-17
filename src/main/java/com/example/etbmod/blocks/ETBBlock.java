@@ -12,6 +12,7 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;
 import net.minecraft.item.Item;
 import net.minecraft.loot.LootContext;
+import net.minecraft.loot.LootParameters;
 import net.minecraft.state.DirectionProperty;
 import net.minecraft.state.StateContainer;
 import net.minecraft.util.*;
@@ -43,7 +44,7 @@ public class ETBBlock extends Block {
     private static final VoxelShape SHAPE_EW = Block.box(4.5D, 0.0D, 1.5D, 11.5D, 12.0D, 14.5D);
     
     public ETBBlock(String variant) {
-        super(Properties.of(Material.WOOD)
+        super(Properties.of(Material.WOOL)  // Use WOOL material - always drops when broken
                 .strength(0.5F, 0.5F)  // Very easy to break
                 .sound(SoundType.WOOD)
                 .noOcclusion()
@@ -142,6 +143,20 @@ public class ETBBlock extends Block {
         }
         
         return ActionResultType.PASS;
+    }
+    
+    // Override to ensure block drops when broken by hand
+    @Override
+    public void playerWillDestroy(World worldIn, BlockPos pos, BlockState state, PlayerEntity player) {
+        if (!worldIn.isClientSide && !player.isCreative()) {
+            // Drop the block as an item
+            ItemStack itemStack = new ItemStack(this);
+            ItemEntity itemEntity = new ItemEntity(worldIn, 
+                pos.getX() + 0.5, pos.getY() + 0.5, pos.getZ() + 0.5, itemStack);
+            itemEntity.setDefaultPickUpDelay();
+            worldIn.addFreshEntity(itemEntity);
+        }
+        super.playerWillDestroy(worldIn, pos, state, player);
     }
     
     // Always drop the ETB block when broken (except when opened with scissors)
