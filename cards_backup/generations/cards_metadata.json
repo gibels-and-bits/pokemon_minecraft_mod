@@ -1,0 +1,178 @@
+{
+  "cards": [
+    {
+      "id": "generations-001",
+      "name": "holo ex Venusaur-EX",
+      "number": "001",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-002",
+      "name": "holo ex M Venusaur-EX",
+      "number": "002",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-003",
+      "name": "Caterpie",
+      "number": "003",
+      "rarity": "common"
+    },
+    {
+      "id": "generations-004",
+      "name": "Metapod",
+      "number": "004",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "generations-005",
+      "name": "holo Butterfree",
+      "number": "005",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-006",
+      "name": "Paras",
+      "number": "006",
+      "rarity": "common"
+    },
+    {
+      "id": "generations-007",
+      "name": "Parasect",
+      "number": "007",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-008",
+      "name": "Tangela",
+      "number": "008",
+      "rarity": "common"
+    },
+    {
+      "id": "generations-009",
+      "name": "Pinsir",
+      "number": "009",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-010",
+      "name": "holo ex Leafeon-EX",
+      "number": "010",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-011",
+      "name": "holo ex Charizard-EX",
+      "number": "011",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-012",
+      "name": "holo ex M Charizard-EX",
+      "number": "012",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-013",
+      "name": "holo ex Ninetales-EX",
+      "number": "013",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-014",
+      "name": "Ponyta",
+      "number": "014",
+      "rarity": "common"
+    },
+    {
+      "id": "generations-015",
+      "name": "Rapidash",
+      "number": "015",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-016",
+      "name": "Magmar",
+      "number": "016",
+      "rarity": "common"
+    },
+    {
+      "id": "generations-017",
+      "name": "holo ex Blastoise-EX",
+      "number": "017",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-018",
+      "name": "holo ex M Blastoise-EX",
+      "number": "018",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-019",
+      "name": "Shellder",
+      "number": "019",
+      "rarity": "common"
+    },
+    {
+      "id": "generations-020",
+      "name": "Cloyster",
+      "number": "020",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "generations-021",
+      "name": "Krabby",
+      "number": "021",
+      "rarity": "common"
+    },
+    {
+      "id": "generations-022",
+      "name": "Magikarp",
+      "number": "022",
+      "rarity": "common"
+    },
+    {
+      "id": "generations-023",
+      "name": "Gyarados",
+      "number": "023",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-024",
+      "name": "holo ex Vaporeon-EX",
+      "number": "024",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-025",
+      "name": "holo Articuno",
+      "number": "025",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-026",
+      "name": "Pikachu",
+      "number": "026",
+      "rarity": "common"
+    },
+    {
+      "id": "generations-027",
+      "name": "holo Raichu",
+      "number": "027",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-028",
+      "name": "holo ex Jolteon-EX",
+      "number": "028",
+      "rarity": "rare"
+    },
+    {
+      "id": "generations-029",
+      "name": "holo Zapdos",
+      "number": "029",
+      "rarity": "rare"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "total_cards": 275,
+  "successful_sets": [
+    "black_bolt",
+    "brilliant_stars",
+    "celebrations",
+    "destined_rivals",
+    "generations",
+    "groudon",
+    "journey_together",
+    "kyogre",
+    "surging_sparks",
+    "white_flare"
+  ],
+  "rarity_statistics": {
+    "black_bolt": {
+      "Common": 8,
+      "Trainer Gallery Rare Holo": 15,
+      "Uncommon": 2,
+      "Rare": 3,
+      "Rare Holo V": 1,
+      "Rare Holo VSTAR": 1
+    },
+    "brilliant_stars": {
+      "Common": 6,
+      "Trainer Gallery Rare Holo": 12,
+      "Uncommon": 3,
+      "Rare": 3,
+      "Rare Holo": 1,
+      "Rare Holo V": 3,
+      "Rare Holo VSTAR": 1,
+      "Rare Holo VMAX": 1
+    },
+    "celebrations": {
+      "Rare": 3,
+      "Classic Collection": 2
+    },
+    "destined_rivals": {
+      "Rare Holo V": 3,
+      "Trainer Gallery Rare Holo": 12,
+      "Common": 8,
+      "Uncommon": 3,
+      "Rare": 3,
+      "Rare Holo VMAX": 1
+    },
+    "generations": {
+      "Rare Holo EX": 10,
+      "Common": 9,
+      "Uncommon": 2,
+      "Rare Holo": 4,
+      "Rare": 4,
+      "Rare Ultra": 1
+    },
+    "groudon": {
+      "Common": 12,
+      "Uncommon": 7,
+      "Rare": 6,
+      "Rare Holo": 3,
+      "Rare Holo EX": 2
+    },
+    "journey_together": {
+      "Promo": 30
+    },
+    "kyogre": {
+      "Common": 12,
+      "Uncommon": 7,
+      "Rare": 6,
+      "Rare Holo": 3,
+      "Rare Holo EX": 2
+    },
+    "surging_sparks": {
+      "Common": 19,
+      "Uncommon": 8,
+      "Double Rare": 1,
+      "Rare": 2
+    },
+    "white_flare": {
+      "Common": 18,
+      "Uncommon": 6,
+      "Rare": 3,
+      "Double Rare": 3
+    }
+  },
+  "timestamp": "2025-08-16 12:41:15"
+}

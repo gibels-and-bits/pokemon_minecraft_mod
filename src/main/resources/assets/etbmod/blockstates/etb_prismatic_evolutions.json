@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "etbmod:block/etb_prismatic_evolutions"
+    },
+    "facing=south": {
+      "model": "etbmod:block/etb_prismatic_evolutions",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "etbmod:block/etb_prismatic_evolutions",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "etbmod:block/etb_prismatic_evolutions",
+      "y": 90
+    }
+  }
+}

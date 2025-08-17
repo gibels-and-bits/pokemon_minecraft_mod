@@ -1,0 +1,172 @@
+[
+  {
+    "variant": "etb_prismatic_evolutions",
+    "textures": [
+      "etb_front",
+      "etb_back",
+      "etb_left",
+      "etb_right",
+      "etb_top",
+      "etb_bottom"
+    ],
+    "metadata": {
+      "title": "Prismatic Evolutions Elite Trainer Box",
+      "url": "https://www.tcgplayer.com/product/593355/pokemon-sv-prismatic-evolutions-prismatic-evolutions-elite-trainer-box?page=1",
+      "variant_name": "etb_prismatic_evolutions",
+      "source": "TCGplayer (high-res)"
+    }
+  },
+  {
+    "variant": "etb_151",
+    "textures": [
+      "etb_front",
+      "etb_back",
+      "etb_left",
+      "etb_right",
+      "etb_top",
+      "etb_bottom"
+    ],
+    "metadata": {
+      "title": "151 Elite Trainer Box",
+      "url": "https://www.tcgplayer.com/product/503313/pokemon-sv-scarlet-and-violet-151-151-elite-trainer-box?page=1",
+      "variant_name": "etb_151",
+      "source": "TCGplayer (high-res)"
+    }
+  },
+  {
+    "variant": "etb_generations",
+    "textures": [
+      "etb_front",
+      "etb_back",
+      "etb_left",
+      "etb_right",
+      "etb_top",
+      "etb_bottom"
+    ],
+    "metadata": {
+      "title": "Generations Elite Trainer Box",
+      "url": "https://www.tcgplayer.com/product/123741/pokemon-generations-generations-elite-trainer-box?page=1",
+      "variant_name": "etb_generations",
+      "source": "TCGplayer (high-res)"
+    }
+  },
+  {
+    "variant": "etb_destined_rivals",
+    "textures": [
+      "etb_front",
+      "etb_back",
+      "etb_left",
+      "etb_right",
+      "etb_top",
+      "etb_bottom"
+    ],
+    "metadata": {
+      "title": "Destined Rivals Elite Trainer Box",
+      "url": "https://www.tcgplayer.com/product/624676/pokemon-sv10-destined-rivals-destined-rivals-elite-trainer-box?page=1",
+      "variant_name": "etb_destined_rivals",
+      "source": "TCGplayer (high-res)"
+    }
+  },
+  {
+    "variant": "etb_brilliant_stars",
+    "textures": [
+      "etb_front",
+      "etb_back",
+      "etb_left",
+      "etb_right",
+      "etb_top",
+      "etb_bottom"
+    ],
+    "metadata": {
+      "title": "Brilliant Stars Elite Trainer Box",
+      "url": "https://www.tcgplayer.com/product/256138/pokemon-swsh09-brilliant-stars-brilliant-stars-elite-trainer-box?page=1",
+      "variant_name": "etb_brilliant_stars",
+      "source": "TCGplayer (high-res)"
+    }
+  },
+  {
+    "variant": "etb_celebrations",
+    "textures": [
+      "etb_front",
+      "etb_back",
+      "etb_left",
+      "etb_right",
+      "etb_top",
+      "etb_bottom"
+    ],
+    "metadata": {
+      "title": "Celebrations Elite Trainer Box",
+      "url": "https://www.tcgplayer.com/product/242811/pokemon-celebrations-celebrations-elite-trainer-box?page=1",
+      "variant_name": "etb_celebrations",
+      "source": "TCGplayer (high-res)"
+    }
+  },
+  {
+    "variant": "etb_white_flare",
+    "textures": [
+      "etb_front",
+      "etb_back",
+      "etb_left",
+      "etb_right",
+      "etb_top",
+      "etb_bottom"
+    ],
+    "metadata": {
+      "title": "White Flare Elite Trainer Box",
+      "url": "https://www.tcgplayer.com/product/630689/pokemon-sv-white-flare-white-flare-elite-trainer-box?page=1",
+      "variant_name": "etb_white_flare",
+      "source": "TCGplayer (high-res)"
+    }
+  },
+  {
+    "variant": "etb_groudon",
+    "textures": [
+      "etb_front",
+      "etb_back",
+      "etb_left",
+      "etb_right",
+      "etb_top",
+      "etb_bottom"
+    ],
+    "metadata": {
+      "title": "Elite Trainer Box [Groudon]",
+      "url": "https://www.tcgplayer.com/product/97762/pokemon-xy-primal-clash-elite-trainer-box-groudon?page=1",
+      "variant_name": "etb_groudon",
+      "source": "TCGplayer (high-res)"
+    }
+  },
+  {
+    "variant": "etb_black_bolt",
+    "textures": [
+      "etb_front",
+      "etb_back",
+      "etb_left",
+      "etb_right",
+      "etb_top",
+      "etb_bottom"
+    ],
+    "metadata": {
+      "title": "Black Bolt Elite Trainer Box",
+      "url": "https://www.tcgplayer.com/product/630686/pokemon-sv-black-bolt-black-bolt-elite-trainer-box?page=1",
+      "variant_name": "etb_black_bolt",
+      "source": "TCGplayer (high-res)"
+    }
+  },
+  {
+    "variant": "etb_kyogre",
+    "textures": [
+      "etb_front",
+      "etb_back",
+      "etb_left",
+      "etb_right",
+      "etb_top",
+      "etb_bottom"
+    ],
+    "metadata": {
+      "title": "Elite Trainer Box [Kyogre]",
+      "url": "https://www.tcgplayer.com/product/97763/pokemon-xy-primal-clash-elite-trainer-box-kyogre?page=1",
+      "variant_name": "etb_kyogre",
+      "source": "TCGplayer (high-res)"
+    }
+  }
+]

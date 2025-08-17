@@ -1,0 +1,21 @@
+{
+  "set_name": "Black Bolt",
+  "set_id": "zsv10pt5",
+  "total_energy_cards": 1,
+  "downloaded": 1,
+  "energy_cards": [
+    {
+      "id": "zsv10pt5-86",
+      "name": "Prism Energy",
+      "number": "86",
+      "rarity": "Uncommon",
+      "supertype": "Energy",
+      "subtypes": [
+        "Special"
+      ],
+      "set_name": "Black Bolt",
+      "set_id": "zsv10pt5",
+      "image_url": "https://images.pokemontcg.io/zsv10pt5/86_hires.png"
+    }
+  ]
+}

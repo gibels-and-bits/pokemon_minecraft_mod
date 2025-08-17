@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "etbmod:block/etb_destined_rivals"
+    },
+    "facing=south": {
+      "model": "etbmod:block/etb_destined_rivals",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "etbmod:block/etb_destined_rivals",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "etbmod:block/etb_destined_rivals",
+      "y": 90
+    }
+  }
+}

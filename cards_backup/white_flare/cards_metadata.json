@@ -1,0 +1,1042 @@
+{
+  "cards": [
+    {
+      "id": "white_flare-001",
+      "name": "Sewaddle",
+      "number": "001",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-002",
+      "name": "Swadloon",
+      "number": "002",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-003",
+      "name": "Leavanny",
+      "number": "003",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-004",
+      "name": "Cottonee",
+      "number": "004",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-005",
+      "name": "Whimsicott ex",
+      "number": "005",
+      "rarity": "double rare"
+    },
+    {
+      "id": "white_flare-006",
+      "name": "Deerling",
+      "number": "006",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-007",
+      "name": "Sawsbuck",
+      "number": "007",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-008",
+      "name": "Shelmet",
+      "number": "008",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-009",
+      "name": "Accelgor",
+      "number": "009",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-010",
+      "name": "Virizion",
+      "number": "010",
+      "rarity": "rare"
+    },
+    {
+      "id": "white_flare-011",
+      "name": "Tepig",
+      "number": "011",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-012",
+      "name": "Pignite",
+      "number": "012",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-013",
+      "name": "Emboar",
+      "number": "013",
+      "rarity": "rare"
+    },
+    {
+      "id": "white_flare-014",
+      "name": "Pansear",
+      "number": "014",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-015",
+      "name": "Simisear",
+      "number": "015",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-016",
+      "name": "Litwick",
+      "number": "016",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-017",
+      "name": "Lampent",
+      "number": "017",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-018",
+      "name": "Chandelure",
+      "number": "018",
+      "rarity": "rare"
+    },
+    {
+      "id": "white_flare-019",
+      "name": "Heatmor",
+      "number": "019",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-020",
+      "name": "Reshiram ex",
+      "number": "020",
+      "rarity": "double rare"
+    },
+    {
+      "id": "white_flare-021",
+      "name": "Oshawott",
+      "number": "021",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-022",
+      "name": "Dewott",
+      "number": "022",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-023",
+      "name": "Samurott",
+      "number": "023",
+      "rarity": "rare"
+    },
+    {
+      "id": "white_flare-024",
+      "name": "Basculin",
+      "number": "024",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-025",
+      "name": "Ducklett",
+      "number": "025",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-026",
+      "name": "Swanna",
+      "number": "026",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-027",
+      "name": "Vanillite",
+      "number": "027",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-028",
+      "name": "Vanillish",
+      "number": "028",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-029",
+      "name": "Vanilluxe",
+      "number": "029",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-030",
+      "name": "Keldeo ex",
+      "number": "030",
+      "rarity": "double rare"
+    },
+    {
+      "id": "white_flare-031",
+      "name": "Blitzle",
+      "number": "031",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-032",
+      "name": "Zebstrika",
+      "number": "032",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-033",
+      "name": "Joltik",
+      "number": "033",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-034",
+      "name": "Galvantula",
+      "number": "034",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-035",
+      "name": "Stunfisk",
+      "number": "035",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-036",
+      "name": "Woobat",
+      "number": "036",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-037",
+      "name": "Swoobat",
+      "number": "037",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-038",
+      "name": "Sigilyph",
+      "number": "038",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-039",
+      "name": "Yamask",
+      "number": "039",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-040",
+      "name": "Cofagrigus",
+      "number": "040",
+      "rarity": "rare"
+    },
+    {
+      "id": "white_flare-041",
+      "name": "Gothita",
+      "number": "041",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-042",
+      "name": "Gothorita",
+      "number": "042",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-043",
+      "name": "Gothitelle",
+      "number": "043",
+      "rarity": "rare"
+    },
+    {
+      "id": "white_flare-044",
+      "name": "Frillish",
+      "number": "044",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-045",
+      "name": "Jellicent ex",
+      "number": "045",
+      "rarity": "double rare"
+    },
+    {
+      "id": "white_flare-046",
+      "name": "Roggenrola",
+      "number": "046",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-047",
+      "name": "Boldore",
+      "number": "047",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-048",
+      "name": "Gigalith",
+      "number": "048",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-049",
+      "name": "Sawk",
+      "number": "049",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-050",
+      "name": "Archen",
+      "number": "050",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-051",
+      "name": "Archeops",
+      "number": "051",
+      "rarity": "rare"
+    },
+    {
+      "id": "white_flare-052",
+      "name": "Mienfoo",
+      "number": "052",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-053",
+      "name": "Mienshao",
+      "number": "053",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-054",
+      "name": "Terrakion",
+      "number": "054",
+      "rarity": "rare"
+    },
+    {
+      "id": "white_flare-055",
+      "name": "Purrloin",
+      "number": "055",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-056",
+      "name": "Liepard",
+      "number": "056",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-057",
+      "name": "Scraggy",
+      "number": "057",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-058",
+      "name": "Scrafty",
+      "number": "058",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-059",
+      "name": "Trubbish",
+      "number": "059",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-060",
+      "name": "Garbodor",
+      "number": "060",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-061",
+      "name": "Zorua",
+      "number": "061",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-062",
+      "name": "Zoroark",
+      "number": "062",
+      "rarity": "rare"
+    },
+    {
+      "id": "white_flare-063",
+      "name": "Vullaby",
+      "number": "063",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-064",
+      "name": "Mandibuzz",
+      "number": "064",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-065",
+      "name": "Deino",
+      "number": "065",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-066",
+      "name": "Zweilous",
+      "number": "066",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-067",
+      "name": "Hydreigon ex",
+      "number": "067",
+      "rarity": "double rare"
+    },
+    {
+      "id": "white_flare-068",
+      "name": "Ferroseed",
+      "number": "068",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-069",
+      "name": "Ferrothorn",
+      "number": "069",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-070",
+      "name": "Durant",
+      "number": "070",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-071",
+      "name": "Druddigon",
+      "number": "071",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-072",
+      "name": "Patrat",
+      "number": "072",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-073",
+      "name": "Watchog",
+      "number": "073",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-074",
+      "name": "Lillipup",
+      "number": "074",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-075",
+      "name": "Herdier",
+      "number": "075",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-076",
+      "name": "Stoutland",
+      "number": "076",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-077",
+      "name": "Bouffalant ex",
+      "number": "077",
+      "rarity": "double rare"
+    },
+    {
+      "id": "white_flare-078",
+      "name": "Tornadus",
+      "number": "078",
+      "rarity": "rare"
+    },
+    {
+      "id": "white_flare-079",
+      "name": "Antique Plume Fossil",
+      "number": "079",
+      "rarity": "common"
+    },
+    {
+      "id": "white_flare-080",
+      "name": "Brave Bangle",
+      "number": "080",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-081",
+      "name": "Cheren",
+      "number": "081",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-082",
+      "name": "Energy Retrieval",
+      "number": "082",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-083",
+      "name": "Harlequin",
+      "number": "083",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-084",
+      "name": "Hilda",
+      "number": "084",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-085",
+      "name": "Tool Scrapper",
+      "number": "085",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-086",
+      "name": "Ignition Energy",
+      "number": "086",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-087",
+      "name": "Sewaddle",
+      "number": "087",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-088",
+      "name": "Swadloon",
+      "number": "088",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-089",
+      "name": "Leavanny",
+      "number": "089",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-090",
+      "name": "Cottonee",
+      "number": "090",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-091",
+      "name": "Deerling",
+      "number": "091",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-092",
+      "name": "Sawsbuck",
+      "number": "092",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-093",
+      "name": "Shelmet",
+      "number": "093",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-094",
+      "name": "Accelgor",
+      "number": "094",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-095",
+      "name": "Virizion",
+      "number": "095",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-096",
+      "name": "Tepig",
+      "number": "096",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-097",
+      "name": "Pignite",
+      "number": "097",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-098",
+      "name": "Emboar",
+      "number": "098",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-099",
+      "name": "Pansear",
+      "number": "099",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-100",
+      "name": "Simisear",
+      "number": "100",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-101",
+      "name": "Litwick",
+      "number": "101",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-102",
+      "name": "Lampent",
+      "number": "102",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-103",
+      "name": "Chandelure",
+      "number": "103",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-104",
+      "name": "Heatmor",
+      "number": "104",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-105",
+      "name": "Oshawott",
+      "number": "105",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-106",
+      "name": "Dewott",
+      "number": "106",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-107",
+      "name": "Samurott",
+      "number": "107",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-108",
+      "name": "Basculin",
+      "number": "108",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-109",
+      "name": "Ducklett",
+      "number": "109",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-110",
+      "name": "Swanna",
+      "number": "110",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-111",
+      "name": "Vanillite",
+      "number": "111",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-112",
+      "name": "Vanillish",
+      "number": "112",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-113",
+      "name": "Vanilluxe",
+      "number": "113",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-114",
+      "name": "Blitzle",
+      "number": "114",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-115",
+      "name": "Zebstrika",
+      "number": "115",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-116",
+      "name": "Joltik",
+      "number": "116",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-117",
+      "name": "Galvantula",
+      "number": "117",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-118",
+      "name": "Stunfisk",
+      "number": "118",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-119",
+      "name": "Woobat",
+      "number": "119",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-120",
+      "name": "Swoobat",
+      "number": "120",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-121",
+      "name": "Sigilyph",
+      "number": "121",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-122",
+      "name": "Yamask",
+      "number": "122",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-123",
+      "name": "Cofagrigus",
+      "number": "123",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-124",
+      "name": "Gothita",
+      "number": "124",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-125",
+      "name": "Gothorita",
+      "number": "125",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-126",
+      "name": "Frillish",
+      "number": "126",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-127",
+      "name": "Roggenrola",
+      "number": "127",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-128",
+      "name": "Boldore",
+      "number": "128",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-129",
+      "name": "Gigalith",
+      "number": "129",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-130",
+      "name": "Sawk",
+      "number": "130",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-131",
+      "name": "Archen",
+      "number": "131",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "white_flare-132",
+      "name": "Archeops",
+      "number": "132",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-133",
+      "name": "Mienfoo",
+      "number": "133",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-134",
+      "name": "Mienshao",
+      "number": "134",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-135",
+      "name": "Terrakion",
+      "number": "135",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-136",
+      "name": "Purrloin",
+      "number": "136",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-137",
+      "name": "Liepard",
+      "number": "137",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-138",
+      "name": "Scraggy",
+      "number": "138",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-139",
+      "name": "Scrafty",
+      "number": "139",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-140",
+      "name": "Trubbish",
+      "number": "140",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-141",
+      "name": "Garbodor",
+      "number": "141",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-142",
+      "name": "Zorua",
+      "number": "142",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-143",
+      "name": "Zoroark",
+      "number": "143",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-144",
+      "name": "Vullaby",
+      "number": "144",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-145",
+      "name": "Mandibuzz",
+      "number": "145",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-146",
+      "name": "Deino",
+      "number": "146",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-147",
+      "name": "Zweilous",
+      "number": "147",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-148",
+      "name": "Ferroseed",
+      "number": "148",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-149",
+      "name": "Ferrothorn",
+      "number": "149",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-150",
+      "name": "Durant",
+      "number": "150",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-151",
+      "name": "Druddigon",
+      "number": "151",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-152",
+      "name": "Patrat",
+      "number": "152",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-153",
+      "name": "Watchog",
+      "number": "153",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-154",
+      "name": "Lillipup",
+      "number": "154",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-155",
+      "name": "Herdier",
+      "number": "155",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-156",
+      "name": "Stoutland",
+      "number": "156",
+      "rarity": "illustration rare"
+    },
+    {
+      "id": "white_flare-157",
+      "name": "Whimsicott ex",
+      "number": "157",
+      "rarity": "ultra rare"
+    },
+    {
+      "id": "white_flare-158",
+      "name": "Reshiram ex",
+      "number": "158",
+      "rarity": "ultra rare"
+    },
+    {
+      "id": "white_flare-159",
+      "name": "Keldeo ex",
+      "number": "159",
+      "rarity": "ultra rare"
+    },
+    {
+      "id": "white_flare-160",
+      "name": "Jellicent ex",
+      "number": "160",
+      "rarity": "ultra rare"
+    },
+    {
+      "id": "white_flare-161",
+      "name": "Hydreigon ex",
+      "number": "161",
+      "rarity": "ultra rare"
+    },
+    {
+      "id": "white_flare-162",
+      "name": "Bouffalant ex",
+      "number": "162",
+      "rarity": "ultra rare"
+    },
+    {
+      "id": "white_flare-163",
+      "name": "Harlequin",
+      "number": "163",
+      "rarity": "ultra rare"
+    },
+    {
+      "id": "white_flare-164",
+      "name": "Hilda",
+      "number": "164",
+      "rarity": "ultra rare"
+    },
+    {
+      "id": "white_flare-165",
+      "name": "Whimsicott ex",
+      "number": "165",
+      "rarity": "special illustration rare"
+    },
+    {
+      "id": "white_flare-166",
+      "name": "Reshiram ex",
+      "number": "166",
+      "rarity": "special illustration rare"
+    },
+    {
+      "id": "white_flare-167",
+      "name": "Keldeo ex",
+      "number": "167",
+      "rarity": "special illustration rare"
+    },
+    {
+      "id": "white_flare-168",
+      "name": "Jellicent ex",
+      "number": "168",
+      "rarity": "special illustration rare"
+    },
+    {
+      "id": "white_flare-169",
+      "name": "Hydreigon ex",
+      "number": "169",
+      "rarity": "special illustration rare"
+    },
+    {
+      "id": "white_flare-170",
+      "name": "Bouffalant ex",
+      "number": "170",
+      "rarity": "special illustration rare"
+    },
+    {
+      "id": "white_flare-171",
+      "name": "Hilda",
+      "number": "171",
+      "rarity": "special illustration rare"
+    },
+    {
+      "id": "white_flare-172",
+      "name": "Victini",
+      "number": "172",
+      "rarity": "rare"
+    },
+    {
+      "id": "white_flare-173",
+      "name": "Reshiram ex",
+      "number": "173",
+      "rarity": "black white rare"
+    }
+  ]
+}

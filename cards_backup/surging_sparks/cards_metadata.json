@@ -1,0 +1,184 @@
+{
+  "cards": [
+    {
+      "id": "surging_sparks-001",
+      "name": "Exeggcute",
+      "number": "001",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-002",
+      "name": "Exeggcute",
+      "number": "002",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-003",
+      "name": "Exeggutor",
+      "number": "003",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-004",
+      "name": "Durant ex",
+      "number": "004",
+      "rarity": "double rare"
+    },
+    {
+      "id": "surging_sparks-005",
+      "name": "Scatterbug",
+      "number": "005",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-006",
+      "name": "Spewpa",
+      "number": "006",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-007",
+      "name": "Vivillon",
+      "number": "007",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-008",
+      "name": "Morelull",
+      "number": "008",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-009",
+      "name": "Shiinotic",
+      "number": "009",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-010",
+      "name": "Dhelmise",
+      "number": "010",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-011",
+      "name": "Zarude",
+      "number": "011",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-012",
+      "name": "Capsakid",
+      "number": "012",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-013",
+      "name": "Rellor",
+      "number": "013",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-014",
+      "name": "Rabsca",
+      "number": "014",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-015",
+      "name": "Wo-Chien",
+      "number": "015",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-016",
+      "name": "Vulpix",
+      "number": "016",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-017",
+      "name": "Ninetales",
+      "number": "017",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-018",
+      "name": "Paldean Tauros",
+      "number": "018",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-019",
+      "name": "Ho-Oh",
+      "number": "019",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-020",
+      "name": "Castform Sunny Form",
+      "number": "020",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-021",
+      "name": "Victini",
+      "number": "021",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-022",
+      "name": "Pansear",
+      "number": "022",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-023",
+      "name": "Simisear",
+      "number": "023",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-024",
+      "name": "Larvesta",
+      "number": "024",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-025",
+      "name": "Volcarona",
+      "number": "025",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-026",
+      "name": "Oricorio",
+      "number": "026",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-027",
+      "name": "Sizzlipede",
+      "number": "027",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-028",
+      "name": "Centiskorch",
+      "number": "028",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-029",
+      "name": "Fuecoco",
+      "number": "029",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-030",
+      "name": "Crocalor",
+      "number": "030",
+      "rarity": "common"
+    }
+  ]
+}
