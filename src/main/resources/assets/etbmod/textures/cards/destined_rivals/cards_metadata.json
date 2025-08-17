@@ -2,93 +2,1467 @@
   "cards": [
     {
       "id": "destined_rivals-001",
-      "name": "holo v Beedrill V",
+      "name": "Ethan's Pinsir",
       "number": "001",
-      "rarity": "rare"
+      "rarity": "uncommon"
     },
     {
       "id": "destined_rivals-002",
-      "name": "Hisuian Voltorb",
+      "name": "Yanma",
       "number": "002",
       "rarity": "common"
     },
     {
       "id": "destined_rivals-003",
-      "name": "Hisuian Electrode",
+      "name": "Yanmega ex",
       "number": "003",
-      "rarity": "uncommon"
+      "rarity": "common"
     },
     {
       "id": "destined_rivals-004",
-      "name": "Scyther",
+      "name": "Pineco",
       "number": "004",
       "rarity": "common"
     },
     {
       "id": "destined_rivals-005",
-      "name": "Scyther",
+      "name": "Shroomish",
       "number": "005",
       "rarity": "common"
     },
     {
       "id": "destined_rivals-006",
-      "name": "Yanma",
+      "name": "Breloom",
       "number": "006",
       "rarity": "common"
     },
     {
       "id": "destined_rivals-007",
-      "name": "Yanmega",
+      "name": "Cynthia's Roselia",
       "number": "007",
-      "rarity": "uncommon"
-    },
-    {
-      "id": "destined_rivals-008",
-      "name": "Heracross",
-      "number": "008",
       "rarity": "common"
     },
     {
+      "id": "destined_rivals-008",
+      "name": "Cynthia's Roserade",
+      "number": "008",
+      "rarity": "rare"
+    },
+    {
       "id": "destined_rivals-009",
-      "name": "Kricketot",
+      "name": "Mow Rotom",
       "number": "009",
       "rarity": "common"
     },
     {
       "id": "destined_rivals-010",
-      "name": "Kricketune",
+      "name": "Shaymin",
       "number": "010",
       "rarity": "uncommon"
     },
     {
       "id": "destined_rivals-011",
-      "name": "Combee",
+      "name": "Dwebble",
       "number": "011",
       "rarity": "common"
     },
     {
       "id": "destined_rivals-012",
-      "name": "Vespiquen",
+      "name": "Crustle",
       "number": "012",
       "rarity": "rare"
     },
     {
       "id": "destined_rivals-013",
-      "name": "Leafeon",
+      "name": "Fomantis",
       "number": "013",
-      "rarity": "rare"
+      "rarity": "common"
     },
     {
       "id": "destined_rivals-014",
-      "name": "Shaymin",
+      "name": "Lurantis",
       "number": "014",
-      "rarity": "rare"
+      "rarity": "uncommon"
     },
     {
       "id": "destined_rivals-015",
-      "name": "Petilil",
+      "name": "Team Rocket's Blipbug",
       "number": "015",
       "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-016",
+      "name": "Applin",
+      "number": "016",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-017",
+      "name": "Dipplin",
+      "number": "017",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-018",
+      "name": "Hydrapple",
+      "number": "018",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-019",
+      "name": "Team Rocket's Tarountula",
+      "number": "019",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-020",
+      "name": "Team Rocket's Spidops",
+      "number": "020",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-021",
+      "name": "Smoliv",
+      "number": "021",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-022",
+      "name": "Dolliv",
+      "number": "022",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-023",
+      "name": "Arboliva ex",
+      "number": "023",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-024",
+      "name": "Rellor",
+      "number": "024",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-025",
+      "name": "Rabsca ex",
+      "number": "025",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-026",
+      "name": "Teal Mask Ogerpon",
+      "number": "026",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-027",
+      "name": "Growlithe",
+      "number": "027",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-028",
+      "name": "Arcanine",
+      "number": "028",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-029",
+      "name": "Ponyta",
+      "number": "029",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-030",
+      "name": "Rapidash",
+      "number": "030",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-031",
+      "name": "Team Rocket's Moltres ex",
+      "number": "031",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-032",
+      "name": "Ethan's Cyndaquil",
+      "number": "032",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-033",
+      "name": "Ethan's Quilava",
+      "number": "033",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-034",
+      "name": "Ethan's Typhlosion",
+      "number": "034",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-035",
+      "name": "Ethan's Slugma",
+      "number": "035",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-036",
+      "name": "Ethan's Magcargo",
+      "number": "036",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-037",
+      "name": "Team Rocket's Houndour",
+      "number": "037",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-038",
+      "name": "Team Rocket's Houndoom",
+      "number": "038",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-039",
+      "name": "Ethan's Ho-Oh ex",
+      "number": "039",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-040",
+      "name": "Torchic",
+      "number": "040",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-041",
+      "name": "Combusken",
+      "number": "041",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-042",
+      "name": "Blaziken",
+      "number": "042",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-043",
+      "name": "Heat Rotom",
+      "number": "043",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-044",
+      "name": "Hearthflame Mask Ogerpon",
+      "number": "044",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-045",
+      "name": "Misty's Psyduck",
+      "number": "045",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-046",
+      "name": "Misty's Staryu",
+      "number": "046",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-047",
+      "name": "Misty's Starmie",
+      "number": "047",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-048",
+      "name": "Misty's Magikarp",
+      "number": "048",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-049",
+      "name": "Misty's Gyarados",
+      "number": "049",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-050",
+      "name": "Misty's Lapras",
+      "number": "050",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-051",
+      "name": "Team Rocket's Articuno",
+      "number": "051",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-052",
+      "name": "Cynthia's Feebas",
+      "number": "052",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-053",
+      "name": "Cynthia's Milotic",
+      "number": "053",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-054",
+      "name": "Clamperl",
+      "number": "054",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-055",
+      "name": "Huntail",
+      "number": "055",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-056",
+      "name": "Gorebyss",
+      "number": "056",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-057",
+      "name": "Buizel",
+      "number": "057",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-058",
+      "name": "Floatzel",
+      "number": "058",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-059",
+      "name": "Snover",
+      "number": "059",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-060",
+      "name": "Abomasnow",
+      "number": "060",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-061",
+      "name": "Wash Rotom",
+      "number": "061",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-062",
+      "name": "Arrokuda",
+      "number": "062",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-063",
+      "name": "Barraskewda",
+      "number": "063",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-064",
+      "name": "Cetoddle",
+      "number": "064",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-065",
+      "name": "Cetitan ex",
+      "number": "065",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-066",
+      "name": "Dondozo ex",
+      "number": "066",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-067",
+      "name": "Wellspring Mask Ogerpon",
+      "number": "067",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-068",
+      "name": "Electabuzz",
+      "number": "068",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-069",
+      "name": "Electivire ex",
+      "number": "069",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-070",
+      "name": "Team Rocket's Zapdos",
+      "number": "070",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-071",
+      "name": "Ethan's Pichu",
+      "number": "071",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-072",
+      "name": "Team Rocket's Mareep",
+      "number": "072",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-073",
+      "name": "Team Rocket's Flaaffy",
+      "number": "073",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-074",
+      "name": "Team Rocket's Ampharos",
+      "number": "074",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-075",
+      "name": "Electrike",
+      "number": "075",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-076",
+      "name": "Manectric",
+      "number": "076",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-077",
+      "name": "Rotom",
+      "number": "077",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-078",
+      "name": "Zeraora",
+      "number": "078",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-079",
+      "name": "Team Rocket's Drowzee",
+      "number": "079",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-080",
+      "name": "Team Rocket's Hypno",
+      "number": "080",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-081",
+      "name": "Team Rocket's Mewtwo ex",
+      "number": "081",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-082",
+      "name": "Team Rocket's Wobbuffet",
+      "number": "082",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-083",
+      "name": "Steven's Baltoy",
+      "number": "083",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-084",
+      "name": "Steven's Claydol",
+      "number": "084",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-085",
+      "name": "Team Rocket's Chingling",
+      "number": "085",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-086",
+      "name": "Steven's Carbink",
+      "number": "086",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-087",
+      "name": "Team Rocket's Mimikyu",
+      "number": "087",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-088",
+      "name": "Team Rocket's Dottler",
+      "number": "088",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-089",
+      "name": "Team Rocket's Orbeetle",
+      "number": "089",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-090",
+      "name": "Mankey",
+      "number": "090",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-091",
+      "name": "Primeape",
+      "number": "091",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-092",
+      "name": "Annihilape",
+      "number": "092",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-093",
+      "name": "Ethan's Sudowoodo",
+      "number": "093",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-094",
+      "name": "Team Rocket's Larvitar",
+      "number": "094",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-095",
+      "name": "Team Rocket's Pupitar",
+      "number": "095",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-096",
+      "name": "Team Rocket's Tyranitar",
+      "number": "096",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-097",
+      "name": "Nosepass",
+      "number": "097",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-098",
+      "name": "Probopass",
+      "number": "098",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-099",
+      "name": "Meditite",
+      "number": "099",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-100",
+      "name": "Medicham",
+      "number": "100",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-101",
+      "name": "Regirock ex",
+      "number": "101",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-102",
+      "name": "Cynthia's Gible",
+      "number": "102",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-103",
+      "name": "Cynthia's Gabite",
+      "number": "103",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-104",
+      "name": "Cynthia's Garchomp ex",
+      "number": "104",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-105",
+      "name": "Hippopotas",
+      "number": "105",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-106",
+      "name": "Hippowdon",
+      "number": "106",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-107",
+      "name": "Mudbray",
+      "number": "107",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-108",
+      "name": "Mudsdale",
+      "number": "108",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-109",
+      "name": "Arven's Toedscool",
+      "number": "109",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-110",
+      "name": "Arven's Toedscruel",
+      "number": "110",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-111",
+      "name": "Cornerstone Mask Ogerpon",
+      "number": "111",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-112",
+      "name": "Team Rocket's Ekans",
+      "number": "112",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-113",
+      "name": "Team Rocket's Arbok",
+      "number": "113",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-114",
+      "name": "Team Rocket's Nidoran\u2640",
+      "number": "114",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-115",
+      "name": "Team Rocket's Nidorina",
+      "number": "115",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-116",
+      "name": "Team Rocket's Nidoqueen",
+      "number": "116",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-117",
+      "name": "Team Rocket's Nidoran\u2642",
+      "number": "117",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-118",
+      "name": "Team Rocket's Nidorino",
+      "number": "118",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-119",
+      "name": "Team Rocket's Nidoking ex",
+      "number": "119",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-120",
+      "name": "Team Rocket's Zubat",
+      "number": "120",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-121",
+      "name": "Team Rocket's Golbat",
+      "number": "121",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-122",
+      "name": "Team Rocket's Crobat ex",
+      "number": "122",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-123",
+      "name": "Team Rocket's Grimer",
+      "number": "123",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-124",
+      "name": "Team Rocket's Muk",
+      "number": "124",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-125",
+      "name": "Team Rocket's Koffing",
+      "number": "125",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-126",
+      "name": "Team Rocket's Weezing",
+      "number": "126",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-127",
+      "name": "Team Rocket's Murkrow",
+      "number": "127",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-128",
+      "name": "Team Rocket's Sneasel",
+      "number": "128",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-129",
+      "name": "Cynthia's Spiritomb",
+      "number": "129",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-130",
+      "name": "Marnie's Purrloin",
+      "number": "130",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-131",
+      "name": "Marnie's Liepard",
+      "number": "131",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-132",
+      "name": "Marnie's Scraggy",
+      "number": "132",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-133",
+      "name": "Marnie's Scrafty",
+      "number": "133",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-134",
+      "name": "Marnie's Impidimp",
+      "number": "134",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-135",
+      "name": "Marnie's Morgrem",
+      "number": "135",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-136",
+      "name": "Marnie's Grimmsnarl ex",
+      "number": "136",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-137",
+      "name": "Marnie's Morpeko",
+      "number": "137",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-138",
+      "name": "Arven's Maschiff",
+      "number": "138",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-139",
+      "name": "Arven's Mabosstiff ex",
+      "number": "139",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-140",
+      "name": "Forretress",
+      "number": "140",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-141",
+      "name": "Skarmory",
+      "number": "141",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-142",
+      "name": "Steven's Skarmory",
+      "number": "142",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-143",
+      "name": "Steven's Beldum",
+      "number": "143",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-144",
+      "name": "Steven's Metang",
+      "number": "144",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-145",
+      "name": "Steven's Metagross ex",
+      "number": "145",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-146",
+      "name": "Zamazenta",
+      "number": "146",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-147",
+      "name": "Team Rocket's Rattata",
+      "number": "147",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-148",
+      "name": "Team Rocket's Raticate",
+      "number": "148",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-149",
+      "name": "Team Rocket's Meowth",
+      "number": "149",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-150",
+      "name": "Team Rocket's Persian ex",
+      "number": "150",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-151",
+      "name": "Kangaskhan",
+      "number": "151",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-152",
+      "name": "Tauros",
+      "number": "152",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-153",
+      "name": "Team Rocket's Porygon",
+      "number": "153",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-154",
+      "name": "Team Rocket's Porygon2",
+      "number": "154",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-155",
+      "name": "Team Rocket's Porygon-Z",
+      "number": "155",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-156",
+      "name": "Taillow",
+      "number": "156",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-157",
+      "name": "Swellow",
+      "number": "157",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-158",
+      "name": "Arven's Skwovet",
+      "number": "158",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-159",
+      "name": "Arven's Greedent",
+      "number": "159",
+      "rarity": "rare"
+    },
+    {
+      "id": "destined_rivals-160",
+      "name": "Squawkabilly",
+      "number": "160",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-161",
+      "name": "Arven's Sandwich",
+      "number": "161",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-162",
+      "name": "Cynthia's Power Weight",
+      "number": "162",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-163",
+      "name": "Emcee's Hype",
+      "number": "163",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-164",
+      "name": "Energy Recycler",
+      "number": "164",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-165",
+      "name": "Ethan's Adventure",
+      "number": "165",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-166",
+      "name": "Granite Cave",
+      "number": "166",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-167",
+      "name": "Judge",
+      "number": "167",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-168",
+      "name": "Sacred Ash",
+      "number": "168",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-169",
+      "name": "Spikemuth Gym",
+      "number": "169",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-170",
+      "name": "Team Rocket's Archer",
+      "number": "170",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-171",
+      "name": "Team Rocket's Ariana",
+      "number": "171",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-172",
+      "name": "Team Rocket's Bother-Bot",
+      "number": "172",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-173",
+      "name": "Team Rocket's Factory",
+      "number": "173",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-174",
+      "name": "Team Rocket's Giovanni",
+      "number": "174",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-175",
+      "name": "Team Rocket's Great Ball",
+      "number": "175",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-176",
+      "name": "Team Rocket's Petrel",
+      "number": "176",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-177",
+      "name": "Team Rocket's Proton",
+      "number": "177",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-178",
+      "name": "Team Rocket's Transceiver",
+      "number": "178",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-179",
+      "name": "Team Rocket's Venture Bomb",
+      "number": "179",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-180",
+      "name": "Team Rocket's Watchtower",
+      "number": "180",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-181",
+      "name": "TM Machine",
+      "number": "181",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-182",
+      "name": "Team Rocket's Energy",
+      "number": "182",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "destined_rivals-183",
+      "name": "Yanma",
+      "number": "183",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-184",
+      "name": "Cynthia's Roserade",
+      "number": "184",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-185",
+      "name": "Shaymin",
+      "number": "185",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-186",
+      "name": "Crustle",
+      "number": "186",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-187",
+      "name": "Team Rocket's Spidops",
+      "number": "187",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-188",
+      "name": "Hydrapple",
+      "number": "188",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-189",
+      "name": "Rapidash",
+      "number": "189",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-190",
+      "name": "Ethan's Typhlosion",
+      "number": "190",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-191",
+      "name": "Team Rocket's Houndoom",
+      "number": "191",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-192",
+      "name": "Blaziken",
+      "number": "192",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-193",
+      "name": "Misty's Psyduck",
+      "number": "193",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-194",
+      "name": "Misty's Lapras",
+      "number": "194",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-195",
+      "name": "Clamperl",
+      "number": "195",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-196",
+      "name": "Electrike",
+      "number": "196",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-197",
+      "name": "Rotom",
+      "number": "197",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-198",
+      "name": "Team Rocket's Orbeetle",
+      "number": "198",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-199",
+      "name": "Team Rocket's Weezing",
+      "number": "199",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-200",
+      "name": "Team Rocket's Murkrow",
+      "number": "200",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-201",
+      "name": "Zamazenta",
+      "number": "201",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-202",
+      "name": "Team Rocket's Raticate",
+      "number": "202",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-203",
+      "name": "Team Rocket's Meowth",
+      "number": "203",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-204",
+      "name": "Kangaskhan",
+      "number": "204",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-205",
+      "name": "Arven's Greedent",
+      "number": "205",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "destined_rivals-206",
+      "name": "Yanmega ex",
+      "number": "206",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-207",
+      "name": "Arboliva ex",
+      "number": "207",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-208",
+      "name": "Team Rocket's Moltres ex",
+      "number": "208",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-209",
+      "name": "Ethan's Ho-Oh ex",
+      "number": "209",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-210",
+      "name": "Cetitan ex",
+      "number": "210",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-211",
+      "name": "Dondozo ex",
+      "number": "211",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-212",
+      "name": "Electivire ex",
+      "number": "212",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-213",
+      "name": "Team Rocket's Mewtwo ex",
+      "number": "213",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-214",
+      "name": "Regirock ex",
+      "number": "214",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-215",
+      "name": "Cynthia's Garchomp ex",
+      "number": "215",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-216",
+      "name": "Team Rocket's Nidoking ex",
+      "number": "216",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-217",
+      "name": "Team Rocket's Crobat ex",
+      "number": "217",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-218",
+      "name": "Arven's Mabosstiff ex",
+      "number": "218",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-219",
+      "name": "Team Rocket's Persian ex",
+      "number": "219",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-220",
+      "name": "Emcee's Hype",
+      "number": "220",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-221",
+      "name": "Ethan's Adventure",
+      "number": "221",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-222",
+      "name": "Judge",
+      "number": "222",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-223",
+      "name": "Team Rocket's Archer",
+      "number": "223",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-224",
+      "name": "Team Rocket's Ariana",
+      "number": "224",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-225",
+      "name": "Team Rocket's Giovanni",
+      "number": "225",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-226",
+      "name": "Team Rocket's Petrel",
+      "number": "226",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-227",
+      "name": "Team Rocket's Proton",
+      "number": "227",
+      "rarity": "common"
+    },
+    {
+      "id": "destined_rivals-228",
+      "name": "Yanmega ex",
+      "number": "228",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "destined_rivals-229",
+      "name": "Team Rocket's Moltres ex",
+      "number": "229",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "destined_rivals-230",
+      "name": "Ethan's Ho-Oh ex",
+      "number": "230",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "destined_rivals-231",
+      "name": "Team Rocket's Mewtwo ex",
+      "number": "231",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "destined_rivals-232",
+      "name": "Cynthia's Garchomp ex",
+      "number": "232",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "destined_rivals-233",
+      "name": "Team Rocket's Nidoking ex",
+      "number": "233",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "destined_rivals-234",
+      "name": "Team Rocket's Crobat ex",
+      "number": "234",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "destined_rivals-235",
+      "name": "Arven's Mabosstiff ex",
+      "number": "235",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "destined_rivals-236",
+      "name": "Ethan's Adventure",
+      "number": "236",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "destined_rivals-237",
+      "name": "Team Rocket's Ariana",
+      "number": "237",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "destined_rivals-238",
+      "name": "Team Rocket's Giovanni",
+      "number": "238",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "destined_rivals-239",
+      "name": "Ethan's Ho-Oh ex",
+      "number": "239",
+      "rarity": "hyper_rare"
+    },
+    {
+      "id": "destined_rivals-240",
+      "name": "Team Rocket's Mewtwo ex",
+      "number": "240",
+      "rarity": "hyper_rare"
+    },
+    {
+      "id": "destined_rivals-241",
+      "name": "Cynthia's Garchomp ex",
+      "number": "241",
+      "rarity": "hyper_rare"
+    },
+    {
+      "id": "destined_rivals-242",
+      "name": "Team Rocket's Crobat ex",
+      "number": "242",
+      "rarity": "hyper_rare"
+    },
+    {
+      "id": "destined_rivals-243",
+      "name": "Jamming Tower",
+      "number": "243",
+      "rarity": "hyper_rare"
+    },
+    {
+      "id": "destined_rivals-244",
+      "name": "Levincia",
+      "number": "244",
+      "rarity": "hyper_rare"
     }
   ]
 }

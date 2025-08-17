@@ -1,0 +1,889 @@
+{
+  "set_id": "xy9",
+  "folder_name": "breakpoint",
+  "total_cards": 126,
+  "cards": [
+    {
+      "number": "1",
+      "name": "Chikorita",
+      "rarity": "common",
+      "filename": "001_common_chikorita.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "2",
+      "name": "Bayleef",
+      "rarity": "uncommon",
+      "filename": "002_uncommon_bayleef.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "3",
+      "name": "Meganium",
+      "rarity": "rare_holo",
+      "filename": "003_rare_holo_meganium.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "4",
+      "name": "Seedot",
+      "rarity": "common",
+      "filename": "004_common_seedot.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "5",
+      "name": "Kricketot",
+      "rarity": "common",
+      "filename": "005_common_kricketot.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "6",
+      "name": "Kricketune",
+      "rarity": "uncommon",
+      "filename": "006_uncommon_kricketune.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "7",
+      "name": "Petilil",
+      "rarity": "common",
+      "filename": "007_common_petilil.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "8",
+      "name": "Lilligant",
+      "rarity": "rare",
+      "filename": "008_rare_lilligant.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "9",
+      "name": "Durant",
+      "rarity": "uncommon",
+      "filename": "009_uncommon_durant.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "10",
+      "name": "Growlithe",
+      "rarity": "common",
+      "filename": "010_common_growlithe.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "11",
+      "name": "Arcanine",
+      "rarity": "uncommon",
+      "filename": "011_uncommon_arcanine.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "12",
+      "name": "Numel",
+      "rarity": "common",
+      "filename": "012_common_numel.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "13",
+      "name": "Camerupt",
+      "rarity": "rare",
+      "filename": "013_rare_camerupt.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "14",
+      "name": "Emboar-EX",
+      "rarity": "rare_holo_ex",
+      "filename": "014_rare_holo_ex_emboar_ex.png",
+      "original_rarity": "Rare Holo EX"
+    },
+    {
+      "number": "15",
+      "name": "Heatmor",
+      "rarity": "uncommon",
+      "filename": "015_uncommon_heatmor.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "16",
+      "name": "Psyduck",
+      "rarity": "common",
+      "filename": "016_common_psyduck.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "17",
+      "name": "Golduck",
+      "rarity": "rare",
+      "filename": "017_rare_golduck.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "18",
+      "name": "Golduck BREAK",
+      "rarity": "rare_break",
+      "filename": "018_rare_break_golduck_break.png",
+      "original_rarity": "Rare BREAK"
+    },
+    {
+      "number": "19",
+      "name": "Slowpoke",
+      "rarity": "common",
+      "filename": "019_common_slowpoke.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "20",
+      "name": "Slowbro",
+      "rarity": "uncommon",
+      "filename": "020_uncommon_slowbro.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "21",
+      "name": "Slowking",
+      "rarity": "rare_holo",
+      "filename": "021_rare_holo_slowking.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "22",
+      "name": "Shellder",
+      "rarity": "common",
+      "filename": "022_common_shellder.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "23",
+      "name": "Shellder",
+      "rarity": "common",
+      "filename": "023_common_shellder.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "24",
+      "name": "Cloyster",
+      "rarity": "uncommon",
+      "filename": "024_uncommon_cloyster.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "25",
+      "name": "Staryu",
+      "rarity": "common",
+      "filename": "025_common_staryu.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "26",
+      "name": "Gyarados-EX",
+      "rarity": "rare_holo_ex",
+      "filename": "026_rare_holo_ex_gyarados_ex.png",
+      "original_rarity": "Rare Holo EX"
+    },
+    {
+      "number": "27",
+      "name": "M Gyarados-EX",
+      "rarity": "rare_holo_ex",
+      "filename": "027_rare_holo_ex_m_gyarados_ex.png",
+      "original_rarity": "Rare Holo EX"
+    },
+    {
+      "number": "28",
+      "name": "Lapras",
+      "rarity": "uncommon",
+      "filename": "028_uncommon_lapras.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "29",
+      "name": "Corsola",
+      "rarity": "common",
+      "filename": "029_common_corsola.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "30",
+      "name": "Suicune",
+      "rarity": "rare_holo",
+      "filename": "030_rare_holo_suicune.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "31",
+      "name": "Palkia-EX",
+      "rarity": "rare_holo_ex",
+      "filename": "031_rare_holo_ex_palkia_ex.png",
+      "original_rarity": "Rare Holo EX"
+    },
+    {
+      "number": "32",
+      "name": "Manaphy-EX",
+      "rarity": "rare_holo_ex",
+      "filename": "032_rare_holo_ex_manaphy_ex.png",
+      "original_rarity": "Rare Holo EX"
+    },
+    {
+      "number": "33",
+      "name": "Tympole",
+      "rarity": "common",
+      "filename": "033_common_tympole.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "34",
+      "name": "Palpitoad",
+      "rarity": "uncommon",
+      "filename": "034_uncommon_palpitoad.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "35",
+      "name": "Seismitoad",
+      "rarity": "rare",
+      "filename": "035_rare_seismitoad.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "36",
+      "name": "Ducklett",
+      "rarity": "common",
+      "filename": "036_common_ducklett.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "37",
+      "name": "Swanna",
+      "rarity": "uncommon",
+      "filename": "037_uncommon_swanna.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "38",
+      "name": "Froakie",
+      "rarity": "common",
+      "filename": "038_common_froakie.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "39",
+      "name": "Frogadier",
+      "rarity": "uncommon",
+      "filename": "039_uncommon_frogadier.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "40",
+      "name": "Greninja",
+      "rarity": "rare",
+      "filename": "040_rare_greninja.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "41",
+      "name": "Greninja BREAK",
+      "rarity": "rare_break",
+      "filename": "041_rare_break_greninja_break.png",
+      "original_rarity": "Rare BREAK"
+    },
+    {
+      "number": "42",
+      "name": "Electabuzz",
+      "rarity": "common",
+      "filename": "042_common_electabuzz.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "43",
+      "name": "Electivire",
+      "rarity": "uncommon",
+      "filename": "043_uncommon_electivire.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "44",
+      "name": "Shinx",
+      "rarity": "common",
+      "filename": "044_common_shinx.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "45",
+      "name": "Luxio",
+      "rarity": "uncommon",
+      "filename": "045_uncommon_luxio.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "46",
+      "name": "Luxray",
+      "rarity": "rare",
+      "filename": "046_rare_luxray.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "47",
+      "name": "Luxray BREAK",
+      "rarity": "rare_break",
+      "filename": "047_rare_break_luxray_break.png",
+      "original_rarity": "Rare BREAK"
+    },
+    {
+      "number": "48",
+      "name": "Blitzle",
+      "rarity": "common",
+      "filename": "048_common_blitzle.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "49",
+      "name": "Zebstrika",
+      "rarity": "rare",
+      "filename": "049_rare_zebstrika.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "50",
+      "name": "Drowzee",
+      "rarity": "common",
+      "filename": "050_common_drowzee.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "51",
+      "name": "Hypno",
+      "rarity": "rare",
+      "filename": "051_rare_hypno.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "52",
+      "name": "Espeon-EX",
+      "rarity": "rare_holo_ex",
+      "filename": "052_rare_holo_ex_espeon_ex.png",
+      "original_rarity": "Rare Holo EX"
+    },
+    {
+      "number": "53",
+      "name": "Skorupi",
+      "rarity": "common",
+      "filename": "053_common_skorupi.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "54",
+      "name": "Drapion",
+      "rarity": "rare",
+      "filename": "054_rare_drapion.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "55",
+      "name": "Sigilyph",
+      "rarity": "uncommon",
+      "filename": "055_uncommon_sigilyph.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "56",
+      "name": "Trubbish",
+      "rarity": "common",
+      "filename": "056_common_trubbish.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "57",
+      "name": "Garbodor",
+      "rarity": "rare_holo",
+      "filename": "057_rare_holo_garbodor.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "58",
+      "name": "Espurr",
+      "rarity": "common",
+      "filename": "058_common_espurr.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "59",
+      "name": "Meowstic",
+      "rarity": "rare",
+      "filename": "059_rare_meowstic.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "60",
+      "name": "Honedge",
+      "rarity": "common",
+      "filename": "060_common_honedge.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "61",
+      "name": "Doublade",
+      "rarity": "uncommon",
+      "filename": "061_uncommon_doublade.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "62",
+      "name": "Aegislash",
+      "rarity": "rare_holo",
+      "filename": "062_rare_holo_aegislash.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "63",
+      "name": "Skrelp",
+      "rarity": "common",
+      "filename": "063_common_skrelp.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "64",
+      "name": "Phantump",
+      "rarity": "common",
+      "filename": "064_common_phantump.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "65",
+      "name": "Trevenant",
+      "rarity": "rare",
+      "filename": "065_rare_trevenant.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "66",
+      "name": "Trevenant BREAK",
+      "rarity": "rare_break",
+      "filename": "066_rare_break_trevenant_break.png",
+      "original_rarity": "Rare BREAK"
+    },
+    {
+      "number": "67",
+      "name": "Sudowoodo",
+      "rarity": "uncommon",
+      "filename": "067_uncommon_sudowoodo.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "68",
+      "name": "Gible",
+      "rarity": "common",
+      "filename": "068_common_gible.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "69",
+      "name": "Gabite",
+      "rarity": "uncommon",
+      "filename": "069_uncommon_gabite.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "70",
+      "name": "Garchomp",
+      "rarity": "rare_holo",
+      "filename": "070_rare_holo_garchomp.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "71",
+      "name": "Pancham",
+      "rarity": "common",
+      "filename": "071_common_pancham.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "72",
+      "name": "Nuzleaf",
+      "rarity": "uncommon",
+      "filename": "072_uncommon_nuzleaf.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "73",
+      "name": "Shiftry",
+      "rarity": "rare",
+      "filename": "073_rare_shiftry.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "74",
+      "name": "Darkrai-EX",
+      "rarity": "rare_holo_ex",
+      "filename": "074_rare_holo_ex_darkrai_ex.png",
+      "original_rarity": "Rare Holo EX"
+    },
+    {
+      "number": "75",
+      "name": "Pangoro",
+      "rarity": "rare",
+      "filename": "075_rare_pangoro.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "76",
+      "name": "Scizor-EX",
+      "rarity": "rare_holo_ex",
+      "filename": "076_rare_holo_ex_scizor_ex.png",
+      "original_rarity": "Rare Holo EX"
+    },
+    {
+      "number": "77",
+      "name": "M Scizor-EX",
+      "rarity": "rare_holo_ex",
+      "filename": "077_rare_holo_ex_m_scizor_ex.png",
+      "original_rarity": "Rare Holo EX"
+    },
+    {
+      "number": "78",
+      "name": "Mawile",
+      "rarity": "uncommon",
+      "filename": "078_uncommon_mawile.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "79",
+      "name": "Ferroseed",
+      "rarity": "common",
+      "filename": "079_common_ferroseed.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "80",
+      "name": "Ferrothorn",
+      "rarity": "rare",
+      "filename": "080_rare_ferrothorn.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "81",
+      "name": "Clefairy",
+      "rarity": "common",
+      "filename": "081_common_clefairy.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "82",
+      "name": "Clefable",
+      "rarity": "rare",
+      "filename": "082_rare_clefable.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "83",
+      "name": "Togekiss-EX",
+      "rarity": "rare_holo_ex",
+      "filename": "083_rare_holo_ex_togekiss_ex.png",
+      "original_rarity": "Rare Holo EX"
+    },
+    {
+      "number": "84",
+      "name": "Spritzee",
+      "rarity": "common",
+      "filename": "084_common_spritzee.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "85",
+      "name": "Aromatisse",
+      "rarity": "uncommon",
+      "filename": "085_uncommon_aromatisse.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "86",
+      "name": "Dragalge",
+      "rarity": "rare_holo",
+      "filename": "086_rare_holo_dragalge.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "87",
+      "name": "Rattata",
+      "rarity": "common",
+      "filename": "087_common_rattata.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "88",
+      "name": "Raticate",
+      "rarity": "rare",
+      "filename": "088_rare_raticate.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "89",
+      "name": "Raticate BREAK",
+      "rarity": "rare_break",
+      "filename": "089_rare_break_raticate_break.png",
+      "original_rarity": "Rare BREAK"
+    },
+    {
+      "number": "90",
+      "name": "Dunsparce",
+      "rarity": "uncommon",
+      "filename": "090_uncommon_dunsparce.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "91",
+      "name": "Stantler",
+      "rarity": "uncommon",
+      "filename": "091_uncommon_stantler.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "92",
+      "name": "Ho-Oh-EX",
+      "rarity": "rare_holo_ex",
+      "filename": "092_rare_holo_ex_ho_oh_ex.png",
+      "original_rarity": "Rare Holo EX"
+    },
+    {
+      "number": "93",
+      "name": "Glameow",
+      "rarity": "common",
+      "filename": "093_common_glameow.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "94",
+      "name": "Purugly",
+      "rarity": "uncommon",
+      "filename": "094_uncommon_purugly.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "95",
+      "name": "Furfrou",
+      "rarity": "common",
+      "filename": "095_common_furfrou.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "96",
+      "name": "All-Night Party",
+      "rarity": "uncommon",
+      "filename": "096_uncommon_all_night_party.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "97",
+      "name": "Bursting Balloon",
+      "rarity": "uncommon",
+      "filename": "097_uncommon_bursting_balloon.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "98",
+      "name": "Delinquent",
+      "rarity": "uncommon",
+      "filename": "098_uncommon_delinquent.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "98a",
+      "name": "Delinquent",
+      "rarity": "uncommon",
+      "filename": "98a_uncommon_delinquent.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "98b",
+      "name": "Delinquent",
+      "rarity": "rare_ultra",
+      "filename": "98b_rare_ultra_delinquent.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "99",
+      "name": "Fighting Fury Belt",
+      "rarity": "uncommon",
+      "filename": "099_uncommon_fighting_fury_belt.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "100",
+      "name": "Great Ball",
+      "rarity": "uncommon",
+      "filename": "100_uncommon_great_ball.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "101",
+      "name": "Gyarados Spirit Link",
+      "rarity": "uncommon",
+      "filename": "101_uncommon_gyarados_spirit_link.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "102",
+      "name": "Max Elixir",
+      "rarity": "uncommon",
+      "filename": "102_uncommon_max_elixir.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "103",
+      "name": "Max Potion",
+      "rarity": "uncommon",
+      "filename": "103_uncommon_max_potion.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "104",
+      "name": "Misty's Determination",
+      "rarity": "uncommon",
+      "filename": "104_uncommon_misty_s_determination.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "105",
+      "name": "Pok\u00e9mon Catcher",
+      "rarity": "uncommon",
+      "filename": "105_uncommon_pok_mon_catcher.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "106",
+      "name": "Potion",
+      "rarity": "uncommon",
+      "filename": "106_uncommon_potion.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "107",
+      "name": "Professor Sycamore",
+      "rarity": "uncommon",
+      "filename": "107_uncommon_professor_sycamore.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "107a",
+      "name": "Professor Sycamore",
+      "rarity": "uncommon",
+      "filename": "107a_uncommon_professor_sycamore.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "108",
+      "name": "Psychic's Third Eye",
+      "rarity": "uncommon",
+      "filename": "108_uncommon_psychic_s_third_eye.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "109",
+      "name": "Puzzle of Time",
+      "rarity": "uncommon",
+      "filename": "109_uncommon_puzzle_of_time.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "110",
+      "name": "Reverse Valley",
+      "rarity": "uncommon",
+      "filename": "110_uncommon_reverse_valley.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "111",
+      "name": "Scizor Spirit Link",
+      "rarity": "uncommon",
+      "filename": "111_uncommon_scizor_spirit_link.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "112",
+      "name": "Tierno",
+      "rarity": "uncommon",
+      "filename": "112_uncommon_tierno.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "113",
+      "name": "Splash Energy",
+      "rarity": "uncommon",
+      "filename": "113_uncommon_splash_energy.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "114",
+      "name": "Gyarados-EX",
+      "rarity": "rare_ultra",
+      "filename": "114_rare_ultra_gyarados_ex.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "115",
+      "name": "M Gyarados-EX",
+      "rarity": "rare_ultra",
+      "filename": "115_rare_ultra_m_gyarados_ex.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "116",
+      "name": "Manaphy-EX",
+      "rarity": "rare_ultra",
+      "filename": "116_rare_ultra_manaphy_ex.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "117",
+      "name": "Espeon-EX",
+      "rarity": "rare_ultra",
+      "filename": "117_rare_ultra_espeon_ex.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "118",
+      "name": "Darkrai-EX",
+      "rarity": "rare_ultra",
+      "filename": "118_rare_ultra_darkrai_ex.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "119",
+      "name": "Scizor-EX",
+      "rarity": "rare_ultra",
+      "filename": "119_rare_ultra_scizor_ex.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "120",
+      "name": "M Scizor-EX",
+      "rarity": "rare_ultra",
+      "filename": "120_rare_ultra_m_scizor_ex.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "121",
+      "name": "Ho-Oh-EX",
+      "rarity": "rare_ultra",
+      "filename": "121_rare_ultra_ho_oh_ex.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "122",
+      "name": "Skyla",
+      "rarity": "rare_ultra",
+      "filename": "122_rare_ultra_skyla.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "123",
+      "name": "Gyarados-EX",
+      "rarity": "rare_secret",
+      "filename": "123_rare_secret_gyarados_ex.png",
+      "original_rarity": "Rare Secret"
+    }
+  ]
+}

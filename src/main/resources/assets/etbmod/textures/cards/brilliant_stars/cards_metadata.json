@@ -44,9 +44,9 @@
     },
     {
       "id": "brilliant_stars-008",
-      "name": "holo Torterra",
+      "name": "Torterra",
       "number": "008",
-      "rarity": "rare"
+      "rarity": "rare_holo"
     },
     {
       "id": "brilliant_stars-009",
@@ -74,27 +74,15 @@
     },
     {
       "id": "brilliant_stars-013",
-      "name": "V",
+      "name": "Shaymin V",
       "number": "013",
-      "rarity": "Shaymin"
-    },
-    {
-      "id": "brilliant_stars-013",
-      "name": "holo v Shaymin V",
-      "number": "013",
-      "rarity": "rare"
+      "rarity": "rare_holo_v"
     },
     {
       "id": "brilliant_stars-014",
-      "name": "VSTAR",
+      "name": "Shaymin VSTAR",
       "number": "014",
-      "rarity": "Shaymin"
-    },
-    {
-      "id": "brilliant_stars-014",
-      "name": "holo vstar Shaymin VSTAR",
-      "number": "014",
-      "rarity": "rare"
+      "rarity": "rare_holo_vstar"
     },
     {
       "id": "brilliant_stars-015",
@@ -104,465 +92,1209 @@
     },
     {
       "id": "brilliant_stars-016",
-      "name": "V",
+      "name": "Zarude V",
       "number": "016",
-      "rarity": "Zarude"
+      "rarity": "rare_holo_v"
     },
     {
       "id": "brilliant_stars-017",
-      "name": "V",
+      "name": "Charizard V",
       "number": "017",
-      "rarity": "Charizard"
+      "rarity": "rare_holo_v"
     },
     {
       "id": "brilliant_stars-018",
-      "name": "VSTAR",
+      "name": "Charizard VSTAR",
       "number": "018",
-      "rarity": "Charizard"
+      "rarity": "rare_holo_vstar"
+    },
+    {
+      "id": "brilliant_stars-019",
+      "name": "Magmar",
+      "number": "019",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-020",
+      "name": "Magmortar",
+      "number": "020",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-021",
+      "name": "Moltres",
+      "number": "021",
+      "rarity": "rare_holo"
     },
     {
       "id": "brilliant_stars-022",
-      "name": "V",
+      "name": "Entei V",
       "number": "022",
-      "rarity": "Entei"
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-023",
+      "name": "Torkoal",
+      "number": "023",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-024",
+      "name": "Chimchar",
+      "number": "024",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-025",
+      "name": "Monferno",
+      "number": "025",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-026",
+      "name": "Infernape",
+      "number": "026",
+      "rarity": "rare_holo"
     },
     {
       "id": "brilliant_stars-027",
-      "name": "V",
+      "name": "Simisear V",
       "number": "027",
-      "rarity": "Simisear"
+      "rarity": "rare_holo_v"
     },
     {
       "id": "brilliant_stars-028",
-      "name": "V",
+      "name": "Kingler V",
       "number": "028",
-      "rarity": "Kingler"
+      "rarity": "rare_holo_v"
     },
     {
       "id": "brilliant_stars-029",
-      "name": "VMAX",
+      "name": "Kingler VMAX",
       "number": "029",
-      "rarity": "Kingler"
+      "rarity": "rare_holo_vmax"
+    },
+    {
+      "id": "brilliant_stars-030",
+      "name": "Staryu",
+      "number": "030",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-031",
+      "name": "Lapras",
+      "number": "031",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-032",
+      "name": "Corphish",
+      "number": "032",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-033",
+      "name": "Crawdaunt",
+      "number": "033",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-034",
+      "name": "Snorunt",
+      "number": "034",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-035",
+      "name": "Piplup",
+      "number": "035",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-036",
+      "name": "Prinplup",
+      "number": "036",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-037",
+      "name": "Empoleon",
+      "number": "037",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "brilliant_stars-038",
+      "name": "Buizel",
+      "number": "038",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-039",
+      "name": "Floatzel",
+      "number": "039",
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-040",
-      "name": "V",
+      "name": "Lumineon V",
       "number": "040",
-      "rarity": "Lumineon"
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-041",
+      "name": "Manaphy",
+      "number": "041",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-042",
+      "name": "Cubchoo",
+      "number": "042",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-043",
+      "name": "Beartic",
+      "number": "043",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-044",
+      "name": "Eiscue",
+      "number": "044",
+      "rarity": "rare"
     },
     {
       "id": "brilliant_stars-045",
-      "name": "V",
+      "name": "Raichu V",
       "number": "045",
-      "rarity": "Raichu"
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-046",
+      "name": "Electabuzz",
+      "number": "046",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-047",
+      "name": "Electivire",
+      "number": "047",
+      "rarity": "rare"
     },
     {
       "id": "brilliant_stars-048",
-      "name": "V",
+      "name": "Raikou V",
       "number": "048",
-      "rarity": "Raikou"
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-049",
+      "name": "Shinx",
+      "number": "049",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-050",
+      "name": "Luxio",
+      "number": "050",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-051",
+      "name": "Luxray",
+      "number": "051",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-052",
+      "name": "Pachirisu",
+      "number": "052",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-053",
+      "name": "Clefairy",
+      "number": "053",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-054",
+      "name": "Clefable",
+      "number": "054",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-055",
+      "name": "Starmie",
+      "number": "055",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-056",
+      "name": "Mewtwo",
+      "number": "056",
+      "rarity": "rare"
     },
     {
       "id": "brilliant_stars-057",
-      "name": "V",
+      "name": "Granbull V",
       "number": "057",
-      "rarity": "Granbull"
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-058",
+      "name": "Baltoy",
+      "number": "058",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-059",
+      "name": "Claydol",
+      "number": "059",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-060",
+      "name": "Duskull",
+      "number": "060",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-061",
+      "name": "Dusclops",
+      "number": "061",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-062",
+      "name": "Dusknoir",
+      "number": "062",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "brilliant_stars-063",
+      "name": "Chimecho",
+      "number": "063",
+      "rarity": "common"
     },
     {
       "id": "brilliant_stars-064",
-      "name": "V",
+      "name": "Whimsicott V",
       "number": "064",
-      "rarity": "Whimsicott"
+      "rarity": "rare_holo_v"
     },
     {
       "id": "brilliant_stars-065",
-      "name": "VSTAR",
+      "name": "Whimsicott VSTAR",
       "number": "065",
-      "rarity": "Whimsicott"
+      "rarity": "rare_holo_vstar"
+    },
+    {
+      "id": "brilliant_stars-066",
+      "name": "Sigilyph",
+      "number": "066",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-067",
+      "name": "Dedenne",
+      "number": "067",
+      "rarity": "common"
     },
     {
       "id": "brilliant_stars-068",
-      "name": "V",
+      "name": "Mimikyu V",
       "number": "068",
-      "rarity": "Mimikyu"
+      "rarity": "rare_holo_v"
     },
     {
       "id": "brilliant_stars-069",
-      "name": "VMAX",
+      "name": "Mimikyu VMAX",
       "number": "069",
-      "rarity": "Mimikyu"
+      "rarity": "rare_holo_vmax"
+    },
+    {
+      "id": "brilliant_stars-070",
+      "name": "Milcery",
+      "number": "070",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-071",
+      "name": "Alcremie",
+      "number": "071",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-072",
+      "name": "Hitmontop",
+      "number": "072",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-073",
+      "name": "Nosepass",
+      "number": "073",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-074",
+      "name": "Trapinch",
+      "number": "074",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-075",
+      "name": "Vibrava",
+      "number": "075",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-076",
+      "name": "Flygon",
+      "number": "076",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-077",
+      "name": "Wormadam",
+      "number": "077",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-078",
+      "name": "Riolu",
+      "number": "078",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-079",
+      "name": "Lucario",
+      "number": "079",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "brilliant_stars-080",
+      "name": "Throh",
+      "number": "080",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-081",
+      "name": "Sawk",
+      "number": "081",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-082",
+      "name": "Golett",
+      "number": "082",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-083",
+      "name": "Golurk",
+      "number": "083",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-084",
+      "name": "Grimer",
+      "number": "084",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-085",
+      "name": "Muk",
+      "number": "085",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-086",
+      "name": "Sneasel",
+      "number": "086",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-087",
+      "name": "Weavile",
+      "number": "087",
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-088",
-      "name": "V",
+      "name": "Honchkrow V",
       "number": "088",
-      "rarity": "Honchkrow"
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-089",
+      "name": "Spiritomb",
+      "number": "089",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-090",
+      "name": "Purrloin",
+      "number": "090",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-091",
+      "name": "Liepard",
+      "number": "091",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-092",
+      "name": "Impidimp",
+      "number": "092",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-093",
+      "name": "Morgrem",
+      "number": "093",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-094",
+      "name": "Grimmsnarl",
+      "number": "094",
+      "rarity": "rare"
     },
     {
       "id": "brilliant_stars-095",
-      "name": "V",
+      "name": "Morpeko V",
       "number": "095",
-      "rarity": "Morpeko"
+      "rarity": "rare_holo_v"
     },
     {
       "id": "brilliant_stars-096",
-      "name": "V",
+      "name": "Aggron V",
       "number": "096",
-      "rarity": "Aggron"
+      "rarity": "rare_holo_v"
     },
     {
       "id": "brilliant_stars-097",
-      "name": "VMAX",
+      "name": "Aggron VMAX",
       "number": "097",
-      "rarity": "Aggron"
+      "rarity": "rare_holo_vmax"
+    },
+    {
+      "id": "brilliant_stars-098",
+      "name": "Wormadam",
+      "number": "098",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-099",
+      "name": "Probopass",
+      "number": "099",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-100",
+      "name": "Heatran",
+      "number": "100",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-101",
+      "name": "Escavalier",
+      "number": "101",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-102",
+      "name": "Klink",
+      "number": "102",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-103",
+      "name": "Klang",
+      "number": "103",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-104",
+      "name": "Klinklang",
+      "number": "104",
+      "rarity": "rare"
     },
     {
       "id": "brilliant_stars-105",
-      "name": "V",
+      "name": "Zamazenta V",
       "number": "105",
-      "rarity": "Zamazenta"
+      "rarity": "rare_holo_v"
     },
     {
       "id": "brilliant_stars-106",
-      "name": "V",
+      "name": "Flygon V",
       "number": "106",
-      "rarity": "Flygon"
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-107",
+      "name": "Gible",
+      "number": "107",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-108",
+      "name": "Gabite",
+      "number": "108",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-109",
+      "name": "Garchomp",
+      "number": "109",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "brilliant_stars-110",
+      "name": "Axew",
+      "number": "110",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-111",
+      "name": "Fraxure",
+      "number": "111",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-112",
+      "name": "Haxorus",
+      "number": "112",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-113",
+      "name": "Druddigon",
+      "number": "113",
+      "rarity": "rare"
     },
     {
       "id": "brilliant_stars-114",
-      "name": "V",
+      "name": "Dracovish V",
       "number": "114",
-      "rarity": "Dracovish"
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-115",
+      "name": "Farfetch'd",
+      "number": "115",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-116",
+      "name": "Castform",
+      "number": "116",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-117",
+      "name": "Starly",
+      "number": "117",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-118",
+      "name": "Staravia",
+      "number": "118",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-119",
+      "name": "Staraptor",
+      "number": "119",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-120",
+      "name": "Bidoof",
+      "number": "120",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-121",
+      "name": "Bibarel",
+      "number": "121",
+      "rarity": "rare_holo"
     },
     {
       "id": "brilliant_stars-122",
-      "name": "V",
+      "name": "Arceus V",
       "number": "122",
-      "rarity": "Arceus"
+      "rarity": "rare_holo_v"
     },
     {
       "id": "brilliant_stars-123",
-      "name": "VSTAR",
+      "name": "Arceus VSTAR",
       "number": "123",
-      "rarity": "Arceus"
+      "rarity": "rare_holo_vstar"
+    },
+    {
+      "id": "brilliant_stars-124",
+      "name": "Minccino",
+      "number": "124",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-125",
+      "name": "Cinccino",
+      "number": "125",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-126",
+      "name": "Tornadus",
+      "number": "126",
+      "rarity": "rare"
+    },
+    {
+      "id": "brilliant_stars-127",
+      "name": "Hawlucha",
+      "number": "127",
+      "rarity": "common"
     },
     {
       "id": "brilliant_stars-128",
-      "name": "V",
+      "name": "Drampa V",
       "number": "128",
-      "rarity": "Drampa"
+      "rarity": "rare_holo_v"
     },
     {
       "id": "brilliant_stars-129",
-      "name": "Premonition",
+      "name": "Acerola's Premonition",
       "number": "129",
-      "rarity": "Acerola's"
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-130",
+      "name": "Barry",
+      "number": "130",
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-131",
-      "name": "Policy",
+      "name": "Blunder Policy",
       "number": "131",
-      "rarity": "Blunder"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-132",
-      "name": "Orders",
+      "name": "Boss's Orders",
       "number": "132",
-      "rarity": "Boss's"
+      "rarity": "rare_holo"
     },
     {
       "id": "brilliant_stars-133",
-      "name": "Master",
+      "name": "Caf\u00e9 Master",
       "number": "133",
-      "rarity": "Caf\u00e9"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-134",
-      "name": "Care",
+      "name": "Cheren's Care",
       "number": "134",
-      "rarity": "Cheren's"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-135",
-      "name": "Belt",
+      "name": "Choice Belt",
       "number": "135",
-      "rarity": "Choice"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-136",
-      "name": "Gloves",
+      "name": "Cleansing Gloves",
       "number": "136",
-      "rarity": "Cleansing"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-137",
-      "name": "Stadium",
+      "name": "Collapsed Stadium",
       "number": "137",
-      "rarity": "Collapsed"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-138",
-      "name": "Ambition",
+      "name": "Cynthia's Ambition",
       "number": "138",
-      "rarity": "Cynthia's"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-139",
-      "name": "Water Set",
+      "name": "Fresh Water Set",
       "number": "139",
-      "rarity": "Fresh"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-140",
-      "name": "in Galar",
+      "name": "Friends in Galar",
       "number": "140",
-      "rarity": "Friends"
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-141",
+      "name": "Gloria",
+      "number": "141",
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-142",
-      "name": "Gloves",
+      "name": "Hunting Gloves",
       "number": "142",
-      "rarity": "Hunting"
+      "rarity": "uncommon"
+    },
+    {
+      "id": "brilliant_stars-143",
+      "name": "Kindler",
+      "number": "143",
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-144",
-      "name": "Basin",
+      "name": "Magma Basin",
       "number": "144",
-      "rarity": "Magma"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-145",
-      "name": "Pride",
+      "name": "Marnie's Pride",
       "number": "145",
-      "rarity": "Marnie's"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-146",
-      "name": "Helmet",
+      "name": "Pot Helmet",
       "number": "146",
-      "rarity": "Pot"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-147",
-      "name": "Research",
+      "name": "Professor's Research",
       "number": "147",
-      "rarity": "Professor's"
+      "rarity": "rare_holo"
     },
     {
       "id": "brilliant_stars-148",
-      "name": "Backup",
+      "name": "Roseanne's Backup",
       "number": "148",
-      "rarity": "Roseanne's"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-149",
-      "name": "Yell's Cheer",
+      "name": "Team Yell's Cheer",
       "number": "149",
-      "rarity": "Team"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-150",
-      "name": "Ball",
+      "name": "Ultra Ball",
       "number": "150",
-      "rarity": "Ultra"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-151",
-      "name": "Turbo Energy",
+      "name": "Double Turbo Energy",
       "number": "151",
-      "rarity": "Double"
+      "rarity": "uncommon"
     },
     {
       "id": "brilliant_stars-152",
-      "name": "V",
+      "name": "Shaymin V",
       "number": "152",
-      "rarity": "Shaymin"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-153",
-      "name": "V",
+      "name": "Charizard V",
       "number": "153",
-      "rarity": "Charizard"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-154",
-      "name": "V",
+      "name": "Charizard V",
       "number": "154",
-      "rarity": "Charizard"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-155",
-      "name": "V",
+      "name": "Lumineon V",
       "number": "155",
-      "rarity": "Lumineon"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-156",
-      "name": "V",
+      "name": "Lumineon V",
       "number": "156",
-      "rarity": "Lumineon"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-157",
-      "name": "V",
+      "name": "Pikachu V",
       "number": "157",
-      "rarity": "Pikachu"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-158",
-      "name": "V",
+      "name": "Raichu V",
       "number": "158",
-      "rarity": "Raichu"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-159",
-      "name": "V",
+      "name": "Granbull V",
       "number": "159",
-      "rarity": "Granbull"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-160",
-      "name": "V",
+      "name": "Whimsicott V",
       "number": "160",
-      "rarity": "Whimsicott"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-161",
-      "name": "V",
+      "name": "Honchkrow V",
       "number": "161",
-      "rarity": "Honchkrow"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-162",
-      "name": "V",
+      "name": "Honchkrow V",
       "number": "162",
-      "rarity": "Honchkrow"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-163",
-      "name": "V",
+      "name": "Zamazenta V",
       "number": "163",
-      "rarity": "Zamazenta"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-164",
-      "name": "V",
+      "name": "Flygon V",
       "number": "164",
-      "rarity": "Flygon"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-165",
-      "name": "V",
+      "name": "Arceus V",
       "number": "165",
-      "rarity": "Arceus"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-166",
-      "name": "V",
+      "name": "Arceus V",
       "number": "166",
-      "rarity": "Arceus"
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "brilliant_stars-167",
+      "name": "Barry",
+      "number": "167",
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-168",
-      "name": "Care",
+      "name": "Cheren's Care",
       "number": "168",
-      "rarity": "Cheren's"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-169",
-      "name": "Ambition",
+      "name": "Cynthia's Ambition",
       "number": "169",
-      "rarity": "Cynthia's"
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "brilliant_stars-170",
+      "name": "Kindler",
+      "number": "170",
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-171",
-      "name": "Pride",
+      "name": "Marnie's Pride",
       "number": "171",
-      "rarity": "Marnie's"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-172",
-      "name": "Backup",
+      "name": "Roseanne's Backup",
       "number": "172",
-      "rarity": "Roseanne's"
+      "rarity": "rare_ultra"
     },
     {
       "id": "brilliant_stars-173",
-      "name": "VSTAR",
+      "name": "Shaymin VSTAR",
       "number": "173",
-      "rarity": "Shaymin"
+      "rarity": "rare_rainbow"
     },
     {
       "id": "brilliant_stars-174",
-      "name": "VSTAR",
+      "name": "Charizard VSTAR",
       "number": "174",
-      "rarity": "Charizard"
+      "rarity": "rare_rainbow"
     },
     {
       "id": "brilliant_stars-175",
-      "name": "VSTAR",
+      "name": "Whimsicott VSTAR",
       "number": "175",
-      "rarity": "Whimsicott"
+      "rarity": "rare_rainbow"
     },
     {
       "id": "brilliant_stars-176",
-      "name": "VSTAR",
+      "name": "Arceus VSTAR",
       "number": "176",
-      "rarity": "Arceus"
+      "rarity": "rare_rainbow"
     },
     {
       "id": "brilliant_stars-177",
-      "name": "Care",
+      "name": "Cheren's Care",
       "number": "177",
-      "rarity": "Cheren's"
+      "rarity": "rare_rainbow"
     },
     {
       "id": "brilliant_stars-178",
-      "name": "Ambition",
+      "name": "Cynthia's Ambition",
       "number": "178",
-      "rarity": "Cynthia's"
+      "rarity": "rare_rainbow"
+    },
+    {
+      "id": "brilliant_stars-179",
+      "name": "Kindler",
+      "number": "179",
+      "rarity": "rare_rainbow"
     },
     {
       "id": "brilliant_stars-180",
-      "name": "Backup",
+      "name": "Roseanne's Backup",
       "number": "180",
-      "rarity": "Roseanne's"
+      "rarity": "rare_rainbow"
     },
     {
       "id": "brilliant_stars-181",
-      "name": "Articuno V",
+      "name": "Galarian Articuno V",
       "number": "181",
-      "rarity": "Galarian"
+      "rarity": "rare_secret"
     },
     {
       "id": "brilliant_stars-182",
-      "name": "Zapdos V",
+      "name": "Galarian Zapdos V",
       "number": "182",
-      "rarity": "Galarian"
+      "rarity": "rare_secret"
     },
     {
       "id": "brilliant_stars-183",
-      "name": "Moltres V",
+      "name": "Galarian Moltres V",
       "number": "183",
-      "rarity": "Galarian"
+      "rarity": "rare_secret"
     },
     {
       "id": "brilliant_stars-184",
-      "name": "VSTAR",
+      "name": "Arceus VSTAR",
       "number": "184",
-      "rarity": "Arceus"
+      "rarity": "rare_secret"
     },
     {
       "id": "brilliant_stars-185",
-      "name": "Basin",
+      "name": "Magma Basin",
       "number": "185",
-      "rarity": "Magma"
+      "rarity": "rare_secret"
     },
     {
       "id": "brilliant_stars-186",
-      "name": "Ball",
+      "name": "Ultra Ball",
       "number": "186",
-      "rarity": "Ultra"
+      "rarity": "rare_secret"
+    },
+    {
+      "id": "brilliant_stars-TG01",
+      "name": "Flareon",
+      "number": "TG01",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-TG02",
+      "name": "Vaporeon",
+      "number": "TG02",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-TG03",
+      "name": "Octillery",
+      "number": "TG03",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-TG04",
+      "name": "Jolteon",
+      "number": "TG04",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-TG05",
+      "name": "Zekrom",
+      "number": "TG05",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-TG06",
+      "name": "Dusknoir",
+      "number": "TG06",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-TG07",
+      "name": "Dedenne",
+      "number": "TG07",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-TG08",
+      "name": "Alcremie",
+      "number": "TG08",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-TG09",
+      "name": "Ariados",
+      "number": "TG09",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-TG10",
+      "name": "Houndoom",
+      "number": "TG10",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-TG11",
+      "name": "Eevee",
+      "number": "TG11",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-TG12",
+      "name": "Oranguru",
+      "number": "TG12",
+      "rarity": "common"
+    },
+    {
+      "id": "brilliant_stars-TG13",
+      "name": "Boltund V",
+      "number": "TG13",
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-TG14",
+      "name": "Sylveon V",
+      "number": "TG14",
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-TG15",
+      "name": "Sylveon VMAX",
+      "number": "TG15",
+      "rarity": "rare_holo_vmax"
+    },
+    {
+      "id": "brilliant_stars-TG16",
+      "name": "Mimikyu V",
+      "number": "TG16",
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-TG17",
+      "name": "Mimikyu VMAX",
+      "number": "TG17",
+      "rarity": "rare_holo_vmax"
+    },
+    {
+      "id": "brilliant_stars-TG18",
+      "name": "Single Strike Urshifu V",
+      "number": "TG18",
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-TG19",
+      "name": "Single Strike Urshifu VMAX",
+      "number": "TG19",
+      "rarity": "rare_holo_vmax"
+    },
+    {
+      "id": "brilliant_stars-TG20",
+      "name": "Rapid Strike Urshifu V",
+      "number": "TG20",
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-TG21",
+      "name": "Rapid Strike Urshifu VMAX",
+      "number": "TG21",
+      "rarity": "rare_holo_vmax"
+    },
+    {
+      "id": "brilliant_stars-TG22",
+      "name": "Umbreon V",
+      "number": "TG22",
+      "rarity": "rare_holo_v"
+    },
+    {
+      "id": "brilliant_stars-TG23",
+      "name": "Umbreon VMAX",
+      "number": "TG23",
+      "rarity": "rare_holo_vmax"
+    },
+    {
+      "id": "brilliant_stars-TG24",
+      "name": "Acerola's Premonition",
+      "number": "TG24",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "brilliant_stars-TG25",
+      "name": "Caf\u00e9 Master",
+      "number": "TG25",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "brilliant_stars-TG26",
+      "name": "Gloria",
+      "number": "TG26",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "brilliant_stars-TG27",
+      "name": "Rapid Strike Style Mustard",
+      "number": "TG27",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "brilliant_stars-TG28",
+      "name": "Single Strike Style Mustard",
+      "number": "TG28",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "brilliant_stars-TG29",
+      "name": "Single Strike Urshifu VMAX",
+      "number": "TG29",
+      "rarity": "rare_secret"
+    },
+    {
+      "id": "brilliant_stars-TG30",
+      "name": "Rapid Strike Urshifu VMAX",
+      "number": "TG30",
+      "rarity": "rare_secret"
     }
   ]
 }

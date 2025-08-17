@@ -1,0 +1,602 @@
+{
+  "set_name": "Shrouded Fable",
+  "folder_name": "shrouded_fable",
+  "total_cards": 99,
+  "cards": [
+    {
+      "number": "001",
+      "name": "Joltik",
+      "rarity": "Common",
+      "filename": "001_common_joltik.png"
+    },
+    {
+      "number": "002",
+      "name": "Galvantula",
+      "rarity": "Uncommon",
+      "filename": "002_uncommon_galvantula.png"
+    },
+    {
+      "number": "003",
+      "name": "Rowlet",
+      "rarity": "Common",
+      "filename": "003_common_rowlet.png"
+    },
+    {
+      "number": "004",
+      "name": "Dartrix",
+      "rarity": "Common",
+      "filename": "004_common_dartrix.png"
+    },
+    {
+      "number": "005",
+      "name": "Decidueye",
+      "rarity": "Uncommon",
+      "filename": "005_uncommon_decidueye.png"
+    },
+    {
+      "number": "006",
+      "name": "Tapu Bulu",
+      "rarity": "Rare",
+      "filename": "006_rare_tapu_bulu.png"
+    },
+    {
+      "number": "007",
+      "name": "Houndour",
+      "rarity": "Common",
+      "filename": "007_common_houndour.png"
+    },
+    {
+      "number": "008",
+      "name": "Houndoom",
+      "rarity": "Common",
+      "filename": "008_common_houndoom.png"
+    },
+    {
+      "number": "009",
+      "name": "Iron Moth",
+      "rarity": "Uncommon",
+      "filename": "009_uncommon_iron_moth.png"
+    },
+    {
+      "number": "010",
+      "name": "Horsea",
+      "rarity": "Common",
+      "filename": "010_common_horsea.png"
+    },
+    {
+      "number": "011",
+      "name": "Seadra",
+      "rarity": "Common",
+      "filename": "011_common_seadra.png"
+    },
+    {
+      "number": "012",
+      "name": "Kingdra Ex",
+      "rarity": "Double Rare",
+      "filename": "012_double_rare_kingdra_ex.png"
+    },
+    {
+      "number": "013",
+      "name": "Sneasel",
+      "rarity": "Common",
+      "filename": "013_common_sneasel.png"
+    },
+    {
+      "number": "014",
+      "name": "Weavile",
+      "rarity": "Uncommon",
+      "filename": "014_uncommon_weavile.png"
+    },
+    {
+      "number": "015",
+      "name": "Revavroom Ex",
+      "rarity": "Double Rare",
+      "filename": "015_double_rare_revavroom_ex.png"
+    },
+    {
+      "number": "016",
+      "name": "Drowzee",
+      "rarity": "Common",
+      "filename": "016_common_drowzee.png"
+    },
+    {
+      "number": "017",
+      "name": "Hypno",
+      "rarity": "Uncommon",
+      "filename": "017_uncommon_hypno.png"
+    },
+    {
+      "number": "018",
+      "name": "Duskull",
+      "rarity": "Common",
+      "filename": "018_common_duskull.png"
+    },
+    {
+      "number": "019",
+      "name": "Dusclops",
+      "rarity": "Common",
+      "filename": "019_common_dusclops.png"
+    },
+    {
+      "number": "020",
+      "name": "Dusknoir",
+      "rarity": "Rare",
+      "filename": "020_rare_dusknoir.png"
+    },
+    {
+      "number": "021",
+      "name": "Cresselia",
+      "rarity": "Rare",
+      "filename": "021_rare_cresselia.png"
+    },
+    {
+      "number": "022",
+      "name": "Sylveon",
+      "rarity": "Uncommon",
+      "filename": "022_uncommon_sylveon.png"
+    },
+    {
+      "number": "023",
+      "name": "Croagunk",
+      "rarity": "Common",
+      "filename": "023_common_croagunk.png"
+    },
+    {
+      "number": "024",
+      "name": "Toxicroak",
+      "rarity": "Common",
+      "filename": "024_common_toxicroak.png"
+    },
+    {
+      "number": "025",
+      "name": "Bloodmoon Ursaluna",
+      "rarity": "Rare",
+      "filename": "025_rare_bloodmoon_ursaluna.png"
+    },
+    {
+      "number": "026",
+      "name": "Slither Wing",
+      "rarity": "Uncommon",
+      "filename": "026_uncommon_slither_wing.png"
+    },
+    {
+      "number": "027",
+      "name": "Zubat",
+      "rarity": "Common",
+      "filename": "027_common_zubat.png"
+    },
+    {
+      "number": "028",
+      "name": "Golbat",
+      "rarity": "Common",
+      "filename": "028_common_golbat.png"
+    },
+    {
+      "number": "029",
+      "name": "Crobat",
+      "rarity": "Uncommon",
+      "filename": "029_uncommon_crobat.png"
+    },
+    {
+      "number": "030",
+      "name": "Absol",
+      "rarity": "Common",
+      "filename": "030_common_absol.png"
+    },
+    {
+      "number": "031",
+      "name": "Zorua",
+      "rarity": "Common",
+      "filename": "031_common_zorua.png"
+    },
+    {
+      "number": "032",
+      "name": "Zoroark",
+      "rarity": "Rare",
+      "filename": "032_rare_zoroark.png"
+    },
+    {
+      "number": "033",
+      "name": "Inkay",
+      "rarity": "Common",
+      "filename": "033_common_inkay.png"
+    },
+    {
+      "number": "034",
+      "name": "Malamar",
+      "rarity": "Uncommon",
+      "filename": "034_uncommon_malamar.png"
+    },
+    {
+      "number": "035",
+      "name": "Yveltal",
+      "rarity": "Uncommon",
+      "filename": "035_uncommon_yveltal.png"
+    },
+    {
+      "number": "036",
+      "name": "Okidogi Ex",
+      "rarity": "Double Rare",
+      "filename": "036_double_rare_okidogi_ex.png"
+    },
+    {
+      "number": "037",
+      "name": "Munkidori Ex",
+      "rarity": "Double Rare",
+      "filename": "037_double_rare_munkidori_ex.png"
+    },
+    {
+      "number": "038",
+      "name": "Fezandipiti Ex",
+      "rarity": "Double Rare",
+      "filename": "038_double_rare_fezandipiti_ex.png"
+    },
+    {
+      "number": "039",
+      "name": "Pecharunt Ex",
+      "rarity": "Double Rare",
+      "filename": "039_double_rare_pecharunt_ex.png"
+    },
+    {
+      "number": "040",
+      "name": "Genesect",
+      "rarity": "Uncommon",
+      "filename": "040_uncommon_genesect.png"
+    },
+    {
+      "number": "041",
+      "name": "Cufant",
+      "rarity": "Common",
+      "filename": "041_common_cufant.png"
+    },
+    {
+      "number": "042",
+      "name": "Copperajah",
+      "rarity": "Rare",
+      "filename": "042_rare_copperajah.png"
+    },
+    {
+      "number": "043",
+      "name": "Varoom",
+      "rarity": "Common",
+      "filename": "043_common_varoom.png"
+    },
+    {
+      "number": "044",
+      "name": "Axew",
+      "rarity": "Common",
+      "filename": "044_common_axew.png"
+    },
+    {
+      "number": "045",
+      "name": "Fraxure",
+      "rarity": "Common",
+      "filename": "045_common_fraxure.png"
+    },
+    {
+      "number": "046",
+      "name": "Haxorus",
+      "rarity": "Rare",
+      "filename": "046_rare_haxorus.png"
+    },
+    {
+      "number": "047",
+      "name": "Kyurem",
+      "rarity": "Uncommon",
+      "filename": "047_uncommon_kyurem.png"
+    },
+    {
+      "number": "048",
+      "name": "Meowth",
+      "rarity": "Common",
+      "filename": "048_common_meowth.png"
+    },
+    {
+      "number": "049",
+      "name": "Persian",
+      "rarity": "Common",
+      "filename": "049_common_persian.png"
+    },
+    {
+      "number": "050",
+      "name": "Eevee",
+      "rarity": "Common",
+      "filename": "050_common_eevee.png"
+    },
+    {
+      "number": "051",
+      "name": "Furfrou",
+      "rarity": "Common",
+      "filename": "051_common_furfrou.png"
+    },
+    {
+      "number": "052",
+      "name": "Stufful",
+      "rarity": "Common",
+      "filename": "052_common_stufful.png"
+    },
+    {
+      "number": "053",
+      "name": "Bewear",
+      "rarity": "Common",
+      "filename": "053_common_bewear.png"
+    },
+    {
+      "number": "054",
+      "name": "Academy At Night",
+      "rarity": "Uncommon",
+      "filename": "054_uncommon_academy_at_night.png"
+    },
+    {
+      "number": "055",
+      "name": "Binding Mochi",
+      "rarity": "Uncommon",
+      "filename": "055_uncommon_binding_mochi.png"
+    },
+    {
+      "number": "056",
+      "name": "Cassiopeia",
+      "rarity": "Uncommon",
+      "filename": "056_uncommon_cassiopeia.png"
+    },
+    {
+      "number": "057",
+      "name": "Colress S Tenacity",
+      "rarity": "Uncommon",
+      "filename": "057_uncommon_colress_s_tenacity.png"
+    },
+    {
+      "number": "058",
+      "name": "Dangerous Laser",
+      "rarity": "Ace Spec Rare",
+      "filename": "058_ace_spec_rare_dangerous_laser.png"
+    },
+    {
+      "number": "059",
+      "name": "Janine S Secret Art",
+      "rarity": "Uncommon",
+      "filename": "059_uncommon_janine_s_secret_art.png"
+    },
+    {
+      "number": "060",
+      "name": "Neutralization Zone",
+      "rarity": "Ace Spec Rare",
+      "filename": "060_ace_spec_rare_neutralization_zone.png"
+    },
+    {
+      "number": "061",
+      "name": "Night Stretcher",
+      "rarity": "Uncommon",
+      "filename": "061_uncommon_night_stretcher.png"
+    },
+    {
+      "number": "062",
+      "name": "Pok Vital A",
+      "rarity": "Ace Spec Rare",
+      "filename": "062_ace_spec_rare_pok_vital_a.png"
+    },
+    {
+      "number": "063",
+      "name": "Powerglass",
+      "rarity": "Uncommon",
+      "filename": "063_uncommon_powerglass.png"
+    },
+    {
+      "number": "064",
+      "name": "Xerosic S Machinations",
+      "rarity": "Uncommon",
+      "filename": "064_uncommon_xerosic_s_machinations.png"
+    },
+    {
+      "number": "065",
+      "name": "Tapu Bulu",
+      "rarity": "Illustration Rare",
+      "filename": "065_illustration_rare_tapu_bulu.png"
+    },
+    {
+      "number": "066",
+      "name": "Houndoom",
+      "rarity": "Illustration Rare",
+      "filename": "066_illustration_rare_houndoom.png"
+    },
+    {
+      "number": "067",
+      "name": "Horsea",
+      "rarity": "Illustration Rare",
+      "filename": "067_illustration_rare_horsea.png"
+    },
+    {
+      "number": "068",
+      "name": "Duskull",
+      "rarity": "Illustration Rare",
+      "filename": "068_illustration_rare_duskull.png"
+    },
+    {
+      "number": "069",
+      "name": "Dusclops",
+      "rarity": "Illustration Rare",
+      "filename": "069_illustration_rare_dusclops.png"
+    },
+    {
+      "number": "070",
+      "name": "Dusknoir",
+      "rarity": "Illustration Rare",
+      "filename": "070_illustration_rare_dusknoir.png"
+    },
+    {
+      "number": "071",
+      "name": "Cresselia",
+      "rarity": "Illustration Rare",
+      "filename": "071_illustration_rare_cresselia.png"
+    },
+    {
+      "number": "072",
+      "name": "Munkidori",
+      "rarity": "Illustration Rare",
+      "filename": "072_illustration_rare_munkidori.png"
+    },
+    {
+      "number": "073",
+      "name": "Fezandipiti",
+      "rarity": "Illustration Rare",
+      "filename": "073_illustration_rare_fezandipiti.png"
+    },
+    {
+      "number": "074",
+      "name": "Okidogi",
+      "rarity": "Illustration Rare",
+      "filename": "074_illustration_rare_okidogi.png"
+    },
+    {
+      "number": "075",
+      "name": "Zorua",
+      "rarity": "Illustration Rare",
+      "filename": "075_illustration_rare_zorua.png"
+    },
+    {
+      "number": "076",
+      "name": "Cufant",
+      "rarity": "Illustration Rare",
+      "filename": "076_illustration_rare_cufant.png"
+    },
+    {
+      "number": "077",
+      "name": "Fraxure",
+      "rarity": "Illustration Rare",
+      "filename": "077_illustration_rare_fraxure.png"
+    },
+    {
+      "number": "078",
+      "name": "Persian",
+      "rarity": "Illustration Rare",
+      "filename": "078_illustration_rare_persian.png"
+    },
+    {
+      "number": "079",
+      "name": "Bewear",
+      "rarity": "Illustration Rare",
+      "filename": "079_illustration_rare_bewear.png"
+    },
+    {
+      "number": "080",
+      "name": "Kingdra Ex",
+      "rarity": "Ultra Rare",
+      "filename": "080_ultra_rare_kingdra_ex.png"
+    },
+    {
+      "number": "081",
+      "name": "Revavroom Ex",
+      "rarity": "Ultra Rare",
+      "filename": "081_ultra_rare_revavroom_ex.png"
+    },
+    {
+      "number": "082",
+      "name": "Okidogi Ex",
+      "rarity": "Ultra Rare",
+      "filename": "082_ultra_rare_okidogi_ex.png"
+    },
+    {
+      "number": "083",
+      "name": "Munkidori Ex",
+      "rarity": "Ultra Rare",
+      "filename": "083_ultra_rare_munkidori_ex.png"
+    },
+    {
+      "number": "084",
+      "name": "Fezandipiti Ex",
+      "rarity": "Ultra Rare",
+      "filename": "084_ultra_rare_fezandipiti_ex.png"
+    },
+    {
+      "number": "085",
+      "name": "Pecharunt Ex",
+      "rarity": "Ultra Rare",
+      "filename": "085_ultra_rare_pecharunt_ex.png"
+    },
+    {
+      "number": "086",
+      "name": "Cassiopeia",
+      "rarity": "Ultra Rare",
+      "filename": "086_ultra_rare_cassiopeia.png"
+    },
+    {
+      "number": "087",
+      "name": "Colress S Tenacity",
+      "rarity": "Ultra Rare",
+      "filename": "087_ultra_rare_colress_s_tenacity.png"
+    },
+    {
+      "number": "088",
+      "name": "Janine S Secret Art",
+      "rarity": "Ultra Rare",
+      "filename": "088_ultra_rare_janine_s_secret_art.png"
+    },
+    {
+      "number": "089",
+      "name": "Xerosic S Machinations",
+      "rarity": "Ultra Rare",
+      "filename": "089_ultra_rare_xerosic_s_machinations.png"
+    },
+    {
+      "number": "090",
+      "name": "Okidogi Ex",
+      "rarity": "Special Illustration Rare",
+      "filename": "090_special_illustration_rare_okidogi_ex.png"
+    },
+    {
+      "number": "091",
+      "name": "Munkidori Ex",
+      "rarity": "Special Illustration Rare",
+      "filename": "091_special_illustration_rare_munkidori_ex.png"
+    },
+    {
+      "number": "092",
+      "name": "Fezandipiti Ex",
+      "rarity": "Special Illustration Rare",
+      "filename": "092_special_illustration_rare_fezandipiti_ex.png"
+    },
+    {
+      "number": "093",
+      "name": "Pecharunt Ex",
+      "rarity": "Special Illustration Rare",
+      "filename": "093_special_illustration_rare_pecharunt_ex.png"
+    },
+    {
+      "number": "094",
+      "name": "Cassiopeia",
+      "rarity": "Special Illustration Rare",
+      "filename": "094_special_illustration_rare_cassiopeia.png"
+    },
+    {
+      "number": "095",
+      "name": "Pecharunt Ex",
+      "rarity": "Hyper Rare",
+      "filename": "095_hyper_rare_pecharunt_ex.png"
+    },
+    {
+      "number": "096",
+      "name": "Earthen Vessel",
+      "rarity": "Hyper Rare",
+      "filename": "096_hyper_rare_earthen_vessel.png"
+    },
+    {
+      "number": "097",
+      "name": "Powerglass",
+      "rarity": "Hyper Rare",
+      "filename": "097_hyper_rare_powerglass.png"
+    },
+    {
+      "number": "098",
+      "name": "Basic Darkness Energy",
+      "rarity": "Hyper Rare",
+      "filename": "098_hyper_rare_basic_darkness_energy.png"
+    },
+    {
+      "number": "099",
+      "name": "Basic Metal Energy",
+      "rarity": "Hyper Rare",
+      "filename": "099_hyper_rare_basic_metal_energy.png"
+    }
+  ],
+  "source": "generated_from_filenames"
+}

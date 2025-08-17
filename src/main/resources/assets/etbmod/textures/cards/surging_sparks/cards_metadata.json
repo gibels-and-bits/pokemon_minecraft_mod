@@ -22,7 +22,7 @@
       "id": "surging_sparks-004",
       "name": "Durant ex",
       "number": "004",
-      "rarity": "double rare"
+      "rarity": "common"
     },
     {
       "id": "surging_sparks-005",
@@ -179,6 +179,1338 @@
       "name": "Crocalor",
       "number": "030",
       "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-031",
+      "name": "Skeledirge",
+      "number": "031",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-032",
+      "name": "Charcadet",
+      "number": "032",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-033",
+      "name": "Charcadet",
+      "number": "033",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-034",
+      "name": "Armarouge",
+      "number": "034",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-035",
+      "name": "Ceruledge",
+      "number": "035",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-036",
+      "name": "Ceruledge ex",
+      "number": "036",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-037",
+      "name": "Scovillain ex",
+      "number": "037",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-038",
+      "name": "Gouging Fire",
+      "number": "038",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-039",
+      "name": "Paldean Tauros",
+      "number": "039",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-040",
+      "name": "Mantine",
+      "number": "040",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-041",
+      "name": "Feebas",
+      "number": "041",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-042",
+      "name": "Milotic ex",
+      "number": "042",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-043",
+      "name": "Spheal",
+      "number": "043",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-044",
+      "name": "Sealeo",
+      "number": "044",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-045",
+      "name": "Walrein",
+      "number": "045",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-046",
+      "name": "Shellos",
+      "number": "046",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-047",
+      "name": "Cryogonal",
+      "number": "047",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-048",
+      "name": "Black Kyurem ex",
+      "number": "048",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-049",
+      "name": "Bruxish",
+      "number": "049",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-050",
+      "name": "Quaxly",
+      "number": "050",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-051",
+      "name": "Quaxwell",
+      "number": "051",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-052",
+      "name": "Quaquaval",
+      "number": "052",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-053",
+      "name": "Cetoddle",
+      "number": "053",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-054",
+      "name": "Cetitan",
+      "number": "054",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-055",
+      "name": "Iron Bundle",
+      "number": "055",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-056",
+      "name": "Chien-Pao",
+      "number": "056",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-057",
+      "name": "Pikachu ex",
+      "number": "057",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-058",
+      "name": "Magnemite",
+      "number": "058",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-059",
+      "name": "Magneton",
+      "number": "059",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-060",
+      "name": "Magnezone",
+      "number": "060",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-061",
+      "name": "Rotom",
+      "number": "061",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-062",
+      "name": "Blitzle",
+      "number": "062",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-063",
+      "name": "Zebstrika",
+      "number": "063",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-064",
+      "name": "Stunfisk",
+      "number": "064",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-065",
+      "name": "Tapu Koko",
+      "number": "065",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-066",
+      "name": "Wattrel",
+      "number": "066",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-067",
+      "name": "Kilowattrel",
+      "number": "067",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-068",
+      "name": "Kilowattrel ex",
+      "number": "068",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-069",
+      "name": "Miraidon",
+      "number": "069",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-070",
+      "name": "Togepi",
+      "number": "070",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-071",
+      "name": "Togetic",
+      "number": "071",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-072",
+      "name": "Togekiss",
+      "number": "072",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-073",
+      "name": "Marill",
+      "number": "073",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-074",
+      "name": "Azumarill",
+      "number": "074",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-075",
+      "name": "Smoochum",
+      "number": "075",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-076",
+      "name": "Latias ex",
+      "number": "076",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-077",
+      "name": "Latios",
+      "number": "077",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-078",
+      "name": "Uxie",
+      "number": "078",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-079",
+      "name": "Mesprit",
+      "number": "079",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-080",
+      "name": "Azelf",
+      "number": "080",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-081",
+      "name": "Sigilyph",
+      "number": "081",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-082",
+      "name": "Yamask",
+      "number": "082",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-083",
+      "name": "Cofagrigus",
+      "number": "083",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-084",
+      "name": "Espurr",
+      "number": "084",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-085",
+      "name": "Meowstic",
+      "number": "085",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-086",
+      "name": "Sylveon ex",
+      "number": "086",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-087",
+      "name": "Dedenne",
+      "number": "087",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-088",
+      "name": "Xerneas",
+      "number": "088",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-089",
+      "name": "Oricorio",
+      "number": "089",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-090",
+      "name": "Sandygast",
+      "number": "090",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-091",
+      "name": "Palossand ex",
+      "number": "091",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-092",
+      "name": "Tapu Lele",
+      "number": "092",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-093",
+      "name": "Indeedee",
+      "number": "093",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-094",
+      "name": "Flittle",
+      "number": "094",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-095",
+      "name": "Espathra",
+      "number": "095",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-096",
+      "name": "Flutter Mane",
+      "number": "096",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-097",
+      "name": "Gimmighoul",
+      "number": "097",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-098",
+      "name": "Mankey",
+      "number": "098",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-099",
+      "name": "Primeape",
+      "number": "099",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-100",
+      "name": "Annihilape",
+      "number": "100",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-101",
+      "name": "Paldean Tauros",
+      "number": "101",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-102",
+      "name": "Phanpy",
+      "number": "102",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-103",
+      "name": "Donphan",
+      "number": "103",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-104",
+      "name": "Trapinch",
+      "number": "104",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-105",
+      "name": "Vibrava",
+      "number": "105",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-106",
+      "name": "Flygon ex",
+      "number": "106",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-107",
+      "name": "Gastrodon",
+      "number": "107",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-108",
+      "name": "Drilbur",
+      "number": "108",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-109",
+      "name": "Excadrill",
+      "number": "109",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-110",
+      "name": "Landorus",
+      "number": "110",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-111",
+      "name": "Passimian",
+      "number": "111",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-112",
+      "name": "Clobbopus",
+      "number": "112",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-113",
+      "name": "Grapploct",
+      "number": "113",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-114",
+      "name": "Glimmet",
+      "number": "114",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-115",
+      "name": "Glimmora",
+      "number": "115",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-116",
+      "name": "Koraidon",
+      "number": "116",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-117",
+      "name": "Deino",
+      "number": "117",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-118",
+      "name": "Zweilous",
+      "number": "118",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-119",
+      "name": "Hydreigon ex",
+      "number": "119",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-120",
+      "name": "Shroodle",
+      "number": "120",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-121",
+      "name": "Grafaiai",
+      "number": "121",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-122",
+      "name": "Alolan Diglett",
+      "number": "122",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-123",
+      "name": "Alolan Dugtrio",
+      "number": "123",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-124",
+      "name": "Skarmory",
+      "number": "124",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-125",
+      "name": "Registeel",
+      "number": "125",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-126",
+      "name": "Bronzor",
+      "number": "126",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-127",
+      "name": "Bronzong",
+      "number": "127",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-128",
+      "name": "Klefki",
+      "number": "128",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-129",
+      "name": "Duraludon",
+      "number": "129",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-130",
+      "name": "Archaludon ex",
+      "number": "130",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-131",
+      "name": "Gholdengo",
+      "number": "131",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-132",
+      "name": "Iron Crown",
+      "number": "132",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-133",
+      "name": "Alolan Exeggutor ex",
+      "number": "133",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-134",
+      "name": "Altaria",
+      "number": "134",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-135",
+      "name": "Dialga",
+      "number": "135",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-136",
+      "name": "Palkia",
+      "number": "136",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-137",
+      "name": "Turtonator",
+      "number": "137",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-138",
+      "name": "Applin",
+      "number": "138",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-139",
+      "name": "Flapple",
+      "number": "139",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-140",
+      "name": "Appletun",
+      "number": "140",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-141",
+      "name": "Eternatus",
+      "number": "141",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-142",
+      "name": "Tatsugiri ex",
+      "number": "142",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-143",
+      "name": "Eevee",
+      "number": "143",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-144",
+      "name": "Snorlax",
+      "number": "144",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-145",
+      "name": "Slakoth",
+      "number": "145",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-146",
+      "name": "Vigoroth",
+      "number": "146",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-147",
+      "name": "Slaking ex",
+      "number": "147",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-148",
+      "name": "Swablu",
+      "number": "148",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-149",
+      "name": "Zangoose",
+      "number": "149",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-150",
+      "name": "Kecleon",
+      "number": "150",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-151",
+      "name": "Bouffalant",
+      "number": "151",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-152",
+      "name": "Rufflet",
+      "number": "152",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-153",
+      "name": "Braviary",
+      "number": "153",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-154",
+      "name": "Helioptile",
+      "number": "154",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-155",
+      "name": "Heliolisk",
+      "number": "155",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-156",
+      "name": "Oranguru",
+      "number": "156",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-157",
+      "name": "Tandemaus",
+      "number": "157",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-158",
+      "name": "Maushold",
+      "number": "158",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-159",
+      "name": "Cyclizar ex",
+      "number": "159",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-160",
+      "name": "Flamigo ex",
+      "number": "160",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-161",
+      "name": "Terapagos",
+      "number": "161",
+      "rarity": "rare"
+    },
+    {
+      "id": "surging_sparks-162",
+      "name": "Amulet of Hope",
+      "number": "162",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-163",
+      "name": "Babiri Berry",
+      "number": "163",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-164",
+      "name": "Brilliant Blender",
+      "number": "164",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-165",
+      "name": "Call Bell",
+      "number": "165",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-166",
+      "name": "Chill Teaser Toy",
+      "number": "166",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-167",
+      "name": "Clemont's Quick Wit",
+      "number": "167",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-168",
+      "name": "Colbur Berry",
+      "number": "168",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-169",
+      "name": "Counter Gain",
+      "number": "169",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-170",
+      "name": "Cyrano",
+      "number": "170",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-171",
+      "name": "Deduction Kit",
+      "number": "171",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-172",
+      "name": "Dragon Elixir",
+      "number": "172",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-173",
+      "name": "Drasna",
+      "number": "173",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-174",
+      "name": "Drayton",
+      "number": "174",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-175",
+      "name": "Dusk Ball",
+      "number": "175",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-176",
+      "name": "Energy Search Pro",
+      "number": "176",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-177",
+      "name": "Gravity Mountain",
+      "number": "177",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-178",
+      "name": "Jasmine's Gaze",
+      "number": "178",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-179",
+      "name": "Lisia's Appeal",
+      "number": "179",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-180",
+      "name": "Lively Stadium",
+      "number": "180",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-181",
+      "name": "Meddling Memo",
+      "number": "181",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-182",
+      "name": "Megaton Blower",
+      "number": "182",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-183",
+      "name": "Miracle Headset",
+      "number": "183",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-184",
+      "name": "Passho Berry",
+      "number": "184",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-185",
+      "name": "Precious Trolley",
+      "number": "185",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-186",
+      "name": "Scramble Switch",
+      "number": "186",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-187",
+      "name": "Surfer",
+      "number": "187",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-188",
+      "name": "Technical Machine: Fluorite",
+      "number": "188",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-189",
+      "name": "Tera Orb",
+      "number": "189",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-190",
+      "name": "Tyme",
+      "number": "190",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "surging_sparks-191",
+      "name": "Enriching Energy",
+      "number": "191",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-192",
+      "name": "Exeggcute",
+      "number": "192",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-193",
+      "name": "Vivillon",
+      "number": "193",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-194",
+      "name": "Shiinotic",
+      "number": "194",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-195",
+      "name": "Castform Sunny Form",
+      "number": "195",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-196",
+      "name": "Larvesta",
+      "number": "196",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-197",
+      "name": "Ceruledge",
+      "number": "197",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-198",
+      "name": "Feebas",
+      "number": "198",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-199",
+      "name": "Spheal",
+      "number": "199",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-200",
+      "name": "Bruxish",
+      "number": "200",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-201",
+      "name": "Cetitan",
+      "number": "201",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-202",
+      "name": "Stunfisk",
+      "number": "202",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-203",
+      "name": "Latios",
+      "number": "203",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-204",
+      "name": "Mesprit",
+      "number": "204",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-205",
+      "name": "Phanpy",
+      "number": "205",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-206",
+      "name": "Vibrava",
+      "number": "206",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-207",
+      "name": "Clobbopus",
+      "number": "207",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-208",
+      "name": "Alolan Dugtrio",
+      "number": "208",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-209",
+      "name": "Skarmory",
+      "number": "209",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-210",
+      "name": "Flapple",
+      "number": "210",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-211",
+      "name": "Appletun",
+      "number": "211",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-212",
+      "name": "Slakoth",
+      "number": "212",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-213",
+      "name": "Kecleon",
+      "number": "213",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-214",
+      "name": "Braviary",
+      "number": "214",
+      "rarity": "illustration_rare"
+    },
+    {
+      "id": "surging_sparks-215",
+      "name": "Durant ex",
+      "number": "215",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-216",
+      "name": "Scovillain ex",
+      "number": "216",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-217",
+      "name": "Milotic ex",
+      "number": "217",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-218",
+      "name": "Black Kyurem ex",
+      "number": "218",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-219",
+      "name": "Pikachu ex",
+      "number": "219",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-220",
+      "name": "Latias ex",
+      "number": "220",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-221",
+      "name": "Palossand ex",
+      "number": "221",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-222",
+      "name": "Flygon ex",
+      "number": "222",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-223",
+      "name": "Hydreigon ex",
+      "number": "223",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-224",
+      "name": "Archaludon ex",
+      "number": "224",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-225",
+      "name": "Alolan Exeggutor ex",
+      "number": "225",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-226",
+      "name": "Tatsugiri ex",
+      "number": "226",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-227",
+      "name": "Slaking ex",
+      "number": "227",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-228",
+      "name": "Cyclizar ex",
+      "number": "228",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-229",
+      "name": "Clemont's Quick Wit",
+      "number": "229",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-230",
+      "name": "Cyrano",
+      "number": "230",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-231",
+      "name": "Drasna",
+      "number": "231",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-232",
+      "name": "Drayton",
+      "number": "232",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-233",
+      "name": "Jasmine's Gaze",
+      "number": "233",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-234",
+      "name": "Lisia's Appeal",
+      "number": "234",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-235",
+      "name": "Surfer",
+      "number": "235",
+      "rarity": "common"
+    },
+    {
+      "id": "surging_sparks-236",
+      "name": "Durant ex",
+      "number": "236",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "surging_sparks-237",
+      "name": "Milotic ex",
+      "number": "237",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "surging_sparks-238",
+      "name": "Pikachu ex",
+      "number": "238",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "surging_sparks-239",
+      "name": "Latias ex",
+      "number": "239",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "surging_sparks-240",
+      "name": "Hydreigon ex",
+      "number": "240",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "surging_sparks-241",
+      "name": "Archaludon ex",
+      "number": "241",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "surging_sparks-242",
+      "name": "Alolan Exeggutor ex",
+      "number": "242",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "surging_sparks-243",
+      "name": "Clemont's Quick Wit",
+      "number": "243",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "surging_sparks-244",
+      "name": "Drayton",
+      "number": "244",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "surging_sparks-245",
+      "name": "Jasmine's Gaze",
+      "number": "245",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "surging_sparks-246",
+      "name": "Lisia's Appeal",
+      "number": "246",
+      "rarity": "special_illustration_rare"
+    },
+    {
+      "id": "surging_sparks-247",
+      "name": "Pikachu ex",
+      "number": "247",
+      "rarity": "hyper_rare"
+    },
+    {
+      "id": "surging_sparks-248",
+      "name": "Alolan Exeggutor ex",
+      "number": "248",
+      "rarity": "hyper_rare"
+    },
+    {
+      "id": "surging_sparks-249",
+      "name": "Counter Gain",
+      "number": "249",
+      "rarity": "hyper_rare"
+    },
+    {
+      "id": "surging_sparks-250",
+      "name": "Gravity Mountain",
+      "number": "250",
+      "rarity": "hyper_rare"
+    },
+    {
+      "id": "surging_sparks-251",
+      "name": "Night Stretcher",
+      "number": "251",
+      "rarity": "hyper_rare"
+    },
+    {
+      "id": "surging_sparks-252",
+      "name": "Jet Energy",
+      "number": "252",
+      "rarity": "hyper_rare"
     }
   ]
 }

@@ -55,6 +55,12 @@ public class ModNetworking {
                 .encoder(RequestNextPackPacket::toBytes)
                 .consumer(RequestNextPackPacket::handle)
                 .add();
+        
+        net.messageBuilder(AddCardToInventoryPacket.class, id(), NetworkDirection.PLAY_TO_SERVER)
+                .decoder(AddCardToInventoryPacket::new)
+                .encoder(AddCardToInventoryPacket::encode)
+                .consumer(AddCardToInventoryPacket::handle)
+                .add();
     }
     
     public static <MSG> void sendToServer(MSG message) {

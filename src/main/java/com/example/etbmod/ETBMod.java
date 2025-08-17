@@ -21,7 +21,7 @@ import org.apache.logging.log4j.Logger;
 @Mod(ETBMod.MOD_ID)
 public class ETBMod {
     public static final String MOD_ID = "etbmod";
-    private static final Logger LOGGER = LogManager.getLogger();
+    public static final Logger LOGGER = LogManager.getLogger();
 
     public static final ItemGroup ITEM_GROUP = new ItemGroup(MOD_ID) {
         @Override

@@ -51,13 +51,10 @@ public class ShowCardsPacket {
         ctx.get().enqueueWork(() -> {
             // Make sure we're on the client side
             if (ctx.get().getDirection().getReceptionSide().isClient()) {
-                // Debug message
-                if (Minecraft.getInstance().player != null) {
-                    Minecraft.getInstance().player.displayClientMessage(
-                        new net.minecraft.util.text.StringTextComponent("§a[ETB] Opening CardRevealScreen with " + cards.size() + " cards"), false);
-                }
                 // Open the card reveal screen on the client
-                Minecraft.getInstance().setScreen(new CardRevealScreen(cards));
+                if (cards != null && !cards.isEmpty()) {
+                    Minecraft.getInstance().setScreen(new CardRevealScreen(cards));
+                }
             }
         });
         ctx.get().setPacketHandled(true);

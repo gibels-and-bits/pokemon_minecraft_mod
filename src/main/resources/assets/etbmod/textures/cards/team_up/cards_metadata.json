@@ -1,0 +1,1192 @@
+{
+  "cards": [
+    {
+      "id": "team_up-001",
+      "name": "Celebi Venusaur GX",
+      "number": "001",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "team_up-002",
+      "name": "Weedle",
+      "number": "002",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-003",
+      "name": "Weedle",
+      "number": "003",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-004",
+      "name": "Kakuna",
+      "number": "004",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-005",
+      "name": "Beedrill",
+      "number": "005",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-006",
+      "name": "Paras",
+      "number": "006",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-007",
+      "name": "Parasect",
+      "number": "007",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-008",
+      "name": "Exeggcute",
+      "number": "008",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-009",
+      "name": "Pinsir",
+      "number": "009",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-010",
+      "name": "Prism Star Shaymin",
+      "number": "010",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-011",
+      "name": "Charmander",
+      "number": "011",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-012",
+      "name": "Charmander",
+      "number": "012",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-013",
+      "name": "Charmeleon",
+      "number": "013",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-014",
+      "name": "Charizard",
+      "number": "014",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-015",
+      "name": "Vulpix",
+      "number": "015",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-016",
+      "name": "Ninetales",
+      "number": "016",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-017",
+      "name": "Ponyta",
+      "number": "017",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-018",
+      "name": "Rapidash",
+      "number": "018",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-019",
+      "name": "Moltres",
+      "number": "019",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-020",
+      "name": "Litten",
+      "number": "020",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-021",
+      "name": "Torracat",
+      "number": "021",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-022",
+      "name": "Squirtle",
+      "number": "022",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-023",
+      "name": "Squirtle",
+      "number": "023",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-024",
+      "name": "Wartortle",
+      "number": "024",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-025",
+      "name": "Blastoise",
+      "number": "025",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-026",
+      "name": "Psyduck",
+      "number": "026",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-027",
+      "name": "Golduck",
+      "number": "027",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-028",
+      "name": "Staryu",
+      "number": "028",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-029",
+      "name": "Magikarp",
+      "number": "029",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-030",
+      "name": "Gyarados",
+      "number": "030",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-031",
+      "name": "Lapras",
+      "number": "031",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-032",
+      "name": "Articuno",
+      "number": "032",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-033",
+      "name": "Pikachu Zekrom GX",
+      "number": "033",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "team_up-034",
+      "name": "Alolan Geodude",
+      "number": "034",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-035",
+      "name": "Alolan Geodude",
+      "number": "035",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-036",
+      "name": "Alolan Graveler",
+      "number": "036",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-037",
+      "name": "Alolan Golem",
+      "number": "037",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-038",
+      "name": "Voltorb",
+      "number": "038",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-039",
+      "name": "Electrode",
+      "number": "039",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-040",
+      "name": "Zapdos",
+      "number": "040",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-041",
+      "name": "Mareep",
+      "number": "041",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-042",
+      "name": "Flaaffy",
+      "number": "042",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-043",
+      "name": "Ampharos GX",
+      "number": "043",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "team_up-044",
+      "name": "Blitzle",
+      "number": "044",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-045",
+      "name": "Zebstrika",
+      "number": "045",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-046",
+      "name": "Emolga",
+      "number": "046",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-047",
+      "name": "Joltik",
+      "number": "047",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-048",
+      "name": "Galvantula",
+      "number": "048",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-049",
+      "name": "Helioptile",
+      "number": "049",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-050",
+      "name": "Heliolisk",
+      "number": "050",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-051",
+      "name": "Prism Star Tapu Koko",
+      "number": "051",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-052",
+      "name": "Zeraora",
+      "number": "052",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-053",
+      "name": "Gengar Mimikyu GX",
+      "number": "053",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "team_up-054",
+      "name": "Nidoran",
+      "number": "054",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-055",
+      "name": "Nidorina",
+      "number": "055",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-056",
+      "name": "Nidoqueen",
+      "number": "056",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-057",
+      "name": "Nidoran",
+      "number": "057",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-058",
+      "name": "Nidorino",
+      "number": "058",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-059",
+      "name": "Nidoking",
+      "number": "059",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-060",
+      "name": "Tentacool",
+      "number": "060",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-061",
+      "name": "Tentacruel",
+      "number": "061",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-062",
+      "name": "Grimer",
+      "number": "062",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-063",
+      "name": "Muk",
+      "number": "063",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-064",
+      "name": "Alolan Marowak",
+      "number": "064",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-065",
+      "name": "Starmie",
+      "number": "065",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-066",
+      "name": "Mr Mime",
+      "number": "066",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-067",
+      "name": "Mr Mime GX",
+      "number": "067",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "team_up-068",
+      "name": "Jynx",
+      "number": "068",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-069",
+      "name": "Cosmog",
+      "number": "069",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-070",
+      "name": "Cosmoem",
+      "number": "070",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-071",
+      "name": "Mankey",
+      "number": "071",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-072",
+      "name": "Primeape",
+      "number": "072",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-073",
+      "name": "Hitmonlee",
+      "number": "073",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-074",
+      "name": "Hitmonchan",
+      "number": "074",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-075",
+      "name": "Omanyte",
+      "number": "075",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-076",
+      "name": "Omastar",
+      "number": "076",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-077",
+      "name": "Kabuto",
+      "number": "077",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-078",
+      "name": "Kabutops",
+      "number": "078",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-079",
+      "name": "Larvitar",
+      "number": "079",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-080",
+      "name": "Pupitar",
+      "number": "080",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-081",
+      "name": "Pancham",
+      "number": "081",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-082",
+      "name": "Lycanroc GX",
+      "number": "082",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "team_up-083",
+      "name": "Alolan Grimer",
+      "number": "083",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-084",
+      "name": "Alolan Muk",
+      "number": "084",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-085",
+      "name": "Tyranitar",
+      "number": "085",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-086",
+      "name": "Poochyena",
+      "number": "086",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-087",
+      "name": "Mightyena",
+      "number": "087",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-088",
+      "name": "Absol",
+      "number": "088",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-089",
+      "name": "Spiritomb",
+      "number": "089",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-090",
+      "name": "Zorua",
+      "number": "090",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-091",
+      "name": "Zoroark",
+      "number": "091",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-092",
+      "name": "Vullaby",
+      "number": "092",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-093",
+      "name": "Mandibuzz",
+      "number": "093",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-094",
+      "name": "Pangoro",
+      "number": "094",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-095",
+      "name": "Yveltal",
+      "number": "095",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-096",
+      "name": "Hoopa GX",
+      "number": "096",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "team_up-097",
+      "name": "Incineroar GX",
+      "number": "097",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "team_up-098",
+      "name": "Skarmory",
+      "number": "098",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-099",
+      "name": "Jirachi",
+      "number": "099",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-100",
+      "name": "Bronzor",
+      "number": "100",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-101",
+      "name": "Bronzong",
+      "number": "101",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-102",
+      "name": "Ferroseed",
+      "number": "102",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-103",
+      "name": "Ferrothorn",
+      "number": "103",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-104",
+      "name": "Pawniard",
+      "number": "104",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-105",
+      "name": "Bisharp",
+      "number": "105",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-106",
+      "name": "Cobalion GX",
+      "number": "106",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "team_up-107",
+      "name": "Honedge",
+      "number": "107",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-108",
+      "name": "Doublade",
+      "number": "108",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-109",
+      "name": "Aegislash",
+      "number": "109",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-110",
+      "name": "Klefki",
+      "number": "110",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-111",
+      "name": "Alolan Ninetales",
+      "number": "111",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-112",
+      "name": "Mimikyu",
+      "number": "112",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-113",
+      "name": "Latias Latios GX",
+      "number": "113",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "team_up-114",
+      "name": "Alolan exeggutor",
+      "number": "114",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-115",
+      "name": "Alolan exeggutor",
+      "number": "115",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-116",
+      "name": "Dratini",
+      "number": "116",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-117",
+      "name": "Dratini",
+      "number": "117",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-118",
+      "name": "Dragonair",
+      "number": "118",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-119",
+      "name": "Dragonite",
+      "number": "119",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-120",
+      "name": "Eevee Snorlax GX",
+      "number": "120",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "team_up-121",
+      "name": "Pidgey",
+      "number": "121",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-122",
+      "name": "Pidgey",
+      "number": "122",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-123",
+      "name": "Pidgeotto",
+      "number": "123",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-124",
+      "name": "Pidgeot",
+      "number": "124",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-125",
+      "name": "Meowth",
+      "number": "125",
+      "rarity": "common"
+    },
+    {
+      "id": "team_up-126",
+      "name": "Persian",
+      "number": "126",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-127",
+      "name": "Farfetch D",
+      "number": "127",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-128",
+      "name": "Kangaskhan",
+      "number": "128",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-129",
+      "name": "Tauros",
+      "number": "129",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-130",
+      "name": "Aerodactyl",
+      "number": "130",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-131",
+      "name": "Lugia",
+      "number": "131",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-132",
+      "name": "Zangoose",
+      "number": "132",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-133",
+      "name": "Bill S Analysis",
+      "number": "133",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-134",
+      "name": "Prism Star Black Market",
+      "number": "134",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-135",
+      "name": "Brock S Grit",
+      "number": "135",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-136",
+      "name": "Buff Padding",
+      "number": "136",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-137",
+      "name": "Dana",
+      "number": "137",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-138",
+      "name": "Dangerous Drill",
+      "number": "138",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-139",
+      "name": "Electrocharger",
+      "number": "139",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-140",
+      "name": "Erika S Hospitality",
+      "number": "140",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "team_up-141",
+      "name": "Evelyn",
+      "number": "141",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-142",
+      "name": "Fairy Charm Ub",
+      "number": "142",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-143",
+      "name": "Grass Memory",
+      "number": "143",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-144",
+      "name": "Ingo Emmet",
+      "number": "144",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-145",
+      "name": "Jasmine",
+      "number": "145",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-146",
+      "name": "Judge Whistle",
+      "number": "146",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-147",
+      "name": "Lavender Town",
+      "number": "147",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-148",
+      "name": "Metal Goggles",
+      "number": "148",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-149",
+      "name": "Morgan",
+      "number": "149",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-150",
+      "name": "Nanu",
+      "number": "150",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-151",
+      "name": "Nita",
+      "number": "151",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-152",
+      "name": "Pok Mon Communication",
+      "number": "152",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-152a",
+      "name": "Pok Mon Communication",
+      "number": "152a",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-152b",
+      "name": "Pok Mon Communication",
+      "number": "152b",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-153",
+      "name": "Return Label",
+      "number": "153",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-154",
+      "name": "Sabrina S Suggestion",
+      "number": "154",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-155",
+      "name": "Unidentified Fossil",
+      "number": "155",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-156",
+      "name": "Viridian Forest",
+      "number": "156",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-157",
+      "name": "Water Memory",
+      "number": "157",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "team_up-158",
+      "name": "Prism Star Wondrous Labyrinth",
+      "number": "158",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-159",
+      "name": "Celebi Venusaur GX",
+      "number": "159",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-160",
+      "name": "Magikarp Wailord GX",
+      "number": "160",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-161",
+      "name": "Magikarp Wailord GX",
+      "number": "161",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-162",
+      "name": "Pikachu Zekrom GX",
+      "number": "162",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-163",
+      "name": "Ampharos GX",
+      "number": "163",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-164",
+      "name": "Gengar Mimikyu GX",
+      "number": "164",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-165",
+      "name": "Gengar Mimikyu GX",
+      "number": "165",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-166",
+      "name": "Hoopa GX",
+      "number": "166",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-167",
+      "name": "Incineroar GX",
+      "number": "167",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-168",
+      "name": "Cobalion GX",
+      "number": "168",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-169",
+      "name": "Latias Latios GX",
+      "number": "169",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-170",
+      "name": "Latias Latios GX",
+      "number": "170",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-171",
+      "name": "Eevee Snorlax GX",
+      "number": "171",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-172",
+      "name": "Brock S Grit",
+      "number": "172",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-173",
+      "name": "Dana",
+      "number": "173",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-174",
+      "name": "Erika S Hospitality",
+      "number": "174",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-175",
+      "name": "Evelyn",
+      "number": "175",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-176",
+      "name": "Ingo Emmet",
+      "number": "176",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-177",
+      "name": "Jasmine",
+      "number": "177",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-178",
+      "name": "Morgan",
+      "number": "178",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-179",
+      "name": "Nanu",
+      "number": "179",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-180",
+      "name": "Nita",
+      "number": "180",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-181",
+      "name": "Sabrina S Suggestion",
+      "number": "181",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "team_up-182",
+      "name": "Rainbow Celebi Venusaur GX",
+      "number": "182",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-183",
+      "name": "Rainbow Magikarp Wailord GX",
+      "number": "183",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-184",
+      "name": "Rainbow Pikachu Zekrom GX",
+      "number": "184",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-185",
+      "name": "Rainbow Ampharos GX",
+      "number": "185",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-186",
+      "name": "Rainbow Gengar Mimikyu GX",
+      "number": "186",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-187",
+      "name": "Rainbow Hoopa GX",
+      "number": "187",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-188",
+      "name": "Rainbow Incineroar GX",
+      "number": "188",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-189",
+      "name": "Rainbow Cobalion GX",
+      "number": "189",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-190",
+      "name": "Rainbow Latias Latios GX",
+      "number": "190",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-191",
+      "name": "Rainbow Eevee Snorlax GX",
+      "number": "191",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-192",
+      "name": "Secret Dangerous Drill",
+      "number": "192",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-193",
+      "name": "Secret Electrocharger",
+      "number": "193",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-194",
+      "name": "Secret Judge Whistle",
+      "number": "194",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-195",
+      "name": "Secret Metal Goggles",
+      "number": "195",
+      "rarity": "rare"
+    },
+    {
+      "id": "team_up-196",
+      "name": "Secret Pok Mon Communication",
+      "number": "196",
+      "rarity": "rare"
+    }
+  ]
+}

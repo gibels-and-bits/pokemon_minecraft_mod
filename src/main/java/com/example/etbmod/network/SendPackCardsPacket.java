@@ -34,7 +34,7 @@ public class SendPackCardsPacket {
             try {
                 rarity = CardRarity.valueOf(rarityStr);
             } catch (IllegalArgumentException e) {
-                System.err.println("[ETBMod] Unknown rarity: " + rarityStr);
+                // Debug: Unknown rarity
             }
             
             cards.add(new Card(id, name, number, rarity, setName, imagePath));

@@ -1,0 +1,490 @@
+{
+  "set_id": "sm115",
+  "folder_name": "hidden_fates",
+  "total_cards": 69,
+  "cards": [
+    {
+      "number": "1",
+      "name": "Caterpie",
+      "rarity": "common",
+      "filename": "001_common_caterpie.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "2",
+      "name": "Metapod",
+      "rarity": "uncommon",
+      "filename": "002_uncommon_metapod.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "3",
+      "name": "Butterfree",
+      "rarity": "rare",
+      "filename": "003_rare_butterfree.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "4",
+      "name": "Paras",
+      "rarity": "common",
+      "filename": "004_common_paras.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "5",
+      "name": "Scyther",
+      "rarity": "uncommon",
+      "filename": "005_uncommon_scyther.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "6",
+      "name": "Pinsir-GX",
+      "rarity": "rare_holo_gx",
+      "filename": "006_rare_holo_gx_pinsir_gx.png",
+      "original_rarity": "Rare Holo GX"
+    },
+    {
+      "number": "7",
+      "name": "Charmander",
+      "rarity": "common",
+      "filename": "007_common_charmander.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "8",
+      "name": "Charmeleon",
+      "rarity": "uncommon",
+      "filename": "008_uncommon_charmeleon.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "9",
+      "name": "Charizard-GX",
+      "rarity": "rare_holo_gx",
+      "filename": "009_rare_holo_gx_charizard_gx.png",
+      "original_rarity": "Rare Holo GX"
+    },
+    {
+      "number": "10",
+      "name": "Magmar",
+      "rarity": "uncommon",
+      "filename": "010_uncommon_magmar.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "11",
+      "name": "Psyduck",
+      "rarity": "common",
+      "filename": "011_common_psyduck.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "12",
+      "name": "Slowpoke",
+      "rarity": "common",
+      "filename": "012_common_slowpoke.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "13",
+      "name": "Staryu",
+      "rarity": "common",
+      "filename": "013_common_staryu.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "14",
+      "name": "Starmie-GX",
+      "rarity": "rare_holo_gx",
+      "filename": "014_rare_holo_gx_starmie_gx.png",
+      "original_rarity": "Rare Holo GX"
+    },
+    {
+      "number": "15",
+      "name": "Magikarp",
+      "rarity": "common",
+      "filename": "015_common_magikarp.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "16",
+      "name": "Gyarados-GX",
+      "rarity": "rare_holo_gx",
+      "filename": "016_rare_holo_gx_gyarados_gx.png",
+      "original_rarity": "Rare Holo GX"
+    },
+    {
+      "number": "17",
+      "name": "Lapras",
+      "rarity": "rare",
+      "filename": "017_rare_lapras.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "18",
+      "name": "Vaporeon",
+      "rarity": "rare_holo",
+      "filename": "018_rare_holo_vaporeon.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "19",
+      "name": "Pikachu",
+      "rarity": "common",
+      "filename": "019_common_pikachu.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "20",
+      "name": "Raichu-GX",
+      "rarity": "rare_holo_gx",
+      "filename": "020_rare_holo_gx_raichu_gx.png",
+      "original_rarity": "Rare Holo GX"
+    },
+    {
+      "number": "21",
+      "name": "Voltorb",
+      "rarity": "common",
+      "filename": "021_common_voltorb.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "22",
+      "name": "Electrode",
+      "rarity": "rare",
+      "filename": "022_rare_electrode.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "23",
+      "name": "Jolteon",
+      "rarity": "rare",
+      "filename": "023_rare_jolteon.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "24",
+      "name": "Zapdos",
+      "rarity": "rare_holo",
+      "filename": "024_rare_holo_zapdos.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "25",
+      "name": "Ekans",
+      "rarity": "common",
+      "filename": "025_common_ekans.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "26",
+      "name": "Ekans",
+      "rarity": "common",
+      "filename": "026_common_ekans.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "27",
+      "name": "Arbok",
+      "rarity": "rare",
+      "filename": "027_rare_arbok.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "28",
+      "name": "Koffing",
+      "rarity": "common",
+      "filename": "028_common_koffing.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "29",
+      "name": "Weezing",
+      "rarity": "rare",
+      "filename": "029_rare_weezing.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "30",
+      "name": "Jynx",
+      "rarity": "uncommon",
+      "filename": "030_uncommon_jynx.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "31",
+      "name": "Mewtwo-GX",
+      "rarity": "rare_holo_gx",
+      "filename": "031_rare_holo_gx_mewtwo_gx.png",
+      "original_rarity": "Rare Holo GX"
+    },
+    {
+      "number": "32",
+      "name": "Mew",
+      "rarity": "rare",
+      "filename": "032_rare_mew.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "33",
+      "name": "Geodude",
+      "rarity": "common",
+      "filename": "033_common_geodude.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "34",
+      "name": "Graveler",
+      "rarity": "uncommon",
+      "filename": "034_uncommon_graveler.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "35",
+      "name": "Golem",
+      "rarity": "rare",
+      "filename": "035_rare_golem.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "36",
+      "name": "Onix-GX",
+      "rarity": "rare_holo_gx",
+      "filename": "036_rare_holo_gx_onix_gx.png",
+      "original_rarity": "Rare Holo GX"
+    },
+    {
+      "number": "37",
+      "name": "Cubone",
+      "rarity": "common",
+      "filename": "037_common_cubone.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "38",
+      "name": "Clefairy",
+      "rarity": "common",
+      "filename": "038_common_clefairy.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "39",
+      "name": "Clefairy",
+      "rarity": "common",
+      "filename": "039_common_clefairy.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "40",
+      "name": "Clefable",
+      "rarity": "rare",
+      "filename": "040_rare_clefable.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "41",
+      "name": "Jigglypuff",
+      "rarity": "common",
+      "filename": "041_common_jigglypuff.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "42",
+      "name": "Wigglytuff-GX",
+      "rarity": "rare_holo_gx",
+      "filename": "042_rare_holo_gx_wigglytuff_gx.png",
+      "original_rarity": "Rare Holo GX"
+    },
+    {
+      "number": "43",
+      "name": "Mr. Mime",
+      "rarity": "rare",
+      "filename": "043_rare_mr_mime.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "44",
+      "name": "Moltres & Zapdos & Articuno-GX",
+      "rarity": "rare_holo_gx",
+      "filename": "044_rare_holo_gx_moltres_zapdos_articuno_gx.png",
+      "original_rarity": "Rare Holo GX"
+    },
+    {
+      "number": "45",
+      "name": "Farfetch'd",
+      "rarity": "uncommon",
+      "filename": "045_uncommon_farfetch_d.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "46",
+      "name": "Chansey",
+      "rarity": "uncommon",
+      "filename": "046_uncommon_chansey.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "47",
+      "name": "Kangaskhan",
+      "rarity": "rare",
+      "filename": "047_rare_kangaskhan.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "48",
+      "name": "Eevee",
+      "rarity": "rare_holo",
+      "filename": "048_rare_holo_eevee.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "49",
+      "name": "Eevee",
+      "rarity": "common",
+      "filename": "049_common_eevee.png",
+      "original_rarity": "Common"
+    },
+    {
+      "number": "50",
+      "name": "Snorlax",
+      "rarity": "rare",
+      "filename": "050_rare_snorlax.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "51",
+      "name": "Bill's Analysis",
+      "rarity": "rare",
+      "filename": "051_rare_bill_s_analysis.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "52",
+      "name": "Blaine's Last Stand",
+      "rarity": "rare",
+      "filename": "052_rare_blaine_s_last_stand.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "53",
+      "name": "Brock's Grit",
+      "rarity": "uncommon",
+      "filename": "053_uncommon_brock_s_grit.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "54",
+      "name": "Brock's Pewter City Gym",
+      "rarity": "uncommon",
+      "filename": "054_uncommon_brock_s_pewter_city_gym.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "55",
+      "name": "Brock's Training",
+      "rarity": "rare_holo",
+      "filename": "055_rare_holo_brock_s_training.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "56",
+      "name": "Erika's Hospitality",
+      "rarity": "rare",
+      "filename": "056_rare_erika_s_hospitality.png",
+      "original_rarity": "Rare"
+    },
+    {
+      "number": "57",
+      "name": "Giovanni's Exile",
+      "rarity": "uncommon",
+      "filename": "057_uncommon_giovanni_s_exile.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "58",
+      "name": "Jessie & James",
+      "rarity": "rare_holo",
+      "filename": "058_rare_holo_jessie_james.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "59",
+      "name": "Koga's Trap",
+      "rarity": "uncommon",
+      "filename": "059_uncommon_koga_s_trap.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "60",
+      "name": "Lt. Surge's Strategy",
+      "rarity": "uncommon",
+      "filename": "060_uncommon_lt_surge_s_strategy.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "61",
+      "name": "Misty's Cerulean City Gym",
+      "rarity": "uncommon",
+      "filename": "061_uncommon_misty_s_cerulean_city_gym.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "62",
+      "name": "Misty's Determination",
+      "rarity": "uncommon",
+      "filename": "062_uncommon_misty_s_determination.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "63",
+      "name": "Misty's Water Command",
+      "rarity": "rare_holo",
+      "filename": "063_rare_holo_misty_s_water_command.png",
+      "original_rarity": "Rare Holo"
+    },
+    {
+      "number": "64",
+      "name": "Pok\u00e9mon Center Lady",
+      "rarity": "uncommon",
+      "filename": "064_uncommon_pok_mon_center_lady.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "65",
+      "name": "Sabrina's Suggestion",
+      "rarity": "uncommon",
+      "filename": "065_uncommon_sabrina_s_suggestion.png",
+      "original_rarity": "Uncommon"
+    },
+    {
+      "number": "66",
+      "name": "Moltres & Zapdos & Articuno-GX",
+      "rarity": "rare_ultra",
+      "filename": "066_rare_ultra_moltres_zapdos_articuno_gx.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "67",
+      "name": "Giovanni's Exile",
+      "rarity": "rare_ultra",
+      "filename": "067_rare_ultra_giovanni_s_exile.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "68",
+      "name": "Jessie & James",
+      "rarity": "rare_ultra",
+      "filename": "068_rare_ultra_jessie_james.png",
+      "original_rarity": "Rare Ultra"
+    },
+    {
+      "number": "69",
+      "name": "Moltres & Zapdos & Articuno-GX",
+      "rarity": "rare_rainbow",
+      "filename": "069_rare_rainbow_moltres_zapdos_articuno_gx.png",
+      "original_rarity": "Rare Rainbow"
+    }
+  ]
+}

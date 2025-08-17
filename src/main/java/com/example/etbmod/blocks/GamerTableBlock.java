@@ -22,21 +22,14 @@ import net.minecraftforge.fml.network.NetworkHooks;
 
 public class GamerTableBlock extends Block {
     
-    // Table is 14x10x14 pixels (slightly smaller than full block for style)
-    private static final VoxelShape SHAPE = Block.box(1.0D, 0.0D, 1.0D, 15.0D, 10.0D, 15.0D);
+    // Full block like crafting table
     
     public GamerTableBlock() {
         super(Properties.of(Material.WOOD)
                 .strength(2.5F)
                 .sound(SoundType.WOOD)
                 .harvestTool(ToolType.AXE)
-                .harvestLevel(0)
-                .noOcclusion());
-    }
-    
-    @Override
-    public VoxelShape getShape(BlockState state, IBlockReader worldIn, BlockPos pos, ISelectionContext context) {
-        return SHAPE;
+                .harvestLevel(0));
     }
     
     @Override
@@ -72,8 +65,4 @@ public class GamerTableBlock extends Block {
         }
     }
     
-    @Override
-    public boolean useShapeForLightOcclusion(BlockState state) {
-        return true;
-    }
 }

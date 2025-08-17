@@ -10,21 +10,23 @@ credits="Pokemon TCG Community"
 authors="ETB Mod Team"
 description='''Brings Pokemon TCG Elite Trainer Boxes to Minecraft!
 
-Features in v2.3:
-- 13 unique ETB designs from real Pokemon TCG sets
-- Custom 3D models with accurate proportions  
+Features in v5.1:
+- 20 unique ETB designs from real Pokemon TCG sets
+- Custom orthographic textures extracted from real ETB images
 - Directional placement - rotate your ETBs
 - Scissors tool to open ETBs and get booster packs
-- 12 unique booster pack items with high-quality textures
+- Multiple booster pack items with high-quality textures
 - Gamer Table - Interactive block with GUI
-- NEW: Open booster packs on the Gamer Table!
-- NEW: Realistic card pack opening experience
-- NEW: 10 cards per pack with accurate rarity distribution
-- NEW: Navigate through cards with arrow keys
-- NEW: Fully self-contained - all card data included in mod!
-- NEW: 10 complete Pokemon TCG sets with 700+ cards
-- NEW: Cards load from mod resources (works on any server)
-- Optimized card images for small mod size (~20MB total)
+- Open booster packs on the Gamer Table!
+- Realistic card pack opening experience
+- 10 cards per pack with accurate rarity distribution
+- Navigate through cards with arrow keys
+- Fully self-contained - all card data included in mod!
+- Multiple complete Pokemon TCG sets with thousands of cards
+- Cards load from mod resources (works on any server)
+- NEW in v5.1: 7 additional ETB designs
+- NEW in v5.1: Improved texture processing with transparent backgrounds
+- NEW in v5.1: Orthographic front and side views for realistic appearance
 '''
 
 [[dependencies.etbmod]]

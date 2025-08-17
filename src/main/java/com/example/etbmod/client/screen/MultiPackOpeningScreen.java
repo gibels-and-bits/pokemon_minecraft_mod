@@ -241,11 +241,12 @@ public class MultiPackOpeningScreen extends Screen {
             cardScale = Math.max(cardScale - 0.05f, targetScale);
         }
         
-        // Card dimensions - proper Pokemon TCG aspect ratio (5:7)
-        int cardWidth = 180;
-        int cardHeight = 252;
+        // Card dimensions - match actual card texture size (128x256)
+        // Scale up slightly for better visibility
+        int cardWidth = 192;  // 128 * 1.5
+        int cardHeight = 384; // 256 * 1.5
         int x = (this.width - cardWidth) / 2;
-        int y = (this.height - cardHeight) / 2;
+        int y = (this.height - cardHeight) / 2 - 20;
         
         matrixStack.pushPose();
         
@@ -267,8 +268,12 @@ public class MultiPackOpeningScreen extends Screen {
                     new StringTextComponent("§a[ETB] Found texture for: " + currentCard.getName()), true);
                 RenderSystem.color4f(1.0F, 1.0F, 1.0F, 1.0F);
                 this.minecraft.getTextureManager().bind(texture);
-                // Render card with proper aspect ratio (180x252 from 256x256 texture)
-                blit(matrixStack, x, y, 0, 0, cardWidth, cardHeight, 256, 256);
+                // The card image is centered in a 256x256 texture
+                // Cards are 128x256, centered at (64, 0) in the texture
+                int textureX = 64;  // Offset in texture where card starts (256-128)/2
+                int textureY = 0;   // No vertical offset
+                // Draw the entire 128x256 card from the 256x256 texture
+                blit(matrixStack, x, y, textureX, textureY, 128, 256, 256, 256);
             } else {
                 minecraft.player.displayClientMessage(
                     new StringTextComponent("§c[ETB] No texture for: " + currentCard.getName() + " path: " + currentCard.getImagePath()), true);

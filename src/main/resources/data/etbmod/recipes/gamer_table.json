@@ -1,19 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "BBB",
+    "GGG",
     "ILI",
-    "I I"
+    "IPI"
   ],
   "key": {
-    "B": {
-      "item": "minecraft:black_wool"
+    "G": {
+      "item": "minecraft:gray_wool"
     },
     "I": {
       "item": "minecraft:iron_ingot"
     },
     "L": {
-      "item": "minecraft:lapis_block"
+      "item": "minecraft:glowstone_dust"
+    },
+    "P": {
+      "tag": "minecraft:planks"
     }
   },
   "result": {

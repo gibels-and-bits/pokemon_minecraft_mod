@@ -27,18 +27,69 @@ public enum CardRarity {
     }
     
     public static CardRarity fromString(String rarity) {
+        // Normalize the input - handle underscores, hyphens, and case
+        String normalized = rarity.toLowerCase()
+            .replace("_", " ")
+            .replace("-", " ")
+            .trim();
+        
+        // Direct string mappings for common formats
+        switch (normalized) {
+            case "common":
+                return COMMON;
+            case "uncommon":
+                return UNCOMMON;
+            case "rare":
+            case "rare holo":
+                return RARE;
+            case "double rare":
+            case "double_rare":
+                return DOUBLE_RARE;
+            case "ultra rare":
+            case "ultra_rare":
+                return ULTRA_RARE;
+            case "illustration rare":
+            case "illustration_rare":
+                return ILLUSTRATION_RARE;
+            case "special illustration rare":
+            case "special_illustration_rare":
+                return SPECIAL_ILLUSTRATION_RARE;
+            case "black white rare":
+            case "black_white_rare":
+                return BLACK_WHITE_RARE;
+        }
+        
+        // Check against display names (case-insensitive)
         for (CardRarity r : values()) {
             if (r.displayName.equalsIgnoreCase(rarity)) {
                 return r;
             }
         }
-        // Handle special cases
-        if (rarity.contains("Illustration Rare") && rarity.contains("Special")) {
+        
+        // Handle special cases with partial matches
+        String lowerRarity = rarity.toLowerCase();
+        if (lowerRarity.contains("special") && lowerRarity.contains("illustration")) {
             return SPECIAL_ILLUSTRATION_RARE;
         }
-        if (rarity.contains("Illustration Rare")) {
+        if (lowerRarity.contains("illustration") && lowerRarity.contains("rare")) {
             return ILLUSTRATION_RARE;
         }
+        if (lowerRarity.contains("ultra") && lowerRarity.contains("rare")) {
+            return ULTRA_RARE;
+        }
+        if (lowerRarity.contains("double") && lowerRarity.contains("rare")) {
+            return DOUBLE_RARE;
+        }
+        if (lowerRarity.contains("black") && lowerRarity.contains("white")) {
+            return BLACK_WHITE_RARE;
+        }
+        if (lowerRarity.contains("rare")) {
+            return RARE;
+        }
+        if (lowerRarity.contains("uncommon")) {
+            return UNCOMMON;
+        }
+        
         return COMMON; // Default
     }
 }

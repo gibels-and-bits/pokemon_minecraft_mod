@@ -27,18 +27,17 @@ public class CardTextureManager {
             InputStream stream = CardTextureManager.class.getClassLoader().getResourceAsStream(resourcePath);
             
             if (stream == null) {
-                // Debug: Card texture not found
-                // Send debug message
-                if (Minecraft.getInstance().player != null) {
-                    Minecraft.getInstance().player.displayClientMessage(
-                        new net.minecraft.util.text.StringTextComponent("§c[ETB] Texture not found: " + cardPath), true);
-                }
+                // Card texture not found - this is expected for some cards
                 return null;
             }
             
-            // Load as NativeImage
-            NativeImage originalImage = NativeImage.read(stream);
-            stream.close();
+            // Load as NativeImage with proper resource management
+            NativeImage originalImage;
+            try {
+                originalImage = NativeImage.read(stream);
+            } finally {
+                stream.close();
+            }
             
             // Create a 256x256 canvas and center the card image WITHOUT stretching
             NativeImage canvasImage = new NativeImage(256, 256, true);
@@ -89,30 +88,16 @@ public class CardTextureManager {
             // Cache it
             loadedTextures.put(cardPath, textureLocation);
             
-            // Debug message
-            if (Minecraft.getInstance().player != null) {
-                Minecraft.getInstance().player.displayClientMessage(
-                    new net.minecraft.util.text.StringTextComponent("§a[ETB] Texture loaded: " + textureName), true);
-            }
-            
-            // Debug: Successfully loaded card texture
+            // Successfully loaded card texture
             return textureLocation;
             
         } catch (IOException e) {
-            // Debug: Failed to load card texture
-            e.printStackTrace();
-            if (Minecraft.getInstance().player != null) {
-                Minecraft.getInstance().player.displayClientMessage(
-                    new net.minecraft.util.text.StringTextComponent("§c[ETB] Load error: " + e.getMessage()), true);
-            }
+            // Failed to load card texture
+            ETBMod.LOGGER.error("Failed to load card texture: " + cardPath, e);
             return null;
         } catch (Exception e) {
-            // Debug: Unexpected error loading texture
-            e.printStackTrace();
-            if (Minecraft.getInstance().player != null) {
-                Minecraft.getInstance().player.displayClientMessage(
-                    new net.minecraft.util.text.StringTextComponent("§c[ETB] Unexpected error: " + e.getClass().getSimpleName()), true);
-            }
+            // Unexpected error loading texture
+            ETBMod.LOGGER.error("Unexpected error loading texture: " + cardPath, e);
             return null;
         }
     }

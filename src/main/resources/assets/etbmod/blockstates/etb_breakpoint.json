@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "etbmod:block/etb_breakpoint"
+    },
+    "facing=south": {
+      "model": "etbmod:block/etb_breakpoint",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "etbmod:block/etb_breakpoint",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "etbmod:block/etb_breakpoint",
+      "y": 90
+    }
+  }
+}

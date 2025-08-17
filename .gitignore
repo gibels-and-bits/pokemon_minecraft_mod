@@ -1,25 +1,72 @@
-# eclipse
-bin
-*.launch
-.settings
-.metadata
-.classpath
-.project
+# Build outputs
+build/
+!gradle/wrapper/gradle-wrapper.jar
+*.jar
 
-# idea
-out
+# IDE files
+.gradle/
+.idea/
+*.iml
 *.ipr
 *.iws
-*.iml
-.idea
+out/
+.vscode/
+.settings/
+.project
+.classpath
+eclipse/
+bin/
+*.launch
+.metadata
 
-# gradle
-build
-.gradle
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
 
-# other
-eclipse
-run
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Minecraft
+run/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Archives
+archive/
+
+# Download logs and progress files
+download_*.log
+fetch_*.txt
+download_progress.json
+*.json.tmp
+
+# Large image directories
+raw_images/cards/
+cards_backup/
+
+# Local configuration
+*.local
+local.properties
+gradle.properties.local
+
+# Test outputs
+test-output/
+test-results/
 
 # Files from Forge MDK
 forge*changelog.txt

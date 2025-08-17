@@ -4,17 +4,23 @@ import com.example.etbmod.ETBMod;
 import com.example.etbmod.cards.Card;
 import com.example.etbmod.cards.CardRarity;
 import com.example.etbmod.client.texture.CardTextureManager;
+import com.example.etbmod.items.CardItem;
+import com.example.etbmod.network.AddCardToInventoryPacket;
+import com.example.etbmod.network.ModNetworking;
 import com.mojang.blaze3d.matrix.MatrixStack;
 import com.mojang.blaze3d.systems.RenderSystem;
 import net.minecraft.client.gui.screen.Screen;
+import net.minecraft.item.ItemStack;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.SoundEvents;
 import net.minecraft.util.text.StringTextComponent;
 import org.lwjgl.glfw.GLFW;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 public class CardRevealScreen extends Screen {
     private final List<Card> cards;
@@ -23,6 +29,7 @@ public class CardRevealScreen extends Screen {
     private boolean[] revealed;
     private long lastKeyPress = 0;
     private boolean celebrationPlayed = false;
+    private final Set<Integer> cardsAddedToInventory = new HashSet<>();
     
     // Animation
     private float cardScale = 1.0f;
@@ -99,10 +106,10 @@ public class CardRevealScreen extends Screen {
         // Draw current card
         Card currentCard = cards.get(currentCardIndex);
         
-        // Card dimensions - proper Pokemon TCG aspect ratio (approximately 5:7)
-        // Texture is 256x256 (power of 2), but we only use 180x252 of it (maintains 5:7 ratio)
-        int cardWidth = 180;
-        int cardHeight = 252;
+        // Card dimensions - match actual card texture size (128x256)
+        // Scale up slightly for better visibility
+        int cardWidth = 192;  // 128 * 1.5
+        int cardHeight = 384; // 256 * 1.5
         int x = (this.width - cardWidth) / 2;
         int y = (this.height - cardHeight) / 2 - 30;
         
@@ -141,11 +148,14 @@ public class CardRevealScreen extends Screen {
                     
                     // Texture is ready to render
                     // Card textures are stored in 256x256 power-of-2 textures
-                    // But actual card image only uses 180x252 (5:7 ratio) of that space
-                    // This ensures proper aspect ratio while maintaining power-of-2 texture size
+                    // The card image is centered in the texture without scaling
+                    // We need to extract just the card portion
                     
-                    // Render the card portion of the texture (180x252 out of 256x256)
-                    blit(matrixStack, x, y, 0, 0, cardWidth, cardHeight, 256, 256);
+                    // Cards are 128x256, centered at (64, 0) in the texture
+                    int textureX = 64;  // Offset in texture where card starts (256-128)/2
+                    int textureY = 0;   // No vertical offset
+                    // Draw the entire 128x256 card from the 256x256 texture
+                    blit(matrixStack, x, y, textureX, textureY, 128, 256, 256, 256);
                 } catch (Exception e) {
                     // If texture loading fails, use placeholder
                     // Debug: Failed to render texture
@@ -324,8 +334,9 @@ public class CardRevealScreen extends Screen {
     
     private boolean isRareCard(Card card) {
         CardRarity rarity = card.getRarity();
-        // Only cards rarer than RARE (not including RARE itself)
-        return rarity == CardRarity.DOUBLE_RARE || 
+        // Include RARE and all higher rarities
+        return rarity == CardRarity.RARE ||
+               rarity == CardRarity.DOUBLE_RARE || 
                rarity == CardRarity.ULTRA_RARE || 
                rarity == CardRarity.ILLUSTRATION_RARE || 
                rarity == CardRarity.SPECIAL_ILLUSTRATION_RARE ||
@@ -365,6 +376,8 @@ public class CardRevealScreen extends Screen {
                 if (this.minecraft.player != null) {
                     this.minecraft.player.playSound(SoundEvents.UI_BUTTON_CLICK, 0.5F, 1.0F);
                 }
+                // Check if this card should be added to inventory
+                checkAndAddCardToInventory(currentCardIndex);
                 return true;
             }
         } else if (keyCode == GLFW.GLFW_KEY_LEFT) {
@@ -377,6 +390,8 @@ public class CardRevealScreen extends Screen {
                 if (this.minecraft.player != null) {
                     this.minecraft.player.playSound(SoundEvents.UI_BUTTON_CLICK, 0.5F, 0.8F);
                 }
+                // Check if this card should be added to inventory (in case they navigate back)
+                checkAndAddCardToInventory(currentCardIndex);
                 return true;
             }
         } else if (keyCode == GLFW.GLFW_KEY_SPACE) {
@@ -388,11 +403,45 @@ public class CardRevealScreen extends Screen {
                 if (this.minecraft.player != null) {
                     this.minecraft.player.playSound(SoundEvents.UI_BUTTON_CLICK, 0.5F, 1.2F);
                 }
+                // Check if this card should be added to inventory
+                checkAndAddCardToInventory(currentCardIndex);
                 return true;
             }
         }
         
         return super.keyPressed(keyCode, scanCode, modifiers);
+    }
+    
+    private void checkAndAddCardToInventory(int cardIndex) {
+        // Only add rare or better cards to inventory
+        if (!cardsAddedToInventory.contains(cardIndex) && revealed[cardIndex]) {
+            Card card = cards.get(cardIndex);
+            CardRarity rarity = card.getRarity();
+            
+            // Check if card is rare or better (including RARE, not just ultra-rare cards)
+            if (rarity == CardRarity.RARE || 
+                rarity == CardRarity.DOUBLE_RARE || 
+                rarity == CardRarity.ULTRA_RARE || 
+                rarity == CardRarity.ILLUSTRATION_RARE || 
+                rarity == CardRarity.SPECIAL_ILLUSTRATION_RARE ||
+                rarity == CardRarity.BLACK_WHITE_RARE) {
+                // Mark as added to prevent duplicates
+                cardsAddedToInventory.add(cardIndex);
+                
+                // Send packet to server to add card to inventory
+                ModNetworking.sendToServer(new AddCardToInventoryPacket(card));
+                
+                // Play special sound for rare card added
+                if (this.minecraft.player != null) {
+                    this.minecraft.player.playSound(SoundEvents.EXPERIENCE_ORB_PICKUP, 0.8F, 1.2F);
+                    
+                    // Show message to player
+                    String message = String.format("§6%s §aadded to inventory!", card.getName());
+                    this.minecraft.player.displayClientMessage(
+                        new StringTextComponent(message), true);
+                }
+            }
+        }
     }
     
     @Override

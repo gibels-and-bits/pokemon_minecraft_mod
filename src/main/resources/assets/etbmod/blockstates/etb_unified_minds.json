@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "etbmod:block/etb_unified_minds"
+    },
+    "facing=south": {
+      "model": "etbmod:block/etb_unified_minds",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "etbmod:block/etb_unified_minds",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "etbmod:block/etb_unified_minds",
+      "y": 90
+    }
+  }
+}

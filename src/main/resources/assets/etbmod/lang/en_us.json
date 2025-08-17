@@ -30,5 +30,6 @@
   "tooltip.etbmod.card_count": "Contains %s cards",
   "tooltip.etbmod.set_name": "Set: %s",
   "block.etbmod.gamer_table": "Gamer Table",
-  "container.etbmod.gamer_table": "Gamer Table"
+  "container.etbmod.gamer_table": "Gamer Table",
+  "item.etbmod.pokemon_card": "Pokemon Card"
 }

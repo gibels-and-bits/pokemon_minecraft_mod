@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "etbmod:item/etb_groudon_booster"
-  }
-}

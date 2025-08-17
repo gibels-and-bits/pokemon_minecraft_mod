@@ -32,18 +32,30 @@ public class CardDatabase {
     
     private void loadCards() {
         // Map booster pack names to card set folders
+        // Only include sets that have actual card textures in textures/cards/
         Map<String, String> setMappings = new HashMap<>();
-        setMappings.put("151", "151");
         setMappings.put("black_bolt", "black_bolt");
+        setMappings.put("breakpoint", "breakpoint");
         setMappings.put("brilliant_stars", "brilliant_stars");
-        setMappings.put("celebrations", "celebrations");
+        setMappings.put("burning_shadows", "burning_shadows");
+        setMappings.put("cosmic_eclipse", "cosmic_eclipse");
+        setMappings.put("crown_zenith", "crown_zenith");
         setMappings.put("destined_rivals", "destined_rivals");
+        setMappings.put("evolutions", "evolutions");
+        setMappings.put("evolving_skies", "evolving_skies");
         setMappings.put("generations", "generations");
-        setMappings.put("groudon", "groudon");
+        setMappings.put("hidden_fates", "hidden_fates");
         setMappings.put("journey_together", "journey_together");
-        setMappings.put("kyogre", "kyogre");
+        setMappings.put("phantom_forces", "phantom_forces");
+        setMappings.put("primal_clash", "primal_clash");
         setMappings.put("prismatic_evolutions", "prismatic_evolutions");
+        setMappings.put("rebel_clash", "rebel_clash");
+        setMappings.put("shining_fates", "shining_fates");
+        setMappings.put("shrouded_fable", "shrouded_fable");
         setMappings.put("surging_sparks", "surging_sparks");
+        setMappings.put("team_up", "team_up");
+        setMappings.put("unified_minds", "unified_minds");
+        setMappings.put("vivid_voltage", "vivid_voltage");
         setMappings.put("white_flare", "white_flare");
         
         for (Map.Entry<String, String> entry : setMappings.entrySet()) {
@@ -60,7 +72,7 @@ public class CardDatabase {
             InputStream stream = CardDatabase.class.getResourceAsStream(resourcePath);
             
             if (stream == null) {
-                System.out.println("[ETBMod] Card metadata not found in JAR for set: " + setName + " at path: " + resourcePath);
+                // Debug: Card metadata not found in JAR for set
                 return;
             }
             
@@ -107,13 +119,12 @@ public class CardDatabase {
             setCards.put(setName, cardList);
             setRarityCards.put(setName, rarityMap);
             
-            System.out.println("[ETBMod] Loaded " + cardList.size() + " cards for set: " + setName);
+            // Successfully loaded cards for set
             reader.close();
-            stream.close();
             
         } catch (Exception e) {
-            System.err.println("[ETBMod] Error loading cards for set " + setName + ": " + e.getMessage());
-            e.printStackTrace();
+            // Error loading cards - log and continue
+            ETBMod.LOGGER.error("Failed to load cards for set: " + setName, e);
         }
     }
     
@@ -121,15 +132,11 @@ public class CardDatabase {
         List<Card> pack = new ArrayList<>();
         Map<CardRarity, List<Card>> rarityMap = setRarityCards.get(setName);
         
-        System.out.println("[ETBMod] Generating booster pack for set: " + setName);
-        System.out.println("[ETBMod] Available sets: " + setRarityCards.keySet());
-        
         if (rarityMap == null) {
-            System.err.println("[ETBMod] No cards found for set: " + setName);
+            // No cards found for set - log warning and return empty list
+            ETBMod.LOGGER.warn("No cards found for set: " + setName);
             return pack;
         }
-        
-        System.out.println("[ETBMod] Rarity map contains rarities: " + rarityMap.keySet());
         
         // First 9 cards: mostly commons, some uncommons
         for (int i = 0; i < 9; i++) {
@@ -211,7 +218,7 @@ public class CardDatabase {
             pack.add(rareCard);
         }
         
-        System.out.println("[ETBMod] Generated pack with " + pack.size() + " cards");
+        // Debug: Pack generated successfully
         return pack;
     }
 }

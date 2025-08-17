@@ -25,6 +25,7 @@ import net.minecraft.util.math.shapes.VoxelShape;
 import net.minecraft.world.IBlockReader;
 import net.minecraft.world.World;
 import net.minecraftforge.common.ToolType;
+import com.example.etbmod.config.ETBConfig;
 import com.example.etbmod.registry.ModItems;
 
 import java.util.Collections;
@@ -35,7 +36,6 @@ public class ETBBlock extends Block {
     private final String variant;
     
     public static final DirectionProperty FACING = HorizontalBlock.FACING;
-    private static final int BOOSTER_PACK_COUNT = 9;
     private static final String VARIANT_PREFIX = "etb_";
     
     // ETB dimensions: 6.5" x 3.43" x 7.36" (width x depth x height)
@@ -44,10 +44,11 @@ public class ETBBlock extends Block {
     private static final VoxelShape SHAPE_EW = Block.box(4.5D, 0.0D, 1.5D, 11.5D, 12.0D, 14.5D);
     
     public ETBBlock(String variant) {
-        super(Properties.of(Material.WOOL)  // Use WOOL material - always drops when broken
-                .strength(0.5F, 0.5F)  // Very easy to break
+        super(Properties.of(Material.WOOD)  // Back to WOOD material
+                .strength(0.0F, 0.0F)  // Instant break (like tall grass)
                 .sound(SoundType.WOOD)
                 .noOcclusion()
+                .harvestLevel(0)  // Can be harvested with any tool or hand
                 .lightLevel((state) -> 0));
         this.variant = variant;
         this.registerDefaultState(this.stateDefinition.any().setValue(FACING, Direction.NORTH));
@@ -106,7 +107,7 @@ public class ETBBlock extends Block {
                 
                 // Spawn booster packs with optimized random distribution
                 Random random = worldIn.getRandom();
-                for (int i = 0; i < BOOSTER_PACK_COUNT; i++) {
+                for (int i = 0; i < ETBConfig.BOOSTER_PACK_COUNT; i++) {
                     double offsetX = (random.nextDouble() - 0.5) * 0.5;
                     double offsetY = random.nextDouble() * 0.3 + 0.1;
                     double offsetZ = (random.nextDouble() - 0.5) * 0.5;
@@ -145,26 +146,26 @@ public class ETBBlock extends Block {
         return ActionResultType.PASS;
     }
     
-    // Override to ensure block drops when broken by hand
+    // Override to ensure block drops when broken
     @Override
-    public void playerWillDestroy(World worldIn, BlockPos pos, BlockState state, PlayerEntity player) {
-        if (!worldIn.isClientSide && !player.isCreative()) {
-            // Drop the block as an item
-            ItemStack itemStack = new ItemStack(this);
-            ItemEntity itemEntity = new ItemEntity(worldIn, 
-                pos.getX() + 0.5, pos.getY() + 0.5, pos.getZ() + 0.5, itemStack);
-            itemEntity.setDefaultPickUpDelay();
-            worldIn.addFreshEntity(itemEntity);
+    public void playerDestroy(World worldIn, PlayerEntity player, BlockPos pos, BlockState state, net.minecraft.tileentity.TileEntity te, ItemStack stack) {
+        // Always drop the block item when broken unless in creative mode
+        if (!player.isCreative()) {
+            popResource(worldIn, pos, new ItemStack(this));
         }
-        super.playerWillDestroy(worldIn, pos, state, player);
+        super.playerDestroy(worldIn, player, pos, state, te, stack);
     }
     
-    // Always drop the ETB block when broken (except when opened with scissors)
-    @Override
-    public List<ItemStack> getDrops(BlockState state, LootContext.Builder builder) {
-        // Check if scissors were used (we can't easily check this in getDrops, so we always return the block)
-        // The scissors interaction is handled in the use() method which removes the block without drops
-        return Collections.singletonList(new ItemStack(this));
+    // Metadata methods for factory pattern - can be overridden
+    public String getSetCode() {
+        return variant;
     }
     
+    public String getDisplayName() {
+        return variant.replace("etb_", "").replace("_", " ");
+    }
+    
+    public String getVariant() {
+        return variant;
+    }
 }

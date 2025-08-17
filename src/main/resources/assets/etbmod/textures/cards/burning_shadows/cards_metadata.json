@@ -1,0 +1,1066 @@
+{
+  "cards": [
+    {
+      "id": "burning_shadows-001",
+      "name": "Caterpie",
+      "number": "001",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-002",
+      "name": "Metapod",
+      "number": "002",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-003",
+      "name": "Butterfree",
+      "number": "003",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-004",
+      "name": "Oddish",
+      "number": "004",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-005",
+      "name": "Gloom",
+      "number": "005",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-006",
+      "name": "Vileplume",
+      "number": "006",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-007",
+      "name": "Tangela",
+      "number": "007",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-008",
+      "name": "Tangrowth",
+      "number": "008",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-009",
+      "name": "Ledyba",
+      "number": "009",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-010",
+      "name": "Ledian",
+      "number": "010",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-011",
+      "name": "Heracross",
+      "number": "011",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-012",
+      "name": "Pansage",
+      "number": "012",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-013",
+      "name": "Simisage",
+      "number": "013",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-014",
+      "name": "Dewpider",
+      "number": "014",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-015",
+      "name": "Araquanid",
+      "number": "015",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-016",
+      "name": "Wimpod",
+      "number": "016",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-017",
+      "name": "Golisopod GX",
+      "number": "017",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-018",
+      "name": "Charmander",
+      "number": "018",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-019",
+      "name": "Charmeleon",
+      "number": "019",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-020",
+      "name": "Charizard GX",
+      "number": "020",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-021",
+      "name": "Ho Oh GX",
+      "number": "021",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-022",
+      "name": "Pansear",
+      "number": "022",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-023",
+      "name": "Simisear",
+      "number": "023",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-024",
+      "name": "Heatmor",
+      "number": "024",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-025",
+      "name": "Salazzle GX",
+      "number": "025",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-026",
+      "name": "Turtonator",
+      "number": "026",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-027",
+      "name": "Alolan Vulpix",
+      "number": "027",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-028",
+      "name": "Alolan Ninetales",
+      "number": "028",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-029",
+      "name": "Horsea",
+      "number": "029",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-030",
+      "name": "Seadra",
+      "number": "030",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-031",
+      "name": "Kingdra",
+      "number": "031",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-032",
+      "name": "Magikarp",
+      "number": "032",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-033",
+      "name": "Gyarados",
+      "number": "033",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-034",
+      "name": "Marill",
+      "number": "034",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-035",
+      "name": "Azumarill",
+      "number": "035",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-036",
+      "name": "Panpour",
+      "number": "036",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-037",
+      "name": "Simipour",
+      "number": "037",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-038",
+      "name": "Bruxish",
+      "number": "038",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-039",
+      "name": "Tapu Fini GX",
+      "number": "039",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-040",
+      "name": "Pikachu",
+      "number": "040",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-041",
+      "name": "Raichu",
+      "number": "041",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-042",
+      "name": "Electabuzz",
+      "number": "042",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-043",
+      "name": "Electivire",
+      "number": "043",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-044",
+      "name": "Tynamo",
+      "number": "044",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-045",
+      "name": "Eelektrik",
+      "number": "045",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-046",
+      "name": "Eelektross",
+      "number": "046",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-047",
+      "name": "Togedemaru",
+      "number": "047",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-048",
+      "name": "Slowking",
+      "number": "048",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-049",
+      "name": "Wobbuffet",
+      "number": "049",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-050",
+      "name": "Seviper",
+      "number": "050",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-051",
+      "name": "Duskull",
+      "number": "051",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-052",
+      "name": "Dusclops",
+      "number": "052",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-053",
+      "name": "Dusknoir",
+      "number": "053",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-054",
+      "name": "Croagunk",
+      "number": "054",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-055",
+      "name": "Toxicroak",
+      "number": "055",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-056",
+      "name": "Venipede",
+      "number": "056",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-057",
+      "name": "Whirlipede",
+      "number": "057",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-058",
+      "name": "Scolipede",
+      "number": "058",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-059",
+      "name": "Espurr",
+      "number": "059",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-060",
+      "name": "Meowstic",
+      "number": "060",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-061",
+      "name": "Sandygast",
+      "number": "061",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-062",
+      "name": "Palossand",
+      "number": "062",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-063",
+      "name": "Necrozma GX",
+      "number": "063",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-064",
+      "name": "Machamp GX",
+      "number": "064",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-065",
+      "name": "Rhyhorn",
+      "number": "065",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-066",
+      "name": "Rhydon",
+      "number": "066",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-067",
+      "name": "Rhyperior",
+      "number": "067",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-068",
+      "name": "Lunatone",
+      "number": "068",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-069",
+      "name": "Solrock",
+      "number": "069",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-070",
+      "name": "Riolu",
+      "number": "070",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-071",
+      "name": "Lucario",
+      "number": "071",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-072",
+      "name": "Sawk",
+      "number": "072",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-073",
+      "name": "Crabrawler",
+      "number": "073",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-074",
+      "name": "Crabominable",
+      "number": "074",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-075",
+      "name": "Lycanroc",
+      "number": "075",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-076",
+      "name": "Lycanroc",
+      "number": "076",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-077",
+      "name": "Mudbray",
+      "number": "077",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-078",
+      "name": "Mudsdale",
+      "number": "078",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-079",
+      "name": "Passimian",
+      "number": "079",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-080",
+      "name": "Marshadow GX",
+      "number": "080",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-081",
+      "name": "Alolan Rattata",
+      "number": "081",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-082",
+      "name": "Alolan Raticate",
+      "number": "082",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-083",
+      "name": "Alolan Grimer",
+      "number": "083",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-084",
+      "name": "Alolan Muk GX",
+      "number": "084",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-085",
+      "name": "Sneasel",
+      "number": "085",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-086",
+      "name": "Weavile",
+      "number": "086",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-087",
+      "name": "Darkrai",
+      "number": "087",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-088",
+      "name": "Darkrai GX",
+      "number": "088",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-089",
+      "name": "Inkay",
+      "number": "089",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-090",
+      "name": "Malamar",
+      "number": "090",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-091",
+      "name": "Ralts",
+      "number": "091",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-092",
+      "name": "Kirlia",
+      "number": "092",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-093",
+      "name": "Gardevoir GX",
+      "number": "093",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-094",
+      "name": "Diancie",
+      "number": "094",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-095",
+      "name": "Cutiefly",
+      "number": "095",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-096",
+      "name": "Ribombee",
+      "number": "096",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-097",
+      "name": "Morelull",
+      "number": "097",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-098",
+      "name": "Shiinotic",
+      "number": "098",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-099",
+      "name": "Noivern GX",
+      "number": "099",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-100",
+      "name": "Zygarde",
+      "number": "100",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-101",
+      "name": "Meowth",
+      "number": "101",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-102",
+      "name": "Persian",
+      "number": "102",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-103",
+      "name": "Porygon",
+      "number": "103",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-104",
+      "name": "Porygon2",
+      "number": "104",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-105",
+      "name": "Porygon Z",
+      "number": "105",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-105a",
+      "name": "Porygon Z",
+      "number": "105a",
+      "rarity": "rare_holo"
+    },
+    {
+      "id": "burning_shadows-106",
+      "name": "Hoothoot",
+      "number": "106",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-107",
+      "name": "Noctowl",
+      "number": "107",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-108",
+      "name": "Bouffalant",
+      "number": "108",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-109",
+      "name": "Noibat",
+      "number": "109",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-110",
+      "name": "Stufful",
+      "number": "110",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-111",
+      "name": "Bewear",
+      "number": "111",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-112",
+      "name": "Acerola",
+      "number": "112",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-112a",
+      "name": "Acerola",
+      "number": "112a",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-113",
+      "name": "Bodybuilding Dumbbells",
+      "number": "113",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-114",
+      "name": "Escape Rope",
+      "number": "114",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-115",
+      "name": "Guzma",
+      "number": "115",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-115a",
+      "name": "Guzma",
+      "number": "115a",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-116",
+      "name": "Kiawe",
+      "number": "116",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-116a",
+      "name": "Kiawe",
+      "number": "116a",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-117",
+      "name": "Lana",
+      "number": "117",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-118",
+      "name": "Mount Lanakila",
+      "number": "118",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-119",
+      "name": "Olivia",
+      "number": "119",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-120",
+      "name": "Plumeria",
+      "number": "120",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-121",
+      "name": "Po Town",
+      "number": "121",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-122",
+      "name": "Rotom Dex Pok Finder Mode",
+      "number": "122",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-123",
+      "name": "Sophocles",
+      "number": "123",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-124",
+      "name": "Super Scoop Up",
+      "number": "124",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-125",
+      "name": "Tormenting Spray",
+      "number": "125",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-126",
+      "name": "Weakness Policy",
+      "number": "126",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-127",
+      "name": "Wicke",
+      "number": "127",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-128",
+      "name": "Wishful Baton",
+      "number": "128",
+      "rarity": "uncommon"
+    },
+    {
+      "id": "burning_shadows-129",
+      "name": "Golisopod GX",
+      "number": "129",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-130",
+      "name": "Tapu Bulu GX",
+      "number": "130",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-131",
+      "name": "Ho Oh GX",
+      "number": "131",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-132",
+      "name": "Salazzle GX",
+      "number": "132",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-133",
+      "name": "Tapu Fini GX",
+      "number": "133",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-134",
+      "name": "Necrozma GX",
+      "number": "134",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-135",
+      "name": "Machamp GX",
+      "number": "135",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-136",
+      "name": "Lycanroc GX",
+      "number": "136",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-137",
+      "name": "Marshadow GX",
+      "number": "137",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-138",
+      "name": "Alolan Muk GX",
+      "number": "138",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-139",
+      "name": "Darkrai GX",
+      "number": "139",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-140",
+      "name": "Gardevoir GX",
+      "number": "140",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-141",
+      "name": "Noivern GX",
+      "number": "141",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-142",
+      "name": "Acerola",
+      "number": "142",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-143",
+      "name": "Guzma",
+      "number": "143",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-144",
+      "name": "Kiawe",
+      "number": "144",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-145",
+      "name": "Plumeria",
+      "number": "145",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-146",
+      "name": "Sophocles",
+      "number": "146",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-147",
+      "name": "Wicke",
+      "number": "147",
+      "rarity": "rare_ultra"
+    },
+    {
+      "id": "burning_shadows-148",
+      "name": "Rainbow Golisopod GX",
+      "number": "148",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-149",
+      "name": "Rainbow Tapu Bulu GX",
+      "number": "149",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-150",
+      "name": "Rainbow Charizard GX",
+      "number": "150",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-151",
+      "name": "Rainbow Salazzle GX",
+      "number": "151",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-152",
+      "name": "Rainbow Tapu Fini GX",
+      "number": "152",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-153",
+      "name": "Rainbow Necrozma GX",
+      "number": "153",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-154",
+      "name": "Rainbow Machamp GX",
+      "number": "154",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-155",
+      "name": "Rainbow Lycanroc GX",
+      "number": "155",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-156",
+      "name": "Rainbow Marshadow GX",
+      "number": "156",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-157",
+      "name": "Rainbow Alolan Muk GX",
+      "number": "157",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-158",
+      "name": "Rainbow Darkrai GX",
+      "number": "158",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-159",
+      "name": "Rainbow Gardevoir GX",
+      "number": "159",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-160",
+      "name": "Rainbow Noivern GX",
+      "number": "160",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-161",
+      "name": "Secret Bodybuilding Dumbbells",
+      "number": "161",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-162",
+      "name": "Secret Choice Band",
+      "number": "162",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-163",
+      "name": "Secret Escape Rope",
+      "number": "163",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-164",
+      "name": "Secret Multi Switch",
+      "number": "164",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-165",
+      "name": "Secret Rescue Stretcher",
+      "number": "165",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-166",
+      "name": "Secret Super Scoop Up",
+      "number": "166",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-167",
+      "name": "Secret Fire Energy",
+      "number": "167",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-168",
+      "name": "Secret Darkness Energy",
+      "number": "168",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-169",
+      "name": "Secret Fairy Energy",
+      "number": "169",
+      "rarity": "rare"
+    },
+    {
+      "id": "burning_shadows-18a",
+      "name": "Charmander",
+      "number": "18a",
+      "rarity": "common"
+    },
+    {
+      "id": "burning_shadows-39a",
+      "name": "Tapu Fini GX",
+      "number": "39a",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-88a",
+      "name": "Darkrai GX",
+      "number": "88a",
+      "rarity": "rare_holo_gx"
+    },
+    {
+      "id": "burning_shadows-92a",
+      "name": "Kirlia",
+      "number": "92a",
+      "rarity": "uncommon"
+    }
+  ]
+}
