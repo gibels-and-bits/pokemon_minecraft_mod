@@ -1,0 +1,6 @@
+{
+  "parent": "etbmod:item/booster_pack_base",
+  "textures": {
+    "layer0": "etbmod:item/etb_primal_clash_booster"
+  }
+}

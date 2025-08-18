@@ -2,7 +2,9 @@ package com.example.etbmod.registry;
 
 import com.example.etbmod.ETBMod;
 import com.example.etbmod.blocks.*;
+import com.example.etbmod.items.GradedSlabItem;
 import net.minecraft.block.Block;
+import net.minecraft.item.Item;
 import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -42,20 +44,19 @@ public class ModBlocks {
         registerETB("unified_minds");
         registerETB("vivid_voltage");
         registerETB("white_flare");
-        
-        // Legacy/Additional sets
-        registerETB("151");
-        registerETB("celebrations");
-        registerETB("destined_rivals");
-        registerETB("generations");
-        registerETB("groudon");
-        registerETB("journey_together");
-        registerETB("kyogre");
     }
     
     // Gamer Table
     public static final RegistryObject<Block> GAMER_TABLE = BLOCKS.register("gamer_table", 
             GamerTableBlock::new);
+    
+    // Graded slab block for displaying graded cards
+    public static final RegistryObject<Block> GRADED_SLAB = BLOCKS.register("graded_slab",
+            GradedSlabBlock::new);
+    
+    // Register the item for the graded slab block
+    public static final RegistryObject<Item> GRADED_SLAB_ITEM = ModItems.ITEMS.register("graded_slab",
+            () -> new GradedSlabItem(GRADED_SLAB.get()));
     
     /**
      * Register an ETB block using the factory pattern

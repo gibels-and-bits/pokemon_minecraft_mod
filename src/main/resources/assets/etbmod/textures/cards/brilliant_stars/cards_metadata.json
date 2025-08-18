@@ -46,7 +46,7 @@
       "id": "brilliant_stars-008",
       "name": "Torterra",
       "number": "008",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "brilliant_stars-009",
@@ -76,13 +76,13 @@
       "id": "brilliant_stars-013",
       "name": "Shaymin V",
       "number": "013",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-014",
       "name": "Shaymin VSTAR",
       "number": "014",
-      "rarity": "rare_holo_vstar"
+      "rarity": "rare holo vstar"
     },
     {
       "id": "brilliant_stars-015",
@@ -94,19 +94,19 @@
       "id": "brilliant_stars-016",
       "name": "Zarude V",
       "number": "016",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-017",
       "name": "Charizard V",
       "number": "017",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-018",
       "name": "Charizard VSTAR",
       "number": "018",
-      "rarity": "rare_holo_vstar"
+      "rarity": "rare holo vstar"
     },
     {
       "id": "brilliant_stars-019",
@@ -124,13 +124,13 @@
       "id": "brilliant_stars-021",
       "name": "Moltres",
       "number": "021",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "brilliant_stars-022",
       "name": "Entei V",
       "number": "022",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-023",
@@ -154,25 +154,25 @@
       "id": "brilliant_stars-026",
       "name": "Infernape",
       "number": "026",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "brilliant_stars-027",
       "name": "Simisear V",
       "number": "027",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-028",
       "name": "Kingler V",
       "number": "028",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-029",
       "name": "Kingler VMAX",
       "number": "029",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "brilliant_stars-030",
@@ -220,7 +220,7 @@
       "id": "brilliant_stars-037",
       "name": "Empoleon",
       "number": "037",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "brilliant_stars-038",
@@ -238,7 +238,7 @@
       "id": "brilliant_stars-040",
       "name": "Lumineon V",
       "number": "040",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-041",
@@ -268,7 +268,7 @@
       "id": "brilliant_stars-045",
       "name": "Raichu V",
       "number": "045",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-046",
@@ -286,7 +286,7 @@
       "id": "brilliant_stars-048",
       "name": "Raikou V",
       "number": "048",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-049",
@@ -340,7 +340,7 @@
       "id": "brilliant_stars-057",
       "name": "Granbull V",
       "number": "057",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-058",
@@ -370,7 +370,7 @@
       "id": "brilliant_stars-062",
       "name": "Dusknoir",
       "number": "062",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "brilliant_stars-063",
@@ -382,13 +382,13 @@
       "id": "brilliant_stars-064",
       "name": "Whimsicott V",
       "number": "064",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-065",
       "name": "Whimsicott VSTAR",
       "number": "065",
-      "rarity": "rare_holo_vstar"
+      "rarity": "rare holo vstar"
     },
     {
       "id": "brilliant_stars-066",
@@ -406,13 +406,13 @@
       "id": "brilliant_stars-068",
       "name": "Mimikyu V",
       "number": "068",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-069",
       "name": "Mimikyu VMAX",
       "number": "069",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "brilliant_stars-070",
@@ -472,7 +472,7 @@
       "id": "brilliant_stars-079",
       "name": "Lucario",
       "number": "079",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "brilliant_stars-080",
@@ -526,7 +526,7 @@
       "id": "brilliant_stars-088",
       "name": "Honchkrow V",
       "number": "088",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-089",
@@ -568,19 +568,19 @@
       "id": "brilliant_stars-095",
       "name": "Morpeko V",
       "number": "095",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-096",
       "name": "Aggron V",
       "number": "096",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-097",
       "name": "Aggron VMAX",
       "number": "097",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "brilliant_stars-098",
@@ -628,13 +628,13 @@
       "id": "brilliant_stars-105",
       "name": "Zamazenta V",
       "number": "105",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-106",
       "name": "Flygon V",
       "number": "106",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-107",
@@ -652,7 +652,7 @@
       "id": "brilliant_stars-109",
       "name": "Garchomp",
       "number": "109",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "brilliant_stars-110",
@@ -682,7 +682,7 @@
       "id": "brilliant_stars-114",
       "name": "Dracovish V",
       "number": "114",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-115",
@@ -724,19 +724,19 @@
       "id": "brilliant_stars-121",
       "name": "Bibarel",
       "number": "121",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "brilliant_stars-122",
       "name": "Arceus V",
       "number": "122",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-123",
       "name": "Arceus VSTAR",
       "number": "123",
-      "rarity": "rare_holo_vstar"
+      "rarity": "rare holo vstar"
     },
     {
       "id": "brilliant_stars-124",
@@ -766,7 +766,7 @@
       "id": "brilliant_stars-128",
       "name": "Drampa V",
       "number": "128",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-129",
@@ -790,11 +790,11 @@
       "id": "brilliant_stars-132",
       "name": "Boss's Orders",
       "number": "132",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "brilliant_stars-133",
-      "name": "Caf\u00e9 Master",
+      "name": "Café Master",
       "number": "133",
       "rarity": "uncommon"
     },
@@ -880,7 +880,7 @@
       "id": "brilliant_stars-147",
       "name": "Professor's Research",
       "number": "147",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "brilliant_stars-148",
@@ -910,127 +910,127 @@
       "id": "brilliant_stars-152",
       "name": "Shaymin V",
       "number": "152",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-153",
       "name": "Charizard V",
       "number": "153",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-154",
       "name": "Charizard V",
       "number": "154",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-155",
       "name": "Lumineon V",
       "number": "155",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-156",
       "name": "Lumineon V",
       "number": "156",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-157",
       "name": "Pikachu V",
       "number": "157",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-158",
       "name": "Raichu V",
       "number": "158",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-159",
       "name": "Granbull V",
       "number": "159",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-160",
       "name": "Whimsicott V",
       "number": "160",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-161",
       "name": "Honchkrow V",
       "number": "161",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-162",
       "name": "Honchkrow V",
       "number": "162",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-163",
       "name": "Zamazenta V",
       "number": "163",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-164",
       "name": "Flygon V",
       "number": "164",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-165",
       "name": "Arceus V",
       "number": "165",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-166",
       "name": "Arceus V",
       "number": "166",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-167",
       "name": "Barry",
       "number": "167",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-168",
       "name": "Cheren's Care",
       "number": "168",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-169",
       "name": "Cynthia's Ambition",
       "number": "169",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-170",
       "name": "Kindler",
       "number": "170",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-171",
       "name": "Marnie's Pride",
       "number": "171",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-172",
       "name": "Roseanne's Backup",
       "number": "172",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-173",
@@ -1084,37 +1084,37 @@
       "id": "brilliant_stars-181",
       "name": "Galarian Articuno V",
       "number": "181",
-      "rarity": "rare_secret"
+      "rarity": "rare secret"
     },
     {
       "id": "brilliant_stars-182",
       "name": "Galarian Zapdos V",
       "number": "182",
-      "rarity": "rare_secret"
+      "rarity": "rare secret"
     },
     {
       "id": "brilliant_stars-183",
       "name": "Galarian Moltres V",
       "number": "183",
-      "rarity": "rare_secret"
+      "rarity": "rare secret"
     },
     {
       "id": "brilliant_stars-184",
       "name": "Arceus VSTAR",
       "number": "184",
-      "rarity": "rare_secret"
+      "rarity": "rare secret"
     },
     {
       "id": "brilliant_stars-185",
       "name": "Magma Basin",
       "number": "185",
-      "rarity": "rare_secret"
+      "rarity": "rare secret"
     },
     {
       "id": "brilliant_stars-186",
       "name": "Ultra Ball",
       "number": "186",
-      "rarity": "rare_secret"
+      "rarity": "rare secret"
     },
     {
       "id": "brilliant_stars-TG01",
@@ -1192,109 +1192,109 @@
       "id": "brilliant_stars-TG13",
       "name": "Boltund V",
       "number": "TG13",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-TG14",
       "name": "Sylveon V",
       "number": "TG14",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-TG15",
       "name": "Sylveon VMAX",
       "number": "TG15",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "brilliant_stars-TG16",
       "name": "Mimikyu V",
       "number": "TG16",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-TG17",
       "name": "Mimikyu VMAX",
       "number": "TG17",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "brilliant_stars-TG18",
       "name": "Single Strike Urshifu V",
       "number": "TG18",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-TG19",
       "name": "Single Strike Urshifu VMAX",
       "number": "TG19",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "brilliant_stars-TG20",
       "name": "Rapid Strike Urshifu V",
       "number": "TG20",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-TG21",
       "name": "Rapid Strike Urshifu VMAX",
       "number": "TG21",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "brilliant_stars-TG22",
       "name": "Umbreon V",
       "number": "TG22",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "brilliant_stars-TG23",
       "name": "Umbreon VMAX",
       "number": "TG23",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "brilliant_stars-TG24",
       "name": "Acerola's Premonition",
       "number": "TG24",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-TG25",
-      "name": "Caf\u00e9 Master",
+      "name": "Café Master",
       "number": "TG25",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-TG26",
       "name": "Gloria",
       "number": "TG26",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-TG27",
       "name": "Rapid Strike Style Mustard",
       "number": "TG27",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-TG28",
       "name": "Single Strike Style Mustard",
       "number": "TG28",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "brilliant_stars-TG29",
       "name": "Single Strike Urshifu VMAX",
       "number": "TG29",
-      "rarity": "rare_secret"
+      "rarity": "rare secret"
     },
     {
       "id": "brilliant_stars-TG30",
       "name": "Rapid Strike Urshifu VMAX",
       "number": "TG30",
-      "rarity": "rare_secret"
+      "rarity": "rare secret"
     }
   ]
 }

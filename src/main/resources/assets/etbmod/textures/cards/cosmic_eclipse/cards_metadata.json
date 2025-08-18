@@ -94,7 +94,7 @@
       "id": "cosmic_eclipse-016",
       "name": "Sawsbuck",
       "number": "016",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-017",
@@ -118,13 +118,13 @@
       "id": "cosmic_eclipse-020",
       "name": "Decidueye",
       "number": "020",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-021",
       "name": "Buzzwole",
       "number": "021",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-022",
@@ -178,7 +178,7 @@
       "id": "cosmic_eclipse-030",
       "name": "Victini",
       "number": "030",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-031",
@@ -370,7 +370,7 @@
       "id": "cosmic_eclipse-062",
       "name": "Wishiwashi",
       "number": "062",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-063",
@@ -412,7 +412,7 @@
       "id": "cosmic_eclipse-069",
       "name": "Magneton",
       "number": "069",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-070",
@@ -490,7 +490,7 @@
       "id": "cosmic_eclipse-082",
       "name": "Gallade",
       "number": "082",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-083",
@@ -508,7 +508,7 @@
       "id": "cosmic_eclipse-085",
       "name": "Dusknoir",
       "number": "085",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-086",
@@ -610,7 +610,7 @@
       "id": "cosmic_eclipse-102",
       "name": "Lunala",
       "number": "102",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-103",
@@ -622,7 +622,7 @@
       "id": "cosmic_eclipse-104",
       "name": "Blacephalon",
       "number": "104",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-105",
@@ -688,7 +688,7 @@
       "id": "cosmic_eclipse-115",
       "name": "Excadrill",
       "number": "115",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-116",
@@ -742,7 +742,7 @@
       "id": "cosmic_eclipse-124",
       "name": "Lycanroc",
       "number": "124",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-125",
@@ -814,7 +814,7 @@
       "id": "cosmic_eclipse-136",
       "name": "Guzzlord",
       "number": "136",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-137",
@@ -832,7 +832,7 @@
       "id": "cosmic_eclipse-139",
       "name": "Steelix",
       "number": "139",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-140",
@@ -850,7 +850,7 @@
       "id": "cosmic_eclipse-142",
       "name": "Solgaleo",
       "number": "142",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-143",
@@ -862,7 +862,7 @@
       "id": "cosmic_eclipse-143a",
       "name": "Togepi Cleffa Igglybuff GX",
       "number": "143a",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-144",
@@ -874,7 +874,7 @@
       "id": "cosmic_eclipse-145",
       "name": "Alolan Ninetales",
       "number": "145",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-146",
@@ -916,7 +916,7 @@
       "id": "cosmic_eclipse-152",
       "name": "Florges",
       "number": "152",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-153",
@@ -982,7 +982,7 @@
       "id": "cosmic_eclipse-163",
       "name": "Kommo O",
       "number": "163",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-164",
@@ -1060,7 +1060,7 @@
       "id": "cosmic_eclipse-176",
       "name": "Stoutland",
       "number": "176",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-177",
@@ -1228,7 +1228,7 @@
       "id": "cosmic_eclipse-204",
       "name": "Rosa",
       "number": "204",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "cosmic_eclipse-205",
@@ -1264,163 +1264,163 @@
       "id": "cosmic_eclipse-210",
       "name": "Venusaur Snivy GX",
       "number": "210",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-211",
       "name": "Vileplume GX",
       "number": "211",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-212",
       "name": "Charizard Braixen GX",
       "number": "212",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-213",
       "name": "Volcarona GX",
       "number": "213",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-214",
       "name": "Blastoise Piplup GX",
       "number": "214",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-215",
       "name": "Blastoise Piplup GX",
       "number": "215",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-216",
       "name": "Solgaleo Lunala GX",
       "number": "216",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-217",
       "name": "Oricorio GX",
       "number": "217",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-218",
       "name": "Flygon GX",
       "number": "218",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-219",
       "name": "Alolan Persian GX",
       "number": "219",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-220",
       "name": "Arceus Dialga Palkia GX",
       "number": "220",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-221",
       "name": "Arceus Dialga Palkia GX",
       "number": "221",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-222",
       "name": "Reshiram Zekrom GX",
       "number": "222",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-223",
       "name": "Naganadel Guzzlord GX",
       "number": "223",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-224",
       "name": "Naganadel Guzzlord GX",
       "number": "224",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-225",
       "name": "Mega Lopunny Jigglypuff GX",
       "number": "225",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-226",
       "name": "Mega Lopunny Jigglypuff GX",
       "number": "226",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-227",
       "name": "Silvally GX",
       "number": "227",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-228",
       "name": "Cynthia Caitlin",
       "number": "228",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-229",
       "name": "Guzma Hala",
       "number": "229",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-230",
       "name": "Lillie S Full Force",
       "number": "230",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-231",
       "name": "Mallow Lana",
       "number": "231",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-232",
       "name": "N S Resolve",
       "number": "232",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-233",
       "name": "Professor Oak S Setup",
       "number": "233",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-234",
       "name": "Red Blue",
       "number": "234",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-235",
       "name": "Roller Skater",
       "number": "235",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-236",
       "name": "Rosa",
       "number": "236",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "cosmic_eclipse-237",

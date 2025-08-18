@@ -1,602 +1,598 @@
 {
-  "set_name": "Shrouded Fable",
-  "folder_name": "shrouded_fable",
-  "total_cards": 99,
   "cards": [
     {
-      "number": "001",
+      "id": "shrouded_fable-001",
       "name": "Joltik",
-      "rarity": "Common",
-      "filename": "001_common_joltik.png"
+      "number": "001",
+      "rarity": "common"
     },
     {
-      "number": "002",
+      "id": "shrouded_fable-002",
       "name": "Galvantula",
-      "rarity": "Uncommon",
-      "filename": "002_uncommon_galvantula.png"
+      "number": "002",
+      "rarity": "uncommon"
     },
     {
-      "number": "003",
+      "id": "shrouded_fable-003",
       "name": "Rowlet",
-      "rarity": "Common",
-      "filename": "003_common_rowlet.png"
+      "number": "003",
+      "rarity": "common"
     },
     {
-      "number": "004",
+      "id": "shrouded_fable-004",
       "name": "Dartrix",
-      "rarity": "Common",
-      "filename": "004_common_dartrix.png"
+      "number": "004",
+      "rarity": "common"
     },
     {
-      "number": "005",
+      "id": "shrouded_fable-005",
       "name": "Decidueye",
-      "rarity": "Uncommon",
-      "filename": "005_uncommon_decidueye.png"
+      "number": "005",
+      "rarity": "uncommon"
     },
     {
+      "id": "shrouded_fable-006",
+      "name": "Tapu Bulu",
       "number": "006",
-      "name": "Tapu Bulu",
-      "rarity": "Rare",
-      "filename": "006_rare_tapu_bulu.png"
+      "rarity": "rare"
     },
     {
-      "number": "007",
+      "id": "shrouded_fable-007",
       "name": "Houndour",
-      "rarity": "Common",
-      "filename": "007_common_houndour.png"
+      "number": "007",
+      "rarity": "common"
     },
     {
+      "id": "shrouded_fable-008",
+      "name": "Houndoom",
       "number": "008",
-      "name": "Houndoom",
-      "rarity": "Common",
-      "filename": "008_common_houndoom.png"
+      "rarity": "common"
     },
     {
-      "number": "009",
+      "id": "shrouded_fable-009",
       "name": "Iron Moth",
-      "rarity": "Uncommon",
-      "filename": "009_uncommon_iron_moth.png"
+      "number": "009",
+      "rarity": "uncommon"
     },
     {
+      "id": "shrouded_fable-010",
+      "name": "Horsea",
       "number": "010",
-      "name": "Horsea",
-      "rarity": "Common",
-      "filename": "010_common_horsea.png"
+      "rarity": "common"
     },
     {
-      "number": "011",
+      "id": "shrouded_fable-011",
       "name": "Seadra",
-      "rarity": "Common",
-      "filename": "011_common_seadra.png"
+      "number": "011",
+      "rarity": "common"
     },
     {
+      "id": "shrouded_fable-012",
+      "name": "Kingdra Ex",
       "number": "012",
-      "name": "Kingdra Ex",
-      "rarity": "Double Rare",
-      "filename": "012_double_rare_kingdra_ex.png"
+      "rarity": "double rare"
     },
     {
-      "number": "013",
+      "id": "shrouded_fable-013",
       "name": "Sneasel",
-      "rarity": "Common",
-      "filename": "013_common_sneasel.png"
+      "number": "013",
+      "rarity": "common"
     },
     {
-      "number": "014",
+      "id": "shrouded_fable-014",
       "name": "Weavile",
-      "rarity": "Uncommon",
-      "filename": "014_uncommon_weavile.png"
+      "number": "014",
+      "rarity": "uncommon"
     },
     {
+      "id": "shrouded_fable-015",
+      "name": "Revavroom Ex",
       "number": "015",
-      "name": "Revavroom Ex",
-      "rarity": "Double Rare",
-      "filename": "015_double_rare_revavroom_ex.png"
+      "rarity": "double rare"
     },
     {
-      "number": "016",
+      "id": "shrouded_fable-016",
       "name": "Drowzee",
-      "rarity": "Common",
-      "filename": "016_common_drowzee.png"
+      "number": "016",
+      "rarity": "common"
     },
     {
-      "number": "017",
+      "id": "shrouded_fable-017",
       "name": "Hypno",
-      "rarity": "Uncommon",
-      "filename": "017_uncommon_hypno.png"
+      "number": "017",
+      "rarity": "uncommon"
     },
     {
+      "id": "shrouded_fable-018",
+      "name": "Duskull",
       "number": "018",
-      "name": "Duskull",
-      "rarity": "Common",
-      "filename": "018_common_duskull.png"
+      "rarity": "common"
     },
     {
+      "id": "shrouded_fable-019",
+      "name": "Dusclops",
       "number": "019",
-      "name": "Dusclops",
-      "rarity": "Common",
-      "filename": "019_common_dusclops.png"
+      "rarity": "common"
     },
     {
+      "id": "shrouded_fable-020",
+      "name": "Dusknoir",
       "number": "020",
-      "name": "Dusknoir",
-      "rarity": "Rare",
-      "filename": "020_rare_dusknoir.png"
+      "rarity": "rare"
     },
     {
+      "id": "shrouded_fable-021",
+      "name": "Cresselia",
       "number": "021",
-      "name": "Cresselia",
-      "rarity": "Rare",
-      "filename": "021_rare_cresselia.png"
+      "rarity": "rare"
     },
     {
-      "number": "022",
+      "id": "shrouded_fable-022",
       "name": "Sylveon",
-      "rarity": "Uncommon",
-      "filename": "022_uncommon_sylveon.png"
+      "number": "022",
+      "rarity": "uncommon"
     },
     {
-      "number": "023",
+      "id": "shrouded_fable-023",
       "name": "Croagunk",
-      "rarity": "Common",
-      "filename": "023_common_croagunk.png"
+      "number": "023",
+      "rarity": "common"
     },
     {
-      "number": "024",
+      "id": "shrouded_fable-024",
       "name": "Toxicroak",
-      "rarity": "Common",
-      "filename": "024_common_toxicroak.png"
+      "number": "024",
+      "rarity": "common"
     },
     {
-      "number": "025",
+      "id": "shrouded_fable-025",
       "name": "Bloodmoon Ursaluna",
-      "rarity": "Rare",
-      "filename": "025_rare_bloodmoon_ursaluna.png"
+      "number": "025",
+      "rarity": "rare"
     },
     {
-      "number": "026",
+      "id": "shrouded_fable-026",
       "name": "Slither Wing",
-      "rarity": "Uncommon",
-      "filename": "026_uncommon_slither_wing.png"
+      "number": "026",
+      "rarity": "uncommon"
     },
     {
-      "number": "027",
+      "id": "shrouded_fable-027",
       "name": "Zubat",
-      "rarity": "Common",
-      "filename": "027_common_zubat.png"
+      "number": "027",
+      "rarity": "common"
     },
     {
-      "number": "028",
+      "id": "shrouded_fable-028",
       "name": "Golbat",
-      "rarity": "Common",
-      "filename": "028_common_golbat.png"
+      "number": "028",
+      "rarity": "common"
     },
     {
-      "number": "029",
+      "id": "shrouded_fable-029",
       "name": "Crobat",
-      "rarity": "Uncommon",
-      "filename": "029_uncommon_crobat.png"
+      "number": "029",
+      "rarity": "uncommon"
     },
     {
-      "number": "030",
+      "id": "shrouded_fable-030",
       "name": "Absol",
-      "rarity": "Common",
-      "filename": "030_common_absol.png"
+      "number": "030",
+      "rarity": "common"
     },
     {
+      "id": "shrouded_fable-031",
+      "name": "Zorua",
       "number": "031",
-      "name": "Zorua",
-      "rarity": "Common",
-      "filename": "031_common_zorua.png"
+      "rarity": "common"
     },
     {
-      "number": "032",
+      "id": "shrouded_fable-032",
       "name": "Zoroark",
-      "rarity": "Rare",
-      "filename": "032_rare_zoroark.png"
+      "number": "032",
+      "rarity": "rare"
     },
     {
-      "number": "033",
+      "id": "shrouded_fable-033",
       "name": "Inkay",
-      "rarity": "Common",
-      "filename": "033_common_inkay.png"
+      "number": "033",
+      "rarity": "common"
     },
     {
-      "number": "034",
+      "id": "shrouded_fable-034",
       "name": "Malamar",
-      "rarity": "Uncommon",
-      "filename": "034_uncommon_malamar.png"
+      "number": "034",
+      "rarity": "uncommon"
     },
     {
-      "number": "035",
+      "id": "shrouded_fable-035",
       "name": "Yveltal",
-      "rarity": "Uncommon",
-      "filename": "035_uncommon_yveltal.png"
+      "number": "035",
+      "rarity": "uncommon"
     },
     {
+      "id": "shrouded_fable-036",
+      "name": "Okidogi Ex",
       "number": "036",
-      "name": "Okidogi Ex",
-      "rarity": "Double Rare",
-      "filename": "036_double_rare_okidogi_ex.png"
+      "rarity": "double rare"
     },
     {
+      "id": "shrouded_fable-037",
+      "name": "Munkidori Ex",
       "number": "037",
-      "name": "Munkidori Ex",
-      "rarity": "Double Rare",
-      "filename": "037_double_rare_munkidori_ex.png"
+      "rarity": "double rare"
     },
     {
+      "id": "shrouded_fable-038",
+      "name": "Fezandipiti Ex",
       "number": "038",
-      "name": "Fezandipiti Ex",
-      "rarity": "Double Rare",
-      "filename": "038_double_rare_fezandipiti_ex.png"
+      "rarity": "double rare"
     },
     {
+      "id": "shrouded_fable-039",
+      "name": "Pecharunt Ex",
       "number": "039",
-      "name": "Pecharunt Ex",
-      "rarity": "Double Rare",
-      "filename": "039_double_rare_pecharunt_ex.png"
+      "rarity": "double rare"
     },
     {
-      "number": "040",
+      "id": "shrouded_fable-040",
       "name": "Genesect",
-      "rarity": "Uncommon",
-      "filename": "040_uncommon_genesect.png"
+      "number": "040",
+      "rarity": "uncommon"
     },
     {
+      "id": "shrouded_fable-041",
+      "name": "Cufant",
       "number": "041",
-      "name": "Cufant",
-      "rarity": "Common",
-      "filename": "041_common_cufant.png"
+      "rarity": "common"
     },
     {
-      "number": "042",
+      "id": "shrouded_fable-042",
       "name": "Copperajah",
-      "rarity": "Rare",
-      "filename": "042_rare_copperajah.png"
+      "number": "042",
+      "rarity": "rare"
     },
     {
-      "number": "043",
+      "id": "shrouded_fable-043",
       "name": "Varoom",
-      "rarity": "Common",
-      "filename": "043_common_varoom.png"
+      "number": "043",
+      "rarity": "common"
     },
     {
-      "number": "044",
+      "id": "shrouded_fable-044",
       "name": "Axew",
-      "rarity": "Common",
-      "filename": "044_common_axew.png"
+      "number": "044",
+      "rarity": "common"
     },
     {
+      "id": "shrouded_fable-045",
+      "name": "Fraxure",
       "number": "045",
-      "name": "Fraxure",
-      "rarity": "Common",
-      "filename": "045_common_fraxure.png"
+      "rarity": "common"
     },
     {
-      "number": "046",
+      "id": "shrouded_fable-046",
       "name": "Haxorus",
-      "rarity": "Rare",
-      "filename": "046_rare_haxorus.png"
+      "number": "046",
+      "rarity": "rare"
     },
     {
-      "number": "047",
+      "id": "shrouded_fable-047",
       "name": "Kyurem",
-      "rarity": "Uncommon",
-      "filename": "047_uncommon_kyurem.png"
+      "number": "047",
+      "rarity": "uncommon"
     },
     {
-      "number": "048",
+      "id": "shrouded_fable-048",
       "name": "Meowth",
-      "rarity": "Common",
-      "filename": "048_common_meowth.png"
+      "number": "048",
+      "rarity": "common"
     },
     {
+      "id": "shrouded_fable-049",
+      "name": "Persian",
       "number": "049",
-      "name": "Persian",
-      "rarity": "Common",
-      "filename": "049_common_persian.png"
+      "rarity": "common"
     },
     {
-      "number": "050",
+      "id": "shrouded_fable-050",
       "name": "Eevee",
-      "rarity": "Common",
-      "filename": "050_common_eevee.png"
+      "number": "050",
+      "rarity": "common"
     },
     {
-      "number": "051",
+      "id": "shrouded_fable-051",
       "name": "Furfrou",
-      "rarity": "Common",
-      "filename": "051_common_furfrou.png"
+      "number": "051",
+      "rarity": "common"
     },
     {
-      "number": "052",
+      "id": "shrouded_fable-052",
       "name": "Stufful",
-      "rarity": "Common",
-      "filename": "052_common_stufful.png"
+      "number": "052",
+      "rarity": "common"
     },
     {
+      "id": "shrouded_fable-053",
+      "name": "Bewear",
       "number": "053",
-      "name": "Bewear",
-      "rarity": "Common",
-      "filename": "053_common_bewear.png"
+      "rarity": "common"
     },
     {
-      "number": "054",
+      "id": "shrouded_fable-054",
       "name": "Academy At Night",
-      "rarity": "Uncommon",
-      "filename": "054_uncommon_academy_at_night.png"
+      "number": "054",
+      "rarity": "uncommon"
     },
     {
-      "number": "055",
+      "id": "shrouded_fable-055",
       "name": "Binding Mochi",
-      "rarity": "Uncommon",
-      "filename": "055_uncommon_binding_mochi.png"
+      "number": "055",
+      "rarity": "uncommon"
     },
     {
+      "id": "shrouded_fable-056",
+      "name": "Cassiopeia",
       "number": "056",
-      "name": "Cassiopeia",
-      "rarity": "Uncommon",
-      "filename": "056_uncommon_cassiopeia.png"
+      "rarity": "uncommon"
     },
     {
+      "id": "shrouded_fable-057",
+      "name": "Colress S Tenacity",
       "number": "057",
-      "name": "Colress S Tenacity",
-      "rarity": "Uncommon",
-      "filename": "057_uncommon_colress_s_tenacity.png"
+      "rarity": "uncommon"
     },
     {
-      "number": "058",
+      "id": "shrouded_fable-058",
       "name": "Dangerous Laser",
-      "rarity": "Ace Spec Rare",
-      "filename": "058_ace_spec_rare_dangerous_laser.png"
+      "number": "058",
+      "rarity": "ace spec rare"
     },
     {
+      "id": "shrouded_fable-059",
+      "name": "Janine S Secret Art",
       "number": "059",
-      "name": "Janine S Secret Art",
-      "rarity": "Uncommon",
-      "filename": "059_uncommon_janine_s_secret_art.png"
+      "rarity": "uncommon"
     },
     {
-      "number": "060",
+      "id": "shrouded_fable-060",
       "name": "Neutralization Zone",
-      "rarity": "Ace Spec Rare",
-      "filename": "060_ace_spec_rare_neutralization_zone.png"
+      "number": "060",
+      "rarity": "ace spec rare"
     },
     {
-      "number": "061",
+      "id": "shrouded_fable-061",
       "name": "Night Stretcher",
-      "rarity": "Uncommon",
-      "filename": "061_uncommon_night_stretcher.png"
+      "number": "061",
+      "rarity": "uncommon"
     },
     {
-      "number": "062",
+      "id": "shrouded_fable-062",
       "name": "Pok Vital A",
-      "rarity": "Ace Spec Rare",
-      "filename": "062_ace_spec_rare_pok_vital_a.png"
+      "number": "062",
+      "rarity": "ace spec rare"
     },
     {
+      "id": "shrouded_fable-063",
+      "name": "Powerglass",
       "number": "063",
-      "name": "Powerglass",
-      "rarity": "Uncommon",
-      "filename": "063_uncommon_powerglass.png"
+      "rarity": "uncommon"
     },
     {
+      "id": "shrouded_fable-064",
+      "name": "Xerosic S Machinations",
       "number": "064",
-      "name": "Xerosic S Machinations",
-      "rarity": "Uncommon",
-      "filename": "064_uncommon_xerosic_s_machinations.png"
+      "rarity": "uncommon"
     },
     {
-      "number": "065",
+      "id": "shrouded_fable-065",
       "name": "Tapu Bulu",
-      "rarity": "Illustration Rare",
-      "filename": "065_illustration_rare_tapu_bulu.png"
+      "number": "065",
+      "rarity": "illustration rare"
     },
     {
-      "number": "066",
+      "id": "shrouded_fable-066",
       "name": "Houndoom",
-      "rarity": "Illustration Rare",
-      "filename": "066_illustration_rare_houndoom.png"
+      "number": "066",
+      "rarity": "illustration rare"
     },
     {
-      "number": "067",
+      "id": "shrouded_fable-067",
       "name": "Horsea",
-      "rarity": "Illustration Rare",
-      "filename": "067_illustration_rare_horsea.png"
+      "number": "067",
+      "rarity": "illustration rare"
     },
     {
-      "number": "068",
+      "id": "shrouded_fable-068",
       "name": "Duskull",
-      "rarity": "Illustration Rare",
-      "filename": "068_illustration_rare_duskull.png"
+      "number": "068",
+      "rarity": "illustration rare"
     },
     {
-      "number": "069",
+      "id": "shrouded_fable-069",
       "name": "Dusclops",
-      "rarity": "Illustration Rare",
-      "filename": "069_illustration_rare_dusclops.png"
+      "number": "069",
+      "rarity": "illustration rare"
     },
     {
-      "number": "070",
+      "id": "shrouded_fable-070",
       "name": "Dusknoir",
-      "rarity": "Illustration Rare",
-      "filename": "070_illustration_rare_dusknoir.png"
+      "number": "070",
+      "rarity": "illustration rare"
     },
     {
-      "number": "071",
+      "id": "shrouded_fable-071",
       "name": "Cresselia",
-      "rarity": "Illustration Rare",
-      "filename": "071_illustration_rare_cresselia.png"
+      "number": "071",
+      "rarity": "illustration rare"
     },
     {
-      "number": "072",
+      "id": "shrouded_fable-072",
       "name": "Munkidori",
-      "rarity": "Illustration Rare",
-      "filename": "072_illustration_rare_munkidori.png"
+      "number": "072",
+      "rarity": "illustration rare"
     },
     {
-      "number": "073",
+      "id": "shrouded_fable-073",
       "name": "Fezandipiti",
-      "rarity": "Illustration Rare",
-      "filename": "073_illustration_rare_fezandipiti.png"
+      "number": "073",
+      "rarity": "illustration rare"
     },
     {
-      "number": "074",
+      "id": "shrouded_fable-074",
       "name": "Okidogi",
-      "rarity": "Illustration Rare",
-      "filename": "074_illustration_rare_okidogi.png"
+      "number": "074",
+      "rarity": "illustration rare"
     },
     {
-      "number": "075",
+      "id": "shrouded_fable-075",
       "name": "Zorua",
-      "rarity": "Illustration Rare",
-      "filename": "075_illustration_rare_zorua.png"
+      "number": "075",
+      "rarity": "illustration rare"
     },
     {
-      "number": "076",
+      "id": "shrouded_fable-076",
       "name": "Cufant",
-      "rarity": "Illustration Rare",
-      "filename": "076_illustration_rare_cufant.png"
+      "number": "076",
+      "rarity": "illustration rare"
     },
     {
-      "number": "077",
+      "id": "shrouded_fable-077",
       "name": "Fraxure",
-      "rarity": "Illustration Rare",
-      "filename": "077_illustration_rare_fraxure.png"
+      "number": "077",
+      "rarity": "illustration rare"
     },
     {
-      "number": "078",
+      "id": "shrouded_fable-078",
       "name": "Persian",
-      "rarity": "Illustration Rare",
-      "filename": "078_illustration_rare_persian.png"
+      "number": "078",
+      "rarity": "illustration rare"
     },
     {
-      "number": "079",
+      "id": "shrouded_fable-079",
       "name": "Bewear",
-      "rarity": "Illustration Rare",
-      "filename": "079_illustration_rare_bewear.png"
+      "number": "079",
+      "rarity": "illustration rare"
     },
     {
-      "number": "080",
+      "id": "shrouded_fable-080",
       "name": "Kingdra Ex",
-      "rarity": "Ultra Rare",
-      "filename": "080_ultra_rare_kingdra_ex.png"
+      "number": "080",
+      "rarity": "ultra rare"
     },
     {
-      "number": "081",
+      "id": "shrouded_fable-081",
       "name": "Revavroom Ex",
-      "rarity": "Ultra Rare",
-      "filename": "081_ultra_rare_revavroom_ex.png"
+      "number": "081",
+      "rarity": "ultra rare"
     },
     {
+      "id": "shrouded_fable-082",
+      "name": "Okidogi Ex",
       "number": "082",
-      "name": "Okidogi Ex",
-      "rarity": "Ultra Rare",
-      "filename": "082_ultra_rare_okidogi_ex.png"
+      "rarity": "ultra rare"
     },
     {
+      "id": "shrouded_fable-083",
+      "name": "Munkidori Ex",
       "number": "083",
-      "name": "Munkidori Ex",
-      "rarity": "Ultra Rare",
-      "filename": "083_ultra_rare_munkidori_ex.png"
+      "rarity": "ultra rare"
     },
     {
+      "id": "shrouded_fable-084",
+      "name": "Fezandipiti Ex",
       "number": "084",
-      "name": "Fezandipiti Ex",
-      "rarity": "Ultra Rare",
-      "filename": "084_ultra_rare_fezandipiti_ex.png"
+      "rarity": "ultra rare"
     },
     {
+      "id": "shrouded_fable-085",
+      "name": "Pecharunt Ex",
       "number": "085",
-      "name": "Pecharunt Ex",
-      "rarity": "Ultra Rare",
-      "filename": "085_ultra_rare_pecharunt_ex.png"
+      "rarity": "ultra rare"
     },
     {
+      "id": "shrouded_fable-086",
+      "name": "Cassiopeia",
       "number": "086",
-      "name": "Cassiopeia",
-      "rarity": "Ultra Rare",
-      "filename": "086_ultra_rare_cassiopeia.png"
+      "rarity": "ultra rare"
     },
     {
-      "number": "087",
+      "id": "shrouded_fable-087",
       "name": "Colress S Tenacity",
-      "rarity": "Ultra Rare",
-      "filename": "087_ultra_rare_colress_s_tenacity.png"
+      "number": "087",
+      "rarity": "ultra rare"
     },
     {
-      "number": "088",
+      "id": "shrouded_fable-088",
       "name": "Janine S Secret Art",
-      "rarity": "Ultra Rare",
-      "filename": "088_ultra_rare_janine_s_secret_art.png"
+      "number": "088",
+      "rarity": "ultra rare"
     },
     {
-      "number": "089",
+      "id": "shrouded_fable-089",
       "name": "Xerosic S Machinations",
-      "rarity": "Ultra Rare",
-      "filename": "089_ultra_rare_xerosic_s_machinations.png"
+      "number": "089",
+      "rarity": "ultra rare"
     },
     {
-      "number": "090",
+      "id": "shrouded_fable-090",
       "name": "Okidogi Ex",
-      "rarity": "Special Illustration Rare",
-      "filename": "090_special_illustration_rare_okidogi_ex.png"
+      "number": "090",
+      "rarity": "special illustration rare"
     },
     {
-      "number": "091",
+      "id": "shrouded_fable-091",
       "name": "Munkidori Ex",
-      "rarity": "Special Illustration Rare",
-      "filename": "091_special_illustration_rare_munkidori_ex.png"
+      "number": "091",
+      "rarity": "special illustration rare"
     },
     {
-      "number": "092",
+      "id": "shrouded_fable-092",
       "name": "Fezandipiti Ex",
-      "rarity": "Special Illustration Rare",
-      "filename": "092_special_illustration_rare_fezandipiti_ex.png"
+      "number": "092",
+      "rarity": "special illustration rare"
     },
     {
+      "id": "shrouded_fable-093",
+      "name": "Pecharunt Ex",
       "number": "093",
-      "name": "Pecharunt Ex",
-      "rarity": "Special Illustration Rare",
-      "filename": "093_special_illustration_rare_pecharunt_ex.png"
+      "rarity": "special illustration rare"
     },
     {
-      "number": "094",
+      "id": "shrouded_fable-094",
       "name": "Cassiopeia",
-      "rarity": "Special Illustration Rare",
-      "filename": "094_special_illustration_rare_cassiopeia.png"
+      "number": "094",
+      "rarity": "special illustration rare"
     },
     {
-      "number": "095",
+      "id": "shrouded_fable-095",
       "name": "Pecharunt Ex",
-      "rarity": "Hyper Rare",
-      "filename": "095_hyper_rare_pecharunt_ex.png"
+      "number": "095",
+      "rarity": "hyper rare"
     },
     {
-      "number": "096",
+      "id": "shrouded_fable-096",
       "name": "Earthen Vessel",
-      "rarity": "Hyper Rare",
-      "filename": "096_hyper_rare_earthen_vessel.png"
+      "number": "096",
+      "rarity": "hyper rare"
     },
     {
-      "number": "097",
+      "id": "shrouded_fable-097",
       "name": "Powerglass",
-      "rarity": "Hyper Rare",
-      "filename": "097_hyper_rare_powerglass.png"
+      "number": "097",
+      "rarity": "hyper rare"
     },
     {
-      "number": "098",
+      "id": "shrouded_fable-098",
       "name": "Basic Darkness Energy",
-      "rarity": "Hyper Rare",
-      "filename": "098_hyper_rare_basic_darkness_energy.png"
+      "number": "098",
+      "rarity": "hyper rare"
     },
     {
-      "number": "099",
+      "id": "shrouded_fable-099",
       "name": "Basic Metal Energy",
-      "rarity": "Hyper Rare",
-      "filename": "099_hyper_rare_basic_metal_energy.png"
+      "number": "099",
+      "rarity": "hyper rare"
     }
-  ],
-  "source": "generated_from_filenames"
+  ]
 }

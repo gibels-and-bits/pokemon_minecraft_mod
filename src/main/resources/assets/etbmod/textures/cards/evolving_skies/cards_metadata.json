@@ -22,7 +22,7 @@
       "id": "evolving_skies-004",
       "name": "Jumpluff",
       "number": "004",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-005",
@@ -40,13 +40,13 @@
       "id": "evolving_skies-007",
       "name": "Leafeon V",
       "number": "007",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-008",
       "name": "Leafeon VMAX",
       "number": "008",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-009",
@@ -76,13 +76,13 @@
       "id": "evolving_skies-013",
       "name": "Trevenant V",
       "number": "013",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-014",
       "name": "Trevenant VMAX",
       "number": "014",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-015",
@@ -94,7 +94,7 @@
       "id": "evolving_skies-016",
       "name": "Eldegoss",
       "number": "016",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-017",
@@ -106,25 +106,25 @@
       "id": "evolving_skies-018",
       "name": "Flareon VMAX",
       "number": "018",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-019",
       "name": "Entei",
       "number": "019",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-020",
       "name": "Victini",
       "number": "020",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-021",
       "name": "Volcarona V",
       "number": "021",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-022",
@@ -166,25 +166,25 @@
       "id": "evolving_skies-028",
       "name": "Gyarados V",
       "number": "028",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-029",
       "name": "Gyarados VMAX",
       "number": "029",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-030",
       "name": "Vaporeon VMAX",
       "number": "030",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-031",
       "name": "Suicune V",
       "number": "031",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-032",
@@ -202,7 +202,7 @@
       "id": "evolving_skies-034",
       "name": "Ludicolo",
       "number": "034",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-035",
@@ -238,13 +238,13 @@
       "id": "evolving_skies-040",
       "name": "Glaceon V",
       "number": "040",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-041",
       "name": "Glaceon VMAX",
       "number": "041",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-042",
@@ -286,7 +286,7 @@
       "id": "evolving_skies-048",
       "name": "Arctovish V",
       "number": "048",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-049",
@@ -298,13 +298,13 @@
       "id": "evolving_skies-050",
       "name": "Raichu",
       "number": "050",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-051",
       "name": "Jolteon VMAX",
       "number": "051",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-052",
@@ -346,19 +346,19 @@
       "id": "evolving_skies-058",
       "name": "Dracozolt V",
       "number": "058",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-059",
       "name": "Dracozolt VMAX",
       "number": "059",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-060",
       "name": "Regieleki",
       "number": "060",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-061",
@@ -376,19 +376,19 @@
       "id": "evolving_skies-063",
       "name": "Galarian Articuno",
       "number": "063",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-064",
       "name": "Espeon V",
       "number": "064",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-065",
       "name": "Espeon VMAX",
       "number": "065",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-066",
@@ -418,7 +418,7 @@
       "id": "evolving_skies-070",
       "name": "Golurk V",
       "number": "070",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-071",
@@ -436,19 +436,19 @@
       "id": "evolving_skies-073",
       "name": "Florges",
       "number": "073",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-074",
       "name": "Sylveon V",
       "number": "074",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-075",
       "name": "Sylveon VMAX",
       "number": "075",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-076",
@@ -478,7 +478,7 @@
       "id": "evolving_skies-080",
       "name": "Marshadow",
       "number": "080",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-081",
@@ -490,13 +490,13 @@
       "id": "evolving_skies-082",
       "name": "Galarian Zapdos",
       "number": "082",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-083",
       "name": "Medicham V",
       "number": "083",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-084",
@@ -544,31 +544,31 @@
       "id": "evolving_skies-091",
       "name": "Lycanroc V",
       "number": "091",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-092",
       "name": "Lycanroc VMAX",
       "number": "092",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-093",
       "name": "Galarian Moltres",
       "number": "093",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-094",
       "name": "Umbreon V",
       "number": "094",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-095",
       "name": "Umbreon VMAX",
       "number": "095",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-096",
@@ -598,13 +598,13 @@
       "id": "evolving_skies-100",
       "name": "Garbodor V",
       "number": "100",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-101",
       "name": "Garbodor VMAX",
       "number": "101",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-102",
@@ -616,7 +616,7 @@
       "id": "evolving_skies-103",
       "name": "Zoroark",
       "number": "103",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-104",
@@ -652,25 +652,25 @@
       "id": "evolving_skies-109",
       "name": "Salamence",
       "number": "109",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-110",
       "name": "Rayquaza V",
       "number": "110",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-111",
       "name": "Rayquaza VMAX",
       "number": "111",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-112",
       "name": "Dialga",
       "number": "112",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-113",
@@ -688,25 +688,25 @@
       "id": "evolving_skies-115",
       "name": "Hydreigon",
       "number": "115",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-116",
       "name": "Kyurem",
       "number": "116",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-117",
       "name": "Noivern V",
       "number": "117",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-118",
       "name": "Zygarde",
       "number": "118",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-119",
@@ -730,19 +730,19 @@
       "id": "evolving_skies-122",
       "name": "Duraludon V",
       "number": "122",
-      "rarity": "rare_holo_v"
+      "rarity": "rare holo v"
     },
     {
       "id": "evolving_skies-123",
       "name": "Duraludon VMAX",
       "number": "123",
-      "rarity": "rare_holo_vmax"
+      "rarity": "rare holo vmax"
     },
     {
       "id": "evolving_skies-124",
       "name": "Regidrago",
       "number": "124",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-125",
@@ -784,7 +784,7 @@
       "id": "evolving_skies-131",
       "name": "Slaking",
       "number": "131",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "evolving_skies-132",
@@ -994,229 +994,229 @@
       "id": "evolving_skies-166",
       "name": "Leafeon V",
       "number": "166",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-167",
       "name": "Leafeon V",
       "number": "167",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-168",
       "name": "Trevenant V",
       "number": "168",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-169",
       "name": "Flareon V",
       "number": "169",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-170",
       "name": "Volcarona V",
       "number": "170",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-171",
       "name": "Gyarados V",
       "number": "171",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-172",
       "name": "Vaporeon V",
       "number": "172",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-173",
       "name": "Suicune V",
       "number": "173",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-174",
       "name": "Glaceon V",
       "number": "174",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-175",
       "name": "Glaceon V",
       "number": "175",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-176",
       "name": "Arctovish V",
       "number": "176",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-177",
       "name": "Jolteon V",
       "number": "177",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-178",
       "name": "Dracozolt V",
       "number": "178",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-179",
       "name": "Espeon V",
       "number": "179",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-180",
       "name": "Espeon V",
       "number": "180",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-181",
       "name": "Golurk V",
       "number": "181",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-182",
       "name": "Golurk V",
       "number": "182",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-183",
       "name": "Sylveon V",
       "number": "183",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-184",
       "name": "Sylveon V",
       "number": "184",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-185",
       "name": "Medicham V",
       "number": "185",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-186",
       "name": "Medicham V",
       "number": "186",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-187",
       "name": "Lycanroc V",
       "number": "187",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-188",
       "name": "Umbreon V",
       "number": "188",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-189",
       "name": "Umbreon V",
       "number": "189",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-190",
       "name": "Garbodor V",
       "number": "190",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-191",
       "name": "Dragonite V",
       "number": "191",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-192",
       "name": "Dragonite V",
       "number": "192",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-193",
       "name": "Rayquaza V",
       "number": "193",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-194",
       "name": "Rayquaza V",
       "number": "194",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-195",
       "name": "Noivern V",
       "number": "195",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-196",
       "name": "Noivern V",
       "number": "196",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-197",
       "name": "Duraludon V",
       "number": "197",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-198",
       "name": "Duraludon V",
       "number": "198",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-199",
       "name": "Aroma Lady",
       "number": "199",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-200",
       "name": "Copycat",
       "number": "200",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-201",
       "name": "Gordie",
       "number": "201",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-202",
       "name": "Raihan",
       "number": "202",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-203",
       "name": "Zinnia S Resolve",
       "number": "203",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "evolving_skies-204",

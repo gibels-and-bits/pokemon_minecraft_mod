@@ -680,7 +680,7 @@
     },
     {
       "id": "destined_rivals-114",
-      "name": "Team Rocket's Nidoran\u2640",
+      "name": "Team Rocket's Nidoran♀",
       "number": "114",
       "rarity": "common"
     },
@@ -698,7 +698,7 @@
     },
     {
       "id": "destined_rivals-117",
-      "name": "Team Rocket's Nidoran\u2642",
+      "name": "Team Rocket's Nidoran♂",
       "number": "117",
       "rarity": "common"
     },
@@ -1096,139 +1096,139 @@
       "id": "destined_rivals-183",
       "name": "Yanma",
       "number": "183",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-184",
       "name": "Cynthia's Roserade",
       "number": "184",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-185",
       "name": "Shaymin",
       "number": "185",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-186",
       "name": "Crustle",
       "number": "186",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-187",
       "name": "Team Rocket's Spidops",
       "number": "187",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-188",
       "name": "Hydrapple",
       "number": "188",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-189",
       "name": "Rapidash",
       "number": "189",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-190",
       "name": "Ethan's Typhlosion",
       "number": "190",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-191",
       "name": "Team Rocket's Houndoom",
       "number": "191",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-192",
       "name": "Blaziken",
       "number": "192",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-193",
       "name": "Misty's Psyduck",
       "number": "193",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-194",
       "name": "Misty's Lapras",
       "number": "194",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-195",
       "name": "Clamperl",
       "number": "195",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-196",
       "name": "Electrike",
       "number": "196",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-197",
       "name": "Rotom",
       "number": "197",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-198",
       "name": "Team Rocket's Orbeetle",
       "number": "198",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-199",
       "name": "Team Rocket's Weezing",
       "number": "199",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-200",
       "name": "Team Rocket's Murkrow",
       "number": "200",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-201",
       "name": "Zamazenta",
       "number": "201",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-202",
       "name": "Team Rocket's Raticate",
       "number": "202",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-203",
       "name": "Team Rocket's Meowth",
       "number": "203",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-204",
       "name": "Kangaskhan",
       "number": "204",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-205",
       "name": "Arven's Greedent",
       "number": "205",
-      "rarity": "illustration_rare"
+      "rarity": "illustration rare"
     },
     {
       "id": "destined_rivals-206",
@@ -1366,67 +1366,67 @@
       "id": "destined_rivals-228",
       "name": "Yanmega ex",
       "number": "228",
-      "rarity": "special_illustration_rare"
+      "rarity": "special illustration rare"
     },
     {
       "id": "destined_rivals-229",
       "name": "Team Rocket's Moltres ex",
       "number": "229",
-      "rarity": "special_illustration_rare"
+      "rarity": "special illustration rare"
     },
     {
       "id": "destined_rivals-230",
       "name": "Ethan's Ho-Oh ex",
       "number": "230",
-      "rarity": "special_illustration_rare"
+      "rarity": "special illustration rare"
     },
     {
       "id": "destined_rivals-231",
       "name": "Team Rocket's Mewtwo ex",
       "number": "231",
-      "rarity": "special_illustration_rare"
+      "rarity": "special illustration rare"
     },
     {
       "id": "destined_rivals-232",
       "name": "Cynthia's Garchomp ex",
       "number": "232",
-      "rarity": "special_illustration_rare"
+      "rarity": "special illustration rare"
     },
     {
       "id": "destined_rivals-233",
       "name": "Team Rocket's Nidoking ex",
       "number": "233",
-      "rarity": "special_illustration_rare"
+      "rarity": "special illustration rare"
     },
     {
       "id": "destined_rivals-234",
       "name": "Team Rocket's Crobat ex",
       "number": "234",
-      "rarity": "special_illustration_rare"
+      "rarity": "special illustration rare"
     },
     {
       "id": "destined_rivals-235",
       "name": "Arven's Mabosstiff ex",
       "number": "235",
-      "rarity": "special_illustration_rare"
+      "rarity": "special illustration rare"
     },
     {
       "id": "destined_rivals-236",
       "name": "Ethan's Adventure",
       "number": "236",
-      "rarity": "special_illustration_rare"
+      "rarity": "special illustration rare"
     },
     {
       "id": "destined_rivals-237",
       "name": "Team Rocket's Ariana",
       "number": "237",
-      "rarity": "special_illustration_rare"
+      "rarity": "special illustration rare"
     },
     {
       "id": "destined_rivals-238",
       "name": "Team Rocket's Giovanni",
       "number": "238",
-      "rarity": "special_illustration_rare"
+      "rarity": "special illustration rare"
     },
     {
       "id": "destined_rivals-239",

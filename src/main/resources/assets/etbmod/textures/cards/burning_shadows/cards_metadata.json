@@ -34,7 +34,7 @@
       "id": "burning_shadows-006",
       "name": "Vileplume",
       "number": "006",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-007",
@@ -184,7 +184,7 @@
       "id": "burning_shadows-031",
       "name": "Kingdra",
       "number": "031",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-032",
@@ -196,7 +196,7 @@
       "id": "burning_shadows-033",
       "name": "Gyarados",
       "number": "033",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-034",
@@ -244,7 +244,7 @@
       "id": "burning_shadows-041",
       "name": "Raichu",
       "number": "041",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-042",
@@ -316,7 +316,7 @@
       "id": "burning_shadows-053",
       "name": "Dusknoir",
       "number": "053",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-054",
@@ -370,7 +370,7 @@
       "id": "burning_shadows-062",
       "name": "Palossand",
       "number": "062",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-063",
@@ -400,7 +400,7 @@
       "id": "burning_shadows-067",
       "name": "Rhyperior",
       "number": "067",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-068",
@@ -424,7 +424,7 @@
       "id": "burning_shadows-071",
       "name": "Lucario",
       "number": "071",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-072",
@@ -448,7 +448,7 @@
       "id": "burning_shadows-075",
       "name": "Lycanroc",
       "number": "075",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-076",
@@ -520,7 +520,7 @@
       "id": "burning_shadows-087",
       "name": "Darkrai",
       "number": "087",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-088",
@@ -562,7 +562,7 @@
       "id": "burning_shadows-094",
       "name": "Diancie",
       "number": "094",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-095",
@@ -598,7 +598,7 @@
       "id": "burning_shadows-100",
       "name": "Zygarde",
       "number": "100",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-101",
@@ -628,13 +628,13 @@
       "id": "burning_shadows-105",
       "name": "Porygon Z",
       "number": "105",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-105a",
       "name": "Porygon Z",
       "number": "105a",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "burning_shadows-106",
@@ -796,115 +796,115 @@
       "id": "burning_shadows-129",
       "name": "Golisopod GX",
       "number": "129",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-130",
       "name": "Tapu Bulu GX",
       "number": "130",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-131",
       "name": "Ho Oh GX",
       "number": "131",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-132",
       "name": "Salazzle GX",
       "number": "132",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-133",
       "name": "Tapu Fini GX",
       "number": "133",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-134",
       "name": "Necrozma GX",
       "number": "134",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-135",
       "name": "Machamp GX",
       "number": "135",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-136",
       "name": "Lycanroc GX",
       "number": "136",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-137",
       "name": "Marshadow GX",
       "number": "137",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-138",
       "name": "Alolan Muk GX",
       "number": "138",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-139",
       "name": "Darkrai GX",
       "number": "139",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-140",
       "name": "Gardevoir GX",
       "number": "140",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-141",
       "name": "Noivern GX",
       "number": "141",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-142",
       "name": "Acerola",
       "number": "142",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-143",
       "name": "Guzma",
       "number": "143",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-144",
       "name": "Kiawe",
       "number": "144",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-145",
       "name": "Plumeria",
       "number": "145",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-146",
       "name": "Sophocles",
       "number": "146",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-147",
       "name": "Wicke",
       "number": "147",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "burning_shadows-148",

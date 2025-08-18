@@ -53,14 +53,26 @@ public class CardTextureManager {
             int cardWidth = originalImage.getWidth();
             int cardHeight = originalImage.getHeight();
             
-            // DO NOT SCALE - just center the original image in the canvas
-            // Calculate position to center the card
-            int xOffset = (256 - cardWidth) / 2;
-            int yOffset = (256 - cardHeight) / 2;
+            // Log the actual dimensions for debugging
+            ETBMod.LOGGER.debug("Loading card texture: " + cardPath + " - Dimensions: " + cardWidth + "x" + cardHeight);
+            
+            // Check if card needs centering or if it already fills the texture
+            int xOffset = 0;
+            int yOffset = 0;
+            
+            // Only center if the card is smaller than the canvas
+            if (cardWidth < 256) {
+                xOffset = (256 - cardWidth) / 2;
+            }
+            if (cardHeight < 256) {
+                yOffset = (256 - cardHeight) / 2;
+            }
             
             // Ensure we don't go out of bounds
             xOffset = Math.max(0, xOffset);
             yOffset = Math.max(0, yOffset);
+            
+            ETBMod.LOGGER.debug("Card positioned at: " + xOffset + ", " + yOffset);
             
             // Copy pixels from original to canvas WITHOUT scaling
             int copyWidth = Math.min(cardWidth, 256);

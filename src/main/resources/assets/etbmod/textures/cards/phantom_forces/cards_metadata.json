@@ -1,875 +1,748 @@
 {
-  "set_id": "xy4",
-  "folder_name": "phantom_forces",
-  "total_cards": 124,
   "cards": [
     {
-      "number": "1",
+      "id": "phantom_forces-001",
       "name": "Venonat",
-      "rarity": "common",
-      "filename": "001_common_venonat.png",
-      "original_rarity": "Common"
+      "number": "1",
+      "rarity": "common"
     },
     {
-      "number": "2",
+      "id": "phantom_forces-002",
       "name": "Venomoth",
-      "rarity": "rare",
-      "filename": "002_rare_venomoth.png",
-      "original_rarity": "Rare"
+      "number": "2",
+      "rarity": "rare"
     },
     {
-      "number": "3",
+      "id": "phantom_forces-003",
       "name": "Yanma",
-      "rarity": "common",
-      "filename": "003_common_yanma.png",
-      "original_rarity": "Common"
+      "number": "3",
+      "rarity": "common"
     },
     {
-      "number": "4",
+      "id": "phantom_forces-004",
       "name": "Yanmega",
-      "rarity": "rare",
-      "filename": "004_rare_yanmega.png",
-      "original_rarity": "Rare"
+      "number": "4",
+      "rarity": "rare"
     },
     {
-      "number": "5",
+      "id": "phantom_forces-005",
       "name": "Sewaddle",
-      "rarity": "common",
-      "filename": "005_common_sewaddle.png",
-      "original_rarity": "Common"
+      "number": "5",
+      "rarity": "common"
     },
     {
-      "number": "6",
+      "id": "phantom_forces-006",
       "name": "Swadloon",
-      "rarity": "uncommon",
-      "filename": "006_uncommon_swadloon.png",
-      "original_rarity": "Uncommon"
+      "number": "6",
+      "rarity": "uncommon"
     },
     {
-      "number": "7",
+      "id": "phantom_forces-007",
       "name": "Leavanny",
-      "rarity": "rare",
-      "filename": "007_rare_leavanny.png",
-      "original_rarity": "Rare"
+      "number": "7",
+      "rarity": "rare"
     },
     {
-      "number": "8",
+      "id": "phantom_forces-008",
       "name": "Karrablast",
-      "rarity": "common",
-      "filename": "008_common_karrablast.png",
-      "original_rarity": "Common"
+      "number": "8",
+      "rarity": "common"
     },
     {
-      "number": "9",
+      "id": "phantom_forces-009",
       "name": "Fletchinder",
-      "rarity": "uncommon",
-      "filename": "009_uncommon_fletchinder.png",
-      "original_rarity": "Uncommon"
+      "number": "9",
+      "rarity": "uncommon"
     },
     {
-      "number": "10",
+      "id": "phantom_forces-010",
       "name": "Talonflame",
-      "rarity": "rare",
-      "filename": "010_rare_talonflame.png",
-      "original_rarity": "Rare"
+      "number": "10",
+      "rarity": "rare"
     },
     {
-      "number": "11",
+      "id": "phantom_forces-011",
       "name": "Litleo",
-      "rarity": "common",
-      "filename": "011_common_litleo.png",
-      "original_rarity": "Common"
+      "number": "11",
+      "rarity": "common"
     },
     {
-      "number": "12",
+      "id": "phantom_forces-012",
       "name": "Pyroar",
-      "rarity": "rare_holo",
-      "filename": "012_rare_holo_pyroar.png",
-      "original_rarity": "Rare Holo"
+      "number": "12",
+      "rarity": "rare holo"
     },
     {
-      "number": "13",
+      "id": "phantom_forces-013",
       "name": "Krabby",
-      "rarity": "common",
-      "filename": "013_common_krabby.png",
-      "original_rarity": "Common"
+      "number": "13",
+      "rarity": "common"
     },
     {
-      "number": "14",
+      "id": "phantom_forces-014",
       "name": "Kingler",
-      "rarity": "uncommon",
-      "filename": "014_uncommon_kingler.png",
-      "original_rarity": "Uncommon"
+      "number": "14",
+      "rarity": "uncommon"
     },
     {
-      "number": "15",
+      "id": "phantom_forces-015",
       "name": "Totodile",
-      "rarity": "common",
-      "filename": "015_common_totodile.png",
-      "original_rarity": "Common"
+      "number": "15",
+      "rarity": "common"
     },
     {
-      "number": "16",
+      "id": "phantom_forces-016",
       "name": "Croconaw",
-      "rarity": "uncommon",
-      "filename": "016_uncommon_croconaw.png",
-      "original_rarity": "Uncommon"
+      "number": "16",
+      "rarity": "uncommon"
     },
     {
-      "number": "17",
+      "id": "phantom_forces-017",
       "name": "Feraligatr",
-      "rarity": "rare_holo",
-      "filename": "017_rare_holo_feraligatr.png",
-      "original_rarity": "Rare Holo"
+      "number": "17",
+      "rarity": "rare holo"
     },
     {
-      "number": "18",
+      "id": "phantom_forces-018",
       "name": "Finneon",
-      "rarity": "common",
-      "filename": "018_common_finneon.png",
-      "original_rarity": "Common"
+      "number": "18",
+      "rarity": "common"
     },
     {
-      "number": "19",
+      "id": "phantom_forces-019",
       "name": "Lumineon",
-      "rarity": "uncommon",
-      "filename": "019_uncommon_lumineon.png",
-      "original_rarity": "Uncommon"
+      "number": "19",
+      "rarity": "uncommon"
     },
     {
-      "number": "20",
+      "id": "phantom_forces-020",
       "name": "Frillish",
-      "rarity": "common",
-      "filename": "020_common_frillish.png",
-      "original_rarity": "Common"
+      "number": "20",
+      "rarity": "common"
     },
     {
-      "number": "21",
+      "id": "phantom_forces-021",
       "name": "Jellicent",
-      "rarity": "rare",
-      "filename": "021_rare_jellicent.png",
-      "original_rarity": "Rare"
+      "number": "21",
+      "rarity": "rare"
     },
     {
-      "number": "22",
+      "id": "phantom_forces-022",
       "name": "Alomomola",
-      "rarity": "common",
-      "filename": "022_common_alomomola.png",
-      "original_rarity": "Common"
+      "number": "22",
+      "rarity": "common"
     },
     {
+      "id": "phantom_forces-023",
+      "name": "Manectric-EX",
       "number": "23",
-      "name": "Manectric-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "023_rare_holo_ex_manectric_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
+      "id": "phantom_forces-024",
+      "name": "M Manectric-EX",
       "number": "24",
-      "name": "M Manectric-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "024_rare_holo_ex_m_manectric_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
+      "id": "phantom_forces-24a",
+      "name": "M Manectric-EX",
       "number": "24a",
-      "name": "M Manectric-EX",
-      "rarity": "rare_ultra",
-      "filename": "24a_rare_ultra_m_manectric_ex.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
-      "number": "25",
+      "id": "phantom_forces-025",
       "name": "Pachirisu",
-      "rarity": "rare",
-      "filename": "025_rare_pachirisu.png",
-      "original_rarity": "Rare"
+      "number": "25",
+      "rarity": "rare"
     },
     {
-      "number": "26",
+      "id": "phantom_forces-026",
       "name": "Joltik",
-      "rarity": "common",
-      "filename": "026_common_joltik.png",
-      "original_rarity": "Common"
+      "number": "26",
+      "rarity": "common"
     },
     {
-      "number": "27",
+      "id": "phantom_forces-027",
       "name": "Galvantula",
-      "rarity": "rare",
-      "filename": "027_rare_galvantula.png",
-      "original_rarity": "Rare"
+      "number": "27",
+      "rarity": "rare"
     },
     {
+      "id": "phantom_forces-028",
+      "name": "Helioptile",
       "number": "28",
-      "name": "Helioptile",
-      "rarity": "common",
-      "filename": "028_common_helioptile.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
+      "id": "phantom_forces-029",
+      "name": "Helioptile",
       "number": "29",
-      "name": "Helioptile",
-      "rarity": "common",
-      "filename": "029_common_helioptile.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
-      "number": "30",
+      "id": "phantom_forces-030",
       "name": "Heliolisk",
-      "rarity": "rare_holo",
-      "filename": "030_rare_holo_heliolisk.png",
-      "original_rarity": "Rare Holo"
+      "number": "30",
+      "rarity": "rare holo"
     },
     {
-      "number": "31",
+      "id": "phantom_forces-031",
       "name": "Zubat",
-      "rarity": "common",
-      "filename": "031_common_zubat.png",
-      "original_rarity": "Common"
+      "number": "31",
+      "rarity": "common"
     },
     {
-      "number": "32",
+      "id": "phantom_forces-032",
       "name": "Golbat",
-      "rarity": "uncommon",
-      "filename": "032_uncommon_golbat.png",
-      "original_rarity": "Uncommon"
+      "number": "32",
+      "rarity": "uncommon"
     },
     {
-      "number": "33",
+      "id": "phantom_forces-033",
       "name": "Crobat",
-      "rarity": "rare",
-      "filename": "033_rare_crobat.png",
-      "original_rarity": "Rare"
+      "number": "33",
+      "rarity": "rare"
     },
     {
+      "id": "phantom_forces-034",
+      "name": "Gengar-EX",
       "number": "34",
-      "name": "Gengar-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "034_rare_holo_ex_gengar_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
+      "id": "phantom_forces-035",
+      "name": "M Gengar-EX",
       "number": "35",
-      "name": "M Gengar-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "035_rare_holo_ex_m_gengar_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "36",
+      "id": "phantom_forces-036",
       "name": "Wobbuffet",
-      "rarity": "uncommon",
-      "filename": "036_uncommon_wobbuffet.png",
-      "original_rarity": "Uncommon"
+      "number": "36",
+      "rarity": "uncommon"
     },
     {
-      "number": "37",
+      "id": "phantom_forces-037",
       "name": "Gulpin",
-      "rarity": "common",
-      "filename": "037_common_gulpin.png",
-      "original_rarity": "Common"
+      "number": "37",
+      "rarity": "common"
     },
     {
-      "number": "38",
+      "id": "phantom_forces-038",
       "name": "Swalot",
-      "rarity": "rare",
-      "filename": "038_rare_swalot.png",
-      "original_rarity": "Rare"
+      "number": "38",
+      "rarity": "rare"
     },
     {
-      "number": "39",
+      "id": "phantom_forces-039",
       "name": "Munna",
-      "rarity": "common",
-      "filename": "039_common_munna.png",
-      "original_rarity": "Common"
+      "number": "39",
+      "rarity": "common"
     },
     {
-      "number": "40",
+      "id": "phantom_forces-040",
       "name": "Musharna",
-      "rarity": "rare",
-      "filename": "040_rare_musharna.png",
-      "original_rarity": "Rare"
+      "number": "40",
+      "rarity": "rare"
     },
     {
-      "number": "41",
+      "id": "phantom_forces-041",
       "name": "Litwick",
-      "rarity": "common",
-      "filename": "041_common_litwick.png",
-      "original_rarity": "Common"
+      "number": "41",
+      "rarity": "common"
     },
     {
-      "number": "42",
+      "id": "phantom_forces-042",
       "name": "Lampent",
-      "rarity": "uncommon",
-      "filename": "042_uncommon_lampent.png",
-      "original_rarity": "Uncommon"
+      "number": "42",
+      "rarity": "uncommon"
     },
     {
-      "number": "43",
+      "id": "phantom_forces-043",
       "name": "Chandelure",
-      "rarity": "rare_holo",
-      "filename": "043_rare_holo_chandelure.png",
-      "original_rarity": "Rare Holo"
+      "number": "43",
+      "rarity": "rare holo"
     },
     {
-      "number": "44",
+      "id": "phantom_forces-044",
       "name": "Pumpkaboo",
-      "rarity": "common",
-      "filename": "044_common_pumpkaboo.png",
-      "original_rarity": "Common"
+      "number": "44",
+      "rarity": "common"
     },
     {
-      "number": "45",
+      "id": "phantom_forces-045",
       "name": "Gourgeist",
-      "rarity": "rare_holo",
-      "filename": "045_rare_holo_gourgeist.png",
-      "original_rarity": "Rare Holo"
+      "number": "45",
+      "rarity": "rare holo"
     },
     {
-      "number": "46",
+      "id": "phantom_forces-046",
       "name": "Gligar",
-      "rarity": "common",
-      "filename": "046_common_gligar.png",
-      "original_rarity": "Common"
+      "number": "46",
+      "rarity": "common"
     },
     {
-      "number": "47",
+      "id": "phantom_forces-047",
       "name": "Gliscor",
-      "rarity": "rare",
-      "filename": "047_rare_gliscor.png",
-      "original_rarity": "Rare"
+      "number": "47",
+      "rarity": "rare"
     },
     {
-      "number": "48",
+      "id": "phantom_forces-048",
       "name": "Roggenrola",
-      "rarity": "common",
-      "filename": "048_common_roggenrola.png",
-      "original_rarity": "Common"
+      "number": "48",
+      "rarity": "common"
     },
     {
-      "number": "49",
+      "id": "phantom_forces-049",
       "name": "Boldore",
-      "rarity": "uncommon",
-      "filename": "049_uncommon_boldore.png",
-      "original_rarity": "Uncommon"
+      "number": "49",
+      "rarity": "uncommon"
     },
     {
-      "number": "50",
+      "id": "phantom_forces-050",
       "name": "Gigalith",
-      "rarity": "rare_holo",
-      "filename": "050_rare_holo_gigalith.png",
-      "original_rarity": "Rare Holo"
+      "number": "50",
+      "rarity": "rare holo"
     },
     {
-      "number": "51",
+      "id": "phantom_forces-051",
       "name": "Murkrow",
-      "rarity": "common",
-      "filename": "051_common_murkrow.png",
-      "original_rarity": "Common"
+      "number": "51",
+      "rarity": "common"
     },
     {
-      "number": "52",
+      "id": "phantom_forces-052",
       "name": "Honchkrow",
-      "rarity": "rare",
-      "filename": "052_rare_honchkrow.png",
-      "original_rarity": "Rare"
+      "number": "52",
+      "rarity": "rare"
     },
     {
-      "number": "53",
+      "id": "phantom_forces-053",
       "name": "Poochyena",
-      "rarity": "common",
-      "filename": "053_common_poochyena.png",
-      "original_rarity": "Common"
+      "number": "53",
+      "rarity": "common"
     },
     {
-      "number": "54",
+      "id": "phantom_forces-054",
       "name": "Mightyena",
-      "rarity": "rare",
-      "filename": "054_rare_mightyena.png",
-      "original_rarity": "Rare"
+      "number": "54",
+      "rarity": "rare"
     },
     {
-      "number": "55",
+      "id": "phantom_forces-055",
       "name": "Spiritomb",
-      "rarity": "rare",
-      "filename": "055_rare_spiritomb.png",
-      "original_rarity": "Rare"
+      "number": "55",
+      "rarity": "rare"
     },
     {
-      "number": "56",
+      "id": "phantom_forces-056",
       "name": "Purrloin",
-      "rarity": "common",
-      "filename": "056_common_purrloin.png",
-      "original_rarity": "Common"
+      "number": "56",
+      "rarity": "common"
     },
     {
-      "number": "57",
+      "id": "phantom_forces-057",
       "name": "Liepard",
-      "rarity": "uncommon",
-      "filename": "057_uncommon_liepard.png",
-      "original_rarity": "Uncommon"
+      "number": "57",
+      "rarity": "uncommon"
     },
     {
+      "id": "phantom_forces-058",
+      "name": "Malamar-EX",
       "number": "58",
-      "name": "Malamar-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "058_rare_holo_ex_malamar_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "59",
+      "id": "phantom_forces-059",
       "name": "Skarmory",
-      "rarity": "common",
-      "filename": "059_common_skarmory.png",
-      "original_rarity": "Common"
+      "number": "59",
+      "rarity": "common"
     },
     {
-      "number": "60",
+      "id": "phantom_forces-060",
       "name": "Bronzor",
-      "rarity": "common",
-      "filename": "060_common_bronzor.png",
-      "original_rarity": "Common"
+      "number": "60",
+      "rarity": "common"
     },
     {
-      "number": "61",
+      "id": "phantom_forces-061",
       "name": "Bronzong",
-      "rarity": "rare",
-      "filename": "061_rare_bronzong.png",
-      "original_rarity": "Rare"
+      "number": "61",
+      "rarity": "rare"
     },
     {
+      "id": "phantom_forces-062",
+      "name": "Dialga-EX",
       "number": "62",
-      "name": "Dialga-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "062_rare_holo_ex_dialga_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "63",
+      "id": "phantom_forces-063",
       "name": "Heatran",
-      "rarity": "rare_holo",
-      "filename": "063_rare_holo_heatran.png",
-      "original_rarity": "Rare Holo"
+      "number": "63",
+      "rarity": "rare holo"
     },
     {
-      "number": "64",
+      "id": "phantom_forces-064",
       "name": "Escavalier",
-      "rarity": "rare",
-      "filename": "064_rare_escavalier.png",
-      "original_rarity": "Rare"
+      "number": "64",
+      "rarity": "rare"
     },
     {
+      "id": "phantom_forces-065",
+      "name": "Aegislash-EX",
       "number": "65",
-      "name": "Aegislash-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "065_rare_holo_ex_aegislash_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
+      "id": "phantom_forces-65a",
+      "name": "Aegislash-EX",
       "number": "65a",
-      "name": "Aegislash-EX",
-      "rarity": "rare_ultra",
-      "filename": "65a_rare_ultra_aegislash_ex.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
-      "number": "66",
+      "id": "phantom_forces-066",
       "name": "Klefki",
-      "rarity": "uncommon",
-      "filename": "066_uncommon_klefki.png",
-      "original_rarity": "Uncommon"
+      "number": "66",
+      "rarity": "uncommon"
     },
     {
+      "id": "phantom_forces-067",
+      "name": "Florges-EX",
       "number": "67",
-      "name": "Florges-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "067_rare_holo_ex_florges_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "68",
+      "id": "phantom_forces-068",
       "name": "Swirlix",
-      "rarity": "common",
-      "filename": "068_common_swirlix.png",
-      "original_rarity": "Common"
+      "number": "68",
+      "rarity": "common"
     },
     {
-      "number": "69",
+      "id": "phantom_forces-069",
       "name": "Slurpuff",
-      "rarity": "rare_holo",
-      "filename": "069_rare_holo_slurpuff.png",
-      "original_rarity": "Rare Holo"
+      "number": "69",
+      "rarity": "rare holo"
     },
     {
-      "number": "70",
+      "id": "phantom_forces-070",
       "name": "Dedenne",
-      "rarity": "common",
-      "filename": "070_common_dedenne.png",
-      "original_rarity": "Common"
+      "number": "70",
+      "rarity": "common"
     },
     {
-      "number": "71",
+      "id": "phantom_forces-071",
       "name": "Diancie",
-      "rarity": "rare_holo",
-      "filename": "071_rare_holo_diancie.png",
-      "original_rarity": "Rare Holo"
+      "number": "71",
+      "rarity": "rare holo"
     },
     {
-      "number": "72",
+      "id": "phantom_forces-072",
       "name": "Deino",
-      "rarity": "common",
-      "filename": "072_common_deino.png",
-      "original_rarity": "Common"
+      "number": "72",
+      "rarity": "common"
     },
     {
-      "number": "73",
+      "id": "phantom_forces-073",
       "name": "Zweilous",
-      "rarity": "uncommon",
-      "filename": "073_uncommon_zweilous.png",
-      "original_rarity": "Uncommon"
+      "number": "73",
+      "rarity": "uncommon"
     },
     {
-      "number": "74",
+      "id": "phantom_forces-074",
       "name": "Hydreigon",
-      "rarity": "rare_holo",
-      "filename": "074_rare_holo_hydreigon.png",
-      "original_rarity": "Rare Holo"
+      "number": "74",
+      "rarity": "rare holo"
     },
     {
-      "number": "75",
+      "id": "phantom_forces-075",
       "name": "Goomy",
-      "rarity": "common",
-      "filename": "075_common_goomy.png",
-      "original_rarity": "Common"
+      "number": "75",
+      "rarity": "common"
     },
     {
-      "number": "76",
+      "id": "phantom_forces-076",
       "name": "Sliggoo",
-      "rarity": "uncommon",
-      "filename": "076_uncommon_sliggoo.png",
-      "original_rarity": "Uncommon"
+      "number": "76",
+      "rarity": "uncommon"
     },
     {
-      "number": "77",
+      "id": "phantom_forces-077",
       "name": "Goodra",
-      "rarity": "rare_holo",
-      "filename": "077_rare_holo_goodra.png",
-      "original_rarity": "Rare Holo"
+      "number": "77",
+      "rarity": "rare holo"
     },
     {
-      "number": "78",
+      "id": "phantom_forces-078",
       "name": "Spearow",
-      "rarity": "common",
-      "filename": "078_common_spearow.png",
-      "original_rarity": "Common"
+      "number": "78",
+      "rarity": "common"
     },
     {
-      "number": "79",
+      "id": "phantom_forces-079",
       "name": "Fearow",
-      "rarity": "uncommon",
-      "filename": "079_uncommon_fearow.png",
-      "original_rarity": "Uncommon"
+      "number": "79",
+      "rarity": "uncommon"
     },
     {
-      "number": "80",
+      "id": "phantom_forces-080",
       "name": "Chansey",
-      "rarity": "common",
-      "filename": "080_common_chansey.png",
-      "original_rarity": "Common"
+      "number": "80",
+      "rarity": "common"
     },
     {
-      "number": "81",
+      "id": "phantom_forces-081",
       "name": "Blissey",
-      "rarity": "rare",
-      "filename": "081_rare_blissey.png",
-      "original_rarity": "Rare"
+      "number": "81",
+      "rarity": "rare"
     },
     {
-      "number": "82",
+      "id": "phantom_forces-082",
       "name": "Girafarig",
-      "rarity": "uncommon",
-      "filename": "082_uncommon_girafarig.png",
-      "original_rarity": "Uncommon"
+      "number": "82",
+      "rarity": "uncommon"
     },
     {
-      "number": "83",
+      "id": "phantom_forces-083",
       "name": "Whismur",
-      "rarity": "common",
-      "filename": "083_common_whismur.png",
-      "original_rarity": "Common"
+      "number": "83",
+      "rarity": "common"
     },
     {
-      "number": "84",
+      "id": "phantom_forces-084",
       "name": "Loudred",
-      "rarity": "uncommon",
-      "filename": "084_uncommon_loudred.png",
-      "original_rarity": "Uncommon"
+      "number": "84",
+      "rarity": "uncommon"
     },
     {
-      "number": "85",
+      "id": "phantom_forces-085",
       "name": "Exploud",
-      "rarity": "rare",
-      "filename": "085_rare_exploud.png",
-      "original_rarity": "Rare"
+      "number": "85",
+      "rarity": "rare"
     },
     {
-      "number": "86",
+      "id": "phantom_forces-086",
       "name": "Regigigas",
-      "rarity": "rare_holo",
-      "filename": "086_rare_holo_regigigas.png",
-      "original_rarity": "Rare Holo"
+      "number": "86",
+      "rarity": "rare holo"
     },
     {
-      "number": "87",
+      "id": "phantom_forces-087",
       "name": "Bunnelby",
-      "rarity": "common",
-      "filename": "087_common_bunnelby.png",
-      "original_rarity": "Common"
+      "number": "87",
+      "rarity": "common"
     },
     {
-      "number": "88",
+      "id": "phantom_forces-088",
       "name": "Diggersby",
-      "rarity": "rare",
-      "filename": "088_rare_diggersby.png",
-      "original_rarity": "Rare"
+      "number": "88",
+      "rarity": "rare"
     },
     {
-      "number": "89",
+      "id": "phantom_forces-089",
       "name": "Fletchling",
-      "rarity": "common",
-      "filename": "089_common_fletchling.png",
-      "original_rarity": "Common"
+      "number": "89",
+      "rarity": "common"
     },
     {
-      "number": "90",
+      "id": "phantom_forces-090",
       "name": "Furfrou",
-      "rarity": "uncommon",
-      "filename": "090_uncommon_furfrou.png",
-      "original_rarity": "Uncommon"
+      "number": "90",
+      "rarity": "uncommon"
     },
     {
+      "id": "phantom_forces-091",
+      "name": "AZ",
       "number": "91",
-      "name": "AZ",
-      "rarity": "uncommon",
-      "filename": "091_uncommon_az.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "92",
+      "id": "phantom_forces-092",
       "name": "Battle Compressor Team Flare Gear",
-      "rarity": "uncommon",
-      "filename": "092_uncommon_battle_compressor_team_flare_gear.png",
-      "original_rarity": "Uncommon"
+      "number": "92",
+      "rarity": "uncommon"
     },
     {
-      "number": "93",
+      "id": "phantom_forces-093",
       "name": "Dimension Valley",
-      "rarity": "uncommon",
-      "filename": "093_uncommon_dimension_valley.png",
-      "original_rarity": "Uncommon"
+      "number": "93",
+      "rarity": "uncommon"
     },
     {
-      "number": "94",
+      "id": "phantom_forces-094",
       "name": "Enhanced Hammer",
-      "rarity": "uncommon",
-      "filename": "094_uncommon_enhanced_hammer.png",
-      "original_rarity": "Uncommon"
+      "number": "94",
+      "rarity": "uncommon"
     },
     {
-      "number": "95",
+      "id": "phantom_forces-095",
       "name": "Gengar Spirit Link",
-      "rarity": "uncommon",
-      "filename": "095_uncommon_gengar_spirit_link.png",
-      "original_rarity": "Uncommon"
+      "number": "95",
+      "rarity": "uncommon"
     },
     {
-      "number": "96",
+      "id": "phantom_forces-096",
       "name": "Hand Scope",
-      "rarity": "uncommon",
-      "filename": "096_uncommon_hand_scope.png",
-      "original_rarity": "Uncommon"
+      "number": "96",
+      "rarity": "uncommon"
     },
     {
-      "number": "97",
+      "id": "phantom_forces-097",
       "name": "Head Ringer Team Flare Hyper Gear",
-      "rarity": "rare_holo",
-      "filename": "097_rare_holo_head_ringer_team_flare_hyper_gear.png",
-      "original_rarity": "Rare Holo"
+      "number": "97",
+      "rarity": "rare holo"
     },
     {
-      "number": "98",
+      "id": "phantom_forces-098",
       "name": "Jamming Net Team Flare Hyper Gear",
-      "rarity": "rare_holo",
-      "filename": "098_rare_holo_jamming_net_team_flare_hyper_gear.png",
-      "original_rarity": "Rare Holo"
+      "number": "98",
+      "rarity": "rare holo"
     },
     {
+      "id": "phantom_forces-099",
+      "name": "Lysandre's Trump Card",
       "number": "99",
-      "name": "Lysandre's Trump Card",
-      "rarity": "uncommon",
-      "filename": "099_uncommon_lysandre_s_trump_card.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "100",
+      "id": "phantom_forces-100",
       "name": "Manectric Spirit Link",
-      "rarity": "uncommon",
-      "filename": "100_uncommon_manectric_spirit_link.png",
-      "original_rarity": "Uncommon"
+      "number": "100",
+      "rarity": "uncommon"
     },
     {
-      "number": "101",
+      "id": "phantom_forces-101",
       "name": "Professor Sycamore",
-      "rarity": "uncommon",
-      "filename": "101_uncommon_professor_sycamore.png",
-      "original_rarity": "Uncommon"
+      "number": "101",
+      "rarity": "uncommon"
     },
     {
-      "number": "102",
+      "id": "phantom_forces-102",
       "name": "Robo Substitute Team Flare Gear",
-      "rarity": "uncommon",
-      "filename": "102_uncommon_robo_substitute_team_flare_gear.png",
-      "original_rarity": "Uncommon"
+      "number": "102",
+      "rarity": "uncommon"
     },
     {
-      "number": "103",
+      "id": "phantom_forces-103",
       "name": "Roller Skates",
-      "rarity": "uncommon",
-      "filename": "103_uncommon_roller_skates.png",
-      "original_rarity": "Uncommon"
+      "number": "103",
+      "rarity": "uncommon"
     },
     {
-      "number": "104",
+      "id": "phantom_forces-104",
       "name": "Shauna",
-      "rarity": "uncommon",
-      "filename": "104_uncommon_shauna.png",
-      "original_rarity": "Uncommon"
+      "number": "104",
+      "rarity": "uncommon"
     },
     {
-      "number": "105",
+      "id": "phantom_forces-105",
       "name": "Steel Shelter",
-      "rarity": "uncommon",
-      "filename": "105_uncommon_steel_shelter.png",
-      "original_rarity": "Uncommon"
+      "number": "105",
+      "rarity": "uncommon"
     },
     {
-      "number": "106",
+      "id": "phantom_forces-106",
       "name": "Target Whistle Team Flare Gear",
-      "rarity": "uncommon",
-      "filename": "106_uncommon_target_whistle_team_flare_gear.png",
-      "original_rarity": "Uncommon"
+      "number": "106",
+      "rarity": "uncommon"
     },
     {
-      "number": "107",
+      "id": "phantom_forces-107",
       "name": "Tierno",
-      "rarity": "uncommon",
-      "filename": "107_uncommon_tierno.png",
-      "original_rarity": "Uncommon"
+      "number": "107",
+      "rarity": "uncommon"
     },
     {
-      "number": "108",
+      "id": "phantom_forces-108",
       "name": "Trick Coin",
-      "rarity": "uncommon",
-      "filename": "108_uncommon_trick_coin.png",
-      "original_rarity": "Uncommon"
+      "number": "108",
+      "rarity": "uncommon"
     },
     {
-      "number": "109",
+      "id": "phantom_forces-109",
       "name": "VS Seeker",
-      "rarity": "uncommon",
-      "filename": "109_uncommon_vs_seeker.png",
-      "original_rarity": "Uncommon"
+      "number": "109",
+      "rarity": "uncommon"
     },
     {
+      "id": "phantom_forces-110",
+      "name": "Xerosic",
       "number": "110",
-      "name": "Xerosic",
-      "rarity": "uncommon",
-      "filename": "110_uncommon_xerosic.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "111",
+      "id": "phantom_forces-111",
       "name": "Double Colorless Energy",
-      "rarity": "uncommon",
-      "filename": "111_uncommon_double_colorless_energy.png",
-      "original_rarity": "Uncommon"
+      "number": "111",
+      "rarity": "uncommon"
     },
     {
-      "number": "112",
+      "id": "phantom_forces-112",
       "name": "Mystery Energy",
-      "rarity": "uncommon",
-      "filename": "112_uncommon_mystery_energy.png",
-      "original_rarity": "Uncommon"
+      "number": "112",
+      "rarity": "uncommon"
     },
     {
-      "number": "113",
+      "id": "phantom_forces-113",
       "name": "Manectric-EX",
-      "rarity": "rare_ultra",
-      "filename": "113_rare_ultra_manectric_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "113",
+      "rarity": "rare ultra"
     },
     {
-      "number": "114",
+      "id": "phantom_forces-114",
       "name": "Gengar-EX",
-      "rarity": "rare_ultra",
-      "filename": "114_rare_ultra_gengar_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "114",
+      "rarity": "rare ultra"
     },
     {
-      "number": "115",
+      "id": "phantom_forces-115",
       "name": "Malamar-EX",
-      "rarity": "rare_ultra",
-      "filename": "115_rare_ultra_malamar_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "115",
+      "rarity": "rare ultra"
     },
     {
-      "number": "116",
+      "id": "phantom_forces-116",
       "name": "Florges-EX",
-      "rarity": "rare_ultra",
-      "filename": "116_rare_ultra_florges_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "116",
+      "rarity": "rare ultra"
     },
     {
-      "number": "117",
+      "id": "phantom_forces-117",
       "name": "AZ",
-      "rarity": "rare_ultra",
-      "filename": "117_rare_ultra_az.png",
-      "original_rarity": "Rare Ultra"
+      "number": "117",
+      "rarity": "rare ultra"
     },
     {
-      "number": "118",
+      "id": "phantom_forces-118",
       "name": "Lysandre's Trump Card",
-      "rarity": "rare_ultra",
-      "filename": "118_rare_ultra_lysandre_s_trump_card.png",
-      "original_rarity": "Rare Ultra"
+      "number": "118",
+      "rarity": "rare ultra"
     },
     {
-      "number": "119",
+      "id": "phantom_forces-119",
       "name": "Xerosic",
-      "rarity": "rare_ultra",
-      "filename": "119_rare_ultra_xerosic.png",
-      "original_rarity": "Rare Ultra"
+      "number": "119",
+      "rarity": "rare ultra"
     },
     {
-      "number": "120",
+      "id": "phantom_forces-120",
       "name": "M Manectric-EX",
-      "rarity": "rare_secret",
-      "filename": "120_rare_secret_m_manectric_ex.png",
-      "original_rarity": "Rare Secret"
+      "number": "120",
+      "rarity": "rare secret"
     },
     {
-      "number": "121",
+      "id": "phantom_forces-121",
       "name": "M Gengar-EX",
-      "rarity": "rare_secret",
-      "filename": "121_rare_secret_m_gengar_ex.png",
-      "original_rarity": "Rare Secret"
+      "number": "121",
+      "rarity": "rare secret"
     },
     {
-      "number": "122",
+      "id": "phantom_forces-122",
       "name": "Dialga-EX",
-      "rarity": "rare_secret",
-      "filename": "122_rare_secret_dialga_ex.png",
-      "original_rarity": "Rare Secret"
+      "number": "122",
+      "rarity": "rare secret"
     }
   ]
 }

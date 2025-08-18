@@ -15,7 +15,7 @@ import java.util.List;
 
 public class BoosterPackItem extends Item {
     private final String setName;
-    private static final int CARDS_PER_PACK = 8;
+    private static final int CARDS_PER_PACK = 10;
     
     public BoosterPackItem(String setName) {
         super(new Item.Properties()

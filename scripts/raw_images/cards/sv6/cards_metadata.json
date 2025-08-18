@@ -1,0 +1,2187 @@
+{
+  "set_id": "sv6",
+  "set_name": "White Flare",
+  "total_cards": 226,
+  "downloaded": 226,
+  "failed": 0,
+  "cards": [
+    {
+      "number": "1",
+      "name": "Tangela",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "artist": "Yoriyuki Ikegami"
+    },
+    {
+      "number": "2",
+      "name": "Tangrowth",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "150",
+      "artist": "LINNE"
+    },
+    {
+      "number": "3",
+      "name": "Pinsir",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "110",
+      "artist": "HYOGONOSUKE"
+    },
+    {
+      "number": "4",
+      "name": "Spinarak",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "artist": "Saya Tsuruta"
+    },
+    {
+      "number": "7",
+      "name": "Sunflora",
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "hp": "100",
+      "artist": "Ounishi"
+    },
+    {
+      "number": "6",
+      "name": "Sunkern",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "artist": "Naoyo Kimura"
+    },
+    {
+      "number": "5",
+      "name": "Ariados",
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "artist": "Anesaki Dynamic"
+    },
+    {
+      "number": "8",
+      "name": "Heracross",
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "hp": "120",
+      "artist": "Toshinao Aoki"
+    },
+    {
+      "number": "9",
+      "name": "Volbeat",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "artist": "Orca"
+    },
+    {
+      "number": "10",
+      "name": "Illumise",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "artist": "Orca"
+    },
+    {
+      "number": "11",
+      "name": "Leafeon",
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "hp": "120",
+      "artist": "Kuroimori"
+    },
+    {
+      "number": "12",
+      "name": "Phantump",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "artist": "Katsunori Sato"
+    },
+    {
+      "number": "13",
+      "name": "Trevenant",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "120",
+      "artist": "Oswaldo KATO"
+    },
+    {
+      "number": "16",
+      "name": "Rillaboom",
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "hp": "180",
+      "artist": "toriyufu"
+    },
+    {
+      "number": "18",
+      "name": "Dipplin",
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "artist": "Saboteri"
+    },
+    {
+      "number": "23",
+      "name": "Sinistcha ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "240",
+      "artist": "aky CG Works"
+    },
+    {
+      "number": "14",
+      "name": "Grookey",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "artist": "Tomomi Ozaki"
+    },
+    {
+      "number": "15",
+      "name": "Thwackey",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "100",
+      "artist": "GOSSAN"
+    },
+    {
+      "number": "17",
+      "name": "Applin",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "artist": "OKUBO"
+    },
+    {
+      "number": "19",
+      "name": "Iron Leaves",
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "120",
+      "artist": "Mitsuhiro Arita"
+    },
+    {
+      "number": "20",
+      "name": "Poltchageist",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "30",
+      "artist": "MINAMINAMI Take"
+    },
+    {
+      "number": "21",
+      "name": "Poltchageist",
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "artist": "Souichirou Gunjima"
+    },
+    {
+      "number": "22",
+      "name": "Sinistcha",
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "artist": "Kouki Saitou"
+    },
+    {
+      "number": "24",
+      "name": "Teal Mask Ogerpon",
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "110",
+      "artist": "Sanosuke Sakuma"
+    },
+    {
+      "number": "25",
+      "name": "Teal Mask Ogerpon ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "210",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "26",
+      "name": "Vulpix",
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "artist": "sowsow"
+    },
+    {
+      "number": "27",
+      "name": "Ninetales",
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "hp": "120",
+      "artist": "KEIICHIRO ITO"
+    },
+    {
+      "number": "28",
+      "name": "Slugma",
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "hp": "80",
+      "artist": "Gapao"
+    },
+    {
+      "number": "29",
+      "name": "Magcargo ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Fire"
+      ],
+      "hp": "270",
+      "artist": "PLANETA Mochizuki"
+    },
+    {
+      "number": "30",
+      "name": "Torkoal",
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "hp": "130",
+      "artist": "Teeziro"
+    },
+    {
+      "number": "31",
+      "name": "Chimchar",
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "artist": "Jerky"
+    },
+    {
+      "number": "32",
+      "name": "Monferno",
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "hp": "90",
+      "artist": "Scav"
+    },
+    {
+      "number": "33",
+      "name": "Infernape",
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "hp": "140",
+      "artist": "Takumi Wada"
+    },
+    {
+      "number": "34",
+      "name": "Darumaka",
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "hp": "80",
+      "artist": "osare"
+    },
+    {
+      "number": "35",
+      "name": "Darmanitan",
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "hp": "140",
+      "artist": "OKUBO"
+    },
+    {
+      "number": "36",
+      "name": "Litwick",
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "artist": "Saya Tsuruta"
+    },
+    {
+      "number": "37",
+      "name": "Lampent",
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "hp": "80",
+      "artist": "Rond"
+    },
+    {
+      "number": "38",
+      "name": "Chandelure",
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "hp": "130",
+      "artist": "saino misaki"
+    },
+    {
+      "number": "39",
+      "name": "Chi-Yu",
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "hp": "110",
+      "artist": "Oku"
+    },
+    {
+      "number": "40",
+      "name": "Hearthflame Mask Ogerpon ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Fire"
+      ],
+      "hp": "210",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "41",
+      "name": "Poliwag",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "artist": "Kedamahadaitai Yawarakai"
+    },
+    {
+      "number": "42",
+      "name": "Poliwhirl",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "100",
+      "artist": "OKACHEKE"
+    },
+    {
+      "number": "43",
+      "name": "Poliwrath",
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "hp": "170",
+      "artist": "Nisota Niso"
+    },
+    {
+      "number": "44",
+      "name": "Goldeen",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "50",
+      "artist": "saino misaki"
+    },
+    {
+      "number": "45",
+      "name": "Seaking",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "artist": "Gemi"
+    },
+    {
+      "number": "46",
+      "name": "Jynx",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "artist": "Gapao"
+    },
+    {
+      "number": "47",
+      "name": "Corphish",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "80",
+      "artist": "Kouki Saitou"
+    },
+    {
+      "number": "48",
+      "name": "Crawdaunt",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "130",
+      "artist": "Kurata So"
+    },
+    {
+      "number": "49",
+      "name": "Feebas",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "30",
+      "artist": "Scav"
+    },
+    {
+      "number": "50",
+      "name": "Milotic",
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "artist": "Taira Akitsu"
+    },
+    {
+      "number": "51",
+      "name": "Snorunt",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "artist": "M\u00e9kayu"
+    },
+    {
+      "number": "52",
+      "name": "Glalie",
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "artist": "Oku"
+    },
+    {
+      "number": "53",
+      "name": "Froslass",
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "artist": "Makura Tami"
+    },
+    {
+      "number": "56",
+      "name": "Froakie",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "artist": "Yuka Morii"
+    },
+    {
+      "number": "57",
+      "name": "Frogadier",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "artist": "Hitoshi Ariga"
+    },
+    {
+      "number": "54",
+      "name": "Glaceon",
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "artist": "rika"
+    },
+    {
+      "number": "55",
+      "name": "Phione",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "artist": "aspara"
+    },
+    {
+      "number": "58",
+      "name": "Cramorant",
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "hp": "110",
+      "artist": "OKACHEKE"
+    },
+    {
+      "number": "62",
+      "name": "Iron Bundle",
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "artist": "nagimiso"
+    },
+    {
+      "number": "59",
+      "name": "Finizen",
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "artist": "Narumi Sato"
+    },
+    {
+      "number": "60",
+      "name": "Palafin",
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "hp": "100",
+      "artist": "Ligton"
+    },
+    {
+      "number": "61",
+      "name": "Palafin ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Water"
+      ],
+      "hp": "340",
+      "artist": "PLANETA Mochizuki"
+    },
+    {
+      "number": "63",
+      "name": "Walking Wake",
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "hp": "130",
+      "artist": "kawayoo"
+    },
+    {
+      "number": "64",
+      "name": "Wellspring Mask Ogerpon ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Water"
+      ],
+      "hp": "210",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "65",
+      "name": "Zapdos",
+      "rarity": "Rare",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "120",
+      "artist": "GOSSAN"
+    },
+    {
+      "number": "66",
+      "name": "Shinx",
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "artist": "Yuu Nishida"
+    },
+    {
+      "number": "67",
+      "name": "Luxio",
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "artist": "Takumi Wada"
+    },
+    {
+      "number": "69",
+      "name": "Emolga",
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "artist": "Shimaris Yukichi"
+    },
+    {
+      "number": "68",
+      "name": "Luxray ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "310",
+      "artist": "PLANETA Yamashita"
+    },
+    {
+      "number": "70",
+      "name": "Helioptile",
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "artist": "Taiga Kayama"
+    },
+    {
+      "number": "71",
+      "name": "Heliolisk",
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "100",
+      "artist": "Atsuya Uki"
+    },
+    {
+      "number": "72",
+      "name": "Morpeko",
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "artist": "kodama"
+    },
+    {
+      "number": "73",
+      "name": "Tadbulb",
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "50",
+      "artist": "nisimono"
+    },
+    {
+      "number": "74",
+      "name": "Bellibolt",
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "140",
+      "artist": "Mina Nakai"
+    },
+    {
+      "number": "75",
+      "name": "Wattrel",
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "artist": "Teeziro"
+    },
+    {
+      "number": "76",
+      "name": "Kilowattrel",
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "120",
+      "artist": "Anesaki Dynamic"
+    },
+    {
+      "number": "77",
+      "name": "Iron Thorns ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "230",
+      "artist": "PLANETA Mochizuki"
+    },
+    {
+      "number": "78",
+      "name": "Clefairy",
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "artist": "Sanosuke Sakuma"
+    },
+    {
+      "number": "79",
+      "name": "Clefable",
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "artist": "satoma"
+    },
+    {
+      "number": "80",
+      "name": "Abra",
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "40",
+      "artist": "Kariya"
+    },
+    {
+      "number": "81",
+      "name": "Kadabra",
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "artist": "Uninori"
+    },
+    {
+      "number": "82",
+      "name": "Alakazam",
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "140",
+      "artist": "Masako Tomii"
+    },
+    {
+      "number": "83",
+      "name": "Girafarig",
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "100",
+      "artist": "Shinji Kanda"
+    },
+    {
+      "number": "84",
+      "name": "Farigiraf",
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "140",
+      "artist": "Dsuke"
+    },
+    {
+      "number": "87",
+      "name": "Floette",
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "artist": "mingo"
+    },
+    {
+      "number": "85",
+      "name": "Chimecho",
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "artist": "Mousho"
+    },
+    {
+      "number": "86",
+      "name": "Flab\u00e9b\u00e9",
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "40",
+      "artist": "Yukiko Baba"
+    },
+    {
+      "number": "89",
+      "name": "Swirlix",
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "50",
+      "artist": "Akira Komayama"
+    },
+    {
+      "number": "88",
+      "name": "Florges",
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "140",
+      "artist": "Ligton"
+    },
+    {
+      "number": "90",
+      "name": "Slurpuff",
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "artist": "mingo"
+    },
+    {
+      "number": "91",
+      "name": "Sandygast",
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "artist": "Asako Ito"
+    },
+    {
+      "number": "92",
+      "name": "Palossand",
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "150",
+      "artist": "Uta"
+    },
+    {
+      "number": "93",
+      "name": "Enamorus",
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "artist": "DOM"
+    },
+    {
+      "number": "94",
+      "name": "Scream Tail ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "190",
+      "artist": "akagi"
+    },
+    {
+      "number": "95",
+      "name": "Munkidori",
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "110",
+      "artist": "kodama"
+    },
+    {
+      "number": "96",
+      "name": "Fezandipiti",
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "artist": "Kouki Saitou"
+    },
+    {
+      "number": "97",
+      "name": "Sandshrew",
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "artist": "Tetsu Kayama"
+    },
+    {
+      "number": "99",
+      "name": "Hisuian Growlithe",
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "artist": "Whisker"
+    },
+    {
+      "number": "98",
+      "name": "Sandslash",
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "120",
+      "artist": "Nisota Niso"
+    },
+    {
+      "number": "100",
+      "name": "Hisuian Arcanine",
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "130",
+      "artist": "SIE NANAHARA"
+    },
+    {
+      "number": "101",
+      "name": "Nosepass",
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "artist": "AKIRA EGAWA"
+    },
+    {
+      "number": "102",
+      "name": "Probopass",
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "140",
+      "artist": "OKUBO"
+    },
+    {
+      "number": "103",
+      "name": "Timburr",
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "artist": "Kouki Saitou"
+    },
+    {
+      "number": "104",
+      "name": "Gurdurr",
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "100",
+      "artist": "Aya Kusube"
+    },
+    {
+      "number": "105",
+      "name": "Conkeldurr",
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "180",
+      "artist": "Takeshi Nakamura"
+    },
+    {
+      "number": "106",
+      "name": "Greninja ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "310",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "107",
+      "name": "Hawlucha",
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "artist": "Shigenori Negishi"
+    },
+    {
+      "number": "108",
+      "name": "Glimmet",
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "artist": "Miki Tanaka"
+    },
+    {
+      "number": "109",
+      "name": "Glimmora",
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "130",
+      "artist": "Kazumasa Yasukuni"
+    },
+    {
+      "number": "110",
+      "name": "Ting-Lu",
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "140",
+      "artist": "Anesaki Dynamic"
+    },
+    {
+      "number": "111",
+      "name": "Okidogi",
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "130",
+      "artist": "Souichirou Gunjima"
+    },
+    {
+      "number": "112",
+      "name": "Cornerstone Mask Ogerpon ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "210",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "113",
+      "name": "Poochyena",
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "artist": "Shibuzoh."
+    },
+    {
+      "number": "114",
+      "name": "Mightyena",
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "hp": "120",
+      "artist": "kawayoo"
+    },
+    {
+      "number": "115",
+      "name": "Venipede",
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "hp": "80",
+      "artist": "Tomokazu Komiya"
+    },
+    {
+      "number": "116",
+      "name": "Whirlipede",
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "artist": "Krgc"
+    },
+    {
+      "number": "117",
+      "name": "Scolipede",
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "hp": "170",
+      "artist": "Shiburingaru"
+    },
+    {
+      "number": "118",
+      "name": "Brute Bonnet",
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "hp": "120",
+      "artist": "danciao"
+    },
+    {
+      "number": "119",
+      "name": "Skarmory",
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "hp": "120",
+      "artist": "toi8"
+    },
+    {
+      "number": "120",
+      "name": "Aron",
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "hp": "70",
+      "artist": "Gapao"
+    },
+    {
+      "number": "121",
+      "name": "Lairon",
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "hp": "110",
+      "artist": "takashi shiraishi"
+    },
+    {
+      "number": "122",
+      "name": "Aggron",
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "hp": "180",
+      "artist": "Dsuke"
+    },
+    {
+      "number": "123",
+      "name": "Heatran",
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "hp": "140",
+      "artist": "AKIRA EGAWA"
+    },
+    {
+      "number": "124",
+      "name": "Varoom",
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "hp": "70",
+      "artist": "Shigenori Negishi"
+    },
+    {
+      "number": "125",
+      "name": "Revavroom",
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "hp": "140",
+      "artist": "Hasuno"
+    },
+    {
+      "number": "126",
+      "name": "Applin",
+      "rarity": "Common",
+      "types": [
+        "Dragon"
+      ],
+      "hp": "40",
+      "artist": "Teeziro"
+    },
+    {
+      "number": "127",
+      "name": "Dipplin",
+      "rarity": "Uncommon",
+      "types": [
+        "Dragon"
+      ],
+      "hp": "80",
+      "artist": "OKACHEKE"
+    },
+    {
+      "number": "128",
+      "name": "Dreepy",
+      "rarity": "Common",
+      "types": [
+        "Dragon"
+      ],
+      "hp": "70",
+      "artist": "Scav"
+    },
+    {
+      "number": "129",
+      "name": "Drakloak",
+      "rarity": "Common",
+      "types": [
+        "Dragon"
+      ],
+      "hp": "90",
+      "artist": "cochi8i"
+    },
+    {
+      "number": "130",
+      "name": "Dragapult ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Dragon"
+      ],
+      "hp": "320",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "131",
+      "name": "Tatsugiri",
+      "rarity": "Uncommon",
+      "types": [
+        "Dragon"
+      ],
+      "hp": "70",
+      "artist": "Jerky"
+    },
+    {
+      "number": "132",
+      "name": "Farfetch'd",
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "artist": "miki kudo"
+    },
+    {
+      "number": "133",
+      "name": "Chansey",
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "artist": "HYOGONOSUKE"
+    },
+    {
+      "number": "134",
+      "name": "Blissey ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "300",
+      "artist": "Iwamoto05"
+    },
+    {
+      "number": "135",
+      "name": "Eevee",
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "artist": "satoma"
+    },
+    {
+      "number": "136",
+      "name": "Snorlax",
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "160",
+      "artist": "Souichirou Gunjima"
+    },
+    {
+      "number": "137",
+      "name": "Aipom",
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "artist": "Mugi Hamada"
+    },
+    {
+      "number": "138",
+      "name": "Ambipom",
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "110",
+      "artist": "KEIICHIRO ITO"
+    },
+    {
+      "number": "139",
+      "name": "Ducklett",
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "artist": "Shibuzoh."
+    },
+    {
+      "number": "140",
+      "name": "Swanna",
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "110",
+      "artist": "Susumu Maeya"
+    },
+    {
+      "number": "141",
+      "name": "Bloodmoon Ursaluna ex",
+      "rarity": "Double Rare",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "260",
+      "artist": "aky CG Works"
+    },
+    {
+      "number": "142",
+      "name": "Accompanying Flute",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "AYUMI ODASHIMA"
+    },
+    {
+      "number": "143",
+      "name": "Bug Catching Set",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "AYUMI ODASHIMA"
+    },
+    {
+      "number": "144",
+      "name": "Caretaker",
+      "rarity": "Common",
+      "types": [],
+      "hp": null,
+      "artist": "Akira Komayama"
+    },
+    {
+      "number": "145",
+      "name": "Carmine",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "kantaro"
+    },
+    {
+      "number": "146",
+      "name": "Community Center",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "MARINA Chikazawa"
+    },
+    {
+      "number": "147",
+      "name": "Cook",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "Hideki Ishikawa"
+    },
+    {
+      "number": "148",
+      "name": "Enhanced Hammer",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "Eske Yoshinob"
+    },
+    {
+      "number": "149",
+      "name": "Festival Grounds",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "MARINA Chikazawa"
+    },
+    {
+      "number": "151",
+      "name": "Hassel",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "GOSSAN"
+    },
+    {
+      "number": "150",
+      "name": "Handheld Fan",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "Toyste Beach"
+    },
+    {
+      "number": "152",
+      "name": "Hyper Aroma",
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "hp": null,
+      "artist": "Toyste Beach"
+    },
+    {
+      "number": "153",
+      "name": "Jamming Tower",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "AYUMI ODASHIMA"
+    },
+    {
+      "number": "154",
+      "name": "Kieran",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "GIDORA"
+    },
+    {
+      "number": "155",
+      "name": "Lana's Aid",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "Atsushi Furusawa"
+    },
+    {
+      "number": "156",
+      "name": "Love Ball",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "Studio Bora Inc."
+    },
+    {
+      "number": "157",
+      "name": "Lucian",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "hncl"
+    },
+    {
+      "number": "158",
+      "name": "Lucky Helmet",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "Studio Bora Inc."
+    },
+    {
+      "number": "159",
+      "name": "Ogre's Mask",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "160",
+      "name": "Perrin",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "Naoki Saito"
+    },
+    {
+      "number": "161",
+      "name": "Raifort",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": "hncl"
+    },
+    {
+      "number": "162",
+      "name": "Scoop Up Cyclone",
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "hp": null,
+      "artist": "Toyste Beach"
+    },
+    {
+      "number": "163",
+      "name": "Secret Box",
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "hp": null,
+      "artist": "Toyste Beach"
+    },
+    {
+      "number": "164",
+      "name": "Survival Brace",
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "hp": null,
+      "artist": "inose yukie"
+    },
+    {
+      "number": "165",
+      "name": "Unfair Stamp",
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "hp": null,
+      "artist": "Toyste Beach"
+    },
+    {
+      "number": "166",
+      "name": "Boomerang Energy",
+      "rarity": "Uncommon",
+      "types": [],
+      "hp": null,
+      "artist": null
+    },
+    {
+      "number": "167",
+      "name": "Legacy Energy",
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "hp": null,
+      "artist": null
+    },
+    {
+      "number": "168",
+      "name": "Pinsir",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "110",
+      "artist": "Yukihiro Tada"
+    },
+    {
+      "number": "169",
+      "name": "Sunflora",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "100",
+      "artist": "Shinya Komatsu"
+    },
+    {
+      "number": "170",
+      "name": "Dipplin",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "artist": "Akira Komayama"
+    },
+    {
+      "number": "171",
+      "name": "Poltchageist",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "30",
+      "artist": "Saboteri"
+    },
+    {
+      "number": "172",
+      "name": "Torkoal",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "hp": "130",
+      "artist": "Masa"
+    },
+    {
+      "number": "173",
+      "name": "Infernape",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "hp": "140",
+      "artist": "Krgc"
+    },
+    {
+      "number": "174",
+      "name": "Froslass",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "artist": "matazo"
+    },
+    {
+      "number": "175",
+      "name": "Phione",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "artist": "takashi shiraishi"
+    },
+    {
+      "number": "176",
+      "name": "Cramorant",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "hp": "110",
+      "artist": "Fujimoto Gold"
+    },
+    {
+      "number": "178",
+      "name": "Wattrel",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "artist": "Mitsuhiro Arita"
+    },
+    {
+      "number": "179",
+      "name": "Chimecho",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "artist": "REND"
+    },
+    {
+      "number": "177",
+      "name": "Heliolisk",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "100",
+      "artist": "Tonji Matsuno"
+    },
+    {
+      "number": "180",
+      "name": "Enamorus",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "artist": "GOTO minori"
+    },
+    {
+      "number": "181",
+      "name": "Hisuian Growlithe",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "artist": "GIDORA"
+    },
+    {
+      "number": "182",
+      "name": "Probopass",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "140",
+      "artist": "Kariya"
+    },
+    {
+      "number": "183",
+      "name": "Timburr",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "artist": "Yuriko Akase"
+    },
+    {
+      "number": "184",
+      "name": "Lairon",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Metal"
+      ],
+      "hp": "110",
+      "artist": "Dsuke"
+    },
+    {
+      "number": "185",
+      "name": "Applin",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Dragon"
+      ],
+      "hp": "40",
+      "artist": "Katsunori Sato"
+    },
+    {
+      "number": "186",
+      "name": "Tatsugiri",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Dragon"
+      ],
+      "hp": "70",
+      "artist": "osare"
+    },
+    {
+      "number": "187",
+      "name": "Chansey",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "artist": "Toshinao Aoki"
+    },
+    {
+      "number": "188",
+      "name": "Eevee",
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "artist": "Narumi Sato"
+    },
+    {
+      "number": "189",
+      "name": "Sinistcha ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "240",
+      "artist": "aky CG Works"
+    },
+    {
+      "number": "190",
+      "name": "Teal Mask Ogerpon ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "210",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "191",
+      "name": "Magcargo ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fire"
+      ],
+      "hp": "270",
+      "artist": "PLANETA Yamashita"
+    },
+    {
+      "number": "194",
+      "name": "Wellspring Mask Ogerpon ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "hp": "210",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "192",
+      "name": "Hearthflame Mask Ogerpon ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fire"
+      ],
+      "hp": "210",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "193",
+      "name": "Palafin ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "hp": "340",
+      "artist": "PLANETA Mochizuki"
+    },
+    {
+      "number": "195",
+      "name": "Luxray ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "310",
+      "artist": "PLANETA Yamashita"
+    },
+    {
+      "number": "196",
+      "name": "Iron Thorns ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "230",
+      "artist": "PLANETA Mochizuki"
+    },
+    {
+      "number": "197",
+      "name": "Scream Tail ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Psychic"
+      ],
+      "hp": "190",
+      "artist": "PLANETA Hiiragi"
+    },
+    {
+      "number": "198",
+      "name": "Greninja ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "310",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "199",
+      "name": "Cornerstone Mask Ogerpon ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "210",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "200",
+      "name": "Dragapult ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Dragon"
+      ],
+      "hp": "320",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "201",
+      "name": "Blissey ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "300",
+      "artist": "PLANETA Tsuji"
+    },
+    {
+      "number": "202",
+      "name": "Bloodmoon Ursaluna ex",
+      "rarity": "Ultra Rare",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "260",
+      "artist": "aky CG Works"
+    },
+    {
+      "number": "203",
+      "name": "Caretaker",
+      "rarity": "Ultra Rare",
+      "types": [],
+      "hp": null,
+      "artist": "Akira Komayama"
+    },
+    {
+      "number": "204",
+      "name": "Carmine",
+      "rarity": "Ultra Rare",
+      "types": [],
+      "hp": null,
+      "artist": "kantaro"
+    },
+    {
+      "number": "205",
+      "name": "Hassel",
+      "rarity": "Ultra Rare",
+      "types": [],
+      "hp": null,
+      "artist": "GOSSAN"
+    },
+    {
+      "number": "206",
+      "name": "Kieran",
+      "rarity": "Ultra Rare",
+      "types": [],
+      "hp": null,
+      "artist": "GIDORA"
+    },
+    {
+      "number": "207",
+      "name": "Lana's Aid",
+      "rarity": "Ultra Rare",
+      "types": [],
+      "hp": null,
+      "artist": "Atsushi Furusawa"
+    },
+    {
+      "number": "208",
+      "name": "Lucian",
+      "rarity": "Ultra Rare",
+      "types": [],
+      "hp": null,
+      "artist": "hncl"
+    },
+    {
+      "number": "209",
+      "name": "Perrin",
+      "rarity": "Ultra Rare",
+      "types": [],
+      "hp": null,
+      "artist": "Naoki Saito"
+    },
+    {
+      "number": "211",
+      "name": "Teal Mask Ogerpon ex",
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "210",
+      "artist": "Yano Keiji"
+    },
+    {
+      "number": "210",
+      "name": "Sinistcha ex",
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "240",
+      "artist": "Saboteri"
+    },
+    {
+      "number": "214",
+      "name": "Greninja ex",
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "310",
+      "artist": "akagi"
+    },
+    {
+      "number": "212",
+      "name": "Hearthflame Mask Ogerpon ex",
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "hp": "210",
+      "artist": "Yano Keiji"
+    },
+    {
+      "number": "213",
+      "name": "Wellspring Mask Ogerpon ex",
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "hp": "210",
+      "artist": "Yano Keiji"
+    },
+    {
+      "number": "215",
+      "name": "Cornerstone Mask Ogerpon ex",
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "hp": "210",
+      "artist": "Yano Keiji"
+    },
+    {
+      "number": "216",
+      "name": "Bloodmoon Ursaluna ex",
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "260",
+      "artist": "MINAMINAMI Take"
+    },
+    {
+      "number": "218",
+      "name": "Kieran",
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "hp": null,
+      "artist": "Teeziro"
+    },
+    {
+      "number": "219",
+      "name": "Lana's Aid",
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "hp": null,
+      "artist": "Toshinao Aoki"
+    },
+    {
+      "number": "217",
+      "name": "Carmine",
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "hp": null,
+      "artist": "En Morikura"
+    },
+    {
+      "number": "220",
+      "name": "Perrin",
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "hp": null,
+      "artist": "GIDORA"
+    },
+    {
+      "number": "221",
+      "name": "Teal Mask Ogerpon ex",
+      "rarity": "Hyper Rare",
+      "types": [
+        "Grass"
+      ],
+      "hp": "210",
+      "artist": "5ban Graphics"
+    },
+    {
+      "number": "222",
+      "name": "Bloodmoon Ursaluna ex",
+      "rarity": "Hyper Rare",
+      "types": [
+        "Colorless"
+      ],
+      "hp": "260",
+      "artist": "aky CG Works"
+    },
+    {
+      "number": "223",
+      "name": "Buddy-Buddy Poffin",
+      "rarity": "Hyper Rare",
+      "types": [],
+      "hp": null,
+      "artist": "AYUMI ODASHIMA"
+    },
+    {
+      "number": "224",
+      "name": "Enhanced Hammer",
+      "rarity": "Hyper Rare",
+      "types": [],
+      "hp": null,
+      "artist": "Eske Yoshinob"
+    },
+    {
+      "number": "225",
+      "name": "Rescue Board",
+      "rarity": "Hyper Rare",
+      "types": [],
+      "hp": null,
+      "artist": "Toyste Beach"
+    },
+    {
+      "number": "226",
+      "name": "Luminous Energy",
+      "rarity": "Hyper Rare",
+      "types": [],
+      "hp": null,
+      "artist": null
+    }
+  ]
+}

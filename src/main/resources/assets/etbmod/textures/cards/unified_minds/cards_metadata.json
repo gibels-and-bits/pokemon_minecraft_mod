@@ -22,7 +22,7 @@
       "id": "unified_minds-004",
       "name": "Celebi",
       "number": "004",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-005",
@@ -112,7 +112,7 @@
       "id": "unified_minds-019",
       "name": "Tsareena",
       "number": "019",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-020",
@@ -154,7 +154,7 @@
       "id": "unified_minds-026",
       "name": "Victini",
       "number": "026",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-027",
@@ -178,7 +178,7 @@
       "id": "unified_minds-030",
       "name": "Chandelure",
       "number": "030",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-031",
@@ -226,7 +226,7 @@
       "id": "unified_minds-038",
       "name": "Froslass",
       "number": "038",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-039",
@@ -304,7 +304,7 @@
       "id": "unified_minds-051",
       "name": "Golisopod",
       "number": "051",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-052",
@@ -340,7 +340,7 @@
       "id": "unified_minds-057",
       "name": "Alolan Raichu",
       "number": "057",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-058",
@@ -358,7 +358,7 @@
       "id": "unified_minds-060",
       "name": "Magnezone",
       "number": "060",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-061",
@@ -394,7 +394,7 @@
       "id": "unified_minds-066",
       "name": "Eelektross",
       "number": "066",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-067",
@@ -412,7 +412,7 @@
       "id": "unified_minds-069",
       "name": "Tapu Koko",
       "number": "069",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-070",
@@ -496,7 +496,7 @@
       "id": "unified_minds-083",
       "name": "Uxie",
       "number": "083",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-084",
@@ -514,7 +514,7 @@
       "id": "unified_minds-086",
       "name": "Giratina",
       "number": "086",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-087",
@@ -568,7 +568,7 @@
       "id": "unified_minds-095",
       "name": "Aegislash",
       "number": "095",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-096",
@@ -682,7 +682,7 @@
       "id": "unified_minds-114",
       "name": "Garchomp",
       "number": "114",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-115",
@@ -730,7 +730,7 @@
       "id": "unified_minds-122",
       "name": "Terrakion",
       "number": "122",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-123",
@@ -832,13 +832,13 @@
       "id": "unified_minds-139",
       "name": "Yveltal",
       "number": "139",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-140",
       "name": "Hoopa",
       "number": "140",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-141",
@@ -934,7 +934,7 @@
       "id": "unified_minds-156",
       "name": "Haxorus",
       "number": "156",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-157",
@@ -976,7 +976,7 @@
       "id": "unified_minds-163",
       "name": "Kangaskhan",
       "number": "163",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-164",
@@ -1018,7 +1018,7 @@
       "id": "unified_minds-170",
       "name": "Slaking",
       "number": "170",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-171",
@@ -1102,7 +1102,7 @@
       "id": "unified_minds-184",
       "name": "Silvally",
       "number": "184",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "unified_minds-185",
@@ -1294,139 +1294,139 @@
       "id": "unified_minds-214",
       "name": "Rowlet Alolan exeggutor GX",
       "number": "214",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-215",
       "name": "Rowlet Alolan exeggutor GX",
       "number": "215",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-216",
       "name": "Heatran GX",
       "number": "216",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-217",
       "name": "Slowpoke Psyduck GX",
       "number": "217",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-218",
       "name": "Slowpoke Psyduck GX",
       "number": "218",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-219",
       "name": "Keldeo GX",
       "number": "219",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-220",
       "name": "Raichu Alolan Raichu GX",
       "number": "220",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-221",
       "name": "Raichu Alolan Raichu GX",
       "number": "221",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-222",
       "name": "Mewtwo Mew GX",
       "number": "222",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-223",
       "name": "Latios GX",
       "number": "223",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-224",
       "name": "Aerodactyl GX",
       "number": "224",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-225",
       "name": "Mega Sableye Tyranitar GX",
       "number": "225",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-226",
       "name": "Mega Sableye Tyranitar GX",
       "number": "226",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-227",
       "name": "Mawile GX",
       "number": "227",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-228",
       "name": "Garchomp Giratina GX",
       "number": "228",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-229",
       "name": "Dragonite GX",
       "number": "229",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-230",
       "name": "Naganadel GX",
       "number": "230",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-231",
       "name": "Blue S Tactics",
       "number": "231",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-232",
       "name": "Channeler",
       "number": "232",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-233",
       "name": "Coach Trainer",
       "number": "233",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-234",
       "name": "Grimsley",
       "number": "234",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-235",
       "name": "Misty S Favor",
       "number": "235",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-236",
       "name": "Pok Maniac",
       "number": "236",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "unified_minds-237",
@@ -1564,7 +1564,7 @@
       "id": "unified_minds-79a",
       "name": "Jirachi GX",
       "number": "79a",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     }
   ]
 }

@@ -1,1428 +1,1222 @@
 {
-  "set_id": "swsh4",
-  "folder_name": "vivid_voltage",
-  "total_cards": 203,
   "cards": [
     {
-      "number": "1",
+      "id": "vivid_voltage-001",
       "name": "Weedle",
-      "rarity": "common",
-      "filename": "001_common_weedle.png",
-      "original_rarity": "Common"
+      "number": "1",
+      "rarity": "common"
     },
     {
-      "number": "2",
+      "id": "vivid_voltage-002",
       "name": "Kakuna",
-      "rarity": "uncommon",
-      "filename": "002_uncommon_kakuna.png",
-      "original_rarity": "Uncommon"
+      "number": "2",
+      "rarity": "uncommon"
     },
     {
-      "number": "3",
+      "id": "vivid_voltage-003",
       "name": "Beedrill",
-      "rarity": "rare",
-      "filename": "003_rare_beedrill.png",
-      "original_rarity": "Rare"
+      "number": "3",
+      "rarity": "rare"
     },
     {
-      "number": "4",
+      "id": "vivid_voltage-004",
       "name": "Exeggcute",
-      "rarity": "common",
-      "filename": "004_common_exeggcute.png",
-      "original_rarity": "Common"
+      "number": "4",
+      "rarity": "common"
     },
     {
-      "number": "5",
+      "id": "vivid_voltage-005",
       "name": "Exeggutor",
-      "rarity": "rare",
-      "filename": "005_rare_exeggutor.png",
-      "original_rarity": "Rare"
+      "number": "5",
+      "rarity": "rare"
     },
     {
-      "number": "6",
+      "id": "vivid_voltage-006",
       "name": "Yanma",
-      "rarity": "common",
-      "filename": "006_common_yanma.png",
-      "original_rarity": "Common"
+      "number": "6",
+      "rarity": "common"
     },
     {
-      "number": "7",
+      "id": "vivid_voltage-007",
       "name": "Yanmega",
-      "rarity": "rare",
-      "filename": "007_rare_yanmega.png",
-      "original_rarity": "Rare"
+      "number": "7",
+      "rarity": "rare"
     },
     {
-      "number": "8",
+      "id": "vivid_voltage-008",
       "name": "Pineco",
-      "rarity": "common",
-      "filename": "008_common_pineco.png",
-      "original_rarity": "Common"
+      "number": "8",
+      "rarity": "common"
     },
     {
-      "number": "9",
+      "id": "vivid_voltage-009",
       "name": "Celebi",
-      "rarity": "amazing_rare",
-      "filename": "009_amazing_rare_celebi.png",
-      "original_rarity": "Amazing Rare"
+      "number": "9",
+      "rarity": "amazing rare"
     },
     {
-      "number": "10",
+      "id": "vivid_voltage-010",
       "name": "Seedot",
-      "rarity": "common",
-      "filename": "010_common_seedot.png",
-      "original_rarity": "Common"
+      "number": "10",
+      "rarity": "common"
     },
     {
-      "number": "11",
+      "id": "vivid_voltage-011",
       "name": "Nuzleaf",
-      "rarity": "uncommon",
-      "filename": "011_uncommon_nuzleaf.png",
-      "original_rarity": "Uncommon"
+      "number": "11",
+      "rarity": "uncommon"
     },
     {
-      "number": "12",
+      "id": "vivid_voltage-012",
       "name": "Shiftry",
-      "rarity": "rare",
-      "filename": "012_rare_shiftry.png",
-      "original_rarity": "Rare"
+      "number": "12",
+      "rarity": "rare"
     },
     {
-      "number": "13",
+      "id": "vivid_voltage-013",
       "name": "Nincada",
-      "rarity": "common",
-      "filename": "013_common_nincada.png",
-      "original_rarity": "Common"
+      "number": "13",
+      "rarity": "common"
     },
     {
-      "number": "14",
+      "id": "vivid_voltage-014",
       "name": "Ninjask",
-      "rarity": "rare",
-      "filename": "014_rare_ninjask.png",
-      "original_rarity": "Rare"
+      "number": "14",
+      "rarity": "rare"
     },
     {
-      "number": "15",
+      "id": "vivid_voltage-015",
       "name": "Shaymin",
-      "rarity": "rare_holo",
-      "filename": "015_rare_holo_shaymin.png",
-      "original_rarity": "Rare Holo"
+      "number": "15",
+      "rarity": "rare holo"
     },
     {
-      "number": "16",
+      "id": "vivid_voltage-016",
       "name": "Genesect",
-      "rarity": "rare_holo",
-      "filename": "016_rare_holo_genesect.png",
-      "original_rarity": "Rare Holo"
+      "number": "16",
+      "rarity": "rare holo"
     },
     {
-      "number": "17",
+      "id": "vivid_voltage-017",
       "name": "Skiddo",
-      "rarity": "common",
-      "filename": "017_common_skiddo.png",
-      "original_rarity": "Common"
+      "number": "17",
+      "rarity": "common"
     },
     {
-      "number": "18",
+      "id": "vivid_voltage-018",
       "name": "Gogoat",
-      "rarity": "uncommon",
-      "filename": "018_uncommon_gogoat.png",
-      "original_rarity": "Uncommon"
+      "number": "18",
+      "rarity": "uncommon"
     },
     {
-      "number": "19",
+      "id": "vivid_voltage-019",
       "name": "Dhelmise",
-      "rarity": "uncommon",
-      "filename": "019_uncommon_dhelmise.png",
-      "original_rarity": "Uncommon"
+      "number": "19",
+      "rarity": "uncommon"
     },
     {
+      "id": "vivid_voltage-020",
+      "name": "Orbeetle V",
       "number": "20",
-      "name": "Orbeetle V",
-      "rarity": "rare_holo_v",
-      "filename": "020_rare_holo_v_orbeetle_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "vivid_voltage-021",
+      "name": "Orbeetle VMAX",
       "number": "21",
-      "name": "Orbeetle VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "021_rare_holo_vmax_orbeetle_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
+      "id": "vivid_voltage-022",
+      "name": "Zarude V",
       "number": "22",
-      "name": "Zarude V",
-      "rarity": "rare_holo_v",
-      "filename": "022_rare_holo_v_zarude_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
-      "number": "23",
+      "id": "vivid_voltage-023",
       "name": "Charmander",
-      "rarity": "common",
-      "filename": "023_common_charmander.png",
-      "original_rarity": "Common"
+      "number": "23",
+      "rarity": "common"
     },
     {
-      "number": "24",
+      "id": "vivid_voltage-024",
       "name": "Charmeleon",
-      "rarity": "uncommon",
-      "filename": "024_uncommon_charmeleon.png",
-      "original_rarity": "Uncommon"
+      "number": "24",
+      "rarity": "uncommon"
     },
     {
-      "number": "25",
+      "id": "vivid_voltage-025",
       "name": "Charizard",
-      "rarity": "rare",
-      "filename": "025_rare_charizard.png",
-      "original_rarity": "Rare"
+      "number": "25",
+      "rarity": "rare"
     },
     {
-      "number": "26",
+      "id": "vivid_voltage-026",
       "name": "Flareon",
-      "rarity": "rare",
-      "filename": "026_rare_flareon.png",
-      "original_rarity": "Rare"
+      "number": "26",
+      "rarity": "rare"
     },
     {
-      "number": "27",
+      "id": "vivid_voltage-027",
       "name": "Slugma",
-      "rarity": "common",
-      "filename": "027_common_slugma.png",
-      "original_rarity": "Common"
+      "number": "27",
+      "rarity": "common"
     },
     {
-      "number": "28",
+      "id": "vivid_voltage-028",
       "name": "Magcargo",
-      "rarity": "uncommon",
-      "filename": "028_uncommon_magcargo.png",
-      "original_rarity": "Uncommon"
+      "number": "28",
+      "rarity": "uncommon"
     },
     {
+      "id": "vivid_voltage-029",
+      "name": "Talonflame V",
       "number": "29",
-      "name": "Talonflame V",
-      "rarity": "rare_holo_v",
-      "filename": "029_rare_holo_v_talonflame_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
-      "number": "30",
+      "id": "vivid_voltage-030",
       "name": "Vaporeon",
-      "rarity": "rare",
-      "filename": "030_rare_vaporeon.png",
-      "original_rarity": "Rare"
+      "number": "30",
+      "rarity": "rare"
     },
     {
-      "number": "31",
+      "id": "vivid_voltage-031",
       "name": "Wailmer",
-      "rarity": "common",
-      "filename": "031_common_wailmer.png",
-      "original_rarity": "Common"
+      "number": "31",
+      "rarity": "common"
     },
     {
-      "number": "32",
+      "id": "vivid_voltage-032",
       "name": "Wailord",
-      "rarity": "rare_holo",
-      "filename": "032_rare_holo_wailord.png",
-      "original_rarity": "Rare Holo"
+      "number": "32",
+      "rarity": "rare holo"
     },
     {
-      "number": "33",
+      "id": "vivid_voltage-033",
       "name": "Oshawott",
-      "rarity": "common",
-      "filename": "033_common_oshawott.png",
-      "original_rarity": "Common"
+      "number": "33",
+      "rarity": "common"
     },
     {
-      "number": "34",
+      "id": "vivid_voltage-034",
       "name": "Dewott",
-      "rarity": "uncommon",
-      "filename": "034_uncommon_dewott.png",
-      "original_rarity": "Uncommon"
+      "number": "34",
+      "rarity": "uncommon"
     },
     {
-      "number": "35",
+      "id": "vivid_voltage-035",
       "name": "Samurott",
-      "rarity": "rare",
-      "filename": "035_rare_samurott.png",
-      "original_rarity": "Rare"
+      "number": "35",
+      "rarity": "rare"
     },
     {
+      "id": "vivid_voltage-036",
+      "name": "Galarian Darmanitan V",
       "number": "36",
-      "name": "Galarian Darmanitan V",
-      "rarity": "rare_holo_v",
-      "filename": "036_rare_holo_v_galarian_darmanitan_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "vivid_voltage-037",
+      "name": "Galarian Darmanitan VMAX",
       "number": "37",
-      "name": "Galarian Darmanitan VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "037_rare_holo_vmax_galarian_darmanitan_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
-      "number": "38",
+      "id": "vivid_voltage-038",
       "name": "Chewtle",
-      "rarity": "common",
-      "filename": "038_common_chewtle.png",
-      "original_rarity": "Common"
+      "number": "38",
+      "rarity": "common"
     },
     {
-      "number": "39",
+      "id": "vivid_voltage-039",
       "name": "Drednaw",
-      "rarity": "rare",
-      "filename": "039_rare_drednaw.png",
-      "original_rarity": "Rare"
+      "number": "39",
+      "rarity": "rare"
     },
     {
-      "number": "40",
+      "id": "vivid_voltage-040",
       "name": "Cramorant",
-      "rarity": "uncommon",
-      "filename": "040_uncommon_cramorant.png",
-      "original_rarity": "Uncommon"
+      "number": "40",
+      "rarity": "uncommon"
     },
     {
-      "number": "41",
+      "id": "vivid_voltage-041",
       "name": "Arrokuda",
-      "rarity": "common",
-      "filename": "041_common_arrokuda.png",
-      "original_rarity": "Common"
+      "number": "41",
+      "rarity": "common"
     },
     {
-      "number": "42",
+      "id": "vivid_voltage-042",
       "name": "Barraskewda",
-      "rarity": "rare",
-      "filename": "042_rare_barraskewda.png",
-      "original_rarity": "Rare"
+      "number": "42",
+      "rarity": "rare"
     },
     {
+      "id": "vivid_voltage-043",
+      "name": "Pikachu V",
       "number": "43",
-      "name": "Pikachu V",
-      "rarity": "rare_holo_v",
-      "filename": "043_rare_holo_v_pikachu_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "vivid_voltage-044",
+      "name": "Pikachu VMAX",
       "number": "44",
-      "name": "Pikachu VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "044_rare_holo_vmax_pikachu_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
-      "number": "45",
+      "id": "vivid_voltage-045",
       "name": "Voltorb",
-      "rarity": "common",
-      "filename": "045_common_voltorb.png",
-      "original_rarity": "Common"
+      "number": "45",
+      "rarity": "common"
     },
     {
-      "number": "46",
+      "id": "vivid_voltage-046",
       "name": "Electrode",
-      "rarity": "rare_holo",
-      "filename": "046_rare_holo_electrode.png",
-      "original_rarity": "Rare Holo"
+      "number": "46",
+      "rarity": "rare holo"
     },
     {
-      "number": "47",
+      "id": "vivid_voltage-047",
       "name": "Jolteon",
-      "rarity": "rare",
-      "filename": "047_rare_jolteon.png",
-      "original_rarity": "Rare"
+      "number": "47",
+      "rarity": "rare"
     },
     {
-      "number": "48",
+      "id": "vivid_voltage-048",
       "name": "Zapdos",
-      "rarity": "rare_holo",
-      "filename": "048_rare_holo_zapdos.png",
-      "original_rarity": "Rare Holo"
+      "number": "48",
+      "rarity": "rare holo"
     },
     {
+      "id": "vivid_voltage-049",
+      "name": "Ampharos V",
       "number": "49",
-      "name": "Ampharos V",
-      "rarity": "rare_holo_v",
-      "filename": "049_rare_holo_v_ampharos_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
-      "number": "50",
+      "id": "vivid_voltage-050",
       "name": "Raikou",
-      "rarity": "amazing_rare",
-      "filename": "050_amazing_rare_raikou.png",
-      "original_rarity": "Amazing Rare"
+      "number": "50",
+      "rarity": "amazing rare"
     },
     {
-      "number": "51",
+      "id": "vivid_voltage-051",
       "name": "Electrike",
-      "rarity": "common",
-      "filename": "051_common_electrike.png",
-      "original_rarity": "Common"
+      "number": "51",
+      "rarity": "common"
     },
     {
-      "number": "52",
+      "id": "vivid_voltage-052",
       "name": "Manectric",
-      "rarity": "rare",
-      "filename": "052_rare_manectric.png",
-      "original_rarity": "Rare"
+      "number": "52",
+      "rarity": "rare"
     },
     {
-      "number": "53",
+      "id": "vivid_voltage-053",
       "name": "Blitzle",
-      "rarity": "common",
-      "filename": "053_common_blitzle.png",
-      "original_rarity": "Common"
+      "number": "53",
+      "rarity": "common"
     },
     {
-      "number": "54",
+      "id": "vivid_voltage-054",
       "name": "Zebstrika",
-      "rarity": "uncommon",
-      "filename": "054_uncommon_zebstrika.png",
-      "original_rarity": "Uncommon"
+      "number": "54",
+      "rarity": "uncommon"
     },
     {
-      "number": "55",
+      "id": "vivid_voltage-055",
       "name": "Joltik",
-      "rarity": "common",
-      "filename": "055_common_joltik.png",
-      "original_rarity": "Common"
+      "number": "55",
+      "rarity": "common"
     },
     {
-      "number": "56",
+      "id": "vivid_voltage-056",
       "name": "Galvantula",
-      "rarity": "uncommon",
-      "filename": "056_uncommon_galvantula.png",
-      "original_rarity": "Uncommon"
+      "number": "56",
+      "rarity": "uncommon"
     },
     {
-      "number": "57",
+      "id": "vivid_voltage-057",
       "name": "Tynamo",
-      "rarity": "common",
-      "filename": "057_common_tynamo.png",
-      "original_rarity": "Common"
+      "number": "57",
+      "rarity": "common"
     },
     {
-      "number": "58",
+      "id": "vivid_voltage-058",
       "name": "Eelektrik",
-      "rarity": "uncommon",
-      "filename": "058_uncommon_eelektrik.png",
-      "original_rarity": "Uncommon"
+      "number": "58",
+      "rarity": "uncommon"
     },
     {
-      "number": "59",
+      "id": "vivid_voltage-059",
       "name": "Eelektross",
-      "rarity": "rare",
-      "filename": "059_rare_eelektross.png",
-      "original_rarity": "Rare"
+      "number": "59",
+      "rarity": "rare"
     },
     {
-      "number": "60",
+      "id": "vivid_voltage-060",
       "name": "Zekrom",
-      "rarity": "rare_holo",
-      "filename": "060_rare_holo_zekrom.png",
-      "original_rarity": "Rare Holo"
+      "number": "60",
+      "rarity": "rare holo"
     },
     {
-      "number": "61",
+      "id": "vivid_voltage-061",
       "name": "Zeraora",
-      "rarity": "rare_holo",
-      "filename": "061_rare_holo_zeraora.png",
-      "original_rarity": "Rare Holo"
+      "number": "61",
+      "rarity": "rare holo"
     },
     {
-      "number": "62",
+      "id": "vivid_voltage-062",
       "name": "Pincurchin",
-      "rarity": "uncommon",
-      "filename": "062_uncommon_pincurchin.png",
-      "original_rarity": "Uncommon"
+      "number": "62",
+      "rarity": "uncommon"
     },
     {
-      "number": "63",
+      "id": "vivid_voltage-063",
       "name": "Clefairy",
-      "rarity": "common",
-      "filename": "063_common_clefairy.png",
-      "original_rarity": "Common"
+      "number": "63",
+      "rarity": "common"
     },
     {
-      "number": "64",
+      "id": "vivid_voltage-064",
       "name": "Clefable",
-      "rarity": "rare",
-      "filename": "064_rare_clefable.png",
-      "original_rarity": "Rare"
+      "number": "64",
+      "rarity": "rare"
     },
     {
-      "number": "65",
+      "id": "vivid_voltage-065",
       "name": "Girafarig",
-      "rarity": "uncommon",
-      "filename": "065_uncommon_girafarig.png",
-      "original_rarity": "Uncommon"
+      "number": "65",
+      "rarity": "uncommon"
     },
     {
-      "number": "66",
+      "id": "vivid_voltage-066",
       "name": "Shedinja",
-      "rarity": "rare",
-      "filename": "066_rare_shedinja.png",
-      "original_rarity": "Rare"
+      "number": "66",
+      "rarity": "rare"
     },
     {
-      "number": "67",
+      "id": "vivid_voltage-067",
       "name": "Shuppet",
-      "rarity": "common",
-      "filename": "067_common_shuppet.png",
-      "original_rarity": "Common"
+      "number": "67",
+      "rarity": "common"
     },
     {
-      "number": "68",
+      "id": "vivid_voltage-068",
       "name": "Banette",
-      "rarity": "rare",
-      "filename": "068_rare_banette.png",
-      "original_rarity": "Rare"
+      "number": "68",
+      "rarity": "rare"
     },
     {
-      "number": "69",
+      "id": "vivid_voltage-069",
       "name": "Duskull",
-      "rarity": "common",
-      "filename": "069_common_duskull.png",
-      "original_rarity": "Common"
+      "number": "69",
+      "rarity": "common"
     },
     {
-      "number": "70",
+      "id": "vivid_voltage-070",
       "name": "Dusclops",
-      "rarity": "uncommon",
-      "filename": "070_uncommon_dusclops.png",
-      "original_rarity": "Uncommon"
+      "number": "70",
+      "rarity": "uncommon"
     },
     {
-      "number": "71",
+      "id": "vivid_voltage-071",
       "name": "Dusknoir",
-      "rarity": "rare_holo",
-      "filename": "071_rare_holo_dusknoir.png",
-      "original_rarity": "Rare Holo"
+      "number": "71",
+      "rarity": "rare holo"
     },
     {
-      "number": "72",
+      "id": "vivid_voltage-072",
       "name": "Chimecho",
-      "rarity": "common",
-      "filename": "072_common_chimecho.png",
-      "original_rarity": "Common"
+      "number": "72",
+      "rarity": "common"
     },
     {
-      "number": "73",
+      "id": "vivid_voltage-073",
       "name": "Woobat",
-      "rarity": "common",
-      "filename": "073_common_woobat.png",
-      "original_rarity": "Common"
+      "number": "73",
+      "rarity": "common"
     },
     {
-      "number": "74",
+      "id": "vivid_voltage-074",
       "name": "Swoobat",
-      "rarity": "uncommon",
-      "filename": "074_uncommon_swoobat.png",
-      "original_rarity": "Uncommon"
+      "number": "74",
+      "rarity": "uncommon"
     },
     {
-      "number": "75",
+      "id": "vivid_voltage-075",
       "name": "Cottonee",
-      "rarity": "common",
-      "filename": "075_common_cottonee.png",
-      "original_rarity": "Common"
+      "number": "75",
+      "rarity": "common"
     },
     {
-      "number": "76",
+      "id": "vivid_voltage-076",
       "name": "Whimsicott",
-      "rarity": "rare",
-      "filename": "076_rare_whimsicott.png",
-      "original_rarity": "Rare"
+      "number": "76",
+      "rarity": "rare"
     },
     {
-      "number": "77",
+      "id": "vivid_voltage-077",
       "name": "Dedenne",
-      "rarity": "common",
-      "filename": "077_common_dedenne.png",
-      "original_rarity": "Common"
+      "number": "77",
+      "rarity": "common"
     },
     {
-      "number": "78",
+      "id": "vivid_voltage-078",
       "name": "Xerneas",
-      "rarity": "rare_holo",
-      "filename": "078_rare_holo_xerneas.png",
-      "original_rarity": "Rare Holo"
+      "number": "78",
+      "rarity": "rare holo"
     },
     {
-      "number": "79",
+      "id": "vivid_voltage-079",
       "name": "Diancie",
-      "rarity": "rare_holo",
-      "filename": "079_rare_holo_diancie.png",
-      "original_rarity": "Rare Holo"
+      "number": "79",
+      "rarity": "rare holo"
     },
     {
-      "number": "80",
+      "id": "vivid_voltage-080",
       "name": "Milcery",
-      "rarity": "common",
-      "filename": "080_common_milcery.png",
-      "original_rarity": "Common"
+      "number": "80",
+      "rarity": "common"
     },
     {
-      "number": "81",
+      "id": "vivid_voltage-081",
       "name": "Alcremie",
-      "rarity": "rare",
-      "filename": "081_rare_alcremie.png",
-      "original_rarity": "Rare"
+      "number": "81",
+      "rarity": "rare"
     },
     {
-      "number": "82",
+      "id": "vivid_voltage-082",
       "name": "Zacian",
-      "rarity": "amazing_rare",
-      "filename": "082_amazing_rare_zacian.png",
-      "original_rarity": "Amazing Rare"
+      "number": "82",
+      "rarity": "amazing rare"
     },
     {
-      "number": "83",
+      "id": "vivid_voltage-083",
       "name": "Wooper",
-      "rarity": "common",
-      "filename": "083_common_wooper.png",
-      "original_rarity": "Common"
+      "number": "83",
+      "rarity": "common"
     },
     {
-      "number": "84",
+      "id": "vivid_voltage-084",
       "name": "Quagsire",
-      "rarity": "rare",
-      "filename": "084_rare_quagsire.png",
-      "original_rarity": "Rare"
+      "number": "84",
+      "rarity": "rare"
     },
     {
-      "number": "85",
+      "id": "vivid_voltage-085",
       "name": "Shuckle",
-      "rarity": "uncommon",
-      "filename": "085_uncommon_shuckle.png",
-      "original_rarity": "Uncommon"
+      "number": "85",
+      "rarity": "uncommon"
     },
     {
-      "number": "86",
+      "id": "vivid_voltage-086",
       "name": "Phanpy",
-      "rarity": "common",
-      "filename": "086_common_phanpy.png",
-      "original_rarity": "Common"
+      "number": "86",
+      "rarity": "common"
     },
     {
-      "number": "87",
+      "id": "vivid_voltage-087",
       "name": "Donphan",
-      "rarity": "rare",
-      "filename": "087_rare_donphan.png",
-      "original_rarity": "Rare"
+      "number": "87",
+      "rarity": "rare"
     },
     {
-      "number": "88",
+      "id": "vivid_voltage-088",
       "name": "Hitmontop",
-      "rarity": "uncommon",
-      "filename": "088_uncommon_hitmontop.png",
-      "original_rarity": "Uncommon"
+      "number": "88",
+      "rarity": "uncommon"
     },
     {
-      "number": "89",
+      "id": "vivid_voltage-089",
       "name": "Regirock",
-      "rarity": "rare_holo",
-      "filename": "089_rare_holo_regirock.png",
-      "original_rarity": "Rare Holo"
+      "number": "89",
+      "rarity": "rare holo"
     },
     {
-      "number": "90",
+      "id": "vivid_voltage-090",
       "name": "Riolu",
-      "rarity": "common",
-      "filename": "090_common_riolu.png",
-      "original_rarity": "Common"
+      "number": "90",
+      "rarity": "common"
     },
     {
-      "number": "91",
+      "id": "vivid_voltage-091",
       "name": "Drilbur",
-      "rarity": "common",
-      "filename": "091_common_drilbur.png",
-      "original_rarity": "Common"
+      "number": "91",
+      "rarity": "common"
     },
     {
-      "number": "92",
+      "id": "vivid_voltage-092",
       "name": "Terrakion",
-      "rarity": "rare",
-      "filename": "092_rare_terrakion.png",
-      "original_rarity": "Rare"
+      "number": "92",
+      "rarity": "rare"
     },
     {
-      "number": "93",
+      "id": "vivid_voltage-093",
       "name": "Zygarde",
-      "rarity": "rare_holo",
-      "filename": "093_rare_holo_zygarde.png",
-      "original_rarity": "Rare Holo"
+      "number": "93",
+      "rarity": "rare holo"
     },
     {
-      "number": "94",
+      "id": "vivid_voltage-094",
       "name": "Rockruff",
-      "rarity": "common",
-      "filename": "094_common_rockruff.png",
-      "original_rarity": "Common"
+      "number": "94",
+      "rarity": "common"
     },
     {
-      "number": "95",
+      "id": "vivid_voltage-095",
       "name": "Lycanroc",
-      "rarity": "rare",
-      "filename": "095_rare_lycanroc.png",
-      "original_rarity": "Rare"
+      "number": "95",
+      "rarity": "rare"
     },
     {
-      "number": "96",
+      "id": "vivid_voltage-096",
       "name": "Mudbray",
-      "rarity": "common",
-      "filename": "096_common_mudbray.png",
-      "original_rarity": "Common"
+      "number": "96",
+      "rarity": "common"
     },
     {
-      "number": "97",
+      "id": "vivid_voltage-097",
       "name": "Mudsdale",
-      "rarity": "rare",
-      "filename": "097_rare_mudsdale.png",
-      "original_rarity": "Rare"
+      "number": "97",
+      "rarity": "rare"
     },
     {
+      "id": "vivid_voltage-098",
+      "name": "Coalossal V",
       "number": "98",
-      "name": "Coalossal V",
-      "rarity": "rare_holo_v",
-      "filename": "098_rare_holo_v_coalossal_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "vivid_voltage-099",
+      "name": "Coalossal VMAX",
       "number": "99",
-      "name": "Coalossal VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "099_rare_holo_vmax_coalossal_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
-      "number": "100",
+      "id": "vivid_voltage-100",
       "name": "Clobbopus",
-      "rarity": "common",
-      "filename": "100_common_clobbopus.png",
-      "original_rarity": "Common"
+      "number": "100",
+      "rarity": "common"
     },
     {
-      "number": "101",
+      "id": "vivid_voltage-101",
       "name": "Grapploct",
-      "rarity": "rare",
-      "filename": "101_rare_grapploct.png",
-      "original_rarity": "Rare"
+      "number": "101",
+      "rarity": "rare"
     },
     {
-      "number": "102",
+      "id": "vivid_voltage-102",
       "name": "Zamazenta",
-      "rarity": "amazing_rare",
-      "filename": "102_amazing_rare_zamazenta.png",
-      "original_rarity": "Amazing Rare"
+      "number": "102",
+      "rarity": "amazing rare"
     },
     {
-      "number": "103",
+      "id": "vivid_voltage-103",
       "name": "Poochyena",
-      "rarity": "common",
-      "filename": "103_common_poochyena.png",
-      "original_rarity": "Common"
+      "number": "103",
+      "rarity": "common"
     },
     {
-      "number": "104",
+      "id": "vivid_voltage-104",
       "name": "Mightyena",
-      "rarity": "uncommon",
-      "filename": "104_uncommon_mightyena.png",
-      "original_rarity": "Uncommon"
+      "number": "104",
+      "rarity": "uncommon"
     },
     {
-      "number": "105",
+      "id": "vivid_voltage-105",
       "name": "Sableye",
-      "rarity": "uncommon",
-      "filename": "105_uncommon_sableye.png",
-      "original_rarity": "Uncommon"
+      "number": "105",
+      "rarity": "uncommon"
     },
     {
+      "id": "vivid_voltage-106",
+      "name": "Drapion V",
       "number": "106",
-      "name": "Drapion V",
-      "rarity": "rare_holo_v",
-      "filename": "106_rare_holo_v_drapion_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
-      "number": "107",
+      "id": "vivid_voltage-107",
       "name": "Sandile",
-      "rarity": "common",
-      "filename": "107_common_sandile.png",
-      "original_rarity": "Common"
+      "number": "107",
+      "rarity": "common"
     },
     {
-      "number": "108",
+      "id": "vivid_voltage-108",
       "name": "Krokorok",
-      "rarity": "uncommon",
-      "filename": "108_uncommon_krokorok.png",
-      "original_rarity": "Uncommon"
+      "number": "108",
+      "rarity": "uncommon"
     },
     {
-      "number": "109",
+      "id": "vivid_voltage-109",
       "name": "Krookodile",
-      "rarity": "rare",
-      "filename": "109_rare_krookodile.png",
-      "original_rarity": "Rare"
+      "number": "109",
+      "rarity": "rare"
     },
     {
-      "number": "110",
+      "id": "vivid_voltage-110",
       "name": "Trubbish",
-      "rarity": "common",
-      "filename": "110_common_trubbish.png",
-      "original_rarity": "Common"
+      "number": "110",
+      "rarity": "common"
     },
     {
-      "number": "111",
+      "id": "vivid_voltage-111",
       "name": "Garbodor",
-      "rarity": "rare",
-      "filename": "111_rare_garbodor.png",
-      "original_rarity": "Rare"
+      "number": "111",
+      "rarity": "rare"
     },
     {
-      "number": "112",
+      "id": "vivid_voltage-112",
       "name": "Galarian Meowth",
-      "rarity": "common",
-      "filename": "112_common_galarian_meowth.png",
-      "original_rarity": "Common"
+      "number": "112",
+      "rarity": "common"
     },
     {
-      "number": "113",
+      "id": "vivid_voltage-113",
       "name": "Galarian Perrserker",
-      "rarity": "rare",
-      "filename": "113_rare_galarian_perrserker.png",
-      "original_rarity": "Rare"
+      "number": "113",
+      "rarity": "rare"
     },
     {
-      "number": "114",
+      "id": "vivid_voltage-114",
       "name": "Forretress",
-      "rarity": "rare",
-      "filename": "114_rare_forretress.png",
-      "original_rarity": "Rare"
+      "number": "114",
+      "rarity": "rare"
     },
     {
+      "id": "vivid_voltage-115",
+      "name": "Steelix V",
       "number": "115",
-      "name": "Steelix V",
-      "rarity": "rare_holo_v",
-      "filename": "115_rare_holo_v_steelix_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
-      "number": "116",
+      "id": "vivid_voltage-116",
       "name": "Beldum",
-      "rarity": "common",
-      "filename": "116_common_beldum.png",
-      "original_rarity": "Common"
+      "number": "116",
+      "rarity": "common"
     },
     {
-      "number": "117",
+      "id": "vivid_voltage-117",
       "name": "Metang",
-      "rarity": "uncommon",
-      "filename": "117_uncommon_metang.png",
-      "original_rarity": "Uncommon"
+      "number": "117",
+      "rarity": "uncommon"
     },
     {
-      "number": "118",
+      "id": "vivid_voltage-118",
       "name": "Metagross",
-      "rarity": "rare",
-      "filename": "118_rare_metagross.png",
-      "original_rarity": "Rare"
+      "number": "118",
+      "rarity": "rare"
     },
     {
-      "number": "119",
+      "id": "vivid_voltage-119",
       "name": "Jirachi",
-      "rarity": "amazing_rare",
-      "filename": "119_amazing_rare_jirachi.png",
-      "original_rarity": "Amazing Rare"
+      "number": "119",
+      "rarity": "amazing rare"
     },
     {
-      "number": "120",
+      "id": "vivid_voltage-120",
       "name": "Lucario",
-      "rarity": "rare",
-      "filename": "120_rare_lucario.png",
-      "original_rarity": "Rare"
+      "number": "120",
+      "rarity": "rare"
     },
     {
-      "number": "121",
+      "id": "vivid_voltage-121",
       "name": "Dialga",
-      "rarity": "rare_holo",
-      "filename": "121_rare_holo_dialga.png",
-      "original_rarity": "Rare Holo"
+      "number": "121",
+      "rarity": "rare holo"
     },
     {
-      "number": "122",
+      "id": "vivid_voltage-122",
       "name": "Excadrill",
-      "rarity": "uncommon",
-      "filename": "122_uncommon_excadrill.png",
-      "original_rarity": "Uncommon"
+      "number": "122",
+      "rarity": "uncommon"
     },
     {
-      "number": "123",
+      "id": "vivid_voltage-123",
       "name": "Ferroseed",
-      "rarity": "common",
-      "filename": "123_common_ferroseed.png",
-      "original_rarity": "Common"
+      "number": "123",
+      "rarity": "common"
     },
     {
-      "number": "124",
+      "id": "vivid_voltage-124",
       "name": "Ferrothorn",
-      "rarity": "uncommon",
-      "filename": "124_uncommon_ferrothorn.png",
-      "original_rarity": "Uncommon"
+      "number": "124",
+      "rarity": "uncommon"
     },
     {
-      "number": "125",
+      "id": "vivid_voltage-125",
       "name": "Galarian Stunfisk",
-      "rarity": "uncommon",
-      "filename": "125_uncommon_galarian_stunfisk.png",
-      "original_rarity": "Uncommon"
+      "number": "125",
+      "rarity": "uncommon"
     },
     {
+      "id": "vivid_voltage-126",
+      "name": "Aegislash V",
       "number": "126",
-      "name": "Aegislash V",
-      "rarity": "rare_holo_v",
-      "filename": "126_rare_holo_v_aegislash_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "vivid_voltage-127",
+      "name": "Aegislash VMAX",
       "number": "127",
-      "name": "Aegislash VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "127_rare_holo_vmax_aegislash_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
-      "number": "128",
+      "id": "vivid_voltage-128",
       "name": "Magearna",
-      "rarity": "rare_holo",
-      "filename": "128_rare_holo_magearna.png",
-      "original_rarity": "Rare Holo"
+      "number": "128",
+      "rarity": "rare holo"
     },
     {
-      "number": "129",
+      "id": "vivid_voltage-129",
       "name": "Duraludon",
-      "rarity": "rare_holo",
-      "filename": "129_rare_holo_duraludon.png",
-      "original_rarity": "Rare Holo"
+      "number": "129",
+      "rarity": "rare holo"
     },
     {
-      "number": "130",
+      "id": "vivid_voltage-130",
       "name": "Eevee",
-      "rarity": "common",
-      "filename": "130_common_eevee.png",
-      "original_rarity": "Common"
+      "number": "130",
+      "rarity": "common"
     },
     {
-      "number": "131",
+      "id": "vivid_voltage-131",
       "name": "Snorlax",
-      "rarity": "rare_holo",
-      "filename": "131_rare_holo_snorlax.png",
-      "original_rarity": "Rare Holo"
+      "number": "131",
+      "rarity": "rare holo"
     },
     {
-      "number": "132",
+      "id": "vivid_voltage-132",
       "name": "Lugia",
-      "rarity": "rare_holo",
-      "filename": "132_rare_holo_lugia.png",
-      "original_rarity": "Rare Holo"
+      "number": "132",
+      "rarity": "rare holo"
     },
     {
-      "number": "133",
+      "id": "vivid_voltage-133",
       "name": "Taillow",
-      "rarity": "common",
-      "filename": "133_common_taillow.png",
-      "original_rarity": "Common"
+      "number": "133",
+      "rarity": "common"
     },
     {
-      "number": "134",
+      "id": "vivid_voltage-134",
       "name": "Swellow",
-      "rarity": "uncommon",
-      "filename": "134_uncommon_swellow.png",
-      "original_rarity": "Uncommon"
+      "number": "134",
+      "rarity": "uncommon"
     },
     {
-      "number": "135",
+      "id": "vivid_voltage-135",
       "name": "Whismur",
-      "rarity": "common",
-      "filename": "135_common_whismur.png",
-      "original_rarity": "Common"
+      "number": "135",
+      "rarity": "common"
     },
     {
-      "number": "136",
+      "id": "vivid_voltage-136",
       "name": "Loudred",
-      "rarity": "uncommon",
-      "filename": "136_uncommon_loudred.png",
-      "original_rarity": "Uncommon"
+      "number": "136",
+      "rarity": "uncommon"
     },
     {
-      "number": "137",
+      "id": "vivid_voltage-137",
       "name": "Exploud",
-      "rarity": "rare",
-      "filename": "137_rare_exploud.png",
-      "original_rarity": "Rare"
+      "number": "137",
+      "rarity": "rare"
     },
     {
-      "number": "138",
+      "id": "vivid_voltage-138",
       "name": "Rayquaza",
-      "rarity": "amazing_rare",
-      "filename": "138_amazing_rare_rayquaza.png",
-      "original_rarity": "Amazing Rare"
+      "number": "138",
+      "rarity": "amazing rare"
     },
     {
-      "number": "139",
+      "id": "vivid_voltage-139",
       "name": "Chatot",
-      "rarity": "common",
-      "filename": "139_common_chatot.png",
-      "original_rarity": "Common"
+      "number": "139",
+      "rarity": "common"
     },
     {
+      "id": "vivid_voltage-140",
+      "name": "Togekiss V",
       "number": "140",
-      "name": "Togekiss V",
-      "rarity": "rare_holo_v",
-      "filename": "140_rare_holo_v_togekiss_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "vivid_voltage-141",
+      "name": "Togekiss VMAX",
       "number": "141",
-      "name": "Togekiss VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "141_rare_holo_vmax_togekiss_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
-      "number": "142",
+      "id": "vivid_voltage-142",
       "name": "Tornadus",
-      "rarity": "rare_holo",
-      "filename": "142_rare_holo_tornadus.png",
-      "original_rarity": "Rare Holo"
+      "number": "142",
+      "rarity": "rare holo"
     },
     {
-      "number": "143",
+      "id": "vivid_voltage-143",
       "name": "Pikipek",
-      "rarity": "common",
-      "filename": "143_common_pikipek.png",
-      "original_rarity": "Common"
+      "number": "143",
+      "rarity": "common"
     },
     {
-      "number": "144",
+      "id": "vivid_voltage-144",
       "name": "Trumbeak",
-      "rarity": "uncommon",
-      "filename": "144_uncommon_trumbeak.png",
-      "original_rarity": "Uncommon"
+      "number": "144",
+      "rarity": "uncommon"
     },
     {
-      "number": "145",
+      "id": "vivid_voltage-145",
       "name": "Toucannon",
-      "rarity": "rare",
-      "filename": "145_rare_toucannon.png",
-      "original_rarity": "Rare"
+      "number": "145",
+      "rarity": "rare"
     },
     {
+      "id": "vivid_voltage-146",
+      "name": "Allister",
       "number": "146",
-      "name": "Allister",
-      "rarity": "uncommon",
-      "filename": "146_uncommon_allister.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "vivid_voltage-147",
+      "name": "Bea",
       "number": "147",
-      "name": "Bea",
-      "rarity": "uncommon",
-      "filename": "147_uncommon_bea.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "vivid_voltage-148",
+      "name": "Beauty",
       "number": "148",
-      "name": "Beauty",
-      "rarity": "uncommon",
-      "filename": "148_uncommon_beauty.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "149",
+      "id": "vivid_voltage-149",
       "name": "Cara Liss",
-      "rarity": "uncommon",
-      "filename": "149_uncommon_cara_liss.png",
-      "original_rarity": "Uncommon"
+      "number": "149",
+      "rarity": "uncommon"
     },
     {
-      "number": "150",
+      "id": "vivid_voltage-150",
       "name": "Circhester Bath",
-      "rarity": "uncommon",
-      "filename": "150_uncommon_circhester_bath.png",
-      "original_rarity": "Uncommon"
+      "number": "150",
+      "rarity": "uncommon"
     },
     {
-      "number": "151",
+      "id": "vivid_voltage-151",
       "name": "Drone Rotom",
-      "rarity": "uncommon",
-      "filename": "151_uncommon_drone_rotom.png",
-      "original_rarity": "Uncommon"
+      "number": "151",
+      "rarity": "uncommon"
     },
     {
+      "id": "vivid_voltage-152",
+      "name": "Hero's Medal",
       "number": "152",
-      "name": "Hero's Medal",
-      "rarity": "uncommon",
-      "filename": "152_uncommon_hero_s_medal.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "153",
+      "id": "vivid_voltage-153",
       "name": "League Staff",
-      "rarity": "uncommon",
-      "filename": "153_uncommon_league_staff.png",
-      "original_rarity": "Uncommon"
+      "number": "153",
+      "rarity": "uncommon"
     },
     {
+      "id": "vivid_voltage-154",
+      "name": "Leon",
       "number": "154",
-      "name": "Leon",
-      "rarity": "rare_holo",
-      "filename": "154_rare_holo_leon.png",
-      "original_rarity": "Rare Holo"
+      "rarity": "rare holo"
     },
     {
+      "id": "vivid_voltage-155",
+      "name": "Memory Capsule",
       "number": "155",
-      "name": "Memory Capsule",
-      "rarity": "uncommon",
-      "filename": "155_uncommon_memory_capsule.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "156",
+      "id": "vivid_voltage-156",
       "name": "Moomoo Cheese",
-      "rarity": "uncommon",
-      "filename": "156_uncommon_moomoo_cheese.png",
-      "original_rarity": "Uncommon"
+      "number": "156",
+      "rarity": "uncommon"
     },
     {
+      "id": "vivid_voltage-157",
+      "name": "Nessa",
       "number": "157",
-      "name": "Nessa",
-      "rarity": "uncommon",
-      "filename": "157_uncommon_nessa.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "vivid_voltage-158",
+      "name": "Opal",
       "number": "158",
-      "name": "Opal",
-      "rarity": "uncommon",
-      "filename": "158_uncommon_opal.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "159",
+      "id": "vivid_voltage-159",
       "name": "Rocky Helmet",
-      "rarity": "uncommon",
-      "filename": "159_uncommon_rocky_helmet.png",
-      "original_rarity": "Uncommon"
+      "number": "159",
+      "rarity": "uncommon"
     },
     {
+      "id": "vivid_voltage-160",
+      "name": "Telescopic Sight",
       "number": "160",
-      "name": "Telescopic Sight",
-      "rarity": "uncommon",
-      "filename": "160_uncommon_telescopic_sight.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "161",
+      "id": "vivid_voltage-161",
       "name": "Wyndon Stadium",
-      "rarity": "uncommon",
-      "filename": "161_uncommon_wyndon_stadium.png",
-      "original_rarity": "Uncommon"
+      "number": "161",
+      "rarity": "uncommon"
     },
     {
-      "number": "162",
+      "id": "vivid_voltage-162",
       "name": "Aromatic Grass Energy",
-      "rarity": "uncommon",
-      "filename": "162_uncommon_aromatic_grass_energy.png",
-      "original_rarity": "Uncommon"
+      "number": "162",
+      "rarity": "uncommon"
     },
     {
-      "number": "163",
+      "id": "vivid_voltage-163",
       "name": "Coating Metal Energy",
-      "rarity": "uncommon",
-      "filename": "163_uncommon_coating_metal_energy.png",
-      "original_rarity": "Uncommon"
+      "number": "163",
+      "rarity": "uncommon"
     },
     {
-      "number": "164",
+      "id": "vivid_voltage-164",
       "name": "Stone Fighting Energy",
-      "rarity": "uncommon",
-      "filename": "164_uncommon_stone_fighting_energy.png",
-      "original_rarity": "Uncommon"
+      "number": "164",
+      "rarity": "uncommon"
     },
     {
-      "number": "165",
+      "id": "vivid_voltage-165",
       "name": "Wash Water Energy",
-      "rarity": "uncommon",
-      "filename": "165_uncommon_wash_water_energy.png",
-      "original_rarity": "Uncommon"
+      "number": "165",
+      "rarity": "uncommon"
     },
     {
-      "number": "166",
+      "id": "vivid_voltage-166",
       "name": "Orbeetle V",
-      "rarity": "rare_ultra",
-      "filename": "166_rare_ultra_orbeetle_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "166",
+      "rarity": "rare ultra"
     },
     {
-      "number": "167",
+      "id": "vivid_voltage-167",
       "name": "Zarude V",
-      "rarity": "rare_ultra",
-      "filename": "167_rare_ultra_zarude_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "167",
+      "rarity": "rare ultra"
     },
     {
-      "number": "168",
+      "id": "vivid_voltage-168",
       "name": "Talonflame V",
-      "rarity": "rare_ultra",
-      "filename": "168_rare_ultra_talonflame_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "168",
+      "rarity": "rare ultra"
     },
     {
-      "number": "169",
+      "id": "vivid_voltage-169",
       "name": "Galarian Darmanitan V",
-      "rarity": "rare_ultra",
-      "filename": "169_rare_ultra_galarian_darmanitan_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "169",
+      "rarity": "rare ultra"
     },
     {
-      "number": "170",
+      "id": "vivid_voltage-170",
       "name": "Pikachu V",
-      "rarity": "rare_ultra",
-      "filename": "170_rare_ultra_pikachu_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "170",
+      "rarity": "rare ultra"
     },
     {
-      "number": "171",
+      "id": "vivid_voltage-171",
       "name": "Ampharos V",
-      "rarity": "rare_ultra",
-      "filename": "171_rare_ultra_ampharos_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "171",
+      "rarity": "rare ultra"
     },
     {
-      "number": "172",
+      "id": "vivid_voltage-172",
       "name": "Alakazam V",
-      "rarity": "rare_ultra",
-      "filename": "172_rare_ultra_alakazam_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "172",
+      "rarity": "rare ultra"
     },
     {
-      "number": "173",
+      "id": "vivid_voltage-173",
       "name": "Coalossal V",
-      "rarity": "rare_ultra",
-      "filename": "173_rare_ultra_coalossal_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "173",
+      "rarity": "rare ultra"
     },
     {
-      "number": "174",
+      "id": "vivid_voltage-174",
       "name": "Galarian Sirfetch'd V",
-      "rarity": "rare_ultra",
-      "filename": "174_rare_ultra_galarian_sirfetch_d_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "174",
+      "rarity": "rare ultra"
     },
     {
-      "number": "175",
+      "id": "vivid_voltage-175",
       "name": "Drapion V",
-      "rarity": "rare_ultra",
-      "filename": "175_rare_ultra_drapion_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "175",
+      "rarity": "rare ultra"
     },
     {
-      "number": "176",
+      "id": "vivid_voltage-176",
       "name": "Steelix V",
-      "rarity": "rare_ultra",
-      "filename": "176_rare_ultra_steelix_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "176",
+      "rarity": "rare ultra"
     },
     {
-      "number": "177",
+      "id": "vivid_voltage-177",
       "name": "Aegislash V",
-      "rarity": "rare_ultra",
-      "filename": "177_rare_ultra_aegislash_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "177",
+      "rarity": "rare ultra"
     },
     {
-      "number": "178",
+      "id": "vivid_voltage-178",
       "name": "Togekiss V",
-      "rarity": "rare_ultra",
-      "filename": "178_rare_ultra_togekiss_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "178",
+      "rarity": "rare ultra"
     },
     {
+      "id": "vivid_voltage-179",
+      "name": "Allister",
       "number": "179",
-      "name": "Allister",
-      "rarity": "rare_ultra",
-      "filename": "179_rare_ultra_allister.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
+      "id": "vivid_voltage-180",
+      "name": "Bea",
       "number": "180",
-      "name": "Bea",
-      "rarity": "rare_ultra",
-      "filename": "180_rare_ultra_bea.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
+      "id": "vivid_voltage-181",
+      "name": "Beauty",
       "number": "181",
-      "name": "Beauty",
-      "rarity": "rare_ultra",
-      "filename": "181_rare_ultra_beauty.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
+      "id": "vivid_voltage-182",
+      "name": "Leon",
       "number": "182",
-      "name": "Leon",
-      "rarity": "rare_ultra",
-      "filename": "182_rare_ultra_leon.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
+      "id": "vivid_voltage-183",
+      "name": "Nessa",
       "number": "183",
-      "name": "Nessa",
-      "rarity": "rare_ultra",
-      "filename": "183_rare_ultra_nessa.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
+      "id": "vivid_voltage-184",
+      "name": "Opal",
       "number": "184",
-      "name": "Opal",
-      "rarity": "rare_ultra",
-      "filename": "184_rare_ultra_opal.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
+      "id": "vivid_voltage-185",
+      "name": "Pokémon Center Lady",
       "number": "185",
-      "name": "Pok\u00e9mon Center Lady",
-      "rarity": "rare_ultra",
-      "filename": "185_rare_ultra_pok_mon_center_lady.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
-      "number": "186",
+      "id": "vivid_voltage-186",
       "name": "Orbeetle VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "186_rare_rainbow_orbeetle_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "186",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "187",
+      "id": "vivid_voltage-187",
       "name": "Galarian Darmanitan VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "187_rare_rainbow_galarian_darmanitan_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "187",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "188",
+      "id": "vivid_voltage-188",
       "name": "Pikachu VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "188_rare_rainbow_pikachu_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "188",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "189",
+      "id": "vivid_voltage-189",
       "name": "Coalossal VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "189_rare_rainbow_coalossal_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "189",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "190",
+      "id": "vivid_voltage-190",
       "name": "Aegislash VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "190_rare_rainbow_aegislash_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "190",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "191",
+      "id": "vivid_voltage-191",
       "name": "Togekiss VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "191_rare_rainbow_togekiss_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "191",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "192",
+      "id": "vivid_voltage-192",
       "name": "Allister",
-      "rarity": "rare_rainbow",
-      "filename": "192_rare_rainbow_allister.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "192",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "193",
+      "id": "vivid_voltage-193",
       "name": "Bea",
-      "rarity": "rare_rainbow",
-      "filename": "193_rare_rainbow_bea.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "193",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "194",
+      "id": "vivid_voltage-194",
       "name": "Beauty",
-      "rarity": "rare_rainbow",
-      "filename": "194_rare_rainbow_beauty.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "194",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "195",
+      "id": "vivid_voltage-195",
       "name": "Leon",
-      "rarity": "rare_rainbow",
-      "filename": "195_rare_rainbow_leon.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "195",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "196",
+      "id": "vivid_voltage-196",
       "name": "Nessa",
-      "rarity": "rare_rainbow",
-      "filename": "196_rare_rainbow_nessa.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "196",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "197",
+      "id": "vivid_voltage-197",
       "name": "Opal",
-      "rarity": "rare_rainbow",
-      "filename": "197_rare_rainbow_opal.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "197",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "198",
+      "id": "vivid_voltage-198",
       "name": "Galarian Obstagoon",
-      "rarity": "rare_secret",
-      "filename": "198_rare_secret_galarian_obstagoon.png",
-      "original_rarity": "Rare Secret"
+      "number": "198",
+      "rarity": "rare secret"
     },
     {
-      "number": "199",
+      "id": "vivid_voltage-199",
       "name": "Oranguru",
-      "rarity": "rare_secret",
-      "filename": "199_rare_secret_oranguru.png",
-      "original_rarity": "Rare Secret"
+      "number": "199",
+      "rarity": "rare secret"
     },
     {
-      "number": "200",
+      "id": "vivid_voltage-200",
       "name": "Cape of Toughness",
-      "rarity": "rare_secret",
-      "filename": "200_rare_secret_cape_of_toughness.png",
-      "original_rarity": "Rare Secret"
+      "number": "200",
+      "rarity": "rare secret"
     },
     {
-      "number": "201",
+      "id": "vivid_voltage-201",
       "name": "Hero's Medal",
-      "rarity": "rare_secret",
-      "filename": "201_rare_secret_hero_s_medal.png",
-      "original_rarity": "Rare Secret"
+      "number": "201",
+      "rarity": "rare secret"
     },
     {
-      "number": "202",
+      "id": "vivid_voltage-202",
       "name": "Memory Capsule",
-      "rarity": "rare_secret",
-      "filename": "202_rare_secret_memory_capsule.png",
-      "original_rarity": "Rare Secret"
+      "number": "202",
+      "rarity": "rare secret"
     },
     {
-      "number": "203",
+      "id": "vivid_voltage-203",
       "name": "Telescopic Sight",
-      "rarity": "rare_secret",
-      "filename": "203_rare_secret_telescopic_sight.png",
-      "original_rarity": "Rare Secret"
+      "number": "203",
+      "rarity": "rare secret"
     }
   ]
 }

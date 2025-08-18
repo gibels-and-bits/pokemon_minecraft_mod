@@ -1,5 +1,5 @@
 {
-  "parent": "item/generated",
+  "parent": "etbmod:item/booster_pack_base",
   "textures": {
     "layer0": "etbmod:item/etb_generations_booster"
   }

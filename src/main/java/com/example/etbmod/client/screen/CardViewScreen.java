@@ -24,14 +24,32 @@ public class CardViewScreen extends Screen {
     @Override
     protected void init() {
         super.init();
-        // Load card texture
-        cardTexture = CardTextureManager.getOrLoadCardTexture(card.getImagePath());
+        // Load card texture with debug logging
+        String imagePath = card.getImagePath();
+        if (minecraft != null && minecraft.player != null) {
+            minecraft.player.displayClientMessage(
+                new StringTextComponent("§e[ETB] Loading card view for: " + card.getName() + " - Path: " + imagePath), false);
+        }
+        cardTexture = CardTextureManager.getOrLoadCardTexture(imagePath);
+        if (cardTexture == null && minecraft != null && minecraft.player != null) {
+            minecraft.player.displayClientMessage(
+                new StringTextComponent("§c[ETB] Failed to load texture for: " + imagePath), false);
+        }
     }
     
     @Override
     public void render(MatrixStack matrixStack, int mouseX, int mouseY, float partialTicks) {
-        // Dark gradient background
-        fillGradient(matrixStack, 0, 0, this.width, this.height, 0xCC000000, 0xCC000000);
+        // Try to load texture if it failed during init
+        if (cardTexture == null) {
+            cardTexture = CardTextureManager.getOrLoadCardTexture(card.getImagePath());
+        }
+        
+        // Dark gradient background with subtle pattern
+        fillGradient(matrixStack, 0, 0, this.width, this.height, 0xDD000000, 0xDD111111);
+        
+        // Add subtle vignette effect
+        fillGradient(matrixStack, 0, 0, this.width, 50, 0x44000000, 0x00000000);
+        fillGradient(matrixStack, 0, this.height - 50, this.width, this.height, 0x00000000, 0x44000000);
         
         // Update scale animation
         if (scale < targetScale) {
@@ -40,41 +58,74 @@ public class CardViewScreen extends Screen {
             scale = Math.max(scale - 0.02f, targetScale);
         }
         
-        // Card dimensions - larger for better viewing
-        int cardWidth = 256;  // 128 * 2
-        int cardHeight = 512; // 256 * 2
-        int x = (this.width - cardWidth) / 2;
-        int y = (this.height - cardHeight) / 2;
+        // Card dimensions - maintain proper aspect ratio
+        // Cards are stored in 256x256 textures with the card image centered inside
+        // Display at a good size that fits the screen
+        int maxHeight = Math.min(400, this.height - 120); // Leave room for UI text
+        int maxWidth = Math.min(400, this.width - 80);
+        
+        // Use the smaller constraint to maintain square aspect ratio
+        int cardSize = Math.min(maxHeight, maxWidth);
+        
+        // For better visibility, use at least 256 pixels if space allows
+        cardSize = Math.max(cardSize, Math.min(256, Math.min(this.height - 120, this.width - 80)));
+        
+        int x = (this.width - cardSize) / 2;
+        int y = (this.height - cardSize) / 2 - 10; // Slight upward shift for balance
         
         matrixStack.pushPose();
         
         // Apply scale animation
-        float centerX = x + cardWidth / 2.0f;
-        float centerY = y + cardHeight / 2.0f;
+        float centerX = x + cardSize / 2.0f;
+        float centerY = y + cardSize / 2.0f;
         matrixStack.translate(centerX, centerY, 0);
         matrixStack.scale(scale, scale, 1.0f);
         matrixStack.translate(-centerX, -centerY, 0);
         
         // Draw card shadow
-        fill(matrixStack, x + 6, y + 6, x + cardWidth + 6, y + cardHeight + 6, 0x60000000);
+        fill(matrixStack, x + 6, y + 6, x + cardSize + 6, y + cardSize + 6, 0x60000000);
         
         // Draw card
         if (cardTexture != null) {
             RenderSystem.color4f(1.0F, 1.0F, 1.0F, 1.0F);
+            RenderSystem.enableBlend();
+            RenderSystem.defaultBlendFunc();
             this.minecraft.getTextureManager().bind(cardTexture);
             
-            // Draw card from texture (centered in 256x256 texture)
-            int textureX = 64;  // Offset in texture where card starts
-            int textureY = 0;
-            
-            // Draw the card
-            blit(matrixStack, x, y, cardWidth, cardHeight,
-                 textureX, textureY, 128, 256, 256, 256);
+            // The card fills the entire 256x256 texture with transparent borders
+            // Draw the full texture at native resolution
+            blit(matrixStack, 
+                 x, y,                      // Screen position
+                 cardSize, cardSize,        // Screen size (square)
+                 0.0f, 0.0f,               // UV start - full texture from top-left
+                 256, 256,                  // UV size - entire texture
+                 256, 256);                 // Total texture size
         } else {
-            // Fallback - draw placeholder
-            fill(matrixStack, x, y, x + cardWidth, y + cardHeight, 0xFF404040);
-            drawCenteredString(matrixStack, this.font, "Card Loading...", 
-                x + cardWidth/2, y + cardHeight/2, 0xFFFFFFFF);
+            // Fallback - draw nicer placeholder with card info
+            fillGradient(matrixStack, x, y, x + cardSize, y + cardSize, 0xFF2A2A3E, 0xFF1E1E2E);
+            
+            // Draw border
+            int borderColor = getRarityColor(card.getRarity());
+            fill(matrixStack, x, y, x + cardSize, y + 2, borderColor);
+            fill(matrixStack, x, y + cardSize - 2, x + cardSize, y + cardSize, borderColor);
+            fill(matrixStack, x, y, x + 2, y + cardSize, borderColor);
+            fill(matrixStack, x + cardSize - 2, y, x + cardSize, y + cardSize, borderColor);
+            
+            // Draw card name in center
+            drawCenteredString(matrixStack, this.font, card.getName(), 
+                x + cardSize/2, y + cardSize/2 - 20, 0xFFFFFFFF);
+            
+            // Draw set name
+            drawCenteredString(matrixStack, this.font, card.getSetName(), 
+                x + cardSize/2, y + cardSize/2, 0xFFAAAAAA);
+            
+            // Draw card number
+            drawCenteredString(matrixStack, this.font, "#" + card.getNumber(), 
+                x + cardSize/2, y + cardSize/2 + 20, 0xFF888888);
+            
+            // Draw "Image Not Available" message
+            drawCenteredString(matrixStack, this.font, "Image Not Available", 
+                x + cardSize/2, y + cardSize - 30, 0xFFFF6666);
         }
         
         // Draw rarity border glow effect
@@ -83,13 +134,13 @@ public class CardViewScreen extends Screen {
             // Draw border
             int borderWidth = 3;
             // Top
-            fill(matrixStack, x - borderWidth, y - borderWidth, x + cardWidth + borderWidth, y, glowColor);
+            fill(matrixStack, x - borderWidth, y - borderWidth, x + cardSize + borderWidth, y, glowColor);
             // Bottom
-            fill(matrixStack, x - borderWidth, y + cardHeight, x + cardWidth + borderWidth, y + cardHeight + borderWidth, glowColor);
+            fill(matrixStack, x - borderWidth, y + cardSize, x + cardSize + borderWidth, y + cardSize + borderWidth, glowColor);
             // Left
-            fill(matrixStack, x - borderWidth, y, x, y + cardHeight, glowColor);
+            fill(matrixStack, x - borderWidth, y, x, y + cardSize, glowColor);
             // Right
-            fill(matrixStack, x + cardWidth, y, x + cardWidth + borderWidth, y + cardHeight, glowColor);
+            fill(matrixStack, x + cardSize, y, x + cardSize + borderWidth, y + cardSize, glowColor);
         }
         
         matrixStack.popPose();
@@ -100,12 +151,12 @@ public class CardViewScreen extends Screen {
             card.getSetName(), 
             card.getNumber());
         drawCenteredString(matrixStack, this.font, info, 
-            this.width / 2, y + cardHeight + 20, 0xFFFFFFFF);
+            this.width / 2, y + cardSize + 20, 0xFFFFFFFF);
         
         // Draw rarity
         int rarityColor = getRarityTextColor(card.getRarity());
         drawCenteredString(matrixStack, this.font, card.getRarity().getDisplayName(), 
-            this.width / 2, y + cardHeight + 35, rarityColor);
+            this.width / 2, y + cardSize + 35, rarityColor);
         
         // Draw instruction
         drawCenteredString(matrixStack, this.font, "Press ESC or Right-Click to close", 

@@ -1,490 +1,418 @@
 {
-  "set_id": "sm115",
-  "folder_name": "hidden_fates",
-  "total_cards": 69,
   "cards": [
     {
-      "number": "1",
+      "id": "hidden_fates-001",
       "name": "Caterpie",
-      "rarity": "common",
-      "filename": "001_common_caterpie.png",
-      "original_rarity": "Common"
+      "number": "1",
+      "rarity": "common"
     },
     {
-      "number": "2",
+      "id": "hidden_fates-002",
       "name": "Metapod",
-      "rarity": "uncommon",
-      "filename": "002_uncommon_metapod.png",
-      "original_rarity": "Uncommon"
+      "number": "2",
+      "rarity": "uncommon"
     },
     {
-      "number": "3",
+      "id": "hidden_fates-003",
       "name": "Butterfree",
-      "rarity": "rare",
-      "filename": "003_rare_butterfree.png",
-      "original_rarity": "Rare"
+      "number": "3",
+      "rarity": "rare"
     },
     {
-      "number": "4",
+      "id": "hidden_fates-004",
       "name": "Paras",
-      "rarity": "common",
-      "filename": "004_common_paras.png",
-      "original_rarity": "Common"
+      "number": "4",
+      "rarity": "common"
     },
     {
-      "number": "5",
+      "id": "hidden_fates-005",
       "name": "Scyther",
-      "rarity": "uncommon",
-      "filename": "005_uncommon_scyther.png",
-      "original_rarity": "Uncommon"
+      "number": "5",
+      "rarity": "uncommon"
     },
     {
-      "number": "6",
+      "id": "hidden_fates-006",
       "name": "Pinsir-GX",
-      "rarity": "rare_holo_gx",
-      "filename": "006_rare_holo_gx_pinsir_gx.png",
-      "original_rarity": "Rare Holo GX"
+      "number": "6",
+      "rarity": "rare holo gx"
     },
     {
-      "number": "7",
+      "id": "hidden_fates-007",
       "name": "Charmander",
-      "rarity": "common",
-      "filename": "007_common_charmander.png",
-      "original_rarity": "Common"
+      "number": "7",
+      "rarity": "common"
     },
     {
-      "number": "8",
+      "id": "hidden_fates-008",
       "name": "Charmeleon",
-      "rarity": "uncommon",
-      "filename": "008_uncommon_charmeleon.png",
-      "original_rarity": "Uncommon"
+      "number": "8",
+      "rarity": "uncommon"
     },
     {
-      "number": "9",
+      "id": "hidden_fates-009",
       "name": "Charizard-GX",
-      "rarity": "rare_holo_gx",
-      "filename": "009_rare_holo_gx_charizard_gx.png",
-      "original_rarity": "Rare Holo GX"
+      "number": "9",
+      "rarity": "rare holo gx"
     },
     {
-      "number": "10",
+      "id": "hidden_fates-010",
       "name": "Magmar",
-      "rarity": "uncommon",
-      "filename": "010_uncommon_magmar.png",
-      "original_rarity": "Uncommon"
+      "number": "10",
+      "rarity": "uncommon"
     },
     {
-      "number": "11",
+      "id": "hidden_fates-011",
       "name": "Psyduck",
-      "rarity": "common",
-      "filename": "011_common_psyduck.png",
-      "original_rarity": "Common"
+      "number": "11",
+      "rarity": "common"
     },
     {
-      "number": "12",
+      "id": "hidden_fates-012",
       "name": "Slowpoke",
-      "rarity": "common",
-      "filename": "012_common_slowpoke.png",
-      "original_rarity": "Common"
+      "number": "12",
+      "rarity": "common"
     },
     {
-      "number": "13",
+      "id": "hidden_fates-013",
       "name": "Staryu",
-      "rarity": "common",
-      "filename": "013_common_staryu.png",
-      "original_rarity": "Common"
+      "number": "13",
+      "rarity": "common"
     },
     {
-      "number": "14",
+      "id": "hidden_fates-014",
       "name": "Starmie-GX",
-      "rarity": "rare_holo_gx",
-      "filename": "014_rare_holo_gx_starmie_gx.png",
-      "original_rarity": "Rare Holo GX"
+      "number": "14",
+      "rarity": "rare holo gx"
     },
     {
-      "number": "15",
+      "id": "hidden_fates-015",
       "name": "Magikarp",
-      "rarity": "common",
-      "filename": "015_common_magikarp.png",
-      "original_rarity": "Common"
+      "number": "15",
+      "rarity": "common"
     },
     {
-      "number": "16",
+      "id": "hidden_fates-016",
       "name": "Gyarados-GX",
-      "rarity": "rare_holo_gx",
-      "filename": "016_rare_holo_gx_gyarados_gx.png",
-      "original_rarity": "Rare Holo GX"
+      "number": "16",
+      "rarity": "rare holo gx"
     },
     {
-      "number": "17",
+      "id": "hidden_fates-017",
       "name": "Lapras",
-      "rarity": "rare",
-      "filename": "017_rare_lapras.png",
-      "original_rarity": "Rare"
+      "number": "17",
+      "rarity": "rare"
     },
     {
-      "number": "18",
+      "id": "hidden_fates-018",
       "name": "Vaporeon",
-      "rarity": "rare_holo",
-      "filename": "018_rare_holo_vaporeon.png",
-      "original_rarity": "Rare Holo"
+      "number": "18",
+      "rarity": "rare holo"
     },
     {
-      "number": "19",
+      "id": "hidden_fates-019",
       "name": "Pikachu",
-      "rarity": "common",
-      "filename": "019_common_pikachu.png",
-      "original_rarity": "Common"
+      "number": "19",
+      "rarity": "common"
     },
     {
-      "number": "20",
+      "id": "hidden_fates-020",
       "name": "Raichu-GX",
-      "rarity": "rare_holo_gx",
-      "filename": "020_rare_holo_gx_raichu_gx.png",
-      "original_rarity": "Rare Holo GX"
+      "number": "20",
+      "rarity": "rare holo gx"
     },
     {
-      "number": "21",
+      "id": "hidden_fates-021",
       "name": "Voltorb",
-      "rarity": "common",
-      "filename": "021_common_voltorb.png",
-      "original_rarity": "Common"
+      "number": "21",
+      "rarity": "common"
     },
     {
-      "number": "22",
+      "id": "hidden_fates-022",
       "name": "Electrode",
-      "rarity": "rare",
-      "filename": "022_rare_electrode.png",
-      "original_rarity": "Rare"
+      "number": "22",
+      "rarity": "rare"
     },
     {
-      "number": "23",
+      "id": "hidden_fates-023",
       "name": "Jolteon",
-      "rarity": "rare",
-      "filename": "023_rare_jolteon.png",
-      "original_rarity": "Rare"
+      "number": "23",
+      "rarity": "rare"
     },
     {
-      "number": "24",
+      "id": "hidden_fates-024",
       "name": "Zapdos",
-      "rarity": "rare_holo",
-      "filename": "024_rare_holo_zapdos.png",
-      "original_rarity": "Rare Holo"
+      "number": "24",
+      "rarity": "rare holo"
     },
     {
+      "id": "hidden_fates-025",
+      "name": "Ekans",
       "number": "25",
-      "name": "Ekans",
-      "rarity": "common",
-      "filename": "025_common_ekans.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
+      "id": "hidden_fates-026",
+      "name": "Ekans",
       "number": "26",
-      "name": "Ekans",
-      "rarity": "common",
-      "filename": "026_common_ekans.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
-      "number": "27",
+      "id": "hidden_fates-027",
       "name": "Arbok",
-      "rarity": "rare",
-      "filename": "027_rare_arbok.png",
-      "original_rarity": "Rare"
+      "number": "27",
+      "rarity": "rare"
     },
     {
-      "number": "28",
+      "id": "hidden_fates-028",
       "name": "Koffing",
-      "rarity": "common",
-      "filename": "028_common_koffing.png",
-      "original_rarity": "Common"
+      "number": "28",
+      "rarity": "common"
     },
     {
-      "number": "29",
+      "id": "hidden_fates-029",
       "name": "Weezing",
-      "rarity": "rare",
-      "filename": "029_rare_weezing.png",
-      "original_rarity": "Rare"
+      "number": "29",
+      "rarity": "rare"
     },
     {
-      "number": "30",
+      "id": "hidden_fates-030",
       "name": "Jynx",
-      "rarity": "uncommon",
-      "filename": "030_uncommon_jynx.png",
-      "original_rarity": "Uncommon"
+      "number": "30",
+      "rarity": "uncommon"
     },
     {
-      "number": "31",
+      "id": "hidden_fates-031",
       "name": "Mewtwo-GX",
-      "rarity": "rare_holo_gx",
-      "filename": "031_rare_holo_gx_mewtwo_gx.png",
-      "original_rarity": "Rare Holo GX"
+      "number": "31",
+      "rarity": "rare holo gx"
     },
     {
-      "number": "32",
+      "id": "hidden_fates-032",
       "name": "Mew",
-      "rarity": "rare",
-      "filename": "032_rare_mew.png",
-      "original_rarity": "Rare"
+      "number": "32",
+      "rarity": "rare"
     },
     {
-      "number": "33",
+      "id": "hidden_fates-033",
       "name": "Geodude",
-      "rarity": "common",
-      "filename": "033_common_geodude.png",
-      "original_rarity": "Common"
+      "number": "33",
+      "rarity": "common"
     },
     {
-      "number": "34",
+      "id": "hidden_fates-034",
       "name": "Graveler",
-      "rarity": "uncommon",
-      "filename": "034_uncommon_graveler.png",
-      "original_rarity": "Uncommon"
+      "number": "34",
+      "rarity": "uncommon"
     },
     {
-      "number": "35",
+      "id": "hidden_fates-035",
       "name": "Golem",
-      "rarity": "rare",
-      "filename": "035_rare_golem.png",
-      "original_rarity": "Rare"
+      "number": "35",
+      "rarity": "rare"
     },
     {
-      "number": "36",
+      "id": "hidden_fates-036",
       "name": "Onix-GX",
-      "rarity": "rare_holo_gx",
-      "filename": "036_rare_holo_gx_onix_gx.png",
-      "original_rarity": "Rare Holo GX"
+      "number": "36",
+      "rarity": "rare holo gx"
     },
     {
-      "number": "37",
+      "id": "hidden_fates-037",
       "name": "Cubone",
-      "rarity": "common",
-      "filename": "037_common_cubone.png",
-      "original_rarity": "Common"
+      "number": "37",
+      "rarity": "common"
     },
     {
+      "id": "hidden_fates-038",
+      "name": "Clefairy",
       "number": "38",
-      "name": "Clefairy",
-      "rarity": "common",
-      "filename": "038_common_clefairy.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
+      "id": "hidden_fates-039",
+      "name": "Clefairy",
       "number": "39",
-      "name": "Clefairy",
-      "rarity": "common",
-      "filename": "039_common_clefairy.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
-      "number": "40",
+      "id": "hidden_fates-040",
       "name": "Clefable",
-      "rarity": "rare",
-      "filename": "040_rare_clefable.png",
-      "original_rarity": "Rare"
+      "number": "40",
+      "rarity": "rare"
     },
     {
-      "number": "41",
+      "id": "hidden_fates-041",
       "name": "Jigglypuff",
-      "rarity": "common",
-      "filename": "041_common_jigglypuff.png",
-      "original_rarity": "Common"
+      "number": "41",
+      "rarity": "common"
     },
     {
-      "number": "42",
+      "id": "hidden_fates-042",
       "name": "Wigglytuff-GX",
-      "rarity": "rare_holo_gx",
-      "filename": "042_rare_holo_gx_wigglytuff_gx.png",
-      "original_rarity": "Rare Holo GX"
+      "number": "42",
+      "rarity": "rare holo gx"
     },
     {
-      "number": "43",
+      "id": "hidden_fates-043",
       "name": "Mr. Mime",
-      "rarity": "rare",
-      "filename": "043_rare_mr_mime.png",
-      "original_rarity": "Rare"
+      "number": "43",
+      "rarity": "rare"
     },
     {
+      "id": "hidden_fates-044",
+      "name": "Moltres & Zapdos & Articuno-GX",
       "number": "44",
-      "name": "Moltres & Zapdos & Articuno-GX",
-      "rarity": "rare_holo_gx",
-      "filename": "044_rare_holo_gx_moltres_zapdos_articuno_gx.png",
-      "original_rarity": "Rare Holo GX"
+      "rarity": "rare holo gx"
     },
     {
-      "number": "45",
+      "id": "hidden_fates-045",
       "name": "Farfetch'd",
-      "rarity": "uncommon",
-      "filename": "045_uncommon_farfetch_d.png",
-      "original_rarity": "Uncommon"
+      "number": "45",
+      "rarity": "uncommon"
     },
     {
-      "number": "46",
+      "id": "hidden_fates-046",
       "name": "Chansey",
-      "rarity": "uncommon",
-      "filename": "046_uncommon_chansey.png",
-      "original_rarity": "Uncommon"
+      "number": "46",
+      "rarity": "uncommon"
     },
     {
-      "number": "47",
+      "id": "hidden_fates-047",
       "name": "Kangaskhan",
-      "rarity": "rare",
-      "filename": "047_rare_kangaskhan.png",
-      "original_rarity": "Rare"
+      "number": "47",
+      "rarity": "rare"
     },
     {
+      "id": "hidden_fates-048",
+      "name": "Eevee",
       "number": "48",
-      "name": "Eevee",
-      "rarity": "rare_holo",
-      "filename": "048_rare_holo_eevee.png",
-      "original_rarity": "Rare Holo"
+      "rarity": "rare holo"
     },
     {
+      "id": "hidden_fates-049",
+      "name": "Eevee",
       "number": "49",
-      "name": "Eevee",
-      "rarity": "common",
-      "filename": "049_common_eevee.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
-      "number": "50",
+      "id": "hidden_fates-050",
       "name": "Snorlax",
-      "rarity": "rare",
-      "filename": "050_rare_snorlax.png",
-      "original_rarity": "Rare"
+      "number": "50",
+      "rarity": "rare"
     },
     {
-      "number": "51",
+      "id": "hidden_fates-051",
       "name": "Bill's Analysis",
-      "rarity": "rare",
-      "filename": "051_rare_bill_s_analysis.png",
-      "original_rarity": "Rare"
+      "number": "51",
+      "rarity": "rare"
     },
     {
-      "number": "52",
+      "id": "hidden_fates-052",
       "name": "Blaine's Last Stand",
-      "rarity": "rare",
-      "filename": "052_rare_blaine_s_last_stand.png",
-      "original_rarity": "Rare"
+      "number": "52",
+      "rarity": "rare"
     },
     {
-      "number": "53",
+      "id": "hidden_fates-053",
       "name": "Brock's Grit",
-      "rarity": "uncommon",
-      "filename": "053_uncommon_brock_s_grit.png",
-      "original_rarity": "Uncommon"
+      "number": "53",
+      "rarity": "uncommon"
     },
     {
-      "number": "54",
+      "id": "hidden_fates-054",
       "name": "Brock's Pewter City Gym",
-      "rarity": "uncommon",
-      "filename": "054_uncommon_brock_s_pewter_city_gym.png",
-      "original_rarity": "Uncommon"
+      "number": "54",
+      "rarity": "uncommon"
     },
     {
-      "number": "55",
+      "id": "hidden_fates-055",
       "name": "Brock's Training",
-      "rarity": "rare_holo",
-      "filename": "055_rare_holo_brock_s_training.png",
-      "original_rarity": "Rare Holo"
+      "number": "55",
+      "rarity": "rare holo"
     },
     {
-      "number": "56",
+      "id": "hidden_fates-056",
       "name": "Erika's Hospitality",
-      "rarity": "rare",
-      "filename": "056_rare_erika_s_hospitality.png",
-      "original_rarity": "Rare"
+      "number": "56",
+      "rarity": "rare"
     },
     {
+      "id": "hidden_fates-057",
+      "name": "Giovanni's Exile",
       "number": "57",
-      "name": "Giovanni's Exile",
-      "rarity": "uncommon",
-      "filename": "057_uncommon_giovanni_s_exile.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "hidden_fates-058",
+      "name": "Jessie & James",
       "number": "58",
-      "name": "Jessie & James",
-      "rarity": "rare_holo",
-      "filename": "058_rare_holo_jessie_james.png",
-      "original_rarity": "Rare Holo"
+      "rarity": "rare holo"
     },
     {
-      "number": "59",
+      "id": "hidden_fates-059",
       "name": "Koga's Trap",
-      "rarity": "uncommon",
-      "filename": "059_uncommon_koga_s_trap.png",
-      "original_rarity": "Uncommon"
+      "number": "59",
+      "rarity": "uncommon"
     },
     {
-      "number": "60",
+      "id": "hidden_fates-060",
       "name": "Lt. Surge's Strategy",
-      "rarity": "uncommon",
-      "filename": "060_uncommon_lt_surge_s_strategy.png",
-      "original_rarity": "Uncommon"
+      "number": "60",
+      "rarity": "uncommon"
     },
     {
-      "number": "61",
+      "id": "hidden_fates-061",
       "name": "Misty's Cerulean City Gym",
-      "rarity": "uncommon",
-      "filename": "061_uncommon_misty_s_cerulean_city_gym.png",
-      "original_rarity": "Uncommon"
+      "number": "61",
+      "rarity": "uncommon"
     },
     {
-      "number": "62",
+      "id": "hidden_fates-062",
       "name": "Misty's Determination",
-      "rarity": "uncommon",
-      "filename": "062_uncommon_misty_s_determination.png",
-      "original_rarity": "Uncommon"
+      "number": "62",
+      "rarity": "uncommon"
     },
     {
-      "number": "63",
+      "id": "hidden_fates-063",
       "name": "Misty's Water Command",
-      "rarity": "rare_holo",
-      "filename": "063_rare_holo_misty_s_water_command.png",
-      "original_rarity": "Rare Holo"
+      "number": "63",
+      "rarity": "rare holo"
     },
     {
+      "id": "hidden_fates-064",
+      "name": "Pokémon Center Lady",
       "number": "64",
-      "name": "Pok\u00e9mon Center Lady",
-      "rarity": "uncommon",
-      "filename": "064_uncommon_pok_mon_center_lady.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "65",
+      "id": "hidden_fates-065",
       "name": "Sabrina's Suggestion",
-      "rarity": "uncommon",
-      "filename": "065_uncommon_sabrina_s_suggestion.png",
-      "original_rarity": "Uncommon"
+      "number": "65",
+      "rarity": "uncommon"
     },
     {
+      "id": "hidden_fates-066",
+      "name": "Moltres & Zapdos & Articuno-GX",
       "number": "66",
-      "name": "Moltres & Zapdos & Articuno-GX",
-      "rarity": "rare_ultra",
-      "filename": "066_rare_ultra_moltres_zapdos_articuno_gx.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
-      "number": "67",
+      "id": "hidden_fates-067",
       "name": "Giovanni's Exile",
-      "rarity": "rare_ultra",
-      "filename": "067_rare_ultra_giovanni_s_exile.png",
-      "original_rarity": "Rare Ultra"
+      "number": "67",
+      "rarity": "rare ultra"
     },
     {
-      "number": "68",
+      "id": "hidden_fates-068",
       "name": "Jessie & James",
-      "rarity": "rare_ultra",
-      "filename": "068_rare_ultra_jessie_james.png",
-      "original_rarity": "Rare Ultra"
+      "number": "68",
+      "rarity": "rare ultra"
     },
     {
-      "number": "69",
+      "id": "hidden_fates-069",
       "name": "Moltres & Zapdos & Articuno-GX",
-      "rarity": "rare_rainbow",
-      "filename": "069_rare_rainbow_moltres_zapdos_articuno_gx.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "69",
+      "rarity": "rare rainbow"
     }
   ]
 }

@@ -1,889 +1,760 @@
 {
-  "set_id": "xy9",
-  "folder_name": "breakpoint",
-  "total_cards": 126,
   "cards": [
     {
-      "number": "1",
+      "id": "breakpoint-001",
       "name": "Chikorita",
-      "rarity": "common",
-      "filename": "001_common_chikorita.png",
-      "original_rarity": "Common"
+      "number": "1",
+      "rarity": "common"
     },
     {
-      "number": "2",
+      "id": "breakpoint-002",
       "name": "Bayleef",
-      "rarity": "uncommon",
-      "filename": "002_uncommon_bayleef.png",
-      "original_rarity": "Uncommon"
+      "number": "2",
+      "rarity": "uncommon"
     },
     {
-      "number": "3",
+      "id": "breakpoint-003",
       "name": "Meganium",
-      "rarity": "rare_holo",
-      "filename": "003_rare_holo_meganium.png",
-      "original_rarity": "Rare Holo"
+      "number": "3",
+      "rarity": "rare holo"
     },
     {
-      "number": "4",
+      "id": "breakpoint-004",
       "name": "Seedot",
-      "rarity": "common",
-      "filename": "004_common_seedot.png",
-      "original_rarity": "Common"
+      "number": "4",
+      "rarity": "common"
     },
     {
-      "number": "5",
+      "id": "breakpoint-005",
       "name": "Kricketot",
-      "rarity": "common",
-      "filename": "005_common_kricketot.png",
-      "original_rarity": "Common"
+      "number": "5",
+      "rarity": "common"
     },
     {
-      "number": "6",
+      "id": "breakpoint-006",
       "name": "Kricketune",
-      "rarity": "uncommon",
-      "filename": "006_uncommon_kricketune.png",
-      "original_rarity": "Uncommon"
+      "number": "6",
+      "rarity": "uncommon"
     },
     {
-      "number": "7",
+      "id": "breakpoint-007",
       "name": "Petilil",
-      "rarity": "common",
-      "filename": "007_common_petilil.png",
-      "original_rarity": "Common"
+      "number": "7",
+      "rarity": "common"
     },
     {
-      "number": "8",
+      "id": "breakpoint-008",
       "name": "Lilligant",
-      "rarity": "rare",
-      "filename": "008_rare_lilligant.png",
-      "original_rarity": "Rare"
+      "number": "8",
+      "rarity": "rare"
     },
     {
-      "number": "9",
+      "id": "breakpoint-009",
       "name": "Durant",
-      "rarity": "uncommon",
-      "filename": "009_uncommon_durant.png",
-      "original_rarity": "Uncommon"
+      "number": "9",
+      "rarity": "uncommon"
     },
     {
-      "number": "10",
+      "id": "breakpoint-010",
       "name": "Growlithe",
-      "rarity": "common",
-      "filename": "010_common_growlithe.png",
-      "original_rarity": "Common"
+      "number": "10",
+      "rarity": "common"
     },
     {
-      "number": "11",
+      "id": "breakpoint-011",
       "name": "Arcanine",
-      "rarity": "uncommon",
-      "filename": "011_uncommon_arcanine.png",
-      "original_rarity": "Uncommon"
+      "number": "11",
+      "rarity": "uncommon"
     },
     {
-      "number": "12",
+      "id": "breakpoint-012",
       "name": "Numel",
-      "rarity": "common",
-      "filename": "012_common_numel.png",
-      "original_rarity": "Common"
+      "number": "12",
+      "rarity": "common"
     },
     {
-      "number": "13",
+      "id": "breakpoint-013",
       "name": "Camerupt",
-      "rarity": "rare",
-      "filename": "013_rare_camerupt.png",
-      "original_rarity": "Rare"
+      "number": "13",
+      "rarity": "rare"
     },
     {
-      "number": "14",
+      "id": "breakpoint-014",
       "name": "Emboar-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "014_rare_holo_ex_emboar_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "number": "14",
+      "rarity": "rare holo ex"
     },
     {
-      "number": "15",
+      "id": "breakpoint-015",
       "name": "Heatmor",
-      "rarity": "uncommon",
-      "filename": "015_uncommon_heatmor.png",
-      "original_rarity": "Uncommon"
+      "number": "15",
+      "rarity": "uncommon"
     },
     {
-      "number": "16",
+      "id": "breakpoint-016",
       "name": "Psyduck",
-      "rarity": "common",
-      "filename": "016_common_psyduck.png",
-      "original_rarity": "Common"
+      "number": "16",
+      "rarity": "common"
     },
     {
-      "number": "17",
+      "id": "breakpoint-017",
       "name": "Golduck",
-      "rarity": "rare",
-      "filename": "017_rare_golduck.png",
-      "original_rarity": "Rare"
+      "number": "17",
+      "rarity": "rare"
     },
     {
-      "number": "18",
+      "id": "breakpoint-018",
       "name": "Golduck BREAK",
-      "rarity": "rare_break",
-      "filename": "018_rare_break_golduck_break.png",
-      "original_rarity": "Rare BREAK"
+      "number": "18",
+      "rarity": "rare break"
     },
     {
-      "number": "19",
+      "id": "breakpoint-019",
       "name": "Slowpoke",
-      "rarity": "common",
-      "filename": "019_common_slowpoke.png",
-      "original_rarity": "Common"
+      "number": "19",
+      "rarity": "common"
     },
     {
-      "number": "20",
+      "id": "breakpoint-020",
       "name": "Slowbro",
-      "rarity": "uncommon",
-      "filename": "020_uncommon_slowbro.png",
-      "original_rarity": "Uncommon"
+      "number": "20",
+      "rarity": "uncommon"
     },
     {
-      "number": "21",
+      "id": "breakpoint-021",
       "name": "Slowking",
-      "rarity": "rare_holo",
-      "filename": "021_rare_holo_slowking.png",
-      "original_rarity": "Rare Holo"
+      "number": "21",
+      "rarity": "rare holo"
     },
     {
+      "id": "breakpoint-022",
+      "name": "Shellder",
       "number": "22",
-      "name": "Shellder",
-      "rarity": "common",
-      "filename": "022_common_shellder.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
+      "id": "breakpoint-023",
+      "name": "Shellder",
       "number": "23",
-      "name": "Shellder",
-      "rarity": "common",
-      "filename": "023_common_shellder.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
-      "number": "24",
+      "id": "breakpoint-024",
       "name": "Cloyster",
-      "rarity": "uncommon",
-      "filename": "024_uncommon_cloyster.png",
-      "original_rarity": "Uncommon"
+      "number": "24",
+      "rarity": "uncommon"
     },
     {
-      "number": "25",
+      "id": "breakpoint-025",
       "name": "Staryu",
-      "rarity": "common",
-      "filename": "025_common_staryu.png",
-      "original_rarity": "Common"
+      "number": "25",
+      "rarity": "common"
     },
     {
+      "id": "breakpoint-026",
+      "name": "Gyarados-EX",
       "number": "26",
-      "name": "Gyarados-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "026_rare_holo_ex_gyarados_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
+      "id": "breakpoint-027",
+      "name": "M Gyarados-EX",
       "number": "27",
-      "name": "M Gyarados-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "027_rare_holo_ex_m_gyarados_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "28",
+      "id": "breakpoint-028",
       "name": "Lapras",
-      "rarity": "uncommon",
-      "filename": "028_uncommon_lapras.png",
-      "original_rarity": "Uncommon"
+      "number": "28",
+      "rarity": "uncommon"
     },
     {
-      "number": "29",
+      "id": "breakpoint-029",
       "name": "Corsola",
-      "rarity": "common",
-      "filename": "029_common_corsola.png",
-      "original_rarity": "Common"
+      "number": "29",
+      "rarity": "common"
     },
     {
-      "number": "30",
+      "id": "breakpoint-030",
       "name": "Suicune",
-      "rarity": "rare_holo",
-      "filename": "030_rare_holo_suicune.png",
-      "original_rarity": "Rare Holo"
+      "number": "30",
+      "rarity": "rare holo"
     },
     {
-      "number": "31",
+      "id": "breakpoint-031",
       "name": "Palkia-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "031_rare_holo_ex_palkia_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "number": "31",
+      "rarity": "rare holo ex"
     },
     {
+      "id": "breakpoint-032",
+      "name": "Manaphy-EX",
       "number": "32",
-      "name": "Manaphy-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "032_rare_holo_ex_manaphy_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "33",
+      "id": "breakpoint-033",
       "name": "Tympole",
-      "rarity": "common",
-      "filename": "033_common_tympole.png",
-      "original_rarity": "Common"
+      "number": "33",
+      "rarity": "common"
     },
     {
-      "number": "34",
+      "id": "breakpoint-034",
       "name": "Palpitoad",
-      "rarity": "uncommon",
-      "filename": "034_uncommon_palpitoad.png",
-      "original_rarity": "Uncommon"
+      "number": "34",
+      "rarity": "uncommon"
     },
     {
-      "number": "35",
+      "id": "breakpoint-035",
       "name": "Seismitoad",
-      "rarity": "rare",
-      "filename": "035_rare_seismitoad.png",
-      "original_rarity": "Rare"
+      "number": "35",
+      "rarity": "rare"
     },
     {
-      "number": "36",
+      "id": "breakpoint-036",
       "name": "Ducklett",
-      "rarity": "common",
-      "filename": "036_common_ducklett.png",
-      "original_rarity": "Common"
+      "number": "36",
+      "rarity": "common"
     },
     {
-      "number": "37",
+      "id": "breakpoint-037",
       "name": "Swanna",
-      "rarity": "uncommon",
-      "filename": "037_uncommon_swanna.png",
-      "original_rarity": "Uncommon"
+      "number": "37",
+      "rarity": "uncommon"
     },
     {
-      "number": "38",
+      "id": "breakpoint-038",
       "name": "Froakie",
-      "rarity": "common",
-      "filename": "038_common_froakie.png",
-      "original_rarity": "Common"
+      "number": "38",
+      "rarity": "common"
     },
     {
-      "number": "39",
+      "id": "breakpoint-039",
       "name": "Frogadier",
-      "rarity": "uncommon",
-      "filename": "039_uncommon_frogadier.png",
-      "original_rarity": "Uncommon"
+      "number": "39",
+      "rarity": "uncommon"
     },
     {
-      "number": "40",
+      "id": "breakpoint-040",
       "name": "Greninja",
-      "rarity": "rare",
-      "filename": "040_rare_greninja.png",
-      "original_rarity": "Rare"
+      "number": "40",
+      "rarity": "rare"
     },
     {
-      "number": "41",
+      "id": "breakpoint-041",
       "name": "Greninja BREAK",
-      "rarity": "rare_break",
-      "filename": "041_rare_break_greninja_break.png",
-      "original_rarity": "Rare BREAK"
+      "number": "41",
+      "rarity": "rare break"
     },
     {
-      "number": "42",
+      "id": "breakpoint-042",
       "name": "Electabuzz",
-      "rarity": "common",
-      "filename": "042_common_electabuzz.png",
-      "original_rarity": "Common"
+      "number": "42",
+      "rarity": "common"
     },
     {
-      "number": "43",
+      "id": "breakpoint-043",
       "name": "Electivire",
-      "rarity": "uncommon",
-      "filename": "043_uncommon_electivire.png",
-      "original_rarity": "Uncommon"
+      "number": "43",
+      "rarity": "uncommon"
     },
     {
-      "number": "44",
+      "id": "breakpoint-044",
       "name": "Shinx",
-      "rarity": "common",
-      "filename": "044_common_shinx.png",
-      "original_rarity": "Common"
+      "number": "44",
+      "rarity": "common"
     },
     {
-      "number": "45",
+      "id": "breakpoint-045",
       "name": "Luxio",
-      "rarity": "uncommon",
-      "filename": "045_uncommon_luxio.png",
-      "original_rarity": "Uncommon"
+      "number": "45",
+      "rarity": "uncommon"
     },
     {
-      "number": "46",
+      "id": "breakpoint-046",
       "name": "Luxray",
-      "rarity": "rare",
-      "filename": "046_rare_luxray.png",
-      "original_rarity": "Rare"
+      "number": "46",
+      "rarity": "rare"
     },
     {
-      "number": "47",
+      "id": "breakpoint-047",
       "name": "Luxray BREAK",
-      "rarity": "rare_break",
-      "filename": "047_rare_break_luxray_break.png",
-      "original_rarity": "Rare BREAK"
+      "number": "47",
+      "rarity": "rare break"
     },
     {
-      "number": "48",
+      "id": "breakpoint-048",
       "name": "Blitzle",
-      "rarity": "common",
-      "filename": "048_common_blitzle.png",
-      "original_rarity": "Common"
+      "number": "48",
+      "rarity": "common"
     },
     {
-      "number": "49",
+      "id": "breakpoint-049",
       "name": "Zebstrika",
-      "rarity": "rare",
-      "filename": "049_rare_zebstrika.png",
-      "original_rarity": "Rare"
+      "number": "49",
+      "rarity": "rare"
     },
     {
-      "number": "50",
+      "id": "breakpoint-050",
       "name": "Drowzee",
-      "rarity": "common",
-      "filename": "050_common_drowzee.png",
-      "original_rarity": "Common"
+      "number": "50",
+      "rarity": "common"
     },
     {
-      "number": "51",
+      "id": "breakpoint-051",
       "name": "Hypno",
-      "rarity": "rare",
-      "filename": "051_rare_hypno.png",
-      "original_rarity": "Rare"
+      "number": "51",
+      "rarity": "rare"
     },
     {
+      "id": "breakpoint-052",
+      "name": "Espeon-EX",
       "number": "52",
-      "name": "Espeon-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "052_rare_holo_ex_espeon_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "53",
+      "id": "breakpoint-053",
       "name": "Skorupi",
-      "rarity": "common",
-      "filename": "053_common_skorupi.png",
-      "original_rarity": "Common"
+      "number": "53",
+      "rarity": "common"
     },
     {
-      "number": "54",
+      "id": "breakpoint-054",
       "name": "Drapion",
-      "rarity": "rare",
-      "filename": "054_rare_drapion.png",
-      "original_rarity": "Rare"
+      "number": "54",
+      "rarity": "rare"
     },
     {
-      "number": "55",
+      "id": "breakpoint-055",
       "name": "Sigilyph",
-      "rarity": "uncommon",
-      "filename": "055_uncommon_sigilyph.png",
-      "original_rarity": "Uncommon"
+      "number": "55",
+      "rarity": "uncommon"
     },
     {
-      "number": "56",
+      "id": "breakpoint-056",
       "name": "Trubbish",
-      "rarity": "common",
-      "filename": "056_common_trubbish.png",
-      "original_rarity": "Common"
+      "number": "56",
+      "rarity": "common"
     },
     {
-      "number": "57",
+      "id": "breakpoint-057",
       "name": "Garbodor",
-      "rarity": "rare_holo",
-      "filename": "057_rare_holo_garbodor.png",
-      "original_rarity": "Rare Holo"
+      "number": "57",
+      "rarity": "rare holo"
     },
     {
-      "number": "58",
+      "id": "breakpoint-058",
       "name": "Espurr",
-      "rarity": "common",
-      "filename": "058_common_espurr.png",
-      "original_rarity": "Common"
+      "number": "58",
+      "rarity": "common"
     },
     {
-      "number": "59",
+      "id": "breakpoint-059",
       "name": "Meowstic",
-      "rarity": "rare",
-      "filename": "059_rare_meowstic.png",
-      "original_rarity": "Rare"
+      "number": "59",
+      "rarity": "rare"
     },
     {
-      "number": "60",
+      "id": "breakpoint-060",
       "name": "Honedge",
-      "rarity": "common",
-      "filename": "060_common_honedge.png",
-      "original_rarity": "Common"
+      "number": "60",
+      "rarity": "common"
     },
     {
-      "number": "61",
+      "id": "breakpoint-061",
       "name": "Doublade",
-      "rarity": "uncommon",
-      "filename": "061_uncommon_doublade.png",
-      "original_rarity": "Uncommon"
+      "number": "61",
+      "rarity": "uncommon"
     },
     {
-      "number": "62",
+      "id": "breakpoint-062",
       "name": "Aegislash",
-      "rarity": "rare_holo",
-      "filename": "062_rare_holo_aegislash.png",
-      "original_rarity": "Rare Holo"
+      "number": "62",
+      "rarity": "rare holo"
     },
     {
-      "number": "63",
+      "id": "breakpoint-063",
       "name": "Skrelp",
-      "rarity": "common",
-      "filename": "063_common_skrelp.png",
-      "original_rarity": "Common"
+      "number": "63",
+      "rarity": "common"
     },
     {
-      "number": "64",
+      "id": "breakpoint-064",
       "name": "Phantump",
-      "rarity": "common",
-      "filename": "064_common_phantump.png",
-      "original_rarity": "Common"
+      "number": "64",
+      "rarity": "common"
     },
     {
-      "number": "65",
+      "id": "breakpoint-065",
       "name": "Trevenant",
-      "rarity": "rare",
-      "filename": "065_rare_trevenant.png",
-      "original_rarity": "Rare"
+      "number": "65",
+      "rarity": "rare"
     },
     {
-      "number": "66",
+      "id": "breakpoint-066",
       "name": "Trevenant BREAK",
-      "rarity": "rare_break",
-      "filename": "066_rare_break_trevenant_break.png",
-      "original_rarity": "Rare BREAK"
+      "number": "66",
+      "rarity": "rare break"
     },
     {
-      "number": "67",
+      "id": "breakpoint-067",
       "name": "Sudowoodo",
-      "rarity": "uncommon",
-      "filename": "067_uncommon_sudowoodo.png",
-      "original_rarity": "Uncommon"
+      "number": "67",
+      "rarity": "uncommon"
     },
     {
-      "number": "68",
+      "id": "breakpoint-068",
       "name": "Gible",
-      "rarity": "common",
-      "filename": "068_common_gible.png",
-      "original_rarity": "Common"
+      "number": "68",
+      "rarity": "common"
     },
     {
-      "number": "69",
+      "id": "breakpoint-069",
       "name": "Gabite",
-      "rarity": "uncommon",
-      "filename": "069_uncommon_gabite.png",
-      "original_rarity": "Uncommon"
+      "number": "69",
+      "rarity": "uncommon"
     },
     {
-      "number": "70",
+      "id": "breakpoint-070",
       "name": "Garchomp",
-      "rarity": "rare_holo",
-      "filename": "070_rare_holo_garchomp.png",
-      "original_rarity": "Rare Holo"
+      "number": "70",
+      "rarity": "rare holo"
     },
     {
-      "number": "71",
+      "id": "breakpoint-071",
       "name": "Pancham",
-      "rarity": "common",
-      "filename": "071_common_pancham.png",
-      "original_rarity": "Common"
+      "number": "71",
+      "rarity": "common"
     },
     {
-      "number": "72",
+      "id": "breakpoint-072",
       "name": "Nuzleaf",
-      "rarity": "uncommon",
-      "filename": "072_uncommon_nuzleaf.png",
-      "original_rarity": "Uncommon"
+      "number": "72",
+      "rarity": "uncommon"
     },
     {
-      "number": "73",
+      "id": "breakpoint-073",
       "name": "Shiftry",
-      "rarity": "rare",
-      "filename": "073_rare_shiftry.png",
-      "original_rarity": "Rare"
+      "number": "73",
+      "rarity": "rare"
     },
     {
+      "id": "breakpoint-074",
+      "name": "Darkrai-EX",
       "number": "74",
-      "name": "Darkrai-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "074_rare_holo_ex_darkrai_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "75",
+      "id": "breakpoint-075",
       "name": "Pangoro",
-      "rarity": "rare",
-      "filename": "075_rare_pangoro.png",
-      "original_rarity": "Rare"
+      "number": "75",
+      "rarity": "rare"
     },
     {
+      "id": "breakpoint-076",
+      "name": "Scizor-EX",
       "number": "76",
-      "name": "Scizor-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "076_rare_holo_ex_scizor_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
+      "id": "breakpoint-077",
+      "name": "M Scizor-EX",
       "number": "77",
-      "name": "M Scizor-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "077_rare_holo_ex_m_scizor_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "78",
+      "id": "breakpoint-078",
       "name": "Mawile",
-      "rarity": "uncommon",
-      "filename": "078_uncommon_mawile.png",
-      "original_rarity": "Uncommon"
+      "number": "78",
+      "rarity": "uncommon"
     },
     {
-      "number": "79",
+      "id": "breakpoint-079",
       "name": "Ferroseed",
-      "rarity": "common",
-      "filename": "079_common_ferroseed.png",
-      "original_rarity": "Common"
+      "number": "79",
+      "rarity": "common"
     },
     {
-      "number": "80",
+      "id": "breakpoint-080",
       "name": "Ferrothorn",
-      "rarity": "rare",
-      "filename": "080_rare_ferrothorn.png",
-      "original_rarity": "Rare"
+      "number": "80",
+      "rarity": "rare"
     },
     {
-      "number": "81",
+      "id": "breakpoint-081",
       "name": "Clefairy",
-      "rarity": "common",
-      "filename": "081_common_clefairy.png",
-      "original_rarity": "Common"
+      "number": "81",
+      "rarity": "common"
     },
     {
-      "number": "82",
+      "id": "breakpoint-082",
       "name": "Clefable",
-      "rarity": "rare",
-      "filename": "082_rare_clefable.png",
-      "original_rarity": "Rare"
+      "number": "82",
+      "rarity": "rare"
     },
     {
-      "number": "83",
+      "id": "breakpoint-083",
       "name": "Togekiss-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "083_rare_holo_ex_togekiss_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "number": "83",
+      "rarity": "rare holo ex"
     },
     {
-      "number": "84",
+      "id": "breakpoint-084",
       "name": "Spritzee",
-      "rarity": "common",
-      "filename": "084_common_spritzee.png",
-      "original_rarity": "Common"
+      "number": "84",
+      "rarity": "common"
     },
     {
-      "number": "85",
+      "id": "breakpoint-085",
       "name": "Aromatisse",
-      "rarity": "uncommon",
-      "filename": "085_uncommon_aromatisse.png",
-      "original_rarity": "Uncommon"
+      "number": "85",
+      "rarity": "uncommon"
     },
     {
-      "number": "86",
+      "id": "breakpoint-086",
       "name": "Dragalge",
-      "rarity": "rare_holo",
-      "filename": "086_rare_holo_dragalge.png",
-      "original_rarity": "Rare Holo"
+      "number": "86",
+      "rarity": "rare holo"
     },
     {
-      "number": "87",
+      "id": "breakpoint-087",
       "name": "Rattata",
-      "rarity": "common",
-      "filename": "087_common_rattata.png",
-      "original_rarity": "Common"
+      "number": "87",
+      "rarity": "common"
     },
     {
-      "number": "88",
+      "id": "breakpoint-088",
       "name": "Raticate",
-      "rarity": "rare",
-      "filename": "088_rare_raticate.png",
-      "original_rarity": "Rare"
+      "number": "88",
+      "rarity": "rare"
     },
     {
-      "number": "89",
+      "id": "breakpoint-089",
       "name": "Raticate BREAK",
-      "rarity": "rare_break",
-      "filename": "089_rare_break_raticate_break.png",
-      "original_rarity": "Rare BREAK"
+      "number": "89",
+      "rarity": "rare break"
     },
     {
-      "number": "90",
+      "id": "breakpoint-090",
       "name": "Dunsparce",
-      "rarity": "uncommon",
-      "filename": "090_uncommon_dunsparce.png",
-      "original_rarity": "Uncommon"
+      "number": "90",
+      "rarity": "uncommon"
     },
     {
-      "number": "91",
+      "id": "breakpoint-091",
       "name": "Stantler",
-      "rarity": "uncommon",
-      "filename": "091_uncommon_stantler.png",
-      "original_rarity": "Uncommon"
+      "number": "91",
+      "rarity": "uncommon"
     },
     {
+      "id": "breakpoint-092",
+      "name": "Ho-Oh-EX",
       "number": "92",
-      "name": "Ho-Oh-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "092_rare_holo_ex_ho_oh_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "93",
+      "id": "breakpoint-093",
       "name": "Glameow",
-      "rarity": "common",
-      "filename": "093_common_glameow.png",
-      "original_rarity": "Common"
+      "number": "93",
+      "rarity": "common"
     },
     {
-      "number": "94",
+      "id": "breakpoint-094",
       "name": "Purugly",
-      "rarity": "uncommon",
-      "filename": "094_uncommon_purugly.png",
-      "original_rarity": "Uncommon"
+      "number": "94",
+      "rarity": "uncommon"
     },
     {
-      "number": "95",
+      "id": "breakpoint-095",
       "name": "Furfrou",
-      "rarity": "common",
-      "filename": "095_common_furfrou.png",
-      "original_rarity": "Common"
+      "number": "95",
+      "rarity": "common"
     },
     {
-      "number": "96",
+      "id": "breakpoint-096",
       "name": "All-Night Party",
-      "rarity": "uncommon",
-      "filename": "096_uncommon_all_night_party.png",
-      "original_rarity": "Uncommon"
+      "number": "96",
+      "rarity": "uncommon"
     },
     {
-      "number": "97",
+      "id": "breakpoint-097",
       "name": "Bursting Balloon",
-      "rarity": "uncommon",
-      "filename": "097_uncommon_bursting_balloon.png",
-      "original_rarity": "Uncommon"
+      "number": "97",
+      "rarity": "uncommon"
     },
     {
+      "id": "breakpoint-098",
+      "name": "Delinquent",
       "number": "98",
-      "name": "Delinquent",
-      "rarity": "uncommon",
-      "filename": "098_uncommon_delinquent.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "breakpoint-98a",
+      "name": "Delinquent",
       "number": "98a",
-      "name": "Delinquent",
-      "rarity": "uncommon",
-      "filename": "98a_uncommon_delinquent.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "breakpoint-98b",
+      "name": "Delinquent",
       "number": "98b",
-      "name": "Delinquent",
-      "rarity": "rare_ultra",
-      "filename": "98b_rare_ultra_delinquent.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
-      "number": "99",
+      "id": "breakpoint-099",
       "name": "Fighting Fury Belt",
-      "rarity": "uncommon",
-      "filename": "099_uncommon_fighting_fury_belt.png",
-      "original_rarity": "Uncommon"
+      "number": "99",
+      "rarity": "uncommon"
     },
     {
-      "number": "100",
+      "id": "breakpoint-100",
       "name": "Great Ball",
-      "rarity": "uncommon",
-      "filename": "100_uncommon_great_ball.png",
-      "original_rarity": "Uncommon"
+      "number": "100",
+      "rarity": "uncommon"
     },
     {
-      "number": "101",
+      "id": "breakpoint-101",
       "name": "Gyarados Spirit Link",
-      "rarity": "uncommon",
-      "filename": "101_uncommon_gyarados_spirit_link.png",
-      "original_rarity": "Uncommon"
+      "number": "101",
+      "rarity": "uncommon"
     },
     {
-      "number": "102",
+      "id": "breakpoint-102",
       "name": "Max Elixir",
-      "rarity": "uncommon",
-      "filename": "102_uncommon_max_elixir.png",
-      "original_rarity": "Uncommon"
+      "number": "102",
+      "rarity": "uncommon"
     },
     {
-      "number": "103",
+      "id": "breakpoint-103",
       "name": "Max Potion",
-      "rarity": "uncommon",
-      "filename": "103_uncommon_max_potion.png",
-      "original_rarity": "Uncommon"
+      "number": "103",
+      "rarity": "uncommon"
     },
     {
-      "number": "104",
+      "id": "breakpoint-104",
       "name": "Misty's Determination",
-      "rarity": "uncommon",
-      "filename": "104_uncommon_misty_s_determination.png",
-      "original_rarity": "Uncommon"
+      "number": "104",
+      "rarity": "uncommon"
     },
     {
+      "id": "breakpoint-105",
+      "name": "Pokémon Catcher",
       "number": "105",
-      "name": "Pok\u00e9mon Catcher",
-      "rarity": "uncommon",
-      "filename": "105_uncommon_pok_mon_catcher.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "106",
+      "id": "breakpoint-106",
       "name": "Potion",
-      "rarity": "uncommon",
-      "filename": "106_uncommon_potion.png",
-      "original_rarity": "Uncommon"
+      "number": "106",
+      "rarity": "uncommon"
     },
     {
+      "id": "breakpoint-107",
+      "name": "Professor Sycamore",
       "number": "107",
-      "name": "Professor Sycamore",
-      "rarity": "uncommon",
-      "filename": "107_uncommon_professor_sycamore.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "breakpoint-107a",
+      "name": "Professor Sycamore",
       "number": "107a",
-      "name": "Professor Sycamore",
-      "rarity": "uncommon",
-      "filename": "107a_uncommon_professor_sycamore.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "108",
+      "id": "breakpoint-108",
       "name": "Psychic's Third Eye",
-      "rarity": "uncommon",
-      "filename": "108_uncommon_psychic_s_third_eye.png",
-      "original_rarity": "Uncommon"
+      "number": "108",
+      "rarity": "uncommon"
     },
     {
-      "number": "109",
+      "id": "breakpoint-109",
       "name": "Puzzle of Time",
-      "rarity": "uncommon",
-      "filename": "109_uncommon_puzzle_of_time.png",
-      "original_rarity": "Uncommon"
+      "number": "109",
+      "rarity": "uncommon"
     },
     {
-      "number": "110",
+      "id": "breakpoint-110",
       "name": "Reverse Valley",
-      "rarity": "uncommon",
-      "filename": "110_uncommon_reverse_valley.png",
-      "original_rarity": "Uncommon"
+      "number": "110",
+      "rarity": "uncommon"
     },
     {
-      "number": "111",
+      "id": "breakpoint-111",
       "name": "Scizor Spirit Link",
-      "rarity": "uncommon",
-      "filename": "111_uncommon_scizor_spirit_link.png",
-      "original_rarity": "Uncommon"
+      "number": "111",
+      "rarity": "uncommon"
     },
     {
-      "number": "112",
+      "id": "breakpoint-112",
       "name": "Tierno",
-      "rarity": "uncommon",
-      "filename": "112_uncommon_tierno.png",
-      "original_rarity": "Uncommon"
+      "number": "112",
+      "rarity": "uncommon"
     },
     {
-      "number": "113",
+      "id": "breakpoint-113",
       "name": "Splash Energy",
-      "rarity": "uncommon",
-      "filename": "113_uncommon_splash_energy.png",
-      "original_rarity": "Uncommon"
+      "number": "113",
+      "rarity": "uncommon"
     },
     {
+      "id": "breakpoint-114",
+      "name": "Gyarados-EX",
       "number": "114",
-      "name": "Gyarados-EX",
-      "rarity": "rare_ultra",
-      "filename": "114_rare_ultra_gyarados_ex.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
-      "number": "115",
+      "id": "breakpoint-115",
       "name": "M Gyarados-EX",
-      "rarity": "rare_ultra",
-      "filename": "115_rare_ultra_m_gyarados_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "115",
+      "rarity": "rare ultra"
     },
     {
-      "number": "116",
+      "id": "breakpoint-116",
       "name": "Manaphy-EX",
-      "rarity": "rare_ultra",
-      "filename": "116_rare_ultra_manaphy_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "116",
+      "rarity": "rare ultra"
     },
     {
-      "number": "117",
+      "id": "breakpoint-117",
       "name": "Espeon-EX",
-      "rarity": "rare_ultra",
-      "filename": "117_rare_ultra_espeon_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "117",
+      "rarity": "rare ultra"
     },
     {
-      "number": "118",
+      "id": "breakpoint-118",
       "name": "Darkrai-EX",
-      "rarity": "rare_ultra",
-      "filename": "118_rare_ultra_darkrai_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "118",
+      "rarity": "rare ultra"
     },
     {
-      "number": "119",
+      "id": "breakpoint-119",
       "name": "Scizor-EX",
-      "rarity": "rare_ultra",
-      "filename": "119_rare_ultra_scizor_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "119",
+      "rarity": "rare ultra"
     },
     {
-      "number": "120",
+      "id": "breakpoint-120",
       "name": "M Scizor-EX",
-      "rarity": "rare_ultra",
-      "filename": "120_rare_ultra_m_scizor_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "120",
+      "rarity": "rare ultra"
     },
     {
-      "number": "121",
+      "id": "breakpoint-121",
       "name": "Ho-Oh-EX",
-      "rarity": "rare_ultra",
-      "filename": "121_rare_ultra_ho_oh_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "121",
+      "rarity": "rare ultra"
     },
     {
-      "number": "122",
+      "id": "breakpoint-122",
       "name": "Skyla",
-      "rarity": "rare_ultra",
-      "filename": "122_rare_ultra_skyla.png",
-      "original_rarity": "Rare Ultra"
+      "number": "122",
+      "rarity": "rare ultra"
     },
     {
-      "number": "123",
+      "id": "breakpoint-123",
       "name": "Gyarados-EX",
-      "rarity": "rare_secret",
-      "filename": "123_rare_secret_gyarados_ex.png",
-      "original_rarity": "Rare Secret"
+      "number": "123",
+      "rarity": "rare secret"
     }
   ]
 }

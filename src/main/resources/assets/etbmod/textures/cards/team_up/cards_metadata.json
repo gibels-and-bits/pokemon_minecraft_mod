@@ -112,7 +112,7 @@
       "id": "team_up-019",
       "name": "Moltres",
       "number": "019",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-020",
@@ -178,7 +178,7 @@
       "id": "team_up-030",
       "name": "Gyarados",
       "number": "030",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-031",
@@ -190,7 +190,7 @@
       "id": "team_up-032",
       "name": "Articuno",
       "number": "032",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-033",
@@ -232,13 +232,13 @@
       "id": "team_up-039",
       "name": "Electrode",
       "number": "039",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-040",
       "name": "Zapdos",
       "number": "040",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-041",
@@ -310,7 +310,7 @@
       "id": "team_up-052",
       "name": "Zeraora",
       "number": "052",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-053",
@@ -454,7 +454,7 @@
       "id": "team_up-076",
       "name": "Omastar",
       "number": "076",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-077",
@@ -508,7 +508,7 @@
       "id": "team_up-085",
       "name": "Tyranitar",
       "number": "085",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-086",
@@ -526,7 +526,7 @@
       "id": "team_up-088",
       "name": "Absol",
       "number": "088",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-089",
@@ -544,7 +544,7 @@
       "id": "team_up-091",
       "name": "Zoroark",
       "number": "091",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-092",
@@ -568,7 +568,7 @@
       "id": "team_up-095",
       "name": "Yveltal",
       "number": "095",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-096",
@@ -592,7 +592,7 @@
       "id": "team_up-099",
       "name": "Jirachi",
       "number": "099",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-100",
@@ -652,7 +652,7 @@
       "id": "team_up-109",
       "name": "Aegislash",
       "number": "109",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-110",
@@ -664,7 +664,7 @@
       "id": "team_up-111",
       "name": "Alolan Ninetales",
       "number": "111",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-112",
@@ -712,7 +712,7 @@
       "id": "team_up-119",
       "name": "Dragonite",
       "number": "119",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-120",
@@ -784,19 +784,19 @@
       "id": "team_up-131",
       "name": "Lugia",
       "number": "131",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-132",
       "name": "Zangoose",
       "number": "132",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-133",
       "name": "Bill S Analysis",
       "number": "133",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-134",
@@ -838,7 +838,7 @@
       "id": "team_up-140",
       "name": "Erika S Hospitality",
       "number": "140",
-      "rarity": "rare_holo"
+      "rarity": "rare holo"
     },
     {
       "id": "team_up-141",
@@ -964,139 +964,139 @@
       "id": "team_up-159",
       "name": "Celebi Venusaur GX",
       "number": "159",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-160",
       "name": "Magikarp Wailord GX",
       "number": "160",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-161",
       "name": "Magikarp Wailord GX",
       "number": "161",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-162",
       "name": "Pikachu Zekrom GX",
       "number": "162",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-163",
       "name": "Ampharos GX",
       "number": "163",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-164",
       "name": "Gengar Mimikyu GX",
       "number": "164",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-165",
       "name": "Gengar Mimikyu GX",
       "number": "165",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-166",
       "name": "Hoopa GX",
       "number": "166",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-167",
       "name": "Incineroar GX",
       "number": "167",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-168",
       "name": "Cobalion GX",
       "number": "168",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-169",
       "name": "Latias Latios GX",
       "number": "169",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-170",
       "name": "Latias Latios GX",
       "number": "170",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-171",
       "name": "Eevee Snorlax GX",
       "number": "171",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-172",
       "name": "Brock S Grit",
       "number": "172",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-173",
       "name": "Dana",
       "number": "173",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-174",
       "name": "Erika S Hospitality",
       "number": "174",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-175",
       "name": "Evelyn",
       "number": "175",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-176",
       "name": "Ingo Emmet",
       "number": "176",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-177",
       "name": "Jasmine",
       "number": "177",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-178",
       "name": "Morgan",
       "number": "178",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-179",
       "name": "Nanu",
       "number": "179",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-180",
       "name": "Nita",
       "number": "180",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-181",
       "name": "Sabrina S Suggestion",
       "number": "181",
-      "rarity": "rare_ultra"
+      "rarity": "rare ultra"
     },
     {
       "id": "team_up-182",

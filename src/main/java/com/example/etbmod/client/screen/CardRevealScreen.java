@@ -106,18 +106,19 @@ public class CardRevealScreen extends Screen {
         // Draw current card
         Card currentCard = cards.get(currentCardIndex);
         
-        // Card dimensions - match actual card texture size (128x256)
-        // Scale up slightly for better visibility
-        int cardWidth = 192;  // 128 * 1.5
-        int cardHeight = 384; // 256 * 1.5
-        int x = (this.width - cardWidth) / 2;
-        int y = (this.height - cardHeight) / 2 - 30;
+        // Card dimensions - show the full 256x256 texture natively
+        // Cards are stored in 256x256 textures with transparent borders
+        // Display at native resolution or scaled down proportionally
+        int maxSize = Math.min(256, Math.min(this.width - 120, this.height - 180));
+        int cardSize = maxSize; // Square texture
+        int x = (this.width - cardSize) / 2;
+        int y = (this.height - cardSize) / 2 - 40;
         
         matrixStack.pushPose();
         
         // Apply scale animation
-        float centerX = x + cardWidth / 2.0f;
-        float centerY = y + cardHeight / 2.0f;
+        float centerX = x + cardSize / 2.0f;
+        float centerY = y + cardSize / 2.0f;
         matrixStack.translate(centerX, centerY, 0);
         matrixStack.scale(cardScale, cardScale, 1.0f);
         matrixStack.translate(-centerX, -centerY, 0);
@@ -130,13 +131,13 @@ public class CardRevealScreen extends Screen {
             for (int i = 0; i < 5; i++) {
                 int offset = i * 4;
                 int glowAlpha = alpha / (i + 1);
-                fill(matrixStack, x - offset, y - offset, x + cardWidth + offset, y + cardHeight + offset, 
+                fill(matrixStack, x - offset, y - offset, x + cardSize + offset, y + cardSize + offset, 
                      (glowAlpha << 24) | (glowColor & 0x00FFFFFF));
             }
         }
         
         // Draw card shadow
-        fill(matrixStack, x + 4, y + 4, x + cardWidth + 4, y + cardHeight + 4, 0x80000000);
+        fill(matrixStack, x + 4, y + 4, x + cardSize + 4, y + cardSize + 4, 0x80000000);
         
         if (revealed[currentCardIndex]) {
             // Draw card image from resources
@@ -148,14 +149,21 @@ public class CardRevealScreen extends Screen {
                     
                     // Texture is ready to render
                     // Card textures are stored in 256x256 power-of-2 textures
-                    // The card image is centered in the texture without scaling
-                    // We need to extract just the card portion
+                    // The actual card image is 128x256, centered horizontally at x=64
                     
-                    // Cards are 128x256, centered at (64, 0) in the texture
-                    int textureX = 64;  // Offset in texture where card starts (256-128)/2
-                    int textureY = 0;   // No vertical offset
-                    // Draw the entire 128x256 card from the 256x256 texture
-                    blit(matrixStack, x, y, textureX, textureY, 128, 256, 256, 256);
+                    // Draw the card portion (128x256) from the texture, scaled to display size
+                    RenderSystem.enableBlend();
+                    RenderSystem.defaultBlendFunc();
+                    RenderSystem.enableDepthTest();
+                    
+                    // The texture is 256x256 with the card filling it entirely
+                    // Draw the full texture at native resolution
+                    blit(matrixStack, 
+                         x, y,                      // Screen position
+                         cardSize, cardSize,        // Screen size (square)
+                         0.0f, 0.0f,               // UV start - full texture
+                         256, 256,                  // UV size - entire texture
+                         256, 256);                 // Total texture size
                 } catch (Exception e) {
                     // If texture loading fails, use placeholder
                     // Debug: Failed to render texture
@@ -165,41 +173,41 @@ public class CardRevealScreen extends Screen {
             
             if (texture == null) {
                 // Fallback: draw styled placeholder
-                fill(matrixStack, x, y, x + cardWidth, y + cardHeight, 0xFF2A2A3E);
-                fill(matrixStack, x + 2, y + 2, x + cardWidth - 2, y + cardHeight - 2, 0xFF35354A);
+                fill(matrixStack, x, y, x + cardSize, y + cardSize, 0xFF2A2A3E);
+                fill(matrixStack, x + 2, y + 2, x + cardSize - 2, y + cardSize - 2, 0xFF35354A);
                 
                 // Draw card info
                 drawCenteredString(matrixStack, this.font, currentCard.getName(), 
-                    x + cardWidth / 2, y + cardHeight / 2 - 30, 0xFFFFFF);
+                    x + cardSize / 2, y + cardSize / 2 - 30, 0xFFFFFF);
                     
                 // Draw rarity with special styling
                 int rarityColor = getRarityColor(currentCard.getRarity());
                 drawCenteredString(matrixStack, this.font, "★ " + currentCard.getRarity().getDisplayName() + " ★", 
-                    x + cardWidth / 2, y + cardHeight / 2, rarityColor);
+                    x + cardSize / 2, y + cardSize / 2, rarityColor);
                     
                 // Draw set name
                 drawCenteredString(matrixStack, this.font, currentCard.getSetName().toUpperCase(), 
-                    x + cardWidth / 2, y + cardHeight / 2 + 30, 0xFF888888);
+                    x + cardSize / 2, y + cardSize / 2 + 30, 0xFF888888);
             }
             
             // Draw card border based on rarity
             int borderColor = getRarityColor(currentCard.getRarity());
             // Top border
-            fill(matrixStack, x, y, x + cardWidth, y + 2, borderColor);
+            fill(matrixStack, x, y, x + cardSize, y + 2, borderColor);
             // Bottom border
-            fill(matrixStack, x, y + cardHeight - 2, x + cardWidth, y + cardHeight, borderColor);
+            fill(matrixStack, x, y + cardSize - 2, x + cardSize, y + cardSize, borderColor);
             // Left border
-            fill(matrixStack, x, y, x + 2, y + cardHeight, borderColor);
+            fill(matrixStack, x, y, x + 2, y + cardSize, borderColor);
             // Right border
-            fill(matrixStack, x + cardWidth - 2, y, x + cardWidth, y + cardHeight, borderColor);
+            fill(matrixStack, x + cardSize - 2, y, x + cardSize, y + cardSize, borderColor);
         } else {
             // Draw elegant card back
-            fillGradient(matrixStack, x, y, x + cardWidth, y + cardHeight, 0xFF1E3A8A, 0xFF312E81);
+            fillGradient(matrixStack, x, y, x + cardSize, y + cardSize, 0xFF1E3A8A, 0xFF312E81);
             // Inner pattern
-            fill(matrixStack, x + 10, y + 10, x + cardWidth - 10, y + cardHeight - 10, 0xFF1E1B4B);
+            fill(matrixStack, x + 10, y + 10, x + cardSize - 10, y + cardSize - 10, 0xFF1E1B4B);
             // Pokeball silhouette
-            int centerCardX = x + cardWidth / 2;
-            int centerCardY = y + cardHeight / 2;
+            int centerCardX = x + cardSize / 2;
+            int centerCardY = y + cardSize / 2;
             fill(matrixStack, centerCardX - 30, centerCardY - 2, centerCardX + 30, centerCardY + 2, 0xFF4C1D95);
             drawCenteredString(matrixStack, this.font, "POKEMON", 
                 centerCardX, centerCardY - 20, 0xFFFFD700);
@@ -215,11 +223,11 @@ public class CardRevealScreen extends Screen {
         // Draw progress bar at bottom
         drawProgressBar(matrixStack);
         
-        // Draw card counter
+        // Draw card counter with more spacing
         String progress = String.format("Card %d of %d", currentCardIndex + 1, cards.size());
-        drawCenteredString(matrixStack, this.font, progress, this.width / 2, y + cardHeight + 40, 0xFFFFFFFF);
+        drawCenteredString(matrixStack, this.font, progress, this.width / 2, y + cardSize + 25, 0xFFFFFFFF);
         
-        // Draw instructions
+        // Draw instructions with better spacing
         String instruction;
         if (currentCardIndex == 0 && !revealed[0]) {
             instruction = "Press SPACE to reveal";
@@ -233,45 +241,59 @@ public class CardRevealScreen extends Screen {
             }
         }
         drawCenteredString(matrixStack, this.font, instruction, 
-            this.width / 2, y + cardHeight + 60, 0xFFFFD700);
+            this.width / 2, y + cardSize + 45, 0xFFFFD700);
         
         // Draw card stack visualization on left
         drawCardStack(matrixStack);
         
         // Play celebration sound for rare last card (client-side only)
-        if (currentCardIndex == cards.size() - 1 && !celebrationPlayed && isRareCard(currentCard)) {
-            if (this.minecraft.player != null) {
+        if (currentCardIndex == cards.size() - 1 && isRareCard(currentCard)) {
+            if (!celebrationPlayed && this.minecraft.player != null) {
                 this.minecraft.player.playSound(SoundEvents.UI_TOAST_CHALLENGE_COMPLETE, 1.0F, 1.0F);
+                this.minecraft.player.displayClientMessage(
+                    new StringTextComponent("§6§l★ AWESOME PULL! ★"), true);
                 celebrationPlayed = true;
+                // Make sure card is added to inventory if it's the last card and rare
+                checkAndAddCardToInventory(currentCardIndex);
             }
+            
+            // Draw animated "AWESOME PULL!" text above the card
+            int textY = y - 30;
+            float pulse = (float)(Math.sin(System.currentTimeMillis() / 200.0) * 0.5 + 1.5);
+            matrixStack.pushPose();
+            matrixStack.translate(this.width / 2.0f, textY, 0);
+            matrixStack.scale(pulse, pulse, 1.0f);
+            drawCenteredString(matrixStack, this.font, "★ AWESOME PULL! ★", 
+                0, 0, 0xFFFFD700);
+            matrixStack.popPose();
         }
         
         super.render(matrixStack, mouseX, mouseY, partialTicks);
     }
     
     private void drawNavigationArrows(MatrixStack matrixStack) {
-        int centerY = this.height / 2;
+        int centerY = this.height / 2 - 40; // Align with card center
         
         // Left arrow (if not on first card)
         if (currentCardIndex > 0) {
-            int leftX = 50;
-            // Draw arrow shape
-            for (int i = 0; i < 20; i++) {
+            int leftX = 60; // Move in a bit
+            // Draw arrow shape with transparency
+            for (int i = 0; i < 15; i++) {
                 int width = i;
-                fill(matrixStack, leftX + i, centerY - width/2, leftX + i + 2, centerY + width/2 + 1, 0xFFFFD700);
+                fill(matrixStack, leftX + i, centerY - width/2, leftX + i + 2, centerY + width/2 + 1, 0xCCFFD700);
             }
-            drawString(matrixStack, this.font, "PREV", leftX - 5, centerY + 25, 0xFFFFD700);
+            drawString(matrixStack, this.font, "PREV", leftX - 5, centerY + 20, 0xCCFFD700);
         }
         
         // Right arrow (if not on last card)
         if (currentCardIndex < cards.size() - 1) {
-            int rightX = this.width - 70;
-            // Draw arrow shape
-            for (int i = 0; i < 20; i++) {
-                int width = 20 - i;
-                fill(matrixStack, rightX + i, centerY - width/2, rightX + i + 2, centerY + width/2 + 1, 0xFFFFD700);
+            int rightX = this.width - 80; // Move in a bit
+            // Draw arrow shape with transparency
+            for (int i = 0; i < 15; i++) {
+                int width = 15 - i;
+                fill(matrixStack, rightX + i, centerY - width/2, rightX + i + 2, centerY + width/2 + 1, 0xCCFFD700);
             }
-            drawString(matrixStack, this.font, "NEXT", rightX - 5, centerY + 25, 0xFFFFD700);
+            drawString(matrixStack, this.font, "NEXT", rightX - 5, centerY + 20, 0xCCFFD700);
         }
     }
     
@@ -442,6 +464,48 @@ public class CardRevealScreen extends Screen {
                 }
             }
         }
+    }
+    
+    @Override
+    public boolean mouseClicked(double mouseX, double mouseY, int button) {
+        // Check if clicking on navigation arrows
+        int centerY = this.height / 2;
+        
+        // Left arrow area
+        if (currentCardIndex > 0) {
+            int leftX = 50;
+            if (mouseX >= leftX - 10 && mouseX <= leftX + 30 && 
+                mouseY >= centerY - 20 && mouseY <= centerY + 40) {
+                // Simulate left key press
+                return keyPressed(GLFW.GLFW_KEY_LEFT, 0, 0);
+            }
+        }
+        
+        // Right arrow area  
+        if (currentCardIndex < cards.size() - 1) {
+            int rightX = this.width - 70;
+            if (mouseX >= rightX - 10 && mouseX <= rightX + 30 && 
+                mouseY >= centerY - 20 && mouseY <= centerY + 40) {
+                // Simulate right key press
+                return keyPressed(GLFW.GLFW_KEY_RIGHT, 0, 0);
+            }
+        }
+        
+        // Click on card to reveal (if not revealed)
+        int maxSize = Math.min(256, Math.min(this.width - 120, this.height - 180));
+        int cardSize = maxSize;
+        int cardX = (this.width - cardSize) / 2;
+        int cardY = (this.height - cardSize) / 2 - 40;
+        
+        if (mouseX >= cardX && mouseX <= cardX + cardSize &&
+            mouseY >= cardY && mouseY <= cardY + cardSize) {
+            if (!revealed[currentCardIndex]) {
+                // Simulate space key press to reveal
+                return keyPressed(GLFW.GLFW_KEY_SPACE, 0, 0);
+            }
+        }
+        
+        return super.mouseClicked(mouseX, mouseY, button);
     }
     
     @Override

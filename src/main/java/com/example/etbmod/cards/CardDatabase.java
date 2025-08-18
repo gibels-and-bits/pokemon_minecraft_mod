@@ -95,15 +95,45 @@ public class CardDatabase {
                 
                 // Build resource path for image (now using .png)
                 // Format matches actual file names: 001_common_snivy.png (all lowercase)
-                // Normalize: lowercase, remove apostrophes, underscores for spaces/special chars
-                String cleanName = name.toLowerCase()
+                // Special handling for complex names to match actual file names
+                String cleanName = name;
+                
+                // IMPORTANT: Some files keep apostrophes and accents, check both versions
+                // First try: keep special chars for cards like "Misty's", "Brock's", "Pokémon"
+                String cleanNameWithSpecial = name.toLowerCase()
+                    .replace(" ", "_")
+                    .replace("-", "_")
+                    .replace("&", "_")
+                    .replace("!", "")
+                    .replace("(", "")
+                    .replace(")", "")
+                    .replace(",", "")
+                    .replace(":", "")
+                    .replace("♀", "f")
+                    .replace("♂", "m");
+                
+                // Second try: remove all special chars
+                String cleanNameNoSpecial = name.toLowerCase()
+                    .replace("'", "")
                     .replace("'", "")
                     .replace(" ", "_")
                     .replace("-", "_")
                     .replace(".", "_")
+                    .replace("&", "and")
+                    .replace("!", "")
+                    .replace("(", "")
+                    .replace(")", "")
+                    .replace(",", "")
+                    .replace(":", "")
                     .replace("é", "e")
                     .replace("è", "e")
-                    .replace("à", "a");
+                    .replace("à", "a")
+                    .replace("♀", "f")
+                    .replace("♂", "m");
+                
+                // Use the version without special chars as default
+                cleanName = cleanNameNoSpecial;
+                
                 String imagePath = "cards/" + folderName + "/" + 
                     String.format("%03d_%s_%s.png", 
                         Integer.parseInt(number.replaceAll("[^0-9]", "")),

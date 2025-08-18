@@ -1,1155 +1,988 @@
 {
-  "set_id": "xy5",
-  "folder_name": "xy5",
-  "total_cards": 164,
   "cards": [
     {
-      "number": "1",
+      "id": "primal_clash-001",
       "name": "Weedle",
-      "rarity": "common",
-      "filename": "001_common_weedle.png",
-      "original_rarity": "Common"
+      "number": "1",
+      "rarity": "common"
     },
     {
-      "number": "2",
+      "id": "primal_clash-002",
       "name": "Kakuna",
-      "rarity": "uncommon",
-      "filename": "002_uncommon_kakuna.png",
-      "original_rarity": "Uncommon"
+      "number": "2",
+      "rarity": "uncommon"
     },
     {
-      "number": "3",
+      "id": "primal_clash-003",
       "name": "Beedrill",
-      "rarity": "rare",
-      "filename": "003_rare_beedrill.png",
-      "original_rarity": "Rare"
+      "number": "3",
+      "rarity": "rare"
     },
     {
-      "number": "4",
+      "id": "primal_clash-004",
       "name": "Tangela",
-      "rarity": "common",
-      "filename": "004_common_tangela.png",
-      "original_rarity": "Common"
+      "number": "4",
+      "rarity": "common"
     },
     {
-      "number": "5",
+      "id": "primal_clash-005",
       "name": "Tangrowth",
-      "rarity": "rare",
-      "filename": "005_rare_tangrowth.png",
-      "original_rarity": "Rare"
+      "number": "5",
+      "rarity": "rare"
     },
     {
-      "number": "6",
+      "id": "primal_clash-006",
       "name": "Treecko",
-      "rarity": "common",
-      "filename": "006_common_treecko.png",
-      "original_rarity": "Common"
+      "number": "6",
+      "rarity": "common"
     },
     {
-      "number": "7",
+      "id": "primal_clash-007",
       "name": "Grovyle",
-      "rarity": "uncommon",
-      "filename": "007_uncommon_grovyle.png",
-      "original_rarity": "Uncommon"
+      "number": "7",
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-008",
+      "name": "Sceptile",
       "number": "8",
-      "name": "Sceptile",
-      "rarity": "rare",
-      "filename": "008_rare_sceptile.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-009",
+      "name": "Sceptile",
       "number": "9",
-      "name": "Sceptile",
-      "rarity": "rare_holo",
-      "filename": "009_rare_holo_sceptile.png",
-      "original_rarity": "Rare Holo"
+      "rarity": "rare holo"
     },
     {
-      "number": "10",
+      "id": "primal_clash-010",
       "name": "Lotad",
-      "rarity": "common",
-      "filename": "010_common_lotad.png",
-      "original_rarity": "Common"
+      "number": "10",
+      "rarity": "common"
     },
     {
-      "number": "11",
+      "id": "primal_clash-011",
       "name": "Lombre",
-      "rarity": "uncommon",
-      "filename": "011_uncommon_lombre.png",
-      "original_rarity": "Uncommon"
+      "number": "11",
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-012",
+      "name": "Ludicolo",
       "number": "12",
-      "name": "Ludicolo",
-      "rarity": "rare_holo",
-      "filename": "012_rare_holo_ludicolo.png",
-      "original_rarity": "Rare Holo"
+      "rarity": "rare holo"
     },
     {
-      "number": "13",
+      "id": "primal_clash-013",
       "name": "Surskit",
-      "rarity": "common",
-      "filename": "013_common_surskit.png",
-      "original_rarity": "Common"
+      "number": "13",
+      "rarity": "common"
     },
     {
-      "number": "14",
+      "id": "primal_clash-014",
       "name": "Masquerain",
-      "rarity": "uncommon",
-      "filename": "014_uncommon_masquerain.png",
-      "original_rarity": "Uncommon"
+      "number": "14",
+      "rarity": "uncommon"
     },
     {
-      "number": "15",
+      "id": "primal_clash-015",
       "name": "Shroomish",
-      "rarity": "common",
-      "filename": "015_common_shroomish.png",
-      "original_rarity": "Common"
+      "number": "15",
+      "rarity": "common"
     },
     {
-      "number": "16",
+      "id": "primal_clash-016",
       "name": "Breloom",
-      "rarity": "rare",
-      "filename": "016_rare_breloom.png",
-      "original_rarity": "Rare"
+      "number": "16",
+      "rarity": "rare"
     },
     {
-      "number": "17",
+      "id": "primal_clash-017",
       "name": "Volbeat",
-      "rarity": "common",
-      "filename": "017_common_volbeat.png",
-      "original_rarity": "Common"
+      "number": "17",
+      "rarity": "common"
     },
     {
-      "number": "18",
+      "id": "primal_clash-018",
       "name": "Illumise",
-      "rarity": "common",
-      "filename": "018_common_illumise.png",
-      "original_rarity": "Common"
+      "number": "18",
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-019",
+      "name": "Trevenant-EX",
       "number": "19",
-      "name": "Trevenant-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "019_rare_holo_ex_trevenant_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "20",
+      "id": "primal_clash-020",
       "name": "Vulpix",
-      "rarity": "common",
-      "filename": "020_common_vulpix.png",
-      "original_rarity": "Common"
+      "number": "20",
+      "rarity": "common"
     },
     {
-      "number": "21",
+      "id": "primal_clash-021",
       "name": "Ninetales",
-      "rarity": "rare",
-      "filename": "021_rare_ninetales.png",
-      "original_rarity": "Rare"
+      "number": "21",
+      "rarity": "rare"
     },
     {
-      "number": "22",
+      "id": "primal_clash-022",
       "name": "Slugma",
-      "rarity": "common",
-      "filename": "022_common_slugma.png",
-      "original_rarity": "Common"
+      "number": "22",
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-023",
+      "name": "Magcargo",
       "number": "23",
-      "name": "Magcargo",
-      "rarity": "uncommon",
-      "filename": "023_uncommon_magcargo.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-024",
+      "name": "Magcargo",
       "number": "24",
-      "name": "Magcargo",
-      "rarity": "rare",
-      "filename": "024_rare_magcargo.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-025",
+      "name": "Torchic",
       "number": "25",
-      "name": "Torchic",
-      "rarity": "common",
-      "filename": "025_common_torchic.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-026",
+      "name": "Torchic",
       "number": "26",
-      "name": "Torchic",
-      "rarity": "uncommon",
-      "filename": "026_uncommon_torchic.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "27",
+      "id": "primal_clash-027",
       "name": "Combusken",
-      "rarity": "uncommon",
-      "filename": "027_uncommon_combusken.png",
-      "original_rarity": "Uncommon"
+      "number": "27",
+      "rarity": "uncommon"
     },
     {
-      "number": "28",
+      "id": "primal_clash-028",
       "name": "Blaziken",
-      "rarity": "rare_holo",
-      "filename": "028_rare_holo_blaziken.png",
-      "original_rarity": "Rare Holo"
+      "number": "28",
+      "rarity": "rare holo"
     },
     {
+      "id": "primal_clash-029",
+      "name": "Camerupt-EX",
       "number": "29",
-      "name": "Camerupt-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "029_rare_holo_ex_camerupt_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "30",
+      "id": "primal_clash-030",
       "name": "Horsea",
-      "rarity": "common",
-      "filename": "030_common_horsea.png",
-      "original_rarity": "Common"
+      "number": "30",
+      "rarity": "common"
     },
     {
-      "number": "31",
+      "id": "primal_clash-031",
       "name": "Seadra",
-      "rarity": "uncommon",
-      "filename": "031_uncommon_seadra.png",
-      "original_rarity": "Uncommon"
+      "number": "31",
+      "rarity": "uncommon"
     },
     {
-      "number": "32",
+      "id": "primal_clash-032",
       "name": "Staryu",
-      "rarity": "common",
-      "filename": "032_common_staryu.png",
-      "original_rarity": "Common"
+      "number": "32",
+      "rarity": "common"
     },
     {
-      "number": "33",
+      "id": "primal_clash-033",
       "name": "Mudkip",
-      "rarity": "common",
-      "filename": "033_common_mudkip.png",
-      "original_rarity": "Common"
+      "number": "33",
+      "rarity": "common"
     },
     {
-      "number": "34",
+      "id": "primal_clash-034",
       "name": "Marshtomp",
-      "rarity": "uncommon",
-      "filename": "034_uncommon_marshtomp.png",
-      "original_rarity": "Uncommon"
+      "number": "34",
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-035",
+      "name": "Swampert",
       "number": "35",
-      "name": "Swampert",
-      "rarity": "rare",
-      "filename": "035_rare_swampert.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-036",
+      "name": "Swampert",
       "number": "36",
-      "name": "Swampert",
-      "rarity": "rare_holo",
-      "filename": "036_rare_holo_swampert.png",
-      "original_rarity": "Rare Holo"
+      "rarity": "rare holo"
     },
     {
-      "number": "37",
+      "id": "primal_clash-037",
       "name": "Ludicolo",
-      "rarity": "rare",
-      "filename": "037_rare_ludicolo.png",
-      "original_rarity": "Rare"
+      "number": "37",
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-038",
+      "name": "Wailord-EX",
       "number": "38",
-      "name": "Wailord-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "038_rare_holo_ex_wailord_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "39",
+      "id": "primal_clash-039",
       "name": "Barboach",
-      "rarity": "common",
-      "filename": "039_common_barboach.png",
-      "original_rarity": "Common"
+      "number": "39",
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-040",
+      "name": "Whiscash",
       "number": "40",
-      "name": "Whiscash",
-      "rarity": "uncommon",
-      "filename": "040_uncommon_whiscash.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-041",
+      "name": "Whiscash",
       "number": "41",
-      "name": "Whiscash",
-      "rarity": "rare",
-      "filename": "041_rare_whiscash.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
-      "number": "42",
+      "id": "primal_clash-042",
       "name": "Corphish",
-      "rarity": "common",
-      "filename": "042_common_corphish.png",
-      "original_rarity": "Common"
+      "number": "42",
+      "rarity": "common"
     },
     {
-      "number": "43",
+      "id": "primal_clash-043",
       "name": "Feebas",
-      "rarity": "common",
-      "filename": "043_common_feebas.png",
-      "original_rarity": "Common"
+      "number": "43",
+      "rarity": "common"
     },
     {
-      "number": "44",
+      "id": "primal_clash-044",
       "name": "Milotic",
-      "rarity": "rare_holo",
-      "filename": "044_rare_holo_milotic.png",
-      "original_rarity": "Rare Holo"
+      "number": "44",
+      "rarity": "rare holo"
     },
     {
+      "id": "primal_clash-045",
+      "name": "Spheal",
       "number": "45",
-      "name": "Spheal",
-      "rarity": "common",
-      "filename": "045_common_spheal.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-046",
+      "name": "Spheal",
       "number": "46",
-      "name": "Spheal",
-      "rarity": "common",
-      "filename": "046_common_spheal.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
-      "number": "47",
+      "id": "primal_clash-047",
       "name": "Sealeo",
-      "rarity": "uncommon",
-      "filename": "047_uncommon_sealeo.png",
-      "original_rarity": "Uncommon"
+      "number": "47",
+      "rarity": "uncommon"
     },
     {
-      "number": "48",
+      "id": "primal_clash-048",
       "name": "Walrein",
-      "rarity": "rare",
-      "filename": "048_rare_walrein.png",
-      "original_rarity": "Rare"
+      "number": "48",
+      "rarity": "rare"
     },
     {
-      "number": "49",
+      "id": "primal_clash-049",
       "name": "Clamperl",
-      "rarity": "common",
-      "filename": "049_common_clamperl.png",
-      "original_rarity": "Common"
+      "number": "49",
+      "rarity": "common"
     },
     {
-      "number": "50",
+      "id": "primal_clash-050",
       "name": "Huntail",
-      "rarity": "rare_holo",
-      "filename": "050_rare_holo_huntail.png",
-      "original_rarity": "Rare Holo"
+      "number": "50",
+      "rarity": "rare holo"
     },
     {
+      "id": "primal_clash-051",
+      "name": "Gorebyss",
       "number": "51",
-      "name": "Gorebyss",
-      "rarity": "uncommon",
-      "filename": "051_uncommon_gorebyss.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-052",
+      "name": "Gorebyss",
       "number": "52",
-      "name": "Gorebyss",
-      "rarity": "rare",
-      "filename": "052_rare_gorebyss.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
-      "number": "53",
+      "id": "primal_clash-053",
       "name": "Kyogre",
-      "rarity": "rare",
-      "filename": "053_rare_kyogre.png",
-      "original_rarity": "Rare"
+      "number": "53",
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-054",
+      "name": "Kyogre-EX",
       "number": "54",
-      "name": "Kyogre-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "054_rare_holo_ex_kyogre_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
+      "id": "primal_clash-055",
+      "name": "Primal Kyogre-EX",
       "number": "55",
-      "name": "Primal Kyogre-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "055_rare_holo_ex_primal_kyogre_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "56",
+      "id": "primal_clash-056",
       "name": "Manaphy",
-      "rarity": "rare_holo",
-      "filename": "056_rare_holo_manaphy.png",
-      "original_rarity": "Rare Holo"
+      "number": "56",
+      "rarity": "rare holo"
     },
     {
-      "number": "57",
+      "id": "primal_clash-057",
       "name": "Chinchou",
-      "rarity": "common",
-      "filename": "057_common_chinchou.png",
-      "original_rarity": "Common"
+      "number": "57",
+      "rarity": "common"
     },
     {
-      "number": "58",
+      "id": "primal_clash-058",
       "name": "Lanturn",
-      "rarity": "uncommon",
-      "filename": "058_uncommon_lanturn.png",
-      "original_rarity": "Uncommon"
+      "number": "58",
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-059",
+      "name": "Electrike",
       "number": "59",
-      "name": "Electrike",
-      "rarity": "common",
-      "filename": "059_common_electrike.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-060",
+      "name": "Electrike",
       "number": "60",
-      "name": "Electrike",
-      "rarity": "uncommon",
-      "filename": "060_uncommon_electrike.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "61",
+      "id": "primal_clash-061",
       "name": "Manectric",
-      "rarity": "rare_holo",
-      "filename": "061_rare_holo_manectric.png",
-      "original_rarity": "Rare Holo"
+      "number": "61",
+      "rarity": "rare holo"
     },
     {
-      "number": "62",
+      "id": "primal_clash-062",
       "name": "Tynamo",
-      "rarity": "common",
-      "filename": "062_common_tynamo.png",
-      "original_rarity": "Common"
+      "number": "62",
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-063",
+      "name": "Eelektrik",
       "number": "63",
-      "name": "Eelektrik",
-      "rarity": "uncommon",
-      "filename": "063_uncommon_eelektrik.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-064",
+      "name": "Eelektrik",
       "number": "64",
-      "name": "Eelektrik",
-      "rarity": "rare",
-      "filename": "064_rare_eelektrik.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
-      "number": "65",
+      "id": "primal_clash-065",
       "name": "Eelektross",
-      "rarity": "rare_holo",
-      "filename": "065_rare_holo_eelektross.png",
-      "original_rarity": "Rare Holo"
+      "number": "65",
+      "rarity": "rare holo"
     },
     {
+      "id": "primal_clash-066",
+      "name": "Nidoran ♀",
       "number": "66",
-      "name": "Nidoran \u2640",
-      "rarity": "common",
-      "filename": "066_common_nidoran.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
-      "number": "67",
+      "id": "primal_clash-067",
       "name": "Nidorina",
-      "rarity": "uncommon",
-      "filename": "067_uncommon_nidorina.png",
-      "original_rarity": "Uncommon"
+      "number": "67",
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-068",
+      "name": "Nidoqueen",
       "number": "68",
-      "name": "Nidoqueen",
-      "rarity": "uncommon",
-      "filename": "068_uncommon_nidoqueen.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-069",
+      "name": "Nidoqueen",
       "number": "69",
-      "name": "Nidoqueen",
-      "rarity": "rare",
-      "filename": "069_rare_nidoqueen.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-070",
+      "name": "Tentacool",
       "number": "70",
-      "name": "Tentacool",
-      "rarity": "common",
-      "filename": "070_common_tentacool.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-071",
+      "name": "Tentacool",
       "number": "71",
-      "name": "Tentacool",
-      "rarity": "uncommon",
-      "filename": "071_uncommon_tentacool.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "72",
+      "id": "primal_clash-072",
       "name": "Tentacruel",
-      "rarity": "rare",
-      "filename": "072_rare_tentacruel.png",
-      "original_rarity": "Rare"
+      "number": "72",
+      "rarity": "rare"
     },
     {
-      "number": "73",
+      "id": "primal_clash-073",
       "name": "Starmie",
-      "rarity": "rare",
-      "filename": "073_rare_starmie.png",
-      "original_rarity": "Rare"
+      "number": "73",
+      "rarity": "rare"
     },
     {
-      "number": "74",
+      "id": "primal_clash-074",
       "name": "Rhyhorn",
-      "rarity": "common",
-      "filename": "074_common_rhyhorn.png",
-      "original_rarity": "Common"
+      "number": "74",
+      "rarity": "common"
     },
     {
-      "number": "75",
+      "id": "primal_clash-075",
       "name": "Rhydon",
-      "rarity": "uncommon",
-      "filename": "075_uncommon_rhydon.png",
-      "original_rarity": "Uncommon"
+      "number": "75",
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-076",
+      "name": "Rhyperior",
       "number": "76",
-      "name": "Rhyperior",
-      "rarity": "rare",
-      "filename": "076_rare_rhyperior.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-077",
+      "name": "Rhyperior",
       "number": "77",
-      "name": "Rhyperior",
-      "rarity": "rare_holo",
-      "filename": "077_rare_holo_rhyperior.png",
-      "original_rarity": "Rare Holo"
+      "rarity": "rare holo"
     },
     {
-      "number": "78",
+      "id": "primal_clash-078",
       "name": "Nosepass",
-      "rarity": "common",
-      "filename": "078_common_nosepass.png",
-      "original_rarity": "Common"
+      "number": "78",
+      "rarity": "common"
     },
     {
-      "number": "79",
+      "id": "primal_clash-079",
       "name": "Meditite",
-      "rarity": "common",
-      "filename": "079_common_meditite.png",
-      "original_rarity": "Common"
+      "number": "79",
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-080",
+      "name": "Medicham",
       "number": "80",
-      "name": "Medicham",
-      "rarity": "rare_holo",
-      "filename": "080_rare_holo_medicham.png",
-      "original_rarity": "Rare Holo"
+      "rarity": "rare holo"
     },
     {
+      "id": "primal_clash-081",
+      "name": "Medicham",
       "number": "81",
-      "name": "Medicham",
-      "rarity": "rare",
-      "filename": "081_rare_medicham.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
-      "number": "82",
+      "id": "primal_clash-082",
       "name": "Trapinch",
-      "rarity": "common",
-      "filename": "082_common_trapinch.png",
-      "original_rarity": "Common"
+      "number": "82",
+      "rarity": "common"
     },
     {
-      "number": "83",
+      "id": "primal_clash-083",
       "name": "Solrock",
-      "rarity": "common",
-      "filename": "083_common_solrock.png",
-      "original_rarity": "Common"
+      "number": "83",
+      "rarity": "common"
     },
     {
-      "number": "84",
+      "id": "primal_clash-084",
       "name": "Groudon",
-      "rarity": "rare",
-      "filename": "084_rare_groudon.png",
-      "original_rarity": "Rare"
+      "number": "84",
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-085",
+      "name": "Groudon-EX",
       "number": "85",
-      "name": "Groudon-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "085_rare_holo_ex_groudon_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
+      "id": "primal_clash-086",
+      "name": "Primal Groudon-EX",
       "number": "86",
-      "name": "Primal Groudon-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "086_rare_holo_ex_primal_groudon_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "87",
+      "id": "primal_clash-087",
       "name": "Hippopotas",
-      "rarity": "common",
-      "filename": "087_common_hippopotas.png",
-      "original_rarity": "Common"
+      "number": "87",
+      "rarity": "common"
     },
     {
-      "number": "88",
+      "id": "primal_clash-088",
       "name": "Hippowdon",
-      "rarity": "rare_holo",
-      "filename": "088_rare_holo_hippowdon.png",
-      "original_rarity": "Rare Holo"
+      "number": "88",
+      "rarity": "rare holo"
     },
     {
-      "number": "89",
+      "id": "primal_clash-089",
       "name": "Drilbur",
-      "rarity": "common",
-      "filename": "089_common_drilbur.png",
-      "original_rarity": "Common"
+      "number": "89",
+      "rarity": "common"
     },
     {
-      "number": "90",
+      "id": "primal_clash-090",
       "name": "Diggersby",
-      "rarity": "rare",
-      "filename": "090_rare_diggersby.png",
-      "original_rarity": "Rare"
+      "number": "90",
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-091",
+      "name": "Sharpedo-EX",
       "number": "91",
-      "name": "Sharpedo-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "091_rare_holo_ex_sharpedo_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "92",
+      "id": "primal_clash-092",
       "name": "Crawdaunt",
-      "rarity": "rare_holo",
-      "filename": "092_rare_holo_crawdaunt.png",
-      "original_rarity": "Rare Holo"
+      "number": "92",
+      "rarity": "rare holo"
     },
     {
+      "id": "primal_clash-093",
+      "name": "Aggron-EX",
       "number": "93",
-      "name": "Aggron-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "093_rare_holo_ex_aggron_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
+      "id": "primal_clash-094",
+      "name": "M Aggron-EX",
       "number": "94",
-      "name": "M Aggron-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "094_rare_holo_ex_m_aggron_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
-      "number": "95",
+      "id": "primal_clash-095",
       "name": "Probopass",
-      "rarity": "rare",
-      "filename": "095_rare_probopass.png",
-      "original_rarity": "Rare"
+      "number": "95",
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-096",
+      "name": "Excadrill",
       "number": "96",
-      "name": "Excadrill",
-      "rarity": "rare",
-      "filename": "096_rare_excadrill.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-097",
+      "name": "Excadrill",
       "number": "97",
-      "name": "Excadrill",
-      "rarity": "rare_holo",
-      "filename": "097_rare_holo_excadrill.png",
-      "original_rarity": "Rare Holo"
+      "rarity": "rare holo"
     },
     {
-      "number": "98",
+      "id": "primal_clash-098",
       "name": "Honedge",
-      "rarity": "common",
-      "filename": "098_common_honedge.png",
-      "original_rarity": "Common"
+      "number": "98",
+      "rarity": "common"
     },
     {
-      "number": "99",
+      "id": "primal_clash-099",
       "name": "Doublade",
-      "rarity": "uncommon",
-      "filename": "099_uncommon_doublade.png",
-      "original_rarity": "Uncommon"
+      "number": "99",
+      "rarity": "uncommon"
     },
     {
-      "number": "100",
+      "id": "primal_clash-100",
       "name": "Aegislash",
-      "rarity": "rare_holo",
-      "filename": "100_rare_holo_aegislash.png",
-      "original_rarity": "Rare Holo"
+      "number": "100",
+      "rarity": "rare holo"
     },
     {
-      "number": "101",
+      "id": "primal_clash-101",
       "name": "Mr. Mime",
-      "rarity": "uncommon",
-      "filename": "101_uncommon_mr_mime.png",
-      "original_rarity": "Uncommon"
+      "number": "101",
+      "rarity": "uncommon"
     },
     {
-      "number": "102",
+      "id": "primal_clash-102",
       "name": "Marill",
-      "rarity": "common",
-      "filename": "102_common_marill.png",
-      "original_rarity": "Common"
+      "number": "102",
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-103",
+      "name": "Azumarill",
       "number": "103",
-      "name": "Azumarill",
-      "rarity": "rare",
-      "filename": "103_rare_azumarill.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-104",
+      "name": "Azumarill",
       "number": "104",
-      "name": "Azumarill",
-      "rarity": "rare_holo",
-      "filename": "104_rare_holo_azumarill.png",
-      "original_rarity": "Rare Holo"
+      "rarity": "rare holo"
     },
     {
+      "id": "primal_clash-105",
+      "name": "Gardevoir-EX",
       "number": "105",
-      "name": "Gardevoir-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "105_rare_holo_ex_gardevoir_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
+      "id": "primal_clash-106",
+      "name": "M Gardevoir-EX",
       "number": "106",
-      "name": "M Gardevoir-EX",
-      "rarity": "rare_holo_ex",
-      "filename": "106_rare_holo_ex_m_gardevoir_ex.png",
-      "original_rarity": "Rare Holo EX"
+      "rarity": "rare holo ex"
     },
     {
+      "id": "primal_clash-107",
+      "name": "Kingdra",
       "number": "107",
-      "name": "Kingdra",
-      "rarity": "rare",
-      "filename": "107_rare_kingdra.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
+      "id": "primal_clash-108",
+      "name": "Kingdra",
       "number": "108",
-      "name": "Kingdra",
-      "rarity": "rare_holo",
-      "filename": "108_rare_holo_kingdra.png",
-      "original_rarity": "Rare Holo"
+      "rarity": "rare holo"
     },
     {
-      "number": "109",
+      "id": "primal_clash-109",
       "name": "Vibrava",
-      "rarity": "uncommon",
-      "filename": "109_uncommon_vibrava.png",
-      "original_rarity": "Uncommon"
+      "number": "109",
+      "rarity": "uncommon"
     },
     {
-      "number": "110",
+      "id": "primal_clash-110",
       "name": "Flygon",
-      "rarity": "rare_holo",
-      "filename": "110_rare_holo_flygon.png",
-      "original_rarity": "Rare Holo"
+      "number": "110",
+      "rarity": "rare holo"
     },
     {
-      "number": "111",
+      "id": "primal_clash-111",
       "name": "Zigzagoon",
-      "rarity": "common",
-      "filename": "111_common_zigzagoon.png",
-      "original_rarity": "Common"
+      "number": "111",
+      "rarity": "common"
     },
     {
-      "number": "112",
+      "id": "primal_clash-112",
       "name": "Linoone",
-      "rarity": "uncommon",
-      "filename": "112_uncommon_linoone.png",
-      "original_rarity": "Uncommon"
+      "number": "112",
+      "rarity": "uncommon"
     },
     {
-      "number": "113",
+      "id": "primal_clash-113",
       "name": "Skitty",
-      "rarity": "common",
-      "filename": "113_common_skitty.png",
-      "original_rarity": "Common"
+      "number": "113",
+      "rarity": "common"
     },
     {
-      "number": "114",
+      "id": "primal_clash-114",
       "name": "Delcatty",
-      "rarity": "rare",
-      "filename": "114_rare_delcatty.png",
-      "original_rarity": "Rare"
+      "number": "114",
+      "rarity": "rare"
     },
     {
-      "number": "115",
+      "id": "primal_clash-115",
       "name": "Spinda",
-      "rarity": "common",
-      "filename": "115_common_spinda.png",
-      "original_rarity": "Common"
+      "number": "115",
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-116",
+      "name": "Bidoof",
       "number": "116",
-      "name": "Bidoof",
-      "rarity": "common",
-      "filename": "116_common_bidoof.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-117",
+      "name": "Bidoof",
       "number": "117",
-      "name": "Bidoof",
-      "rarity": "uncommon",
-      "filename": "117_uncommon_bidoof.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "118",
+      "id": "primal_clash-118",
       "name": "Bibarel",
-      "rarity": "uncommon",
-      "filename": "118_uncommon_bibarel.png",
-      "original_rarity": "Uncommon"
+      "number": "118",
+      "rarity": "uncommon"
     },
     {
-      "number": "119",
+      "id": "primal_clash-119",
       "name": "Bouffalant",
-      "rarity": "uncommon",
-      "filename": "119_uncommon_bouffalant.png",
-      "original_rarity": "Uncommon"
+      "number": "119",
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-120",
+      "name": "Bunnelby",
       "number": "120",
-      "name": "Bunnelby",
-      "rarity": "common",
-      "filename": "120_common_bunnelby.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
+      "id": "primal_clash-121",
+      "name": "Bunnelby",
       "number": "121",
-      "name": "Bunnelby",
-      "rarity": "uncommon",
-      "filename": "121_uncommon_bunnelby.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "122",
+      "id": "primal_clash-122",
       "name": "Acro Bike",
-      "rarity": "uncommon",
-      "filename": "122_uncommon_acro_bike.png",
-      "original_rarity": "Uncommon"
+      "number": "122",
+      "rarity": "uncommon"
     },
     {
-      "number": "123",
+      "id": "primal_clash-123",
       "name": "Aggron Spirit Link",
-      "rarity": "uncommon",
-      "filename": "123_uncommon_aggron_spirit_link.png",
-      "original_rarity": "Uncommon"
+      "number": "123",
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-124",
+      "name": "Archie's Ace in the Hole",
       "number": "124",
-      "name": "Archie's Ace in the Hole",
-      "rarity": "uncommon",
-      "filename": "124_uncommon_archie_s_ace_in_the_hole.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-125",
+      "name": "Dive Ball",
       "number": "125",
-      "name": "Dive Ball",
-      "rarity": "uncommon",
-      "filename": "125_uncommon_dive_ball.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "126",
+      "id": "primal_clash-126",
       "name": "Energy Retrieval",
-      "rarity": "uncommon",
-      "filename": "126_uncommon_energy_retrieval.png",
-      "original_rarity": "Uncommon"
+      "number": "126",
+      "rarity": "uncommon"
     },
     {
-      "number": "127",
+      "id": "primal_clash-127",
       "name": "Escape Rope",
-      "rarity": "uncommon",
-      "filename": "127_uncommon_escape_rope.png",
-      "original_rarity": "Uncommon"
+      "number": "127",
+      "rarity": "uncommon"
     },
     {
-      "number": "128",
+      "id": "primal_clash-128",
       "name": "Exp. Share",
-      "rarity": "uncommon",
-      "filename": "128_uncommon_exp_share.png",
-      "original_rarity": "Uncommon"
+      "number": "128",
+      "rarity": "uncommon"
     },
     {
-      "number": "129",
+      "id": "primal_clash-129",
       "name": "Fresh Water Set",
-      "rarity": "uncommon",
-      "filename": "129_uncommon_fresh_water_set.png",
-      "original_rarity": "Uncommon"
+      "number": "129",
+      "rarity": "uncommon"
     },
     {
-      "number": "130",
+      "id": "primal_clash-130",
       "name": "Gardevoir Spirit Link",
-      "rarity": "uncommon",
-      "filename": "130_uncommon_gardevoir_spirit_link.png",
-      "original_rarity": "Uncommon"
+      "number": "130",
+      "rarity": "uncommon"
     },
     {
-      "number": "131",
+      "id": "primal_clash-131",
       "name": "Groudon Spirit Link",
-      "rarity": "uncommon",
-      "filename": "131_uncommon_groudon_spirit_link.png",
-      "original_rarity": "Uncommon"
+      "number": "131",
+      "rarity": "uncommon"
     },
     {
-      "number": "132",
+      "id": "primal_clash-132",
       "name": "Kyogre Spirit Link",
-      "rarity": "uncommon",
-      "filename": "132_uncommon_kyogre_spirit_link.png",
-      "original_rarity": "Uncommon"
+      "number": "132",
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-133",
+      "name": "Maxie's Hidden Ball Trick",
       "number": "133",
-      "name": "Maxie's Hidden Ball Trick",
-      "rarity": "uncommon",
-      "filename": "133_uncommon_maxie_s_hidden_ball_trick.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-134",
+      "name": "Professor Birch's Observations",
       "number": "134",
-      "name": "Professor Birch's Observations",
-      "rarity": "uncommon",
-      "filename": "134_uncommon_professor_birch_s_observations.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "135",
+      "id": "primal_clash-135",
       "name": "Rare Candy",
-      "rarity": "uncommon",
-      "filename": "135_uncommon_rare_candy.png",
-      "original_rarity": "Uncommon"
+      "number": "135",
+      "rarity": "uncommon"
     },
     {
-      "number": "136",
+      "id": "primal_clash-136",
       "name": "Repeat Ball",
-      "rarity": "uncommon",
-      "filename": "136_uncommon_repeat_ball.png",
-      "original_rarity": "Uncommon"
+      "number": "136",
+      "rarity": "uncommon"
     },
     {
-      "number": "137",
+      "id": "primal_clash-137",
       "name": "Rough Seas",
-      "rarity": "uncommon",
-      "filename": "137_uncommon_rough_seas.png",
-      "original_rarity": "Uncommon"
+      "number": "137",
+      "rarity": "uncommon"
     },
     {
-      "number": "138",
+      "id": "primal_clash-138",
       "name": "Scorched Earth",
-      "rarity": "uncommon",
-      "filename": "138_uncommon_scorched_earth.png",
-      "original_rarity": "Uncommon"
+      "number": "138",
+      "rarity": "uncommon"
     },
     {
-      "number": "139",
+      "id": "primal_clash-139",
       "name": "Shrine of Memories",
-      "rarity": "uncommon",
-      "filename": "139_uncommon_shrine_of_memories.png",
-      "original_rarity": "Uncommon"
+      "number": "139",
+      "rarity": "uncommon"
     },
     {
-      "number": "140",
+      "id": "primal_clash-140",
       "name": "Silent Lab",
-      "rarity": "uncommon",
-      "filename": "140_uncommon_silent_lab.png",
-      "original_rarity": "Uncommon"
+      "number": "140",
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-141",
+      "name": "Teammates",
       "number": "141",
-      "name": "Teammates",
-      "rarity": "uncommon",
-      "filename": "141_uncommon_teammates.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "primal_clash-142",
+      "name": "Weakness Policy",
       "number": "142",
-      "name": "Weakness Policy",
-      "rarity": "uncommon",
-      "filename": "142_uncommon_weakness_policy.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "143",
+      "id": "primal_clash-143",
       "name": "Shield Energy",
-      "rarity": "uncommon",
-      "filename": "143_uncommon_shield_energy.png",
-      "original_rarity": "Uncommon"
+      "number": "143",
+      "rarity": "uncommon"
     },
     {
-      "number": "144",
+      "id": "primal_clash-144",
       "name": "Wonder Energy",
-      "rarity": "uncommon",
-      "filename": "144_uncommon_wonder_energy.png",
-      "original_rarity": "Uncommon"
+      "number": "144",
+      "rarity": "uncommon"
     },
     {
-      "number": "145",
+      "id": "primal_clash-145",
       "name": "Trevenant-EX",
-      "rarity": "rare_ultra",
-      "filename": "145_rare_ultra_trevenant_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "145",
+      "rarity": "rare ultra"
     },
     {
-      "number": "146",
+      "id": "primal_clash-146",
       "name": "Camerupt-EX",
-      "rarity": "rare_ultra",
-      "filename": "146_rare_ultra_camerupt_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "146",
+      "rarity": "rare ultra"
     },
     {
-      "number": "147",
+      "id": "primal_clash-147",
       "name": "Wailord-EX",
-      "rarity": "rare_ultra",
-      "filename": "147_rare_ultra_wailord_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "147",
+      "rarity": "rare ultra"
     },
     {
-      "number": "148",
+      "id": "primal_clash-148",
       "name": "Kyogre-EX",
-      "rarity": "rare_ultra",
-      "filename": "148_rare_ultra_kyogre_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "148",
+      "rarity": "rare ultra"
     },
     {
-      "number": "149",
+      "id": "primal_clash-149",
       "name": "Primal Kyogre-EX",
-      "rarity": "rare_ultra",
-      "filename": "149_rare_ultra_primal_kyogre_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "149",
+      "rarity": "rare ultra"
     },
     {
-      "number": "150",
+      "id": "primal_clash-150",
       "name": "Groudon-EX",
-      "rarity": "rare_ultra",
-      "filename": "150_rare_ultra_groudon_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "150",
+      "rarity": "rare ultra"
     },
     {
-      "number": "151",
+      "id": "primal_clash-151",
       "name": "Primal Groudon-EX",
-      "rarity": "rare_ultra",
-      "filename": "151_rare_ultra_primal_groudon_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "151",
+      "rarity": "rare ultra"
     },
     {
-      "number": "152",
+      "id": "primal_clash-152",
       "name": "Sharpedo-EX",
-      "rarity": "rare_ultra",
-      "filename": "152_rare_ultra_sharpedo_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "152",
+      "rarity": "rare ultra"
     },
     {
-      "number": "153",
+      "id": "primal_clash-153",
       "name": "Aggron-EX",
-      "rarity": "rare_ultra",
-      "filename": "153_rare_ultra_aggron_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "153",
+      "rarity": "rare ultra"
     },
     {
-      "number": "154",
+      "id": "primal_clash-154",
       "name": "M Aggron-EX",
-      "rarity": "rare_ultra",
-      "filename": "154_rare_ultra_m_aggron_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "154",
+      "rarity": "rare ultra"
     },
     {
-      "number": "155",
+      "id": "primal_clash-155",
       "name": "Gardevoir-EX",
-      "rarity": "rare_ultra",
-      "filename": "155_rare_ultra_gardevoir_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "155",
+      "rarity": "rare ultra"
     },
     {
-      "number": "156",
+      "id": "primal_clash-156",
       "name": "M Gardevoir-EX",
-      "rarity": "rare_ultra",
-      "filename": "156_rare_ultra_m_gardevoir_ex.png",
-      "original_rarity": "Rare Ultra"
+      "number": "156",
+      "rarity": "rare ultra"
     },
     {
-      "number": "157",
+      "id": "primal_clash-157",
       "name": "Archie's Ace in the Hole",
-      "rarity": "rare_ultra",
-      "filename": "157_rare_ultra_archie_s_ace_in_the_hole.png",
-      "original_rarity": "Rare Ultra"
+      "number": "157",
+      "rarity": "rare ultra"
     },
     {
-      "number": "158",
+      "id": "primal_clash-158",
       "name": "Maxie's Hidden Ball Trick",
-      "rarity": "rare_ultra",
-      "filename": "158_rare_ultra_maxie_s_hidden_ball_trick.png",
-      "original_rarity": "Rare Ultra"
+      "number": "158",
+      "rarity": "rare ultra"
     },
     {
-      "number": "159",
+      "id": "primal_clash-159",
       "name": "Professor Birch's Observations",
-      "rarity": "rare_ultra",
-      "filename": "159_rare_ultra_professor_birch_s_observations.png",
-      "original_rarity": "Rare Ultra"
+      "number": "159",
+      "rarity": "rare ultra"
     },
     {
-      "number": "160",
+      "id": "primal_clash-160",
       "name": "Teammates",
-      "rarity": "rare_ultra",
-      "filename": "160_rare_ultra_teammates.png",
-      "original_rarity": "Rare Ultra"
+      "number": "160",
+      "rarity": "rare ultra"
     },
     {
-      "number": "161",
+      "id": "primal_clash-161",
       "name": "Dive Ball",
-      "rarity": "rare_secret",
-      "filename": "161_rare_secret_dive_ball.png",
-      "original_rarity": "Rare Secret"
+      "number": "161",
+      "rarity": "rare secret"
     },
     {
-      "number": "162",
+      "id": "primal_clash-162",
       "name": "Enhanced Hammer",
-      "rarity": "rare_secret",
-      "filename": "162_rare_secret_enhanced_hammer.png",
-      "original_rarity": "Rare Secret"
+      "number": "162",
+      "rarity": "rare secret"
     },
     {
-      "number": "163",
+      "id": "primal_clash-163",
       "name": "Switch",
-      "rarity": "rare_secret",
-      "filename": "163_rare_secret_switch.png",
-      "original_rarity": "Rare Secret"
+      "number": "163",
+      "rarity": "rare secret"
     },
     {
-      "number": "164",
+      "id": "primal_clash-164",
       "name": "Weakness Policy",
-      "rarity": "rare_secret",
-      "filename": "164_rare_secret_weakness_policy.png",
-      "original_rarity": "Rare Secret"
+      "number": "164",
+      "rarity": "rare secret"
     }
   ]
 }

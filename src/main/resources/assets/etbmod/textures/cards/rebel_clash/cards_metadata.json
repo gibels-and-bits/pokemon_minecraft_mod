@@ -1,1470 +1,1258 @@
 {
-  "set_id": "swsh2",
-  "folder_name": "rebel_clash",
-  "total_cards": 209,
   "cards": [
     {
-      "number": "1",
+      "id": "rebel_clash-001",
       "name": "Caterpie",
-      "rarity": "common",
-      "filename": "001_common_caterpie.png",
-      "original_rarity": "Common"
+      "number": "1",
+      "rarity": "common"
     },
     {
-      "number": "2",
+      "id": "rebel_clash-002",
       "name": "Metapod",
-      "rarity": "uncommon",
-      "filename": "002_uncommon_metapod.png",
-      "original_rarity": "Uncommon"
+      "number": "2",
+      "rarity": "uncommon"
     },
     {
-      "number": "3",
+      "id": "rebel_clash-003",
       "name": "Butterfree",
-      "rarity": "rare",
-      "filename": "003_rare_butterfree.png",
-      "original_rarity": "Rare"
+      "number": "3",
+      "rarity": "rare"
     },
     {
-      "number": "4",
+      "id": "rebel_clash-004",
       "name": "Scyther",
-      "rarity": "common",
-      "filename": "004_common_scyther.png",
-      "original_rarity": "Common"
+      "number": "4",
+      "rarity": "common"
     },
     {
-      "number": "5",
+      "id": "rebel_clash-005",
       "name": "Shuckle",
-      "rarity": "uncommon",
-      "filename": "005_uncommon_shuckle.png",
-      "original_rarity": "Uncommon"
+      "number": "5",
+      "rarity": "uncommon"
     },
     {
-      "number": "6",
+      "id": "rebel_clash-006",
       "name": "Heracross",
-      "rarity": "uncommon",
-      "filename": "006_uncommon_heracross.png",
-      "original_rarity": "Uncommon"
+      "number": "6",
+      "rarity": "uncommon"
     },
     {
-      "number": "7",
+      "id": "rebel_clash-007",
       "name": "Lotad",
-      "rarity": "common",
-      "filename": "007_common_lotad.png",
-      "original_rarity": "Common"
+      "number": "7",
+      "rarity": "common"
     },
     {
-      "number": "8",
+      "id": "rebel_clash-008",
       "name": "Lombre",
-      "rarity": "uncommon",
-      "filename": "008_uncommon_lombre.png",
-      "original_rarity": "Uncommon"
+      "number": "8",
+      "rarity": "uncommon"
     },
     {
-      "number": "9",
+      "id": "rebel_clash-009",
       "name": "Ludicolo",
-      "rarity": "rare",
-      "filename": "009_rare_ludicolo.png",
-      "original_rarity": "Rare"
+      "number": "9",
+      "rarity": "rare"
     },
     {
-      "number": "10",
+      "id": "rebel_clash-010",
       "name": "Surskit",
-      "rarity": "common",
-      "filename": "010_common_surskit.png",
-      "original_rarity": "Common"
+      "number": "10",
+      "rarity": "common"
     },
     {
-      "number": "11",
+      "id": "rebel_clash-011",
       "name": "Masquerain",
-      "rarity": "uncommon",
-      "filename": "011_uncommon_masquerain.png",
-      "original_rarity": "Uncommon"
+      "number": "11",
+      "rarity": "uncommon"
     },
     {
-      "number": "12",
+      "id": "rebel_clash-012",
       "name": "Snover",
-      "rarity": "common",
-      "filename": "012_common_snover.png",
-      "original_rarity": "Common"
+      "number": "12",
+      "rarity": "common"
     },
     {
-      "number": "13",
+      "id": "rebel_clash-013",
       "name": "Abomasnow",
-      "rarity": "rare",
-      "filename": "013_rare_abomasnow.png",
-      "original_rarity": "Rare"
+      "number": "13",
+      "rarity": "rare"
     },
     {
-      "number": "14",
+      "id": "rebel_clash-014",
       "name": "Phantump",
-      "rarity": "common",
-      "filename": "014_common_phantump.png",
-      "original_rarity": "Common"
+      "number": "14",
+      "rarity": "common"
     },
     {
-      "number": "15",
+      "id": "rebel_clash-015",
       "name": "Trevenant",
-      "rarity": "rare",
-      "filename": "015_rare_trevenant.png",
-      "original_rarity": "Rare"
+      "number": "15",
+      "rarity": "rare"
     },
     {
-      "number": "16",
+      "id": "rebel_clash-016",
       "name": "Grubbin",
-      "rarity": "common",
-      "filename": "016_common_grubbin.png",
-      "original_rarity": "Common"
+      "number": "16",
+      "rarity": "common"
     },
     {
+      "id": "rebel_clash-017",
+      "name": "Rillaboom V",
       "number": "17",
-      "name": "Rillaboom V",
-      "rarity": "rare_holo_v",
-      "filename": "017_rare_holo_v_rillaboom_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "rebel_clash-018",
+      "name": "Rillaboom VMAX",
       "number": "18",
-      "name": "Rillaboom VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "018_rare_holo_vmax_rillaboom_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
+      "id": "rebel_clash-019",
+      "name": "Eldegoss V",
       "number": "19",
-      "name": "Eldegoss V",
-      "rarity": "rare_holo_v",
-      "filename": "019_rare_holo_v_eldegoss_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "rebel_clash-020",
+      "name": "Applin",
       "number": "20",
-      "name": "Applin",
-      "rarity": "common",
-      "filename": "020_common_applin.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
+      "id": "rebel_clash-021",
+      "name": "Applin",
       "number": "21",
-      "name": "Applin",
-      "rarity": "common",
-      "filename": "021_common_applin.png",
-      "original_rarity": "Common"
+      "rarity": "common"
     },
     {
-      "number": "22",
+      "id": "rebel_clash-022",
       "name": "Flapple",
-      "rarity": "rare_holo",
-      "filename": "022_rare_holo_flapple.png",
-      "original_rarity": "Rare Holo"
+      "number": "22",
+      "rarity": "rare holo"
     },
     {
-      "number": "23",
+      "id": "rebel_clash-023",
       "name": "Appletun",
-      "rarity": "rare_holo",
-      "filename": "023_rare_holo_appletun.png",
-      "original_rarity": "Rare Holo"
+      "number": "23",
+      "rarity": "rare holo"
     },
     {
-      "number": "24",
+      "id": "rebel_clash-024",
       "name": "Vulpix",
-      "rarity": "common",
-      "filename": "024_common_vulpix.png",
-      "original_rarity": "Common"
+      "number": "24",
+      "rarity": "common"
     },
     {
-      "number": "25",
+      "id": "rebel_clash-025",
       "name": "Ninetales",
-      "rarity": "rare",
-      "filename": "025_rare_ninetales.png",
-      "original_rarity": "Rare"
+      "number": "25",
+      "rarity": "rare"
     },
     {
+      "id": "rebel_clash-026",
+      "name": "Ninetales V",
       "number": "26",
-      "name": "Ninetales V",
-      "rarity": "rare_holo_v",
-      "filename": "026_rare_holo_v_ninetales_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
-      "number": "27",
+      "id": "rebel_clash-027",
       "name": "Growlithe",
-      "rarity": "common",
-      "filename": "027_common_growlithe.png",
-      "original_rarity": "Common"
+      "number": "27",
+      "rarity": "common"
     },
     {
-      "number": "28",
+      "id": "rebel_clash-028",
       "name": "Arcanine",
-      "rarity": "rare",
-      "filename": "028_rare_arcanine.png",
-      "original_rarity": "Rare"
+      "number": "28",
+      "rarity": "rare"
     },
     {
-      "number": "29",
+      "id": "rebel_clash-029",
       "name": "Magmar",
-      "rarity": "common",
-      "filename": "029_common_magmar.png",
-      "original_rarity": "Common"
+      "number": "29",
+      "rarity": "common"
     },
     {
-      "number": "30",
+      "id": "rebel_clash-030",
       "name": "Magmortar",
-      "rarity": "rare",
-      "filename": "030_rare_magmortar.png",
-      "original_rarity": "Rare"
+      "number": "30",
+      "rarity": "rare"
     },
     {
-      "number": "31",
+      "id": "rebel_clash-031",
       "name": "Litwick",
-      "rarity": "common",
-      "filename": "031_common_litwick.png",
-      "original_rarity": "Common"
+      "number": "31",
+      "rarity": "common"
     },
     {
-      "number": "32",
+      "id": "rebel_clash-032",
       "name": "Lampent",
-      "rarity": "uncommon",
-      "filename": "032_uncommon_lampent.png",
-      "original_rarity": "Uncommon"
+      "number": "32",
+      "rarity": "uncommon"
     },
     {
-      "number": "33",
+      "id": "rebel_clash-033",
       "name": "Chandelure",
-      "rarity": "rare_holo",
-      "filename": "033_rare_holo_chandelure.png",
-      "original_rarity": "Rare Holo"
+      "number": "33",
+      "rarity": "rare holo"
     },
     {
-      "number": "34",
+      "id": "rebel_clash-034",
       "name": "Heatmor",
-      "rarity": "uncommon",
-      "filename": "034_uncommon_heatmor.png",
-      "original_rarity": "Uncommon"
+      "number": "34",
+      "rarity": "uncommon"
     },
     {
+      "id": "rebel_clash-035",
+      "name": "Cinderace V",
       "number": "35",
-      "name": "Cinderace V",
-      "rarity": "rare_holo_v",
-      "filename": "035_rare_holo_v_cinderace_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "rebel_clash-036",
+      "name": "Cinderace VMAX",
       "number": "36",
-      "name": "Cinderace VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "036_rare_holo_vmax_cinderace_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
-      "number": "37",
+      "id": "rebel_clash-037",
       "name": "Galarian Mr. Mime",
-      "rarity": "common",
-      "filename": "037_common_galarian_mr_mime.png",
-      "original_rarity": "Common"
+      "number": "37",
+      "rarity": "common"
     },
     {
-      "number": "38",
+      "id": "rebel_clash-038",
       "name": "Galarian Mr. Rime",
-      "rarity": "rare",
-      "filename": "038_rare_galarian_mr_rime.png",
-      "original_rarity": "Rare"
+      "number": "38",
+      "rarity": "rare"
     },
     {
-      "number": "39",
+      "id": "rebel_clash-039",
       "name": "Magikarp",
-      "rarity": "common",
-      "filename": "039_common_magikarp.png",
-      "original_rarity": "Common"
+      "number": "39",
+      "rarity": "common"
     },
     {
-      "number": "40",
+      "id": "rebel_clash-040",
       "name": "Gyarados",
-      "rarity": "rare_holo",
-      "filename": "040_rare_holo_gyarados.png",
-      "original_rarity": "Rare Holo"
+      "number": "40",
+      "rarity": "rare holo"
     },
     {
-      "number": "41",
+      "id": "rebel_clash-041",
       "name": "Wingull",
-      "rarity": "common",
-      "filename": "041_common_wingull.png",
-      "original_rarity": "Common"
+      "number": "41",
+      "rarity": "common"
     },
     {
-      "number": "42",
+      "id": "rebel_clash-042",
       "name": "Pelipper",
-      "rarity": "uncommon",
-      "filename": "042_uncommon_pelipper.png",
-      "original_rarity": "Uncommon"
+      "number": "42",
+      "rarity": "uncommon"
     },
     {
+      "id": "rebel_clash-043",
+      "name": "Milotic V",
       "number": "43",
-      "name": "Milotic V",
-      "rarity": "rare_holo_v",
-      "filename": "043_rare_holo_v_milotic_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
-      "number": "44",
+      "id": "rebel_clash-044",
       "name": "Tympole",
-      "rarity": "common",
-      "filename": "044_common_tympole.png",
-      "original_rarity": "Common"
+      "number": "44",
+      "rarity": "common"
     },
     {
-      "number": "45",
+      "id": "rebel_clash-045",
       "name": "Palpitoad",
-      "rarity": "uncommon",
-      "filename": "045_uncommon_palpitoad.png",
-      "original_rarity": "Uncommon"
+      "number": "45",
+      "rarity": "uncommon"
     },
     {
-      "number": "46",
+      "id": "rebel_clash-046",
       "name": "Seismitoad",
-      "rarity": "rare",
-      "filename": "046_rare_seismitoad.png",
-      "original_rarity": "Rare"
+      "number": "46",
+      "rarity": "rare"
     },
     {
-      "number": "47",
+      "id": "rebel_clash-047",
       "name": "Galarian Darumaka",
-      "rarity": "common",
-      "filename": "047_common_galarian_darumaka.png",
-      "original_rarity": "Common"
+      "number": "47",
+      "rarity": "common"
     },
     {
-      "number": "48",
+      "id": "rebel_clash-048",
       "name": "Galarian Darmanitan",
-      "rarity": "rare",
-      "filename": "048_rare_galarian_darmanitan.png",
-      "original_rarity": "Rare"
+      "number": "48",
+      "rarity": "rare"
     },
     {
+      "id": "rebel_clash-049",
+      "name": "Inteleon V",
       "number": "49",
-      "name": "Inteleon V",
-      "rarity": "rare_holo_v",
-      "filename": "049_rare_holo_v_inteleon_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "rebel_clash-050",
+      "name": "Inteleon VMAX",
       "number": "50",
-      "name": "Inteleon VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "050_rare_holo_vmax_inteleon_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
-      "number": "51",
+      "id": "rebel_clash-051",
       "name": "Cramorant",
-      "rarity": "rare",
-      "filename": "051_rare_cramorant.png",
-      "original_rarity": "Rare"
+      "number": "51",
+      "rarity": "rare"
     },
     {
-      "number": "52",
+      "id": "rebel_clash-052",
       "name": "Arrokuda",
-      "rarity": "common",
-      "filename": "052_common_arrokuda.png",
-      "original_rarity": "Common"
+      "number": "52",
+      "rarity": "common"
     },
     {
-      "number": "53",
+      "id": "rebel_clash-053",
       "name": "Barraskewda",
-      "rarity": "rare",
-      "filename": "053_rare_barraskewda.png",
-      "original_rarity": "Rare"
+      "number": "53",
+      "rarity": "rare"
     },
     {
-      "number": "54",
+      "id": "rebel_clash-054",
       "name": "Eiscue",
-      "rarity": "rare_holo",
-      "filename": "054_rare_holo_eiscue.png",
-      "original_rarity": "Rare Holo"
+      "number": "54",
+      "rarity": "rare holo"
     },
     {
-      "number": "55",
+      "id": "rebel_clash-055",
       "name": "Eiscue V",
-      "rarity": "rare_holo_v",
-      "filename": "055_rare_holo_v_eiscue_v.png",
-      "original_rarity": "Rare Holo V"
+      "number": "55",
+      "rarity": "rare holo v"
     },
     {
-      "number": "56",
+      "id": "rebel_clash-056",
       "name": "Voltorb",
-      "rarity": "common",
-      "filename": "056_common_voltorb.png",
-      "original_rarity": "Common"
+      "number": "56",
+      "rarity": "common"
     },
     {
-      "number": "57",
+      "id": "rebel_clash-057",
       "name": "Electrode",
-      "rarity": "uncommon",
-      "filename": "057_uncommon_electrode.png",
-      "original_rarity": "Uncommon"
+      "number": "57",
+      "rarity": "uncommon"
     },
     {
-      "number": "58",
+      "id": "rebel_clash-058",
       "name": "Electabuzz",
-      "rarity": "common",
-      "filename": "058_common_electabuzz.png",
-      "original_rarity": "Common"
+      "number": "58",
+      "rarity": "common"
     },
     {
-      "number": "59",
+      "id": "rebel_clash-059",
       "name": "Electivire",
-      "rarity": "rare",
-      "filename": "059_rare_electivire.png",
-      "original_rarity": "Rare"
+      "number": "59",
+      "rarity": "rare"
     },
     {
-      "number": "60",
+      "id": "rebel_clash-060",
       "name": "Shinx",
-      "rarity": "common",
-      "filename": "060_common_shinx.png",
-      "original_rarity": "Common"
+      "number": "60",
+      "rarity": "common"
     },
     {
-      "number": "61",
+      "id": "rebel_clash-061",
       "name": "Luxio",
-      "rarity": "uncommon",
-      "filename": "061_uncommon_luxio.png",
-      "original_rarity": "Uncommon"
+      "number": "61",
+      "rarity": "uncommon"
     },
     {
-      "number": "62",
+      "id": "rebel_clash-062",
       "name": "Luxray",
-      "rarity": "rare_holo",
-      "filename": "062_rare_holo_luxray.png",
-      "original_rarity": "Rare Holo"
+      "number": "62",
+      "rarity": "rare holo"
     },
     {
-      "number": "63",
+      "id": "rebel_clash-063",
       "name": "Helioptile",
-      "rarity": "common",
-      "filename": "063_common_helioptile.png",
-      "original_rarity": "Common"
+      "number": "63",
+      "rarity": "common"
     },
     {
-      "number": "64",
+      "id": "rebel_clash-064",
       "name": "Heliolisk",
-      "rarity": "uncommon",
-      "filename": "064_uncommon_heliolisk.png",
-      "original_rarity": "Uncommon"
+      "number": "64",
+      "rarity": "uncommon"
     },
     {
-      "number": "65",
+      "id": "rebel_clash-065",
       "name": "Charjabug",
-      "rarity": "uncommon",
-      "filename": "065_uncommon_charjabug.png",
-      "original_rarity": "Uncommon"
+      "number": "65",
+      "rarity": "uncommon"
     },
     {
-      "number": "66",
+      "id": "rebel_clash-066",
       "name": "Vikavolt",
-      "rarity": "rare_holo",
-      "filename": "066_rare_holo_vikavolt.png",
-      "original_rarity": "Rare Holo"
+      "number": "66",
+      "rarity": "rare holo"
     },
     {
+      "id": "rebel_clash-067",
+      "name": "Boltund V",
       "number": "67",
-      "name": "Boltund V",
-      "rarity": "rare_holo_v",
-      "filename": "067_rare_holo_v_boltund_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
-      "number": "68",
+      "id": "rebel_clash-068",
       "name": "Toxel",
-      "rarity": "common",
-      "filename": "068_common_toxel.png",
-      "original_rarity": "Common"
+      "number": "68",
+      "rarity": "common"
     },
     {
-      "number": "69",
+      "id": "rebel_clash-069",
       "name": "Toxtricity",
-      "rarity": "rare",
-      "filename": "069_rare_toxtricity.png",
-      "original_rarity": "Rare"
+      "number": "69",
+      "rarity": "rare"
     },
     {
+      "id": "rebel_clash-070",
+      "name": "Toxtricity V",
       "number": "70",
-      "name": "Toxtricity V",
-      "rarity": "rare_holo_v",
-      "filename": "070_rare_holo_v_toxtricity_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "rebel_clash-071",
+      "name": "Toxtricity VMAX",
       "number": "71",
-      "name": "Toxtricity VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "071_rare_holo_vmax_toxtricity_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
-      "number": "72",
+      "id": "rebel_clash-072",
       "name": "Pincurchin V",
-      "rarity": "rare_holo_v",
-      "filename": "072_rare_holo_v_pincurchin_v.png",
-      "original_rarity": "Rare Holo V"
+      "number": "72",
+      "rarity": "rare holo v"
     },
     {
-      "number": "73",
+      "id": "rebel_clash-073",
       "name": "Morpeko",
-      "rarity": "uncommon",
-      "filename": "073_uncommon_morpeko.png",
-      "original_rarity": "Uncommon"
+      "number": "73",
+      "rarity": "uncommon"
     },
     {
-      "number": "74",
+      "id": "rebel_clash-074",
       "name": "Clefairy",
-      "rarity": "common",
-      "filename": "074_common_clefairy.png",
-      "original_rarity": "Common"
+      "number": "74",
+      "rarity": "common"
     },
     {
-      "number": "75",
+      "id": "rebel_clash-075",
       "name": "Clefable",
-      "rarity": "rare_holo",
-      "filename": "075_rare_holo_clefable.png",
-      "original_rarity": "Rare Holo"
+      "number": "75",
+      "rarity": "rare holo"
     },
     {
-      "number": "76",
+      "id": "rebel_clash-076",
       "name": "Natu",
-      "rarity": "common",
-      "filename": "076_common_natu.png",
-      "original_rarity": "Common"
+      "number": "76",
+      "rarity": "common"
     },
     {
-      "number": "77",
+      "id": "rebel_clash-077",
       "name": "Xatu",
-      "rarity": "uncommon",
-      "filename": "077_uncommon_xatu.png",
-      "original_rarity": "Uncommon"
+      "number": "77",
+      "rarity": "uncommon"
     },
     {
-      "number": "78",
+      "id": "rebel_clash-078",
       "name": "Galarian Corsola",
-      "rarity": "common",
-      "filename": "078_common_galarian_corsola.png",
-      "original_rarity": "Common"
+      "number": "78",
+      "rarity": "common"
     },
     {
-      "number": "79",
+      "id": "rebel_clash-079",
       "name": "Galarian Cursola",
-      "rarity": "rare_holo",
-      "filename": "079_rare_holo_galarian_cursola.png",
-      "original_rarity": "Rare Holo"
+      "number": "79",
+      "rarity": "rare holo"
     },
     {
-      "number": "80",
+      "id": "rebel_clash-080",
       "name": "Sigilyph",
-      "rarity": "rare",
-      "filename": "080_rare_sigilyph.png",
-      "original_rarity": "Rare"
+      "number": "80",
+      "rarity": "rare"
     },
     {
-      "number": "81",
+      "id": "rebel_clash-081",
       "name": "Sandygast",
-      "rarity": "common",
-      "filename": "081_common_sandygast.png",
-      "original_rarity": "Common"
+      "number": "81",
+      "rarity": "common"
     },
     {
-      "number": "82",
+      "id": "rebel_clash-082",
       "name": "Palossand",
-      "rarity": "uncommon",
-      "filename": "082_uncommon_palossand.png",
-      "original_rarity": "Uncommon"
+      "number": "82",
+      "rarity": "uncommon"
     },
     {
-      "number": "83",
+      "id": "rebel_clash-083",
       "name": "Hatenna",
-      "rarity": "common",
-      "filename": "083_common_hatenna.png",
-      "original_rarity": "Common"
+      "number": "83",
+      "rarity": "common"
     },
     {
-      "number": "84",
+      "id": "rebel_clash-084",
       "name": "Hattrem",
-      "rarity": "uncommon",
-      "filename": "084_uncommon_hattrem.png",
-      "original_rarity": "Uncommon"
+      "number": "84",
+      "rarity": "uncommon"
     },
     {
-      "number": "85",
+      "id": "rebel_clash-085",
       "name": "Hatterene",
-      "rarity": "rare_holo",
-      "filename": "085_rare_holo_hatterene.png",
-      "original_rarity": "Rare Holo"
+      "number": "85",
+      "rarity": "rare holo"
     },
     {
-      "number": "86",
+      "id": "rebel_clash-086",
       "name": "Milcery",
-      "rarity": "common",
-      "filename": "086_common_milcery.png",
-      "original_rarity": "Common"
+      "number": "86",
+      "rarity": "common"
     },
     {
-      "number": "87",
+      "id": "rebel_clash-087",
       "name": "Alcremie",
-      "rarity": "rare",
-      "filename": "087_rare_alcremie.png",
-      "original_rarity": "Rare"
+      "number": "87",
+      "rarity": "rare"
     },
     {
-      "number": "88",
+      "id": "rebel_clash-088",
       "name": "Indeedee",
-      "rarity": "uncommon",
-      "filename": "088_uncommon_indeedee.png",
-      "original_rarity": "Uncommon"
+      "number": "88",
+      "rarity": "uncommon"
     },
     {
-      "number": "89",
+      "id": "rebel_clash-089",
       "name": "Dreepy",
-      "rarity": "common",
-      "filename": "089_common_dreepy.png",
-      "original_rarity": "Common"
+      "number": "89",
+      "rarity": "common"
     },
     {
-      "number": "90",
+      "id": "rebel_clash-090",
       "name": "Drakloak",
-      "rarity": "uncommon",
-      "filename": "090_uncommon_drakloak.png",
-      "original_rarity": "Uncommon"
+      "number": "90",
+      "rarity": "uncommon"
     },
     {
-      "number": "91",
+      "id": "rebel_clash-091",
       "name": "Dragapult",
-      "rarity": "rare_holo",
-      "filename": "091_rare_holo_dragapult.png",
-      "original_rarity": "Rare Holo"
+      "number": "91",
+      "rarity": "rare holo"
     },
     {
+      "id": "rebel_clash-092",
+      "name": "Dragapult V",
       "number": "92",
-      "name": "Dragapult V",
-      "rarity": "rare_holo_v",
-      "filename": "092_rare_holo_v_dragapult_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "rebel_clash-093",
+      "name": "Dragapult VMAX",
       "number": "93",
-      "name": "Dragapult VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "093_rare_holo_vmax_dragapult_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
-      "number": "94",
+      "id": "rebel_clash-094",
       "name": "Galarian Farfetch'd",
-      "rarity": "common",
-      "filename": "094_common_galarian_farfetch_d.png",
-      "original_rarity": "Common"
+      "number": "94",
+      "rarity": "common"
     },
     {
-      "number": "95",
+      "id": "rebel_clash-095",
       "name": "Galarian Sirfetch'd",
-      "rarity": "rare_holo",
-      "filename": "095_rare_holo_galarian_sirfetch_d.png",
-      "original_rarity": "Rare Holo"
+      "number": "95",
+      "rarity": "rare holo"
     },
     {
-      "number": "96",
+      "id": "rebel_clash-096",
       "name": "Nosepass",
-      "rarity": "common",
-      "filename": "096_common_nosepass.png",
-      "original_rarity": "Common"
+      "number": "96",
+      "rarity": "common"
     },
     {
-      "number": "97",
+      "id": "rebel_clash-097",
       "name": "Meditite",
-      "rarity": "common",
-      "filename": "097_common_meditite.png",
-      "original_rarity": "Common"
+      "number": "97",
+      "rarity": "common"
     },
     {
-      "number": "98",
+      "id": "rebel_clash-098",
       "name": "Medicham",
-      "rarity": "uncommon",
-      "filename": "098_uncommon_medicham.png",
-      "original_rarity": "Uncommon"
+      "number": "98",
+      "rarity": "uncommon"
     },
     {
-      "number": "99",
+      "id": "rebel_clash-099",
       "name": "Barboach",
-      "rarity": "common",
-      "filename": "099_common_barboach.png",
-      "original_rarity": "Common"
+      "number": "99",
+      "rarity": "common"
     },
     {
-      "number": "100",
+      "id": "rebel_clash-100",
       "name": "Whiscash",
-      "rarity": "rare",
-      "filename": "100_rare_whiscash.png",
-      "original_rarity": "Rare"
+      "number": "100",
+      "rarity": "rare"
     },
     {
-      "number": "101",
+      "id": "rebel_clash-101",
       "name": "Galarian Yamask",
-      "rarity": "common",
-      "filename": "101_common_galarian_yamask.png",
-      "original_rarity": "Common"
+      "number": "101",
+      "rarity": "common"
     },
     {
-      "number": "102",
+      "id": "rebel_clash-102",
       "name": "Galarian Runerigus",
-      "rarity": "rare",
-      "filename": "102_rare_galarian_runerigus.png",
-      "original_rarity": "Rare"
+      "number": "102",
+      "rarity": "rare"
     },
     {
-      "number": "103",
+      "id": "rebel_clash-103",
       "name": "Binacle",
-      "rarity": "common",
-      "filename": "103_common_binacle.png",
-      "original_rarity": "Common"
+      "number": "103",
+      "rarity": "common"
     },
     {
-      "number": "104",
+      "id": "rebel_clash-104",
       "name": "Barbaracle",
-      "rarity": "rare",
-      "filename": "104_rare_barbaracle.png",
-      "original_rarity": "Rare"
+      "number": "104",
+      "rarity": "rare"
     },
     {
-      "number": "105",
+      "id": "rebel_clash-105",
       "name": "Rolycoly",
-      "rarity": "common",
-      "filename": "105_common_rolycoly.png",
-      "original_rarity": "Common"
+      "number": "105",
+      "rarity": "common"
     },
     {
-      "number": "106",
+      "id": "rebel_clash-106",
       "name": "Carkol",
-      "rarity": "uncommon",
-      "filename": "106_uncommon_carkol.png",
-      "original_rarity": "Uncommon"
+      "number": "106",
+      "rarity": "uncommon"
     },
     {
-      "number": "107",
+      "id": "rebel_clash-107",
       "name": "Coalossal",
-      "rarity": "rare_holo",
-      "filename": "107_rare_holo_coalossal.png",
-      "original_rarity": "Rare Holo"
+      "number": "107",
+      "rarity": "rare holo"
     },
     {
+      "id": "rebel_clash-108",
+      "name": "Sandaconda V",
       "number": "108",
-      "name": "Sandaconda V",
-      "rarity": "rare_holo_v",
-      "filename": "108_rare_holo_v_sandaconda_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
-      "number": "109",
+      "id": "rebel_clash-109",
       "name": "Falinks",
-      "rarity": "uncommon",
-      "filename": "109_uncommon_falinks.png",
-      "original_rarity": "Uncommon"
+      "number": "109",
+      "rarity": "uncommon"
     },
     {
+      "id": "rebel_clash-110",
+      "name": "Falinks V",
       "number": "110",
-      "name": "Falinks V",
-      "rarity": "rare_holo_v",
-      "filename": "110_rare_holo_v_falinks_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
-      "number": "111",
+      "id": "rebel_clash-111",
       "name": "Stonjourner",
-      "rarity": "rare_holo",
-      "filename": "111_rare_holo_stonjourner.png",
-      "original_rarity": "Rare Holo"
+      "number": "111",
+      "rarity": "rare holo"
     },
     {
-      "number": "112",
+      "id": "rebel_clash-112",
       "name": "Koffing",
-      "rarity": "common",
-      "filename": "112_common_koffing.png",
-      "original_rarity": "Common"
+      "number": "112",
+      "rarity": "common"
     },
     {
-      "number": "113",
+      "id": "rebel_clash-113",
       "name": "Galarian Weezing",
-      "rarity": "rare_holo",
-      "filename": "113_rare_holo_galarian_weezing.png",
-      "original_rarity": "Rare Holo"
+      "number": "113",
+      "rarity": "rare holo"
     },
     {
-      "number": "114",
+      "id": "rebel_clash-114",
       "name": "Stunky",
-      "rarity": "common",
-      "filename": "114_common_stunky.png",
-      "original_rarity": "Common"
+      "number": "114",
+      "rarity": "common"
     },
     {
-      "number": "115",
+      "id": "rebel_clash-115",
       "name": "Skuntank",
-      "rarity": "uncommon",
-      "filename": "115_uncommon_skuntank.png",
-      "original_rarity": "Uncommon"
+      "number": "115",
+      "rarity": "uncommon"
     },
     {
-      "number": "116",
+      "id": "rebel_clash-116",
       "name": "Spiritomb",
-      "rarity": "rare",
-      "filename": "116_rare_spiritomb.png",
-      "original_rarity": "Rare"
+      "number": "116",
+      "rarity": "rare"
     },
     {
-      "number": "117",
+      "id": "rebel_clash-117",
       "name": "Trubbish",
-      "rarity": "common",
-      "filename": "117_common_trubbish.png",
-      "original_rarity": "Common"
+      "number": "117",
+      "rarity": "common"
     },
     {
-      "number": "118",
+      "id": "rebel_clash-118",
       "name": "Garbodor",
-      "rarity": "rare",
-      "filename": "118_rare_garbodor.png",
-      "original_rarity": "Rare"
+      "number": "118",
+      "rarity": "rare"
     },
     {
-      "number": "119",
+      "id": "rebel_clash-119",
       "name": "Vullaby",
-      "rarity": "common",
-      "filename": "119_common_vullaby.png",
-      "original_rarity": "Common"
+      "number": "119",
+      "rarity": "common"
     },
     {
-      "number": "120",
+      "id": "rebel_clash-120",
       "name": "Mandibuzz",
-      "rarity": "rare",
-      "filename": "120_rare_mandibuzz.png",
-      "original_rarity": "Rare"
+      "number": "120",
+      "rarity": "rare"
     },
     {
+      "id": "rebel_clash-121",
+      "name": "Malamar V",
       "number": "121",
-      "name": "Malamar V",
-      "rarity": "rare_holo_v",
-      "filename": "121_rare_holo_v_malamar_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "rebel_clash-122",
+      "name": "Malamar VMAX",
       "number": "122",
-      "name": "Malamar VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "122_rare_holo_vmax_malamar_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
-      "number": "123",
+      "id": "rebel_clash-123",
       "name": "Impidimp",
-      "rarity": "common",
-      "filename": "123_common_impidimp.png",
-      "original_rarity": "Common"
+      "number": "123",
+      "rarity": "common"
     },
     {
-      "number": "124",
+      "id": "rebel_clash-124",
       "name": "Morgrem",
-      "rarity": "uncommon",
-      "filename": "124_uncommon_morgrem.png",
-      "original_rarity": "Uncommon"
+      "number": "124",
+      "rarity": "uncommon"
     },
     {
-      "number": "125",
+      "id": "rebel_clash-125",
       "name": "Grimmsnarl",
-      "rarity": "rare_holo",
-      "filename": "125_rare_holo_grimmsnarl.png",
-      "original_rarity": "Rare Holo"
+      "number": "125",
+      "rarity": "rare holo"
     },
     {
-      "number": "126",
+      "id": "rebel_clash-126",
       "name": "Galarian Meowth",
-      "rarity": "common",
-      "filename": "126_common_galarian_meowth.png",
-      "original_rarity": "Common"
+      "number": "126",
+      "rarity": "common"
     },
     {
+      "id": "rebel_clash-127",
+      "name": "Galarian Perrserker",
       "number": "127",
-      "name": "Galarian Perrserker",
-      "rarity": "rare",
-      "filename": "127_rare_galarian_perrserker.png",
-      "original_rarity": "Rare"
+      "rarity": "rare"
     },
     {
-      "number": "128",
+      "id": "rebel_clash-128",
       "name": "Scizor",
-      "rarity": "rare",
-      "filename": "128_rare_scizor.png",
-      "original_rarity": "Rare"
+      "number": "128",
+      "rarity": "rare"
     },
     {
-      "number": "129",
+      "id": "rebel_clash-129",
       "name": "Bronzor",
-      "rarity": "common",
-      "filename": "129_common_bronzor.png",
-      "original_rarity": "Common"
+      "number": "129",
+      "rarity": "common"
     },
     {
-      "number": "130",
+      "id": "rebel_clash-130",
       "name": "Bronzong",
-      "rarity": "uncommon",
-      "filename": "130_uncommon_bronzong.png",
-      "original_rarity": "Uncommon"
+      "number": "130",
+      "rarity": "uncommon"
     },
     {
-      "number": "131",
+      "id": "rebel_clash-131",
       "name": "Probopass",
-      "rarity": "rare",
-      "filename": "131_rare_probopass.png",
-      "original_rarity": "Rare"
+      "number": "131",
+      "rarity": "rare"
     },
     {
-      "number": "132",
+      "id": "rebel_clash-132",
       "name": "Durant",
-      "rarity": "uncommon",
-      "filename": "132_uncommon_durant.png",
-      "original_rarity": "Uncommon"
+      "number": "132",
+      "rarity": "uncommon"
     },
     {
-      "number": "133",
+      "id": "rebel_clash-133",
       "name": "Honedge",
-      "rarity": "common",
-      "filename": "133_common_honedge.png",
-      "original_rarity": "Common"
+      "number": "133",
+      "rarity": "common"
     },
     {
-      "number": "134",
+      "id": "rebel_clash-134",
       "name": "Doublade",
-      "rarity": "uncommon",
-      "filename": "134_uncommon_doublade.png",
-      "original_rarity": "Uncommon"
+      "number": "134",
+      "rarity": "uncommon"
     },
     {
-      "number": "135",
+      "id": "rebel_clash-135",
       "name": "Aegislash",
-      "rarity": "rare",
-      "filename": "135_rare_aegislash.png",
-      "original_rarity": "Rare"
+      "number": "135",
+      "rarity": "rare"
     },
     {
+      "id": "rebel_clash-136",
+      "name": "Copperajah V",
       "number": "136",
-      "name": "Copperajah V",
-      "rarity": "rare_holo_v",
-      "filename": "136_rare_holo_v_copperajah_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "rebel_clash-137",
+      "name": "Copperajah VMAX",
       "number": "137",
-      "name": "Copperajah VMAX",
-      "rarity": "rare_holo_vmax",
-      "filename": "137_rare_holo_vmax_copperajah_vmax.png",
-      "original_rarity": "Rare Holo VMAX"
+      "rarity": "rare holo vmax"
     },
     {
-      "number": "138",
+      "id": "rebel_clash-138",
       "name": "Duraludon",
-      "rarity": "rare_holo",
-      "filename": "138_rare_holo_duraludon.png",
-      "original_rarity": "Rare Holo"
+      "number": "138",
+      "rarity": "rare holo"
     },
     {
-      "number": "139",
+      "id": "rebel_clash-139",
       "name": "Zacian",
-      "rarity": "rare",
-      "filename": "139_rare_zacian.png",
-      "original_rarity": "Rare"
+      "number": "139",
+      "rarity": "rare"
     },
     {
-      "number": "140",
+      "id": "rebel_clash-140",
       "name": "Zamazenta",
-      "rarity": "rare",
-      "filename": "140_rare_zamazenta.png",
-      "original_rarity": "Rare"
+      "number": "140",
+      "rarity": "rare"
     },
     {
-      "number": "141",
+      "id": "rebel_clash-141",
       "name": "Snorlax",
-      "rarity": "rare",
-      "filename": "141_rare_snorlax.png",
-      "original_rarity": "Rare"
+      "number": "141",
+      "rarity": "rare"
     },
     {
-      "number": "142",
+      "id": "rebel_clash-142",
       "name": "Chatot",
-      "rarity": "uncommon",
-      "filename": "142_uncommon_chatot.png",
-      "original_rarity": "Uncommon"
+      "number": "142",
+      "rarity": "uncommon"
     },
     {
-      "number": "143",
+      "id": "rebel_clash-143",
       "name": "Pidove",
-      "rarity": "common",
-      "filename": "143_common_pidove.png",
-      "original_rarity": "Common"
+      "number": "143",
+      "rarity": "common"
     },
     {
-      "number": "144",
+      "id": "rebel_clash-144",
       "name": "Tranquill",
-      "rarity": "uncommon",
-      "filename": "144_uncommon_tranquill.png",
-      "original_rarity": "Uncommon"
+      "number": "144",
+      "rarity": "uncommon"
     },
     {
-      "number": "145",
+      "id": "rebel_clash-145",
       "name": "Unfezant",
-      "rarity": "rare",
-      "filename": "145_rare_unfezant.png",
-      "original_rarity": "Rare"
+      "number": "145",
+      "rarity": "rare"
     },
     {
-      "number": "146",
+      "id": "rebel_clash-146",
       "name": "Bunnelby",
-      "rarity": "common",
-      "filename": "146_common_bunnelby.png",
-      "original_rarity": "Common"
+      "number": "146",
+      "rarity": "common"
     },
     {
-      "number": "147",
+      "id": "rebel_clash-147",
       "name": "Diggersby",
-      "rarity": "rare",
-      "filename": "147_rare_diggersby.png",
-      "original_rarity": "Rare"
+      "number": "147",
+      "rarity": "rare"
     },
     {
-      "number": "148",
+      "id": "rebel_clash-148",
       "name": "Hawlucha",
-      "rarity": "uncommon",
-      "filename": "148_uncommon_hawlucha.png",
-      "original_rarity": "Uncommon"
+      "number": "148",
+      "rarity": "uncommon"
     },
     {
-      "number": "149",
+      "id": "rebel_clash-149",
       "name": "Stufful",
-      "rarity": "common",
-      "filename": "149_common_stufful.png",
-      "original_rarity": "Common"
+      "number": "149",
+      "rarity": "common"
     },
     {
-      "number": "150",
+      "id": "rebel_clash-150",
       "name": "Bewear",
-      "rarity": "uncommon",
-      "filename": "150_uncommon_bewear.png",
-      "original_rarity": "Uncommon"
+      "number": "150",
+      "rarity": "uncommon"
     },
     {
-      "number": "151",
+      "id": "rebel_clash-151",
       "name": "Skwovet",
-      "rarity": "common",
-      "filename": "151_common_skwovet.png",
-      "original_rarity": "Common"
+      "number": "151",
+      "rarity": "common"
     },
     {
-      "number": "152",
+      "id": "rebel_clash-152",
       "name": "Greedent",
-      "rarity": "rare",
-      "filename": "152_rare_greedent.png",
-      "original_rarity": "Rare"
+      "number": "152",
+      "rarity": "rare"
     },
     {
+      "id": "rebel_clash-153",
+      "name": "Dubwool V",
       "number": "153",
-      "name": "Dubwool V",
-      "rarity": "rare_holo_v",
-      "filename": "153_rare_holo_v_dubwool_v.png",
-      "original_rarity": "Rare Holo V"
+      "rarity": "rare holo v"
     },
     {
+      "id": "rebel_clash-154",
+      "name": "Boss's Orders",
       "number": "154",
-      "name": "Boss's Orders",
-      "rarity": "rare_holo",
-      "filename": "154_rare_holo_boss_s_orders.png",
-      "original_rarity": "Rare Holo"
+      "rarity": "rare holo"
     },
     {
-      "number": "155",
+      "id": "rebel_clash-155",
       "name": "Burning Scarf",
-      "rarity": "uncommon",
-      "filename": "155_uncommon_burning_scarf.png",
-      "original_rarity": "Uncommon"
+      "number": "155",
+      "rarity": "uncommon"
     },
     {
-      "number": "156",
+      "id": "rebel_clash-156",
       "name": "Capacious Bucket",
-      "rarity": "uncommon",
-      "filename": "156_uncommon_capacious_bucket.png",
-      "original_rarity": "Uncommon"
+      "number": "156",
+      "rarity": "uncommon"
     },
     {
-      "number": "157",
+      "id": "rebel_clash-157",
       "name": "Cursed Shovel",
-      "rarity": "uncommon",
-      "filename": "157_uncommon_cursed_shovel.png",
-      "original_rarity": "Uncommon"
+      "number": "157",
+      "rarity": "uncommon"
     },
     {
-      "number": "158",
+      "id": "rebel_clash-158",
       "name": "Dan",
-      "rarity": "uncommon",
-      "filename": "158_uncommon_dan.png",
-      "original_rarity": "Uncommon"
+      "number": "158",
+      "rarity": "uncommon"
     },
     {
-      "number": "159",
+      "id": "rebel_clash-159",
       "name": "Full Heal",
-      "rarity": "uncommon",
-      "filename": "159_uncommon_full_heal.png",
-      "original_rarity": "Uncommon"
+      "number": "159",
+      "rarity": "uncommon"
     },
     {
-      "number": "160",
+      "id": "rebel_clash-160",
       "name": "Galar Mine",
-      "rarity": "uncommon",
-      "filename": "160_uncommon_galar_mine.png",
-      "original_rarity": "Uncommon"
+      "number": "160",
+      "rarity": "uncommon"
     },
     {
+      "id": "rebel_clash-161",
+      "name": "Milo",
       "number": "161",
-      "name": "Milo",
-      "rarity": "uncommon",
-      "filename": "161_uncommon_milo.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "162",
+      "id": "rebel_clash-162",
       "name": "Nugget",
-      "rarity": "uncommon",
-      "filename": "162_uncommon_nugget.png",
-      "original_rarity": "Uncommon"
+      "number": "162",
+      "rarity": "uncommon"
     },
     {
+      "id": "rebel_clash-163",
+      "name": "Oleana",
       "number": "163",
-      "name": "Oleana",
-      "rarity": "uncommon",
-      "filename": "163_uncommon_oleana.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "rebel_clash-164",
+      "name": "Poké Ball",
       "number": "164",
-      "name": "Pok\u00e9 Ball",
-      "rarity": "uncommon",
-      "filename": "164_uncommon_pok_ball.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "rebel_clash-165",
+      "name": "Scoop Up Net",
       "number": "165",
-      "name": "Scoop Up Net",
-      "rarity": "uncommon",
-      "filename": "165_uncommon_scoop_up_net.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "166",
+      "id": "rebel_clash-166",
       "name": "Skyla",
-      "rarity": "uncommon",
-      "filename": "166_uncommon_skyla.png",
-      "original_rarity": "Uncommon"
+      "number": "166",
+      "rarity": "uncommon"
     },
     {
+      "id": "rebel_clash-167",
+      "name": "Sonia",
       "number": "167",
-      "name": "Sonia",
-      "rarity": "uncommon",
-      "filename": "167_uncommon_sonia.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
+      "id": "rebel_clash-168",
+      "name": "Tool Scrapper",
       "number": "168",
-      "name": "Tool Scrapper",
-      "rarity": "uncommon",
-      "filename": "168_uncommon_tool_scrapper.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "169",
+      "id": "rebel_clash-169",
       "name": "Training Court",
-      "rarity": "uncommon",
-      "filename": "169_uncommon_training_court.png",
-      "original_rarity": "Uncommon"
+      "number": "169",
+      "rarity": "uncommon"
     },
     {
-      "number": "170",
+      "id": "rebel_clash-170",
       "name": "Turffield Stadium",
-      "rarity": "uncommon",
-      "filename": "170_uncommon_turffield_stadium.png",
-      "original_rarity": "Uncommon"
+      "number": "170",
+      "rarity": "uncommon"
     },
     {
-      "number": "171",
+      "id": "rebel_clash-171",
       "name": "Capture Energy",
-      "rarity": "uncommon",
-      "filename": "171_uncommon_capture_energy.png",
-      "original_rarity": "Uncommon"
+      "number": "171",
+      "rarity": "uncommon"
     },
     {
-      "number": "172",
+      "id": "rebel_clash-172",
       "name": "Horror Psychic Energy",
-      "rarity": "uncommon",
-      "filename": "172_uncommon_horror_psychic_energy.png",
-      "original_rarity": "Uncommon"
+      "number": "172",
+      "rarity": "uncommon"
     },
     {
-      "number": "173",
+      "id": "rebel_clash-173",
       "name": "Speed Lightning Energy",
-      "rarity": "uncommon",
-      "filename": "173_uncommon_speed_lightning_energy.png",
-      "original_rarity": "Uncommon"
+      "number": "173",
+      "rarity": "uncommon"
     },
     {
+      "id": "rebel_clash-174",
+      "name": "Twin Energy",
       "number": "174",
-      "name": "Twin Energy",
-      "rarity": "uncommon",
-      "filename": "174_uncommon_twin_energy.png",
-      "original_rarity": "Uncommon"
+      "rarity": "uncommon"
     },
     {
-      "number": "175",
+      "id": "rebel_clash-175",
       "name": "Rillaboom V",
-      "rarity": "rare_ultra",
-      "filename": "175_rare_ultra_rillaboom_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "175",
+      "rarity": "rare ultra"
     },
     {
-      "number": "176",
+      "id": "rebel_clash-176",
       "name": "Eldegoss V",
-      "rarity": "rare_ultra",
-      "filename": "176_rare_ultra_eldegoss_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "176",
+      "rarity": "rare ultra"
     },
     {
-      "number": "177",
+      "id": "rebel_clash-177",
       "name": "Ninetales V",
-      "rarity": "rare_ultra",
-      "filename": "177_rare_ultra_ninetales_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "177",
+      "rarity": "rare ultra"
     },
     {
-      "number": "178",
+      "id": "rebel_clash-178",
       "name": "Cinderace V",
-      "rarity": "rare_ultra",
-      "filename": "178_rare_ultra_cinderace_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "178",
+      "rarity": "rare ultra"
     },
     {
-      "number": "179",
+      "id": "rebel_clash-179",
       "name": "Milotic V",
-      "rarity": "rare_ultra",
-      "filename": "179_rare_ultra_milotic_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "179",
+      "rarity": "rare ultra"
     },
     {
-      "number": "180",
+      "id": "rebel_clash-180",
       "name": "Inteleon V",
-      "rarity": "rare_ultra",
-      "filename": "180_rare_ultra_inteleon_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "180",
+      "rarity": "rare ultra"
     },
     {
-      "number": "181",
+      "id": "rebel_clash-181",
       "name": "Boltund V",
-      "rarity": "rare_ultra",
-      "filename": "181_rare_ultra_boltund_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "181",
+      "rarity": "rare ultra"
     },
     {
-      "number": "182",
+      "id": "rebel_clash-182",
       "name": "Toxtricity V",
-      "rarity": "rare_ultra",
-      "filename": "182_rare_ultra_toxtricity_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "182",
+      "rarity": "rare ultra"
     },
     {
-      "number": "183",
+      "id": "rebel_clash-183",
       "name": "Dragapult V",
-      "rarity": "rare_ultra",
-      "filename": "183_rare_ultra_dragapult_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "183",
+      "rarity": "rare ultra"
     },
     {
-      "number": "184",
+      "id": "rebel_clash-184",
       "name": "Sandaconda V",
-      "rarity": "rare_ultra",
-      "filename": "184_rare_ultra_sandaconda_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "184",
+      "rarity": "rare ultra"
     },
     {
-      "number": "185",
+      "id": "rebel_clash-185",
       "name": "Falinks V",
-      "rarity": "rare_ultra",
-      "filename": "185_rare_ultra_falinks_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "185",
+      "rarity": "rare ultra"
     },
     {
-      "number": "186",
+      "id": "rebel_clash-186",
       "name": "Malamar V",
-      "rarity": "rare_ultra",
-      "filename": "186_rare_ultra_malamar_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "186",
+      "rarity": "rare ultra"
     },
     {
-      "number": "187",
+      "id": "rebel_clash-187",
       "name": "Copperajah V",
-      "rarity": "rare_ultra",
-      "filename": "187_rare_ultra_copperajah_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "187",
+      "rarity": "rare ultra"
     },
     {
-      "number": "188",
+      "id": "rebel_clash-188",
       "name": "Dubwool V",
-      "rarity": "rare_ultra",
-      "filename": "188_rare_ultra_dubwool_v.png",
-      "original_rarity": "Rare Ultra"
+      "number": "188",
+      "rarity": "rare ultra"
     },
     {
+      "id": "rebel_clash-189",
+      "name": "Boss's Orders",
       "number": "189",
-      "name": "Boss's Orders",
-      "rarity": "rare_ultra",
-      "filename": "189_rare_ultra_boss_s_orders.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
+      "id": "rebel_clash-190",
+      "name": "Milo",
       "number": "190",
-      "name": "Milo",
-      "rarity": "rare_ultra",
-      "filename": "190_rare_ultra_milo.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
+      "id": "rebel_clash-191",
+      "name": "Oleana",
       "number": "191",
-      "name": "Oleana",
-      "rarity": "rare_ultra",
-      "filename": "191_rare_ultra_oleana.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
+      "id": "rebel_clash-192",
+      "name": "Sonia",
       "number": "192",
-      "name": "Sonia",
-      "rarity": "rare_ultra",
-      "filename": "192_rare_ultra_sonia.png",
-      "original_rarity": "Rare Ultra"
+      "rarity": "rare ultra"
     },
     {
-      "number": "193",
+      "id": "rebel_clash-193",
       "name": "Rillaboom VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "193_rare_rainbow_rillaboom_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "193",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "194",
+      "id": "rebel_clash-194",
       "name": "Cinderace VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "194_rare_rainbow_cinderace_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "194",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "195",
+      "id": "rebel_clash-195",
       "name": "Inteleon VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "195_rare_rainbow_inteleon_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "195",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "196",
+      "id": "rebel_clash-196",
       "name": "Toxtricity VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "196_rare_rainbow_toxtricity_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "196",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "197",
+      "id": "rebel_clash-197",
       "name": "Dragapult VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "197_rare_rainbow_dragapult_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "197",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "198",
+      "id": "rebel_clash-198",
       "name": "Malamar VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "198_rare_rainbow_malamar_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "198",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "199",
+      "id": "rebel_clash-199",
       "name": "Copperajah VMAX",
-      "rarity": "rare_rainbow",
-      "filename": "199_rare_rainbow_copperajah_vmax.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "199",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "200",
+      "id": "rebel_clash-200",
       "name": "Boss's Orders",
-      "rarity": "rare_rainbow",
-      "filename": "200_rare_rainbow_boss_s_orders.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "200",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "201",
+      "id": "rebel_clash-201",
       "name": "Milo",
-      "rarity": "rare_rainbow",
-      "filename": "201_rare_rainbow_milo.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "201",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "202",
+      "id": "rebel_clash-202",
       "name": "Oleana",
-      "rarity": "rare_rainbow",
-      "filename": "202_rare_rainbow_oleana.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "202",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "203",
+      "id": "rebel_clash-203",
       "name": "Sonia",
-      "rarity": "rare_rainbow",
-      "filename": "203_rare_rainbow_sonia.png",
-      "original_rarity": "Rare Rainbow"
+      "number": "203",
+      "rarity": "rare rainbow"
     },
     {
-      "number": "204",
+      "id": "rebel_clash-204",
       "name": "Frosmoth",
-      "rarity": "rare_secret",
-      "filename": "204_rare_secret_frosmoth.png",
-      "original_rarity": "Rare Secret"
+      "number": "204",
+      "rarity": "rare secret"
     },
     {
-      "number": "205",
+      "id": "rebel_clash-205",
       "name": "Galarian Perrserker",
-      "rarity": "rare_secret",
-      "filename": "205_rare_secret_galarian_perrserker.png",
-      "original_rarity": "Rare Secret"
+      "number": "205",
+      "rarity": "rare secret"
     },
     {
-      "number": "206",
+      "id": "rebel_clash-206",
       "name": "Big Charm",
-      "rarity": "rare_secret",
-      "filename": "206_rare_secret_big_charm.png",
-      "original_rarity": "Rare Secret"
+      "number": "206",
+      "rarity": "rare secret"
     },
     {
-      "number": "207",
+      "id": "rebel_clash-207",
       "name": "Scoop Up Net",
-      "rarity": "rare_secret",
-      "filename": "207_rare_secret_scoop_up_net.png",
-      "original_rarity": "Rare Secret"
+      "number": "207",
+      "rarity": "rare secret"
     },
     {
-      "number": "208",
+      "id": "rebel_clash-208",
       "name": "Tool Scrapper",
-      "rarity": "rare_secret",
-      "filename": "208_rare_secret_tool_scrapper.png",
-      "original_rarity": "Rare Secret"
+      "number": "208",
+      "rarity": "rare secret"
     },
     {
-      "number": "209",
+      "id": "rebel_clash-209",
       "name": "Twin Energy",
-      "rarity": "rare_secret",
-      "filename": "209_rare_secret_twin_energy.png",
-      "original_rarity": "Rare Secret"
+      "number": "209",
+      "rarity": "rare secret"
     }
   ]
 }

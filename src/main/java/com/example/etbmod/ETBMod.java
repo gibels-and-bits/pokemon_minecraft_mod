@@ -1,5 +1,6 @@
 package com.example.etbmod;
 
+import com.example.etbmod.client.renderer.GradedSlabRenderer;
 import com.example.etbmod.client.screen.GamerTableScreen;
 import com.example.etbmod.registry.ModBlocks;
 import com.example.etbmod.registry.ModContainers;
@@ -7,6 +8,8 @@ import com.example.etbmod.registry.ModItems;
 import com.example.etbmod.registry.ModTileEntities;
 import net.minecraft.block.Blocks;
 import net.minecraft.client.gui.ScreenManager;
+import net.minecraft.client.renderer.RenderType;
+import net.minecraft.client.renderer.RenderTypeLookup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.common.MinecraftForge;
@@ -37,6 +40,8 @@ public class ETBMod {
         
         ModBlocks.BLOCKS.register(modEventBus);
         ModItems.ITEMS.register(modEventBus);
+        ModItems.initETBItems(); // Initialize ETB items after blocks are registered
+        ModItems.RECIPE_SERIALIZERS.register(modEventBus);
         ModTileEntities.TILE_ENTITIES.register(modEventBus);
         ModContainers.CONTAINERS.register(modEventBus);
         
@@ -54,6 +59,11 @@ public class ETBMod {
     private void doClientStuff(final FMLClientSetupEvent event) {
         event.enqueueWork(() -> {
             ScreenManager.register(ModContainers.GAMER_TABLE.get(), GamerTableScreen::new);
+            net.minecraftforge.fml.client.registry.ClientRegistry.bindTileEntityRenderer(
+                    ModTileEntities.GRADED_SLAB.get(), GradedSlabRenderer::new);
+            
+            // Set the graded slab block to use translucent rendering
+            RenderTypeLookup.setRenderLayer(ModBlocks.GRADED_SLAB.get(), RenderType.translucent());
         });
         LOGGER.info("ETB Mod Client Setup Complete!");
     }
