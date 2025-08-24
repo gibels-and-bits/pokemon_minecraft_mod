@@ -1,7 +1,9 @@
 package com.example.etbmod;
 
 import com.example.etbmod.client.renderer.GradedSlabRenderer;
+import com.example.etbmod.client.screen.BinderScreen;
 import com.example.etbmod.client.screen.GamerTableScreen;
+import com.example.etbmod.gui.VendingMachineScreen;
 import com.example.etbmod.registry.ModBlocks;
 import com.example.etbmod.registry.ModContainers;
 import com.example.etbmod.registry.ModItems;
@@ -59,6 +61,8 @@ public class ETBMod {
     private void doClientStuff(final FMLClientSetupEvent event) {
         event.enqueueWork(() -> {
             ScreenManager.register(ModContainers.GAMER_TABLE.get(), GamerTableScreen::new);
+            ScreenManager.register(ModContainers.BINDER_CONTAINER.get(), BinderScreen::new);
+            ScreenManager.register(ModContainers.VENDING_MACHINE.get(), VendingMachineScreen::new);
             net.minecraftforge.fml.client.registry.ClientRegistry.bindTileEntityRenderer(
                     ModTileEntities.GRADED_SLAB.get(), GradedSlabRenderer::new);
             

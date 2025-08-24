@@ -30,6 +30,13 @@
   "tooltip.etbmod.card_count": "Contains %s cards",
   "tooltip.etbmod.set_name": "Set: %s",
   "block.etbmod.gamer_table": "Gamer Table",
+  "block.etbmod.vending_machine": "Pokemon Vending Machine",
+  "container.etbmod.vending_machine": "Vending Machine",
+  "gui.etbmod.boosters": "Boosters",
+  "gui.etbmod.etbs": "ETBs",
   "container.etbmod.gamer_table": "Gamer Table",
-  "item.etbmod.pokemon_card": "Pokemon Card"
+  "item.etbmod.pokemon_card": "Pokemon Card",
+  "item.etbmod.binder": "Card Binder",
+  "block.etbmod.binder": "Card Binder",
+  "container.etbmod.binder": "Card Binder"
 }

@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "etbmod:block/vending_machine_top",
+    "front": "etbmod:block/vending_machine_front",
+    "side": "etbmod:block/vending_machine_side"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 2],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#front"},
+        "east": {"uv": [0, 0, 14, 16], "texture": "#side"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#side"},
+        "west": {"uv": [2, 0, 16, 16], "texture": "#side"},
+        "up": {"uv": [0, 2, 16, 16], "texture": "#top"},
+        "down": {"uv": [0, 0, 16, 14], "texture": "#top"}
+      }
+    }
+  ]
+}

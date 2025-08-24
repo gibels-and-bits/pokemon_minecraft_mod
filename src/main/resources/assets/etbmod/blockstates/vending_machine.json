@@ -1,0 +1,91 @@
+{
+  "variants": {
+    "facing=north,master=true,part=bottom_left": {
+      "model": "etbmod:block/vending_machine_large"
+    },
+    "facing=south,master=true,part=bottom_left": {
+      "model": "etbmod:block/vending_machine_large",
+      "y": 180
+    },
+    "facing=west,master=true,part=bottom_left": {
+      "model": "etbmod:block/vending_machine_large",
+      "y": 270
+    },
+    "facing=east,master=true,part=bottom_left": {
+      "model": "etbmod:block/vending_machine_large",
+      "y": 90
+    },
+    "facing=north,master=false,part=bottom_left": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=south,master=false,part=bottom_left": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=west,master=false,part=bottom_left": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=east,master=false,part=bottom_left": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=north,master=false,part=bottom_right": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=south,master=false,part=bottom_right": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=west,master=false,part=bottom_right": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=east,master=false,part=bottom_right": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=north,master=false,part=middle_left": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=south,master=false,part=middle_left": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=west,master=false,part=middle_left": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=east,master=false,part=middle_left": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=north,master=false,part=middle_right": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=south,master=false,part=middle_right": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=west,master=false,part=middle_right": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=east,master=false,part=middle_right": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=north,master=false,part=top_left": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=south,master=false,part=top_left": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=west,master=false,part=top_left": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=east,master=false,part=top_left": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=north,master=false,part=top_right": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=south,master=false,part=top_right": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=west,master=false,part=top_right": {
+      "model": "etbmod:block/empty"
+    },
+    "facing=east,master=false,part=top_right": {
+      "model": "etbmod:block/empty"
+    }
+  }
+}

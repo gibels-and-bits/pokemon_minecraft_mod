@@ -3,6 +3,7 @@ package com.example.etbmod.registry;
 import com.example.etbmod.ETBMod;
 import com.example.etbmod.items.ScissorsItem;
 import com.example.etbmod.items.BoosterPackItem;
+import com.example.etbmod.items.BinderItem;
 import com.example.etbmod.items.CardItem;
 import com.example.etbmod.items.CardSlabItem;
 import com.example.etbmod.items.GradedSlabItem;
@@ -43,12 +44,20 @@ public class ModItems {
     public static final RegistryObject<Item> GAMER_TABLE_ITEM = ITEMS.register("gamer_table",
             () -> new BlockItem(ModBlocks.GAMER_TABLE.get(), new Item.Properties().tab(ETBMod.ITEM_GROUP)));
     
+    // Vending machine item
+    public static final RegistryObject<Item> VENDING_MACHINE_ITEM = ITEMS.register("vending_machine",
+            () -> new BlockItem(ModBlocks.VENDING_MACHINE.get(), new Item.Properties().tab(ETBMod.ITEM_GROUP)));
+    
     // Card slab item (empty slab for grading)
     public static final RegistryObject<Item> CARD_SLAB = ITEMS.register("card_slab",
             () -> new CardSlabItem());
     
     // Graded slab block item (handled by block registration)
     // The GradedSlabItem is created automatically when the block is registered
+    
+    // Binder item for storing cards
+    public static final RegistryObject<Item> BINDER = ITEMS.register("binder",
+            () -> new BinderItem());
     
     // Recipe serializer for card grading
     public static final RegistryObject<SpecialRecipeSerializer<CardGradingRecipe>> CARD_GRADING_RECIPE = 

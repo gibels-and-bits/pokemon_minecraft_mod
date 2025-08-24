@@ -9,6 +9,7 @@ import net.minecraftforge.fml.network.PacketDistributor;
 import net.minecraftforge.fml.network.simple.SimpleChannel;
 
 public class ModNetworking {
+    public static SimpleChannel CHANNEL;
     private static SimpleChannel INSTANCE;
     private static int packetId = 0;
     
@@ -25,6 +26,7 @@ public class ModNetworking {
                 .simpleChannel();
         
         INSTANCE = net;
+        CHANNEL = net;
         
         net.messageBuilder(OpenPackPacket.class, id(), NetworkDirection.PLAY_TO_SERVER)
                 .decoder(OpenPackPacket::new)
@@ -60,6 +62,18 @@ public class ModNetworking {
                 .decoder(AddCardToInventoryPacket::new)
                 .encoder(AddCardToInventoryPacket::encode)
                 .consumer(AddCardToInventoryPacket::handle)
+                .add();
+        
+        net.messageBuilder(BinderPageChangePacket.class, id(), NetworkDirection.PLAY_TO_SERVER)
+                .decoder(BinderPageChangePacket::decode)
+                .encoder(BinderPageChangePacket::encode)
+                .consumer(BinderPageChangePacket::handle)
+                .add();
+        
+        net.messageBuilder(VendingMachinePurchasePacket.class, id(), NetworkDirection.PLAY_TO_SERVER)
+                .decoder(VendingMachinePurchasePacket::decode)
+                .encoder(VendingMachinePurchasePacket::encode)
+                .consumer(VendingMachinePurchasePacket::handle)
                 .add();
     }
     

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "etbmod:block/binder", "y": 0 },
+    "facing=south": { "model": "etbmod:block/binder", "y": 180 },
+    "facing=west": { "model": "etbmod:block/binder", "y": 270 },
+    "facing=east": { "model": "etbmod:block/binder", "y": 90 }
+  }
+}

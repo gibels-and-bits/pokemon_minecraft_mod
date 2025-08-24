@@ -1,0 +1,6 @@
+{
+  "texture": {
+    "description": "Vending Machine GUI texture - 176x166 pixels",
+    "layout": "standard minecraft container GUI"
+  }
+}

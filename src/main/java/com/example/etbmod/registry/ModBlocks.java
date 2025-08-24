@@ -58,6 +58,14 @@ public class ModBlocks {
     public static final RegistryObject<Item> GRADED_SLAB_ITEM = ModItems.ITEMS.register("graded_slab",
             () -> new GradedSlabItem(GRADED_SLAB.get()));
     
+    // Binder block for storing and displaying cards
+    public static final RegistryObject<Block> BINDER_BLOCK = BLOCKS.register("binder",
+            BinderBlock::new);
+    
+    // Vending machine block for purchasing packs and ETBs
+    public static final RegistryObject<Block> VENDING_MACHINE = BLOCKS.register("vending_machine",
+            VendingMachineBlock::new);
+    
     /**
      * Register an ETB block using the factory pattern
      */
